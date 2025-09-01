@@ -1,0 +1,304 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (4)
+#res：■　后 记>
+pause
+cls
+call<$d334ba75, 0> ('plv36')
+call<$35395c9f, 0> (4)
+call<$a4eb1e4c, 0> ('tes_umi', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('saku1_04f02t')
+call<$5f271e74, 0>
+#res：とも：「大家好，我是片冈智！」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04d04t')
+call<$5f271e74, 0>
+#res：とも：「这次，大家能观看支持narcissuＺＥＲＯ，　非常感谢！」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04b11t')
+call<$5f271e74, 0>
+#res：とも：「原本是之前ＰＳＰ版的时候写的故事，所以有时我也叫它narcissu４……」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04a04t')
+call<$5f271e74, 0>
+#res：とも：「重要的是，我认为它起到了对narcissu总结的作用」>
+pause
+cls
+call<$35395c9f, 0> (0)
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('narep_08', -100101)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+call<$a4eb1e4c, 0> ('tes_umi', -100101)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (4)
+call<$df76bd93, 0> ('saku1_04b08t')
+call<$5f271e74, 0>
+#res：とも：「顺便一提，作为narcissu的舞台的７楼……也就是临终关怀院，在日本是１９７０年代开始的」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04cz')
+call<$5f271e74, 0>
+#res：とも：「这就像现在一样，在这项制度确立之前，经过了许多人的付出和努力」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04d11t')
+call<$5f271e74, 0>
+#res：とも：「说起来，narcissu的舞台有原型吗？　经常会被问起这个问题……」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04a14t')
+call<$5f271e74, 0>
+#res：とも：「这是以大阪的淀川基督教医院为原型的。　已经服务了很长时间了」>
+pause
+cls
+call<$df76bd93, 0> ('saku1_04f02t')
+call<$5f271e74, 0>
+#res：とも：「关于这个故事也是，大约一半是非虚构的，事实上，登场人物也是有原型的……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ato_16', -100101)
+call<$5f271e74, 0>
+#res：とも：「还有，在narcissu小说版里，会有莳绘的女儿，　追赶奔向淡路岛的濑津美他们的场景」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ato_17', -100101)
+call<$5f271e74, 0>
+#res：とも：「以后，濑津美的母亲，也和莳绘家的女儿关系很好」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ato_15', -100101)
+call<$5f271e74, 0>
+#res：とも：「而且，在濑津美去世之后，　会有莳绘先生去拜访她母亲的一个场景……」>
+pause
+cls
+#res：とも：「就把这个场景放在这里吧」>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('black', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (8)
+call<$a4eb1e4c, 0> ('243', 1200)
+call<$5f271e74, 0>
+#res：―那是，那孩子去世之后第二年的事。>
+pause
+cls
+#res：突然，家门前有人打招呼。>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_009')
+#res：４主人公：「是佐仓……濑津美小姐的家人吗？」>
+pause
+cls
+call<$812afdf0, 0> ('momnp_068')
+#res：濑津美母亲：「嗯，是的……」>
+pause
+cls
+#res：回头一看，是一个年长的男性。并不是什么眼熟的人。>
+pause
+cls
+#res：……到底，有什么事呢？>
+pause
+cls
+#res：首先，已经几乎没有人来问那孩子的事了况且过了这么长时间了，心里也很难有头绪。>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_010')
+#res：４主人公：「不好意思……我姓莳绘……」>
+pause
+cls
+call<$812afdf0, 0> ('momnp_069')
+#res：濑津美母亲：「……莳绘先生？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_011')
+#res：４主人公：「嗯，担任医院的医疗部长」>
+pause
+cls
+#res：听到这里，就和之前的事联系上了。>
+pause
+cls
+#res：因为莳绘这个独特的姓氏，只能联想到她。她的父亲，听说也是那个医院的工作人员。>
+pause
+cls
+#res：……大概这个人，是她的父亲，是为了她女儿来的吧。>
+pause
+cls
+#res：从那之后她几乎每天都来家里，如果是这个年纪的女儿的父亲，会担心也不难理解。>
+pause
+cls
+#res：正那么想着……>
+pause
+cls
+#res：非常意外地，这个人说的话却有点出乎意料。>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_012')
+#res：４主人公：「实际上，我和您家的女儿有过约定……」>
+pause
+cls
+call<$812afdf0, 0> ('momnp_070')
+#res：濑津美母亲：「……女儿……是说我们家那孩子，濑津美吗？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_013')
+#res：４主人公：「嗯，稍微打扰一下可以吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……和我们家那孩子的约定？>
+pause
+cls
+#res：听说莳绘小姐自己，和濑津美应该是没有直接交流的……>
+pause
+cls
+#res：濑津美和这个做父亲的人，到底有着怎样的联系呢？>
+pause
+cls
+#res：说起来，医疗部长在医院应该也是很重要的职位吧。>
+pause
+cls
+#res：虽然不太明白，我还是请他到那个孩子的房间里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ato_18', -100101)
+call<$5f271e74, 0>
+#res：女儿的房间。自从那孩子去世，转眼已过去一年了。>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_014')
+#res：４主人公：「这里一定还是女儿去世时候的样子吧」>
+pause
+cls
+call<$812afdf0, 0> ('momnp_071')
+#res：濑津美母亲：「……是的。总觉得去收拾的话会很凄凉」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_015')
+#res：４主人公：「嗯，我明白您的心情」>
+pause
+cls
+#res：然后，他指着书架上的几本书说……>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_016')
+#res：４主人公：「那么……请把这些交给我保管」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说着，把地图和图鉴装进包里。>
+pause
+cls
+call<$812afdf0, 0> ('momnp_072')
+#res：濑津美母亲：「诶、等等……请不要随意拿走这些」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_017')
+#res：４主人公：「不，这就是我们的约定」>
+pause
+cls
+call<$812afdf0, 0> ('momnp_073')
+#res：濑津美母亲：「……约定？　就是这个吗？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_018')
+#res：４主人公：「是的，我们约定了总有一天我会来取」>
+pause
+cls
+#res：……对于我，不知道发生了什么。>
+pause
+cls
+#res：这个人和女儿之间的事、他们谈了什么……也不知道两个人最初的交集。>
+pause
+cls
+#res：当然，和那孩子约定了什么的话，其中一定有某种意义……>
+pause
+cls
+#res：但是，尽管如此，突然要把那孩子一直很珍惜的东西拿走，还是难以接受。>
+pause
+cls
+#res：因为那对现在的我来说，是和女儿的存在联系在一起的重要的物品……>
+pause
+cls
+call<$a4eb1e4c, 0> ('ato_18', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('momnp_074')
+#res：濑津美母亲：「……莳绘先生，可以问您一个问题吗？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_078')
+#res：４主人公：「好，请问？」>
+pause
+cls
+call<$812afdf0, 0> ('momnp_075')
+#res：濑津美母亲：「这些书和花盆，是那孩子很珍惜的东西……这你知道吗？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_019')
+#res：４主人公：「嗯，当然很清楚」>
+pause
+cls
+#res：简短却又坚定的语气。>
+pause
+cls
+#res：不知道为什么要做这种事，也不知道把它们拿走之后要干什么。>
+pause
+cls
+#res：虽然不知道……>
+pause
+cls
+#res：但如果是那孩子的约定，同意了的话……我也没什么可以说了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：接着，莳绘先生把那孩子的书本和花盆全都装进了包里。>
+pause
+cls
+#res：开门出去，离别之际他又回过头来……>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_020')
+#res：４主人公：「佐仓女士……能够记在心里，就已经很好了」>
+pause
+cls
+#res：说完这句话，就离去了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02', 1200)
+call<$5f271e74, 0>
+#res：抬头望向天空，春天的气息。>
+pause
+cls
+#res：已不再是冬日白色的淡淡的天空，开始逐渐染上春天的色彩。>
+pause
+cls
+#res：那孩子已经去世一年了。而那个孩子，到现在也几乎每天都会过来。>
+pause
+cls
+#res：……说不定，也差不多是时候了。>
+pause
+cls
+#res：面对突然的来访者，以及目睹着女儿空荡荡的房间……>
+pause
+cls
+#res：忽然，我这么觉得……>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('ato_19', 1500)
+call<$5f271e74, 0>
+exit (0)

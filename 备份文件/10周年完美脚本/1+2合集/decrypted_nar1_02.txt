@@ -1,0 +1,1458 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('c0432', 1600)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('e01')
+#res：几天过后，进入深冬时节的时候>
+pause
+cls
+#res：学生们正在忙于准备即将来临的考试月，而我们今天也一如既往地看着电视节目。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa')
+call<$5f271e74, 0>
+#res：「真无聊啊…」>
+pause
+cls
+call<$812afdf0, 0> ('new_076')
+#res：「…是啊」>
+pause
+cls
+#res：偶尔也会这样下意识地交谈几句。>
+pause
+cls
+#res：只是在互相地消磨着毫无意义的时间。>
+pause
+cls
+#res：「对了…说起来你是什么时候？」>
+pause
+cls
+call<$812afdf0, 0> ('new_077')
+#res：「…是今天」>
+pause
+cls
+#res：「是吗，原来是今天啊…」>
+pause
+cls
+#res：我们所谈论的「今天」，是指她曾经提到过的暂时出院的事情。>
+pause
+cls
+call<$812afdf0, 0> ('new_078')
+#res：「…或许，我们不会再见面了」>
+pause
+cls
+#res：「嗯？  啊，也许吧…」>
+pause
+cls
+#res：即使她能够再次回到７楼这里，恐怕最多也只有１次机会了。>
+pause
+cls
+#res：而到了那时，我也一定会往返于这里和家中吧。>
+pause
+cls
+#res：这样一来，很难想象我们会再有见面的机会了。>
+pause
+cls
+call<$812afdf0, 0> ('new_079')
+#res：「…你决定好了吗？」>
+pause
+cls
+#res：「是指选择在哪一边死吗？」>
+pause
+cls
+call<$812afdf0, 0> ('new_080')
+#res：「嗯」>
+pause
+cls
+#res：「不，还没决定呢…」>
+pause
+cls
+call<$812afdf0, 0> ('new_081')
+#res：「…是吗…」>
+pause
+cls
+#res：她有些孤寂地点头说道。恐怕只有经历过２次暂时出院的人，才能够理解她的心情吧。>
+pause
+cls
+#res：我对此依然无法有任何现实感，医生也从没有向我提起过有关第１次暂时出院的事。>
+pause
+cls
+#res：我忽然想到…>
+pause
+cls
+#res：她到最后，又是否已经决定好了自己的归宿呢…>
+pause
+cls
+syscall<$f62e3ca7> ('hayaasi')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：嗒嗒嗒，>
+pause
+cls
+call<$812afdf0, 0> ('mom_a012')
+#res：「濑津美，行李已经收拾好了哦」>
+pause
+cls
+#res：此时闻声走过来的，是一位不认识的阿姨。>
+pause
+cls
+#res：大概她就是濑津美的母亲吧。她也对坐在旁边的我轻轻地点了点头以示问候。>
+pause
+cls
+call<$812afdf0, 0> ('mom_a022')
+#res：「那、我们走吧，准备好了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('new_082')
+#res：「…嗯。」>
+pause
+cls
+call<$812afdf0, 0> ('mom_a032')
+#res：「那么，我们就告辞了。」>
+pause
+cls
+#res：她的母亲再次向我点头表示告辞，转过身去准备离开这里。>
+pause
+cls
+#res：但是，当她向女儿伸出手时…>
+pause
+cls
+call<$812afdf0, 0> ('new_083')
+#res：「…………」>
+pause
+cls
+#res：…她却依然纹丝不动。>
+pause
+cls
+#res：尽管母亲拉住了她的手，但不知为何她却完全没有从折叠椅上站起来的意思。>
+pause
+cls
+call<$812afdf0, 0> ('mom_a042')
+#res：「怎么了，濑津美？」>
+pause
+cls
+call<$812afdf0, 0> ('new_084b')
+#res：「我有些…难受…」>
+pause
+cls
+call<$812afdf0, 0> ('mom_a052')
+#res：「哎？是哪里难受？　是胸口？还是肚子？」>
+pause
+cls
+call<$812afdf0, 0> ('new_085b')
+#res：「…胸口…」>
+pause
+cls
+call<$812afdf0, 0> ('mom_a062')
+#res：「坚、坚持一下，我这就叫医生来」>
+pause
+cls
+syscall<$f62e3ca7> ('hayaasi')
+#res：嗒嗒嗒，>
+pause
+cls
+#res：这位母亲穿着来客用的拖鞋带着慌张脚步声，向护士站跑去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa')
+call<$5f271e74, 0>
+#res：在这里，只剩下我，和坐在折叠椅上低着头的她。>
+pause
+cls
+#res：对于她的病情，我完全不了解。>
+pause
+cls
+#res：我所知道的只有，她的名字叫濑津美，血型是Ｏ。这些都是记载在白色手环上的内容。>
+pause
+cls
+#res：但是，我们都是７楼的居民。而且，她的病情至少要比我更严重。>
+pause
+cls
+#res：「呐，还是躺下等着医生过来吧？」>
+pause
+cls
+#res：说着，我指了指放在房间一角的长椅。这是以前在这个房间角落里就有的东西。>
+pause
+cls
+#res：「来吧，我扶着你」>
+pause
+cls
+call<$812afdf0, 0> ('new_083')
+#res：「…………」>
+pause
+cls
+call<$812afdf0, 0> ('new_087')
+#res：「不必了…已经没事了」>
+pause
+cls
+#res：她只说了这些，然后自己猛地站了起来。>
+pause
+cls
+#res：「喂，你别…」>
+pause
+cls
+#res：别硬撑啊。>
+pause
+cls
+#res：还没等我把话说完，她就已经朝走廊的方向离去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('sora_yoru01', 1600)
+call<$5f271e74, 0>
+#res：夜晚。熄灯时间过后。>
+pause
+cls
+#res：我又像往常一样，看倦了漫画书，却又迟迟无法入睡，于是就在大楼里闲逛着。>
+pause
+cls
+#res：不知不觉间，我走进了没有灯光，一片漆黑的谈话室。>
+pause
+cls
+#res：在那里，我找到了她。>
+pause
+cls
+call<$d334ba75, 0> ('sen032')
+call<$a4eb1e4c, 0> ('danwa_yoru')
+call<$5f271e74, 0>
+#res：「唷，又到这里来了吗…」>
+pause
+cls
+call<$812afdf0, 0> ('new_086')
+#res：「…唔」>
+pause
+cls
+#res：「怎么了？　身体又不舒服了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n068')
+#res：「…不是」>
+pause
+cls
+#res：她凝视着窗外，简短地回答道。>
+pause
+cls
+#res：最终，她的暂时出院被取消了。>
+pause
+cls
+#res：这样一来，不知何时才会迎来下一次机会。恐怕不是延迟几天就可以了结的事，而是要几周时间吧。>
+pause
+cls
+#res：「呐，莫非…」>
+pause
+cls
+#res：「今天早上…你是在装病吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「……………」>
+pause
+cls
+#res：不过，说是装病也有些奇怪。我们早就不是健康的人了。>
+pause
+cls
+#res：「就是说…你不想暂时出院回家吗？」>
+pause
+cls
+call<$812afdf0, 0> ('new_089')
+#res：「…我不明白你在说什么」>
+pause
+cls
+#res：「你不是，在这次之后就没有机会了吗…」>
+pause
+cls
+call<$812afdf0, 0> ('n143')
+#res：「……………」>
+pause
+cls
+#res：面对我的疑问，沉默的她什么也没有回答。>
+pause
+cls
+#res：过去，她曾经问过我很多次，会选择在哪一边迎接死亡。>
+pause
+cls
+#res：对于她的这个疑问，我至今还未得出答案。而她也说过，既不愿选择在家里，也不愿选择在７楼。>
+pause
+cls
+#res：「你果然…」>
+pause
+cls
+#res：「是没有什么可以去的地方了吧…」>
+pause
+cls
+call<$812afdf0, 0> ('new_090')
+#res：「…就算是这样…和你又有什么关系呢？」>
+pause
+cls
+#res：「哦，我只是随便问问而已…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：依旧一片漆黑的谈话室中。>
+pause
+cls
+#res：她依然没有转头看我一眼，只是静静地注视着窗外。>
+pause
+cls
+#res：虽然时间只是刚过１１点，但在医院的区域里，几乎所有的灯光都已经被熄灭。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_yoru01', 1600)
+call<$5f271e74, 0>
+#res：…这是「日常」世界与「异常」世界的边境。>
+pause
+cls
+#res：更何况我们是７楼的居民。我们已经没有在７楼和家之外进行选择的权利。>
+pause
+cls
+#res：她从漆黑的７楼窗边，注视着外边的世界。那里，是「日常」的世界。>
+pause
+cls
+#res：高楼和民宅中依然亮着无数的灯光，大路上，匆匆赶路的行人向着自家的灯火前行。>
+pause
+cls
+#res：尽管自身还没有什么切实感触…>
+pause
+cls
+#res：但我已经成为了7楼的居民，「异常」世界的居民。>
+pause
+cls
+#res：已经再也无法回到对面的那个世界中了吧…>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('rain_1')
+call<$a4eb1e4c, 0> ('sora_ame02', 1600)
+call<$5f271e74, 0>
+#res：『…我的时间静止了…』>
+pause
+cls
+#res：在这个只看得到自己的世界里…我送走了不知多少个季节…多少次下着梅雨的苍白天空…>
+pause
+cls
+#res：最初，我从窗口望着那些去学校的孩子们，以及快步赶路的行人们。>
+pause
+cls
+#res：当我看倦了窗外景色时，总会打开电视机。没有其他事情可做，也没有其他事情能做。>
+pause
+cls
+#res：即使窗外飘着雪花，电视屏幕中也依然艳阳高照。>
+pause
+cls
+#res：在眼前展开的，是一个没有寒冷，没有炎热，没有痛苦的梦幻世界。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…在空想中寻求着安乐…>
+pause
+cls
+#res：只有庞大繁杂的知识在头脑中积攒…>
+pause
+#res：用它们不断地，构筑起毫无意义的价值观…>
+pause
+cls
+#res：不知不觉中，电视中的影像失去了现实感。>
+pause
+cls
+#res：之后是书本中的内容，游戏中的情节，乃至于家族中的亲人…>
+pause
+cls
+#res：到最后，就连面对自己，我也只能用旁人的眼光去审视，再也无法体会到现实感了。>
+pause
+cls
+#res：因此，来到7楼时，我并没有感到吃惊。>
+pause
+cls
+#res：只要闭上双眼，身边的世界随时都可以消失。所以我不在乎，也不想让自己去在乎。>
+pause
+cls
+#res：很快，我即将迎来第2次出院。>
+pause
+cls
+#res：下次回到这里的时候，或许我将无法再下床行走了。>
+pause
+cls
+#res：尽管心中很清楚，但我依然痛恨自己的无所作为。>
+pause
+cls
+#res：…连归宿之地都无法选择的自己，是如此的滑稽。>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_k01', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n042')
+#res：「冰冻住时间，冰冻住内心，在心口留下巨大的伤痕…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_k01')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n043')
+#res：「但即使如此…我依然痛感到自己这２２年的人生是如此可悲…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('c044')
+call<$5f271e74, 0>
+call<$0a4e49ab, 0>
+call<$a4eb1e4c, 0> ('sora03', 1600)
+call<$5f271e74, 0>
+#res：几天过后…>
+pause
+cls
+#res：一改前些日的乌云密布取而代之的是一片湛蓝的冬日天空。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+#res：父亲出乎意料地前来探望了我。他始终摆着一幅悲伤的表情。>
+pause
+cls
+#res：不过，他还谈到了我的保险之类的事情。>
+pause
+cls
+#res：唯独提到这个话题的时候，悲伤会从他的脸上一扫而去。>
+pause
+cls
+#res：「我有些事情要去和医生谈一下…」>
+pause
+cls
+#res：说完，父亲起身向着走廊走去。>
+pause
+cls
+#res：似乎是走向了以前去过的那间昏暗的谈话室。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：病房里只剩下我一个人。>
+pause
+cls
+#res：因为无事可做，我将手伸向了父亲买来的杂志。>
+pause
+cls
+#res：在杂志旁边，还堆积着一些探病用的水果和饮料。>
+pause
+cls
+#res：在水果篮的旁边。>
+pause
+cls
+#res：正好在我讨厌的甜瓜前面…>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('key2')
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('carkey', 1600)
+call<$5f271e74, 0>
+#res：进入眼帘的…>
+pause
+#res：是一把车钥匙。>
+pause
+cls
+#res：「……………」>
+pause
+cls
+#res：闪着银光的钥匙。>
+pause
+cls
+#res：父亲引以为豪的爱车，是一辆进行过内部装修的酷派。>
+pause
+cls
+#res：我曾经试着向父亲借用过它，但被扫兴地拒绝了。现在，它的钥匙就摆在我的面前。>
+pause
+cls
+#res：而胸前睡衣的口袋里，则放着那张崭新的驾照。>
+pause
+cls
+#res：尽管自那天起就失去了作用，但我依然时刻将它带在身上…因为它是我曾经生活于日常世界的凭证。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('key2')
+#res：喀嚓，>
+pause
+cls
+#res：我默不作声地拿起了钥匙。>
+pause
+cls
+#res：没有经过任何考虑。自己也不明白为什么会这样做。>
+pause
+cls
+#res：只是在不知不觉中就这样做了。就好像是在经历着电视中的情节一般。>
+pause
+cls
+#res：然后，我收拾了今后几天的药物。将它们装进了便利店的袋子…>
+pause
+cls
+#res：然后走出了病房。>
+pause
+cls
+call<$d334ba75, 0> ('o02')
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+#res：…悄悄地从护士站前溜过…>
+pause
+cls
+#res：快步走向电梯的方向。>
+pause
+cls
+#res：右手提着塑料袋，左手握着车钥匙。胸前的口袋中，藏着那张本应失去作用的驾照。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', 1600)
+call<$5f271e74, 0>
+#res：走到谈话室。>
+pause
+cls
+#res：接着我找到了，和往常一样，正在看电视节目的她的身影。>
+pause
+cls
+#res：她依然坐在折叠椅上，无聊地望着电视画面。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：「我说…这节目有意思吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n071')
+#res：「…你说呢？」>
+pause
+cls
+#res：「不，无聊至极…」>
+pause
+cls
+#res：一成不变的交谈。>
+pause
+cls
+#res：与往日一样，似乎望着远方的虚无目光。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：「那么…>
+pause
+call<$49ea5b57, 0> (85)
+#res：我们就一起走吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv395')
+call<$49ea5b57, 0> (85)
+#res：「什么…」>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：手里拿着车钥匙给她看，一边继续说。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：「我也…不喜欢家」>
+pause
+cls
+call<$812afdf0, 0> ('n073')
+call<$49ea5b57, 0> (85)
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n074')
+call<$49ea5b57, 0> (85)
+#res：「我也讨厌…７楼…」>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：「那么…>
+pause
+call<$49ea5b57, 0> (85)
+#res：我们就一起走吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n044')
+call<$49ea5b57, 0> (100)
+#res：「…嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+#res：说着，她从折叠椅上站起身来。>
+pause
+#res：扬起的长发掠过我的鼻尖。>
+pause
+cls
+#res：就这样，她也将几天的药物装进塑料袋后…>
+pause
+cls
+#res：我们一起离开了７楼。>
+pause
+cls
+#res：我关掉了无聊的电视。主持人那尖锐的笑声就此沉默了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：我们就这样穿着睡衣走进了电梯。从最高层来到１楼。>
+pause
+cls
+#res：到达１楼后，我们没有走向住院部和急诊室的入口，而是故意穿过门诊部大门，走向了停车场。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora03')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('kaze3')
+#res：沙沙──，>
+pause
+cls
+#res：刚到屋外，寒风拍打在脸上。>
+pause
+#res：在这种没有障碍物的停车场，寒风越发强烈。>
+pause
+cls
+#res：我们俩小心注意着周围的目光，在宽广的停车场中穿行。>
+pause
+cls
+#res：就这样…经过一番探寻，我们终于找到了父亲的车。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin_chusyajo', 1600)
+call<$5f271e74, 0>
+#res：银色的酷派。>
+pause
+#res：这是父亲进行过内部装修的爱车。>
+pause
+cls
+#res：我立刻拿出钥匙打开了车门。>
+pause
+cls
+syscall<$f62e3ca7> ('kati')
+#res：喀嚓，>
+pause
+cls
+#res：「来，快坐进去吧」>
+pause
+cls
+call<$812afdf0, 0> ('n076')
+#res：「嗯，这就进来…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('close')
+#res：啪噔，>
+pause
+cls
+#res：我在驾驶席上重重的坐了下来。>
+pause
+cls
+#res：坐在了助手席上的她。因为身材娇小，坐下后甚至难以看清前方的景色。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo')
+call<$5f271e74, 0>
+#res：接着，我将手中的钥匙插入了点火器。转动，然后轻轻地踩下了油门。>
+pause
+cls
+#res：一切都是在驾校中学过的步骤。>
+pause
+cls
+syscall<$f62e3ca7> ('engine_start')
+#res：轰轰，隆隆……>
+pause
+cls
+#res：刹那间，车内响起了轻微的发动机声。>
+pause
+cls
+#res：接下来，只要拉开手刹车，松开离合器就可以了。>
+pause
+cls
+#res：…现在，我们能够到任何地方去。理应能到任何想去的地方。>
+pause
+cls
+#res：「那么，我们出发吧…」>
+pause
+cls
+call<$812afdf0, 0> ('n077')
+#res：「…嗯」>
+pause
+cls
+#res：她轻轻地点了点头。于是我将挡位换到了二档。>
+pause
+cls
+#res：然后，静静地发动了车子。>
+pause
+cls
+syscall<$f62e3ca7> ('car_start2')
+call<$a4eb1e4c, 0> ('naname_machi2', 1600)
+call<$5f271e74, 0>
+#res：因为不太熟悉这台车子的离合器，车体咣咣当当地摇晃着，但还是向前驶了出去。>
+pause
+cls
+call<$812afdf0, 0> ('n078')
+#res：「…晃得很厉害呢」>
+pause
+cls
+#res：「哦，因为是头一次开这辆车嘛…」>
+pause
+cls
+#res：「顺便一提，这是我取得驾照后头一次开车」>
+pause
+cls
+call<$812afdf0, 0> ('n079')
+#res：「是吗…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：很快，我们来到了停车场的出口。对面是一条宽敞的马路。>
+pause
+cls
+#res：我开车穿过了一处没有交通信号灯的十字路口。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_inaka', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('c-1')
+#res：啪─，啪─，>
+pause
+cls
+#res：从后边传来了其他车辆的喇叭声。大概是因为我们突然冲入了道路，他们对此表示不满吧。>
+pause
+cls
+#res：因为不熟悉离合器的感觉，每变换一次挡位，奔跑中的银色酷派都会带着响声晃动几次。>
+pause
+cls
+syscall<$f62e3ca7> ('c-2')
+#res：或许这也给后边那辆车的车主火上浇油了吧，看来喇叭声暂时是停不下来了。>
+pause
+cls
+#res：但行驶中的我并没有把它放在心上。因为对我来说，那声音并没能带来多少真实感。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：「我说…」>
+pause
+cls
+call<$812afdf0, 0> ('n081')
+call<$49ea5b57, 0> (85)
+#res：「…什么？」>
+pause
+cls
+syscall<$cf35f0e3> (200)
+call<$49ea5b57, 0> (85)
+#res：「…你害怕吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n082')
+call<$49ea5b57, 0> (85)
+#res：「……………」>
+pause
+cls
+syscall<$cf35f0e3> (300)
+call<$812afdf0, 0> ('n084_1')
+call<$49ea5b57, 0> (85)
+#res：「…你希望我，>
+pause
+call<$812afdf0, 0> ('n084_2')
+call<$49ea5b57, 0> (85)
+call<$8e803141, 0> 
+#res：「……………」>
+#res：「害怕吗？」>
+pause
+cls
+syscall<$cf35f0e3> (100)
+call<$49ea5b57, 0> (85)
+#res：「不…没事了…」>
+pause
+cls
+syscall<$708b0256> ('car1')
+call<$a4eb1e4c, 0> ('sora03', 1600)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (75)
+#res：午前时分，万里无云。>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：透过挡风玻璃，看到的是一月的霜空。不知为何，我从那片湛蓝中感到了一丝忧伤。>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：…我们并没有明确的目的地。>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：那一天，在寒冷的冬日下>
+pause
+#res：车身随着难以习惯的离合器不断颤抖。>
+call<$49ea5b57, 0> (75)
+#res：…那一天，我们身穿睡衣，驱车向国道驶去。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：…那一天，一切都融入了冬日的气息中…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('c0442')
+call<$5f271e74, 0>
+call<$0a4e49ab, 0>
+#res：当那高挂的太阳，化作橙色的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_yu')
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('e02')
+#res：依然在驱车奔驰着的我们。只是在毫无目的地奔驰着。>
+pause
+cls
+#res：当周围的景色变得陌生的时候…>
+pause
+cls
+#res：「…我把车停一下」>
+pause
+cls
+call<$812afdf0, 0> ('n180')
+#res：「…嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chusha_michi2_yu', 1600)
+call<$5f271e74, 0>
+#res：车终于停了下来。>
+pause
+cls
+#res：这里是一条郊外的道路。几乎看不到过往的车辆和行人，显得非常冷清。>
+pause
+cls
+#res：就这样将车停在这不知名的路边，然后开始了清点车内的物品。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yu', 1600)
+call<$5f271e74, 0>
+#res：…希望能找到些派得上用场的东西…>
+pause
+cls
+#res：当初是毫无准备就逃了出来。但显然，我们马上就会遇到许许多多的麻烦。>
+pause
+cls
+#res：我一边思索，一边从面前的仪表盘附近开始寻找。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：…………>
+pause
+cls
+#res：「真的是什么也没有啊…」>
+pause
+cls
+#res：只找到了高速路找零的几百日元的硬币。此外还有几本漫画书，和一部一次性相机。>
+pause
+cls
+#res：尽管我们并没有什么明确的目的地，但车内配备的导航系统似乎也早就坏了。>
+pause
+cls
+#res：说起来，我现在手里只有８０００日元左右。>
+pause
+#res：这是出门时匆匆塞进口袋里的全部财产。>
+pause
+cls
+#res：即使加上眼前的这些零钱，最多也只有９０００日元左右。>
+pause
+cls
+#res：当然我从一开始就没期待过，车里会有什么派得上用场的东西。>
+pause
+cls
+#res：…但是，只靠手头的这些钱，我们很快就会遇上困难了吧。至少，住旅馆什么的就不用想了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yu')
+call<$5f271e74, 0>
+#res：话说回来，这家伙身上也根本不会有什么钱吧…>
+pause
+cls
+call<$812afdf0, 0> ('n248')
+#res：「…怎么了？」>
+pause
+cls
+#res：「哦，没什么…」>
+pause
+cls
+#res：…不去想它了。一开始就该知道会是这样了。>
+pause
+cls
+#res：从一开始，就不是什么经过精心准备后才实行的计划。>
+pause
+cls
+#res：比起这些琐碎问题来，我现在更想前进，而不想停留在原地。>
+pause
+cls
+syscall<$708b0256> ('car1')
+call<$a4eb1e4c, 0> ('naname_inaka_yu', 1600)
+call<$5f271e74, 0>
+#res：在黄昏的天空下，银色的酷派再次开动了。>
+pause
+cls
+#res：「对了，你肚子不饿吗？」>
+pause
+cls
+#res：我一边驾驶，一边向她问道。现在想来，从早上开始还什么也没吃过。>
+pause
+cls
+#res：「找家便利店去买点什么吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n152')
+#res：「…不要」>
+pause
+cls
+#res：「喂，别那么挑剔啊。　再说，那至少也比７楼的饭食强得多吧」>
+pause
+cls
+call<$812afdf0, 0> ('n015')
+#res：「………………」>
+pause
+cls
+#res：但她什么也没有回答。>
+pause
+cls
+#res：只是默不作声地低着头，看着自己那身粉红色的睡衣。>
+pause
+cls
+#res：「啊，我都给忘了…」>
+pause
+cls
+#res：说着我也盯着自己的衣服。>
+pause
+cls
+#res：的确，如果就这样穿着睡衣的话，无论去哪里都会引人注目的。>
+pause
+cls
+#res：尽管现在是在车内，但还是先尽快想办法解决一下服装的问题为妙。>
+pause
+cls
+#res：想到这里，我扭转方向盘离开干道，驾车向街区驶去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi03_yu', 1600)
+call<$5f271e74, 0>
+#res：行驶了一段时间后。我们来到了一处不知名的街道。>
+pause
+cls
+#res：附近一定是有列车站吧。周围过往的行人也比较多。>
+pause
+cls
+#res：「这附近的话应该会有吧…」>
+pause
+cls
+#res：我一边向街道两旁巡视，一边驱车缓慢地前行着。开车的同时从驾驶座上稍微往前探了探身。>
+pause
+cls
+#res：「啊…找到了…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：很快就找到了一间自助式洗衣房。>
+pause
+cls
+#res：它位于一间小型公寓的１层、看上去显得十分破旧。>
+pause
+cls
+#res：…这里或许正适合下手。>
+pause
+cls
+#res：我将车停靠在距离入口稍远的位置>
+pause
+cls
+#res：「你留在这里等我一下…」>
+pause
+cls
+call<$812afdf0, 0> ('n088')
+#res：「…？」>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+#res：啪噔，>
+pause
+cls
+#res：我把满脸的不解的她留在了车里，然后径直走向了自助洗衣房。>
+pause
+cls
+syscall<$f62e3ca7> ('autodoor')
+call<$a4eb1e4c, 0> ('coin_tennai', 1600)
+call<$5f271e74, 0>
+#res：踏进自动门，我立刻闻到了一股强烈的漂白粉和洗涤剂的气味。>
+pause
+cls
+#res：这家洗衣房不光外观破旧，设置于其中的洗衣机和烘干机也十分老旧。>
+pause
+cls
+#res：「…没有人在呢」>
+pause
+cls
+#res：低语声在空无一人的店内响起。>
+pause
+cls
+syscall<$f62e3ca7> ('coin2')
+#res：咕隆咕隆………>
+pause
+cls
+#res：那里只有一台烘干机正低声运作着。>
+pause
+cls
+#res：我立刻走近那台机器，确认了一下计时器。>
+pause
+cls
+#res：…………>
+pause
+cls
+#res：看来投入了200元，运转时间被设定成了３０分钟。而且，现在仅仅过去了５分钟。>
+pause
+cls
+#res：…衣物的主人一定是去外边消磨时间了吧。>
+pause
+cls
+#res：想到这里，我再次张望了一下门口，确认没有那样子的人。>
+pause
+cls
+#res：确认附近没有人影后，我将手伸向烘干机…>
+pause
+cls
+#res：一下子拉开了舱盖。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('coin')
+#res：喀嚓，>
+pause
+cls
+#res：因为舱盖被拉开，烘干机停止了工作。>
+pause
+cls
+#res：无视掉这混杂着海潮气息的闷热空气，将半湿的衣物从里边拽了出来。>
+pause
+cls
+#res：之后，将它们抱在怀里，仔细张望了一圈后跑出了洗衣房。>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+#res：喀嚓，啪噔>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi03_yu', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n307')
+#res：「啊……」>
+pause
+cls
+#res：看到我怀中的衣物，她有些惊讶地叫出了声来。>
+pause
+cls
+#res：但我没管她，将衣物扔到了后座上。>
+pause
+cls
+#res：「好了，我们走吧…」>
+pause
+cls
+call<$812afdf0, 0> ('n073')
+#res：「……………」>
+pause
+cls
+syscall<$f62e3ca7> ('car_start')
+#res：哐哐，嗡嗡……>
+pause
+cls
+call<$a4eb1e4c, 0> ('soukou_yoru')
+call<$5f271e74, 0>
+#res：我单手握住方向盘，看了看刚刚弄到手的堆积如山的衣物。>
+pause
+cls
+#res：粗略看去，多半都是一些花哨的牛仔服和汗衫，尺寸也都相当大。>
+pause
+cls
+#res：虽然还是湿的，但凭借车内空调的热气，很快就会被烘干了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi02_yoru', 1600)
+call<$5f271e74, 0>
+#res：「待会选一些喜欢的换上吧…」>
+pause
+cls
+call<$812afdf0, 0> ('n090')
+#res：「…………」>
+pause
+cls
+#res：她并没有回应我。只是看了看身后那堆衣物。>
+pause
+cls
+#res：「这也是没办法的事嘛…」>
+pause
+cls
+call<$812afdf0, 0> ('n091')
+#res：「…我知道」>
+pause
+cls
+#res：本来我也不是很愿意去做这种事的。>
+pause
+cls
+#res：不过，尽管手头的钱并没有什么明确的使用目的…>
+pause
+cls
+#res：但只靠这个金额的话，也很难买到什么衣物。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1600)
+call<$5f271e74, 0>
+#res：当月亮探出头来的时候，已经走了好一段路…>
+pause
+cls
+#res：我将车停靠在了一座公园的旁边。>
+pause
+cls
+#res：它正好位于住宅区之中，多半是一所儿童公园吧。>
+pause
+cls
+#res：然后，我开始挑选起刚才偷来的衣物。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yoru', 1600)
+call<$5f271e74, 0>
+#res：在车内空调的作用下，它们已经干透了。>
+pause
+cls
+#res：「果然全都是些男装啊…」>
+pause
+cls
+#res：正如刚才看到的那样，全都是一些花哨的汗衫和牛仔服。>
+pause
+cls
+#res：大概它的主人也是我这个年纪的人吧。服装的尺寸与我很相近。>
+pause
+cls
+#res：之后，我随便挑出一件运动衫和一条牛仔裤，坐在驾驶席上换了起来。>
+pause
+cls
+#res：「呐，你也快挑一件合适的换上吧」>
+pause
+cls
+call<$812afdf0, 0> ('n092')
+#res：「…………」>
+pause
+cls
+call<$812afdf0, 0> ('n093')
+#res：「全都太大了…」>
+pause
+cls
+#res：「那么，你是想一直穿着睡衣吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n094')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n095')
+#res：「明白了…」>
+pause
+cls
+#res：她极不情愿地回答后，拿起了一条牛仔裤和一件上衣，打开了车门。>
+pause
+cls
+syscall<$f62e3ca7> ('open')
+#res：「喂，你到哪里去？」>
+pause
+cls
+call<$812afdf0, 0> ('n096')
+#res：「…换衣服去」>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+#res：说完，她转身向眼前公园的洗手间走去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…………>
+pause
+cls
+#res：喀嚓，>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+#res：「哦，好快啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yoru')
+call<$5f271e74, 0>
+#res：过了一会儿，她就回来了。>
+pause
+cls
+#res：手中拿着刚才穿过的粉红色睡衣，换上了一条牛仔裤和一件白色运动衫。>
+pause
+cls
+#res：「嗯，能穿上就好」>
+pause
+cls
+call<$812afdf0, 0> ('n097')
+#res：「……………」>
+pause
+cls
+#res：她没有回答。正如我所料，服装的尺寸对她来说有些太大了，显得有些臃肿。>
+pause
+cls
+#res：因为牛仔裤过长，她将裤腿向上卷起了几层。运动衫的袖子也同样被卷了起来。>
+pause
+cls
+call<$812afdf0, 0> ('n098')
+#res：「…还是穿睡衣算了」>
+pause
+cls
+#res：「别这么说嘛，　还是这身衣服比较暖和哦」>
+pause
+cls
+call<$812afdf0, 0> ('n097')
+#res：「……………」>
+pause
+cls
+#res：听到我的话，她显得似乎有些不满。>
+pause
+cls
+#res：「还是说，你想要女孩子一点的衣服？」>
+pause
+cls
+call<$812afdf0, 0> ('n083')
+#res：「没什么…」>
+pause
+cls
+#res：她的回答与平时一样。>
+pause
+cls
+#res：尽管对宽大的运动衫感到不满，但马上又变成了以前面无表情的样子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+syscall<$f62e3ca7> ('rain01')
+call<$a4eb1e4c, 0> ('amazora03', 1600)
+call<$5f271e74, 0>
+#res：哗───>
+pause
+cls
+#res：不知何时下起了雨来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('chusha_michi_ame_yoru', 1600)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('n03')
+#res：雨水忘乎所以地，从一月的寒冷天空中落下。>
+pause
+cls
+#res：从车内可以看到，挡风玻璃上附着的无数雨滴。>
+pause
+cls
+#res：当那些雨滴汇聚成突破表面张力的水珠时，便会像溪流般地集聚起来流下。>
+pause
+cls
+#res：在流动过程中，它们又会卷走位于下游的雨滴，使水流的声势更加威猛。>
+pause
+cls
+#res：我坐在车内，呆呆的凝视着它们。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yoru_ame', 1600)
+call<$5f271e74, 0>
+#res：这里是位于某座山中的停车场，一个寂静的地方。>
+pause
+cls
+#res：在便利店买完东西的我们，准备在这里过夜。>
+pause
+cls
+#res：我们的晚饭是每人２个饭团，５００ｍｌ的运动饮料，以及半个马铃薯。>
+pause
+cls
+#res：「很久没吃过这样的东西了呢…」>
+pause
+cls
+call<$812afdf0, 0> ('n177')
+#res：「…嗯」>
+pause
+cls
+#res：她一只手握着便利店的饭团低声回答道。>
+pause
+cls
+#res：在一般人看来，这实在算不上什么好东西。但与７楼的饭食相比，这已经算得上是美味佳肴了。>
+pause
+cls
+#res：当我们同时将手伸向马铃薯的时候，她的手忽然停住了。>
+pause
+cls
+#res：「…怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('n100')
+#res：「没什么…」>
+pause
+cls
+#res：在她视线的前方，被雨烟笼罩的挡风玻璃前方…>
+pause
+cls
+#res：几朵雪白的花朵绽放在路边。>
+pause
+cls
+call<$a4eb1e4c, 0> ('narcissu_yoru_ame', 1600)
+call<$5f271e74, 0>
+#res：被雨水浸湿的白色花朵。>
+pause
+cls
+#res：虽然不知道是谁种的，还是野生的，但是我曾经见过这种花。>
+pause
+cls
+#res：「记得这种花是叫Nar…Narssus吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n101')
+#res：「Narcissus…也就是水仙」>
+pause
+cls
+#res：「啊，原来就是水仙啊…」>
+pause
+cls
+#res：尽管我对花草并不熟悉，但是水仙的名字我还是有所耳闻的。>
+pause
+cls
+#res：并且，我想起尽管她平时很少说话，但在谈论这个话题的时候却曾经回应过我。>
+pause
+cls
+#res：于是，我试着将话题继续下去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yoru_ame', 1600)
+call<$5f271e74, 0>
+#res：「那么，这里的…也与电视里那种不同吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n102')
+#res：「…嗯，严格说起来不是同一种」>
+pause
+cls
+#res：「是吗？这么说来它还真是种少见的花啊…」>
+pause
+cls
+call<$812afdf0, 0> ('n103')
+#res：「不…在哪里都有可能找到的」>
+pause
+cls
+#res：「那么在哪里才能找到啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n104')
+#res：「……………」>
+pause
+cls
+#res：我对于这个话题并没有太深的兴趣。只是顺着话题随口问了一句。>
+pause
+cls
+#res：但是，她却低头思索了一下…>
+pause
+#res：之后缓慢地开口说道。>
+pause
+cls
+call<$812afdf0, 0> ('n105')
+call<$49ea5b57, 0> (85)
+#res：「…西边……」>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：「…西边？」>
+pause
+cls
+call<$812afdf0, 0> ('n106')
+call<$49ea5b57, 0> (85)
+#res：「淡路岛…是以它闻名的…」>
+pause
+cls
+#res：「喂，你以为淡路岛…」>
+pause
+cls
+#res：…你以为离这里有多远？>
+pause
+cls
+#res：才刚刚上手驾车的我，头脑中只是有大致的地理概念。>
+pause
+cls
+#res：但是，淡路岛距离这里恐怕至少也有７００ｋｍ以上的路程，即使是利用高速公路，也很难想象需要花费多少时间。>
+pause
+cls
+#res：…再说，靠我们手里这点钱，根本就不够交公路费的。>
+pause
+cls
+#res：而且，即便是在普通公路上行驶，油费也岌岌可危。>
+pause
+cls
+#res：「我说，你别异想天开了…　那种地方怎么可能去得了啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n107')
+#res：「…………」>
+pause
+cls
+call<$812afdf0, 0> ('n108')
+#res：「…谁说想去那里了？」>
+pause
+cls
+#res：「唉…」>
+pause
+cls
+call<$812afdf0, 0> ('n109')
+#res：「我只是在回答你的问题而已…」>
+pause
+cls
+#res：说完，她再次将目光停在了玻璃前那雪白的花朵上。>
+pause
+cls
+#res：冰冷的雨水使车窗内部凝起了一层白色雾水。但她依然透过雾气凝视着前方。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…我没什么兴趣到那个地方去。>
+pause
+cls
+#res：但是，我同样也没有其他任何想去的地方…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+exit (0)

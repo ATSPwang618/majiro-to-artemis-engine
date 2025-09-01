@@ -1,0 +1,1636 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (2500)
+call<$35395c9f, 0> (4)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('nst_14', 1200)
+call<$5f271e74, 0>
+#res：―谢谢>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+#res：早上。正好在打开大门的上午8点。>
+pause
+cls
+#res：我坐电梯下到1F，走向了中庭。准确地说是在中庭里的花坛。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：……已经来了吧？>
+pause
+cls
+#res：我一边这样想着，一边左顾右盼……>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_21', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0199')
+#res：堇：「今天来得真早啊」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0029')
+#res：濑津美：「嗯，因为早上有检查……」>
+pause
+cls
+#res：女孩一边回答着，一边继续给花坛浇着水。>
+pause
+cls
+#res：来这里是为了向她询问一下前几天的那件事情。总觉得是她的话，应该能理解我吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0202')
+#res：堇：「那个，你……有说过谢谢吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0032')
+#res：濑津美：「不懂你在说什么……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0203')
+#res：堇：「那个，就是对家人，不是道歉，而是说谢谢……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0033')
+#res：濑津美：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0034')
+#res：濑津美：「总有一天……会想说的」>
+pause
+cls
+#res：莫名有些寂寞的，如此回答到。也就是说，和我一样说不出口的意思吧。>
+pause
+cls
+#res：虽然对她的事也不太了解……>
+pause
+cls
+#res：只知道她手腕上戴着的手环是绿色的。是3F或者4F的住院患者。>
+pause
+cls
+#res：然后，我明白了，对于病人来说……“谢谢”这句话，是很难说出口的。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0035')
+#res：濑津美：「任性一点，就可以了……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0204')
+#res：堇：「任性？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0036')
+#res：濑津美：「类似那样的」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0205')
+#res：堇：「呃，那是什么意思？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0037')
+#res：濑津美：「谁知道呢……是对我施了魔法之人说的话哦」>
+pause
+cls
+#res：如果按照她所说……>
+pause
+cls
+#res：像我们这样的病人，说些任性一点，才是件好事。>
+pause
+cls
+#res：可哪怕不那么做，就已经对家人充满愧疚了，还能比现在更任性吗……>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0206')
+#res：堇：「对于我们来说很难……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0038')
+#res：濑津美：「但是，能做到这点的时候……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0039')
+#res：濑津美：「你说不定也能用魔法了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：抬头看去，一片晴朗的天空。明明8月就快要结束了，今天的阳光还是这么的强烈。>
+pause
+cls
+#res：……她所说的魔法。>
+pause
+cls
+#res：虽然不知道到底指的是什么，但“谢谢”和“任性”似乎就是发动条件……>
+pause
+cls
+#res：那样的话，她……总有一天会满足条件，变得能使用魔法吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：午饭结束，看了下时间，是下午2点。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+#res：今天说是要拍X光，就在差不多要准备过去的时候。>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0027')
+#res：母：「呼~今天好热啊……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_26', 1200)
+call<$5f271e74, 0>
+#res：这么说着进来了的母亲。平常都是早上或者傍晚来的，现在这个点来实属罕见。>
+pause
+cls
+#res：……咦？仔细一看，脚边有一个很大的行李。>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0028')
+#res：母：「啊，我带毯子来了哦」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0218')
+#res：堇：「……毯子？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_26c', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0029')
+#res：母：「你看，我想着晚上吹空调会着凉的吧」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0008')
+#res：堇：「………………」>
+pause
+cls
+#res：听到这里，我明白了。我察觉到了母亲绝对不会说出口的事情。>
+pause
+cls
+#res：与此同时，变得非常内疚。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……之所以少见的在这个时间过来，是为了避开公交的高峰期吧。>
+pause
+cls
+#res：因为这件行李这么大。还是为了这样的我带过来了。>
+pause
+cls
+#res：……我一想到在这个大热天里，为了我从家里抱着这么大的行李过来……>
+pause
+cls
+#res：……对不起。>
+pause
+cls
+#res：把差点要脱口而出的话语咽了回去。>
+pause
+cls
+#res：这不是我该说的话。我，和那个花坛里的女孩不一样。>
+pause
+cls
+#res：不能等到……总有的那一天。已经…>
+pause
+#res：…只有“现在”了，我对自己这样说着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0219')
+#res：堇：「啊，那个，妈妈……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0030')
+#res：母：「怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0220')
+#res：堇：「那、那个……谢谢……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0042b')
+#res：母：「欸……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0221')
+#res：堇：「一直以来，那个……真的，谢谢……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0031')
+#res：母：「………………」>
+pause
+cls
+#res：母亲听到我的话沉默了。脸上是可称之为震惊的表情。>
+pause
+cls
+#res：终于……>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0032')
+#res：母：「真是的，突然说什么啊，这孩子」>
+pause
+cls
+#res：神情非常开心地回答道。声音不像平时那样疏远，而是真的很开心的样子。>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0033')
+#res：母：「那，明天还会来的，要做个好孩子哦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：母亲把带来的毯子放到了备用的床铺上面，踏着轻快的步伐离开了病房。>
+pause
+cls
+#res：……好好地说出来了。>
+pause
+cls
+#res：为什么这么简单的事，至今一直都没能说出口呢？？>
+pause
+cls
+#res：早知道她会那么开心，要是早点说出来就好了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0299')
+#res：明：「噗呼呼，还被说是好孩子啥的」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0222')
+#res：堇：「咦？」>
+pause
+cls
+#res：那是在门外往里偷看的明。>
+pause
+cls
+#res：看起来似乎是看到了刚才那一幕。不知为什么感觉非常害羞……>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0300')
+#res：明：「都21岁了，还是好孩子，笑死人了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0223')
+#res：堇：「吵，吵死了……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0301')
+#res：明：「但是啊……能好好说出来就很好啦」（校注：原文算是反问句，直译会偏离意思）>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0224')
+#res：堇：「嗯……」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+#res：……那是进入9月后的第一个周末。我来到这个7F，过去10天左右的时候。>
+pause
+cls
+#res：和母亲两个人一起，被医生叫去面谈时的事情。>
+pause
+cls
+call<$d334ba75, 0> ('na_kiku')
+call<$d334ba75, 0> ('30sw03')
+call<$a4eb1e4c, 0> ('233', -100101)
+call<$5f271e74, 0>
+#res：医者：「……所以说，我想可以暂时出院了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0034')
+#res：母：「真的吗？」>
+pause
+cls
+#res：医者：「是的。最近身体状态也很稳定，　趁现在，回家好好休息一下也……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0035')
+#res：母：「太好了，菫，可以回家了呢」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0244')
+#res：堇：「啊，嗯……」>
+pause
+cls
+#res：听到医生说可以暂时出院了，母亲好像很开心。>
+pause
+cls
+#res：但是，我没有漏过医生所说的“趁现在”这个词。>
+pause
+cls
+#res：医者：「那么，后天就能办好出院手续了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0036')
+#res：母：「非常感谢」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0037')
+#res：母：「那，得赶紧通知下爸爸才行」>
+pause
+cls
+#res：母亲向医生深深低了下头，然后小跑着走向了电梯。>
+pause
+cls
+#res：一路上跟周围熟识的住院患者们，也很开心地谈论着暂时出院的事情。>
+pause
+cls
+#res：于与这样的母亲相对的，其他7F的人们则是用寂寞的眼神看着我们。>
+pause
+cls
+#res：……母亲并不知道。>
+pause
+cls
+#res：这就是第1次的出院了。第3次要做好觉悟，没有第4次，这就是规则。。>
+pause
+cls
+#res：我还是一如往常，对于自己重病人的身份没有什么自觉。因为事实上也没有什么疼痛、难受的地方。>
+pause
+cls
+#res：但是也听说这是会根据病情的发展而变化的。也就是急性发作的时候，会一口气恶化的意思。>
+pause
+cls
+#res：就算没有自觉，也不是毫无理由的住进这7F的。>
+pause
+cls
+#res：我所剩下的时间，正在确实地减少这一点并没有变。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b08', 1200)
+call<$5f271e74, 0>
+#res：太阳已完全落山……晚饭也吃过了，马上要到熄灯时间的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05b', -100101)
+call<$5f271e74, 0>
+#res：兄：「太好了呢堇，能暂时出院了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0245')
+#res：堇：「啊，嗯……」>
+pause
+cls
+#res：又是在很晚的时候过来的哥哥。看起来是从母亲那里听到了暂时出院的事吧。>
+pause
+cls
+#res：明明工作到这么晚很疲惫了，但我想他还是一听到这消息就跑来了吧。>
+pause
+cls
+#res：兄：「得了，不说这个了，一起去狩猎吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：我们又一起玩起了游戏。>
+pause
+cls
+#res：和平时一样，高等级的牧师宝矿力酱，带着等级不高的哥哥向前推进着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_09b', 1000)
+call<$5f271e74, 0>
+#res：兄：「回到家里以后，下次也一起玩游戏吧？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0246')
+#res：堇：「……嗯」>
+pause
+cls
+#res：兄：「诶，不妙啦，菫，快来救我~」>
+pause
+cls
+#res：哥哥好像非常开心。>
+pause
+cls
+#res：但是，在我的脑中挤满了完全不同的事。想起了之前那个女孩曾经问过的问题。>
+pause
+cls
+#res：……是死在家里？还是死在7F？还说了没有其他的选择。>
+pause
+cls
+#res：直到现在，也只是暧昧地思考过这个问题……>
+pause
+cls
+#res：看来我大概也到了该认真地考虑那个问题的时候了吧。>
+pause
+cls
+#res：……我下定决心问问看。明明自己也知道这是很残酷的事情……>
+pause
+cls
+#res：即便如此，我至少想问问哥哥的想法。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_09', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0247')
+#res：堇：「那个，哥哥……」>
+pause
+cls
+#res：兄：「怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0248')
+#res：堇：「我死的时候……想要陪在我的身边吗？」>
+pause
+cls
+#res：兄：「欸……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0249')
+#res：堇：「又或者是，想要我在不知不觉间……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_09', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0250')
+#res：堇：「在其他什么地方离世吗？」>
+pause
+cls
+#res：兄：「………………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：哥哥面对这个问题沉默了。>
+pause
+cls
+#res：我不希望在自己死的时候，有谁在我身边。不想让别人为了我，而有悲伤的回忆。>
+pause
+cls
+#res：就算如此……>
+pause
+cls
+#res：兄：「我想，一直陪在你身边」>
+pause
+cls
+#res：坚定的如此回答道。不是看着游戏画面，而看着我的眼睛说到。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0251')
+#res：堇：「可是，我……会很痛苦……」>
+pause
+cls
+#res：兄：「那，按你希望的来做可能是最好的……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_02', 1200)
+call<$5f271e74, 0>
+#res：又是只剩下我一个人的病房。一片漆黑的病房中，我失神地思考着。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0137')
+#res：堇：「我，不能留下悔恨……」>
+pause
+cls
+#res：那是在以前，哥哥也对我说过的话。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_02b', 200)
+call<$5f271e74, 0>
+#res：肯定，不只是为了我自己。>
+pause
+cls
+#res：如果……离开的人对留下的人，唯有一种义务的话……应该就是这个了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_12b', 1200)
+call<$5f271e74, 0>
+#res：从只能打开15cm的窗户看向夜空。在厚重雨云的缝隙之间，夏季的星座正闪烁光芒。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0406')
+#res：堇：「今天，能清楚看到心宿二……」>
+pause
+cls
+#res：在南边的天空中闪烁着红光的星星。那是天蝎座中的一部分。>
+pause
+cls
+#res：……根据神话，天蝎好像是随性的生活着，掉到井里摔死了。>
+pause
+cls
+#res：那时，天蝎在井底深处十分地后悔。>
+pause
+cls
+#res：后悔如果死在井外面的话，就能被别人所吃掉，发挥些作用了……。>
+pause
+cls
+#res：后悔自私任性地活着，再自私任性地死掉……没有对任何人或事有什么用处就死掉了>
+pause
+cls
+#res：所以，下次再重生的时候，要为了大家活着，这样深深地后悔着。>
+pause
+cls
+#res：就这样，听到了这些的神明，就把它送到了天上的样子……>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_02', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0407')
+#res：堇：「那我也悔过的话……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_02b', 200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0408')
+#res：堇：「能把我变成星星吗……」>
+pause
+cls
+#res：就算不是像天狼星、织女星那么明亮的星星也好……>
+pause
+cls
+#res：这样的我……也能成为夜空中闪耀的，小小的一颗星星吗……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+#res：-第二天早上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('plv36')
+#res：我走向清晨的中庭。目的是为了去见那个女孩。>
+pause
+cls
+#res：有些想要告诉她的事。也有想问的事情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0107b')
+#res：堇：「呐……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0252')
+#res：堇：「以前，关于你问过我的……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0040')
+#res：濑津美：「在哪边死？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0253')
+#res：堇：「嗯。我的答案变了一些」>
+pause
+cls
+#res：那时，我觉得那边都行。但现在不一样了。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0254')
+#res：堇：「我也是……不想在医院，也不想在7F」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0033')
+#res：濑津美：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0255')
+#res：堇：「但是呢……比起这些，还有更重要的事」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0041')
+#res：濑津美：「什么事？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0256')
+#res：堇：「不要后悔……要不留下悔恨」>
+pause
+cls
+#res：“任性一点就正好”>
+pause
+#res：我终于能理解这句话的意思了。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0042')
+#res：濑津美：「我，还不懂……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0257')
+#res：堇：「因为你还不是7F的人嘛」>
+pause
+cls
+#res：对。她还是送行的那一边的人。>
+pause
+cls
+#res：然后，我们这即将逝去的人的义务，只有一个。>
+pause
+cls
+#res：……就是笑着死去。>
+pause
+cls
+#res：就算是再怎么不能让自己的满足的人生，在最后的最后，也不能说什么抱歉。>
+pause
+cls
+#res：只能传达谢意……不只是为了自己。也不只是为了不留悔恨……>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0258')
+#res：堇：「既不是家里，也不是7F……而是除此以外的地方……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0259')
+#res：堇：「呐，去哪里比较好呢……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0043')
+#res：濑津美：「也就是说……想要自杀吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0260')
+#res：堇：「或许……是那样吧…」>
+pause
+cls
+#res：但也可能并不是那样。只是单纯的想要准备自己死亡的舞台吧。>
+pause
+cls
+#res：既不是7F，也不是家里……>
+pause
+cls
+#res：想要去一个，想死的时候，随时可以“凭自己的意愿”死亡的地方。>
+pause
+cls
+#res：一会儿……>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0044')
+#res：濑津美：「青木原，很有名……」>
+pause
+cls
+#res：是哪里呢？虽然好像有听说过……>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0045')
+#res：濑津美：「在富士山麓下哦……风穴洞也很有名」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0261')
+#res：堇：「风穴洞？」>
+pause
+cls
+#res：虽然不太知道，换句话说就是富士山的树海吧……>
+pause
+cls
+#res：我想既然是博学的她说的，那里应该就是最接近死亡的地方吧。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0046')
+#res：濑津美：「先说好……我不会和你一起去的」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0262')
+#res：堇：「嗯？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsetu_0047')
+#res：濑津美：「我…已经不再见证了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0008')
+#res：堇：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0263')
+#res：堇：「没关系，已经有证人了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('ns_01', 1200)
+call<$5f271e74, 0>
+#res：我回到病房后，打开地图，赶紧确认起了那个地方。>
+pause
+cls
+#res：也详细查阅了一下前几天从家里带来的百科全书。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_01b', 300)
+call<$5f271e74, 0>
+#res：……那里的话说不定可以。>
+pause
+cls
+#res：从懂事的时候起，我就闭上了自己的眼睛……在内心某处，把自己的事当成别人的事……>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_01', 300)
+call<$5f271e74, 0>
+#res：不如说，这个“借口”…… 就是让内向的自己背负上冤罪的犯人 。>
+pause
+cls
+#res：此时此刻，正是追寻其真正的价值的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0346')
+#res：明：「咦，居然游戏都不玩了，怎么了？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0264')
+#res：堇：「我在等你」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0347')
+#res：明：「欸……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0265')
+#res：堇：「终于决定好了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0348')
+#res：明：「什么事？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0266')
+#res：堇：「自己死亡的舞台，要自己决定……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0267')
+#res：堇：「教给我这些的，应该正是你」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0349')
+#res：明：「的确是呢……所以，什么时候？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0268')
+#res：堇：「明天」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0350')
+#res：明：「这么急啊……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0269')
+#res：堇：「不行？因为要暂时出院了，我想趁着这次机会去」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0351')
+#res：明：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0352')
+#res：明：「行吧。这也是证人的义务嘛」>
+pause
+cls
+#res：对。她必须见证这一切。>
+pause
+cls
+#res：然后，必须作出最后的审判……>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$a4eb1e4c, 0> ('sora02', 1200)
+call<$5f271e74, 0>
+#res：第二天。因为今天要暂时出院了，从早上起就有些忙乱。>
+pause
+cls
+#res：当然，正如暂时出院中的“暂时”和所表达的，说到底也只是一时的东西。>
+pause
+cls
+call<$a4eb1e4c, 0> ('232', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0038')
+#res：母：「谢谢承蒙您们的照顾」>
+pause
+cls
+#res：在医院的综合接待处前。母亲跟医生和护士们打着招呼。>
+pause
+cls
+#res：把前几天带来的毯子，装进一个大的便利店袋子里，有些小跑似的，在走廊中奔走。>
+pause
+cls
+#res：和那样开心的母亲不同，我心情复杂。>
+pause
+cls
+#res：尤其是对于知道7F事情的人来说，其中的含义就更加不同了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0039')
+#res：母：「菫，累了吗？要坐出租车吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0270')
+#res：堇：「不用，没事的……」>
+pause
+cls
+#res：这是医院出口前的对话。面前停了几辆空出租车。旁边就是公交车站台。>
+pause
+cls
+#res：就这样坐公交车回去的话大概要15分钟。坐出租车的话只要5分钟左右就能到家的距离。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$5f271e74, 0>
+#res：……必须要在这里说了。>
+pause
+cls
+#res：一旦回到了家里，我害怕自己现在的决心会有所动摇。>
+pause
+cls
+#res：在关系变好的哥哥面前，感觉自己可能不会再次说出口了。>
+pause
+cls
+#res：这之后，不是为了那生硬疏远的笑容……>
+pause
+cls
+#res：而是为了在最后的最后，能够发自内心的笑出来，我该表现得……更“任性”些。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005', 1000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0271')
+#res：堇：「那个，妈妈……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0040')
+#res：母：「怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0272')
+#res：堇：「我，有个想去的地方」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0041')
+#res：母：「啊，是吗？那先回家之后再去吧？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0273')
+#res：堇：「不了。我现在就想去」>
+pause
+cls
+#res：一边回答着，一边用手指向停在出租车后面的红色敞篷车。>
+pause
+cls
+#res：看到我们，明也挥起手来。>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0042')
+#res：母：「欸，难道是要坐那个车去…………」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0274')
+#res：堇：「嗯，想和她两个人一起去」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0043')
+#res：母：「………………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：母亲沉默了下来。以惊讶的表情盯着我。>
+pause
+cls
+#res：……不用再拐弯抹角了，我已经是7F的患者了。>
+pause
+cls
+#res：根据常识思考也知道，“有想要去的地方”并不只是字面上的意思。>
+pause
+cls
+#res：所以我也直视着母亲的眼睛继续说到。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_262', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0275')
+#res：堇：「……可以去吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0044')
+#res：母：「虽然妈妈不知道到底是怎么回事……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_262', 500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0045')
+#res：母：「……但不想要你去」>
+pause
+cls
+#res：很寂寞……很难过地如此回答道。明明刚才还在因为暂时出院的事而那么高兴的……>
+pause
+cls
+#res：一会儿，把两手抱着的毯子放了下来，>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0046')
+#res：母：「但是呀，如果这是你自己好好想过了……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNhaha_0047')
+#res：母：「最后，你还是如此希望的话……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 10)
+call<$5f271e74, 0>
+call<$e9d62d7b, 0> (3)
+call<$812afdf0, 0> ('0SNhaha_00482')
+#res：母：「敲」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0276')
+#res：堇：「好痛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_26d', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0049')
+#res：母：「注意安全，一路顺风……」>
+pause
+cls
+#res：说着，对我笑了。相隔10年再次敲出来的右手，还是和那天一样。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_26e', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0050')
+#res：母：「我会准备好你喜欢的奶油炖菜等你的……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0277')
+#res：堇：「妈，妈妈……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_26f', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNhaha_0051')
+#res：母：「不早点回来的话，我还会敲你的哦」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0278')
+#res：堇：「嗯，嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('close')
+call<$812afdf0, 0> ('0SNsumi_0279')
+#res：堇：「久等了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('234', -100101)
+call<$5f271e74, 0>
+#res：我对坐在驾驶座的明说着，坐进了副驾驶座上。>
+pause
+cls
+#res：应该是看到了我们刚才那副样子吧。明喃喃了一句。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0353')
+#res：明：「你的母亲，会敲人呢……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0280')
+#res：堇：「嗯。人不可貌相呢……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0354')
+#res：明：「是吗。真是个温柔的母亲呢」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0281')
+#res：堇：「嗯，是个温柔的母亲……」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('car_run22', 10)
+call<$a4eb1e4c, 0> ('car_run2', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('215_012')
+syscall<$e7b90df5> (500)
+#res：敞篷车红色的引擎盖上倒映着夏日的天空，驰骋着。>
+pause
+cls
+#res：握着方向盘的明。坐在副驾驶的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai03', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0355')
+#res：明：「所以，是要去哪里？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0282')
+#res：堇：「青木原」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0356')
+#res：明：「那个，难道说的是富士山的树海？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0283')
+#res：堇：「嗯。好像是有名的自杀圣地」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0357')
+#res：明：「不，这我知道……可感觉省略的东西太多了吧」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0358')
+#res：明：「话说，你，就想死吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0284')
+#res：堇：「谁知道呢……我也还没想过……」>
+pause
+cls
+#res：说实在的，我自己也不太清楚。>
+pause
+cls
+#res：单纯只是不想在家里也不想在7F……也许只是除此以外想不到其他死去的地方了而已。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0359')
+#res：明：「嘛，不管怎么说都有点远，可不能走错路了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0285')
+#res：堇：「这次没问题的」>
+pause
+cls
+#res：我一边回答着，一边打开了地图给她看。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0360')
+#res：明：「这地图怎么回事？你准备这么周到啊？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0286')
+#res：堇：「算是吧，虽然是借来的……啊，那里往右，向右转」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0361')
+#res：明：「等……太迟了啦。你倒是提前点说啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：无论何处都是蔚蓝的天空。明明夏季已经结束了，但还是能听到某处传来的蝉鸣声。>
+pause
+cls
+#res：刚拿到驾照的她，和靠不住的向导二人，目标是最接近“死”的地方。>
+pause
+cls
+#res：和游戏里相反，辅助着白石小姐的宝矿力酱……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+#res：那之后经过了2小时左右，太阳升到正中的时候。>
+pause
+cls
+call<$d334ba75, 0> ('a01')
+syscall<$e7b90df5> (600)
+#res：我们还在埼玉县附近徘徊着。>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('ns_10', 1200)
+call<$5f271e74, 0>
+#res：原因倒不是因为不着急……>
+pause
+cls
+#res：而是因为我们还是一对菜鸟，觉得上高速太危险了，所以选择了走辅路过去。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0362')
+#res：明：「我说，差不多找个家庭餐厅休息下吧」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0287')
+#res：堇：「啊，嗯」>
+pause
+cls
+#res：路旁某处的家庭餐厅。按照明的提案，我们在此吃个饭稍事休息>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：正好是正午时分，店内非常繁忙。>
+pause
+cls
+#res：有很多来吃午饭的像是上班族的人，很热闹。>
+pause
+cls
+#res：我们被带到了一个餐桌旁并排坐了下来，看起菜单。>
+pause
+cls
+call<$a4eb1e4c, 0> ('200', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0363')
+#res：明：「菫，吃什么呢？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0288')
+#res：堇：「嗯，要点什么呢……」>
+pause
+cls
+#res：这么不清不楚的回答着。想想最后一次来家庭餐厅，还是上小学的时候。>
+pause
+cls
+#res：那时的我，不仅吃的是儿童套餐菜单也是爸爸决定的……>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0289')
+#res：堇：「我跟明吃一样的」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0364')
+#res：明：「等，等一下，别这样嘛。不觉得害羞吗」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0290')
+#res：堇：「会吗？为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0365')
+#res：明：「不是，嘛，也没什么啦……」>
+pause
+cls
+#res：不懂。为什么点一样的会感觉害羞呢？>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$a4eb1e4c, 0> ('200', -100101)
+call<$5f271e74, 0>
+#res：没多久，就送上来了的汉堡套餐。>
+pause
+cls
+#res：以前也听她总提起汉堡，大概明喜欢这个吧。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0366')
+#res：明：「我开动啦，嚼嚼嚼」>
+pause
+cls
+#res：然后还是那样，吃得飞快。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0367')
+#res：明：「感觉这里的比想象中的要好吃呢」>
+pause
+cls
+#res：一边嗯嗯的点着头，我也吃了起来。不怎么油腻，比较清爽的味道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('200', -100101)
+call<$5f271e74, 0>
+#res：……咦？>
+pause
+cls
+#res：忽然发现，明盘子里唯有胡萝卜被干干净净地留下来了。感觉跟把不爱吃的东西留下来的小孩子似得。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0291')
+#res：堇：「不可以挑食哦」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0368')
+#res：明：「算了吧。不吃自己讨厌的东西，也是大人的特权哟」>
+pause
+cls
+#res：又是个奇怪的歪理。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0292')
+#res：堇：「太浪费了，给我吧」>
+pause
+cls
+#res：一下一下地用叉子插起来吃掉了。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0369')
+#res：明：「你能吃胡萝卜的吗？难道说很喜欢？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0293')
+#res：堇：「呃，没啊，也不算喜欢……」>
+pause
+cls
+#res：对着奇怪的地方上心。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：吃完后，我们走向了收银台。>
+pause
+cls
+#res：明好像又发现了什么一样，停下了脚步，盯着一动不动。>
+pause
+cls
+#res：与其说我像小孩子一样，总感觉明才是十分的孩子气。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0370')
+#res：明：「啊，快看快看，这个好有趣啊」>
+pause
+cls
+#res：明一边说一边指着收银台旁边吊着的，小孩子玩的玩具手杖。>
+pause
+cls
+#res：就是所谓小魔女的变身套装吧。>
+pause
+cls
+#res：我也无法判断它值不值这980日元的价格，也不明白为什么家庭餐厅里会堆成山似的卖着这种东西。>
+pause
+cls
+#res：……这种东西，谁会买呢？>
+pause
+cls
+call<$a4eb1e4c, 0> ('200', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0371')
+#res：明：「嗯。好像很适合你呢」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0294')
+#res：堇：「哈？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0372')
+#res：明：「顺便买个好了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0295')
+#res：堇：「咦，真的要买这个？」>
+pause
+cls
+#res：而且照她说的，好像还是送我的礼物。>
+pause
+cls
+#res：没想到会在这种地方，得到小孩子玩的魔法杖。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_close')
+call<$a4eb1e4c, 0> ('shanai02', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0373')
+#res：明：「呼，真好吃呢」>
+pause
+cls
+#res：再次回到了车里。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0374')
+#res：明：「那么，给你刚才的魔法杖」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0296')
+#res：堇：「这…把这个给我也……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0375')
+#res：明：「算是刚才帮我吃了胡萝卜的谢礼吧」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0297')
+#res：堇：「谢礼？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0376')
+#res：明：「对。我不是老说么，不会欠人情的」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0377')
+#res：明：「顺便一说，汉堡的那个“借”，　可是大到用这种东西是还不了的」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0378')
+#res：明：「那就，出发咯」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_thru_lr')
+#res：我们再次动身上路。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：敞篷车正红色的车身，沐浴在夏日炎热的阳光下行驶着>
+pause
+cls
+call<$d334ba75, 0> ('2o01')
+syscall<$e7b90df5> (750)
+#res：距离目的地应该不远了。>
+pause
+cls
+#res：但是走在非高速的小路上很费时间。毕竟路线比较复杂。>
+pause
+cls
+#res：虽然理论上只要走主要的国道就行了……>
+pause
+cls
+#res：前进了一些之后，转到了别的大路上搞不清楚自己在哪儿了。>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('ns_10', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0298')
+#res：堇：「嗯…接下来……在那里左转」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0379')
+#res：明：「咦？哪里哪里？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0299')
+#res：堇：「啊……走过了……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0380')
+#res：明：「欸，又过了？你倒是早点说啊」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0300')
+#res：堇：「咦，怪我？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0381')
+#res：明：「对啊，你拿着纸质地图，就早点指路啊」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0301')
+#res：堇：「明明一开始搞错路的是你……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai04', -100101)
+call<$5f271e74, 0>
+#res：狭窄的车内。握着方向盘的她和，在一旁展开地图导航的我。>
+pause
+cls
+#res：虽然从出发算起，已经过去了4个小时，但离目的地还有很远。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0302')
+#res：堇：「我说，要不要先折返一下？回到认识的路再说」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0382')
+#res：明：「事到如今？下个路口左转就没问题了」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0303')
+#res：堇：「刚才也是这么说的，还不是照样迷路了……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0383')
+#res：明：「喂，你不是也同意了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0304')
+#res：堇：「是，是倒是啦……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0384')
+#res：明：「说到底啊，　还不是因为你说想去奇怪的地方？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0385')
+#res：明：「这个傻女人」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0305')
+#res：堇：「喂……谁，谁是傻女人啊，你才傻呢」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0386')
+#res：明：「啊啊啊真是的，这里到底是哪里啊」>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('car_run22', 10)
+call<$a4eb1e4c, 0> ('car_run2', 1500)
+call<$5f271e74, 0>
+#res：我们迷了路，一会左一会右的。>
+pause
+cls
+#res：就算是看地图，不知道现在身在何处也没有意义，而且因为明开车还不熟练，没法在路口急转弯。>
+pause
+cls
+#res：更重要的是，我们就算迷路了，也没有去“找谁问下路”。>
+pause
+cls
+#res：虽然归根结底，就没有想到那一点……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$a4eb1e4c, 0> ('bg0030', 1500)
+call<$5f271e74, 0>
+#res：太阳也开始慢慢落山了，夕阳的橘色染上了四周。>
+pause
+cls
+call<$d334ba75, 0> ('o_s')
+syscall<$e7b90df5> (750)
+#res：在不知是哪儿的乡间小路……应该说是林间小路一样的地方，我们终于停了下来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('235', -100101)
+call<$5f271e74, 0>
+#res：虽然途中好几次想要调头，但是路太窄了，所以只能这样一直往前。>
+pause
+cls
+#res：然后回过头来已经到这样的地方来了。因为已经是土路了，犹豫着要不要继续前进。>
+pause
+cls
+#res：理所当然的，路灯似得东西也好，住家也好全都没有。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0387')
+#res：明：「……这里，是哪里呢」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0306')
+#res：堇：「谁知道……看了地图也不知道呢」>
+pause
+cls
+#res：看来似乎是完全的迷路了。>
+pause
+cls
+#res：难得的从那个孩子手里得来了这份地图，但看地图的人是这种货色，也没起到什么作用。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0388')
+#res：明：「……还记得最开始的路口吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0307')
+#res：堇：「嗯，是一条小路……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0389')
+#res：明：「那里，应该往反方向转的……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0308')
+#res：堇：「那样的话，就不会迷路了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0390')
+#res：明：「也许吧……」>
+pause
+cls
+#res：在中途暂时停下来思考一下就好了。注意到错了，马上回头就好了。>
+pause
+cls
+#res：说不定只要去问下谁，就不会变成这样了吧。>
+pause
+cls
+#res：不知道是因为不好意思呢，还是太内向而做不到呢……>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0309')
+#res：堇：「是啊，我或许真的是个傻女人吧……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0391')
+#res：明：「看来，还是有自觉的嘛」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0090')
+#res：堇：「嗯……」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0392')
+#res：明：「但是，嘛，虽说我也是迷路的傻女人呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_03')
+#res：如此聊着，明再次启动了引擎。>
+pause
+cls
+#res：然后，开始往眼前的乡间小路驶去。不再打算回头。>
+pause
+cls
+#res：……如果在这里回头的话就不会这么麻烦了。>
+pause
+cls
+#res：如果能这么简单的“悔过自新”的话，现在不论是我还是她……都不至于到这种地方来了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0041', 1200)
+call<$5f271e74, 0>
+#res：在狭窄又凹凸不平的山路中继续前进着，太阳完全落山的时候。>
+pause
+cls
+#res：回过神来，暮蝉的蝉鸣已经停止，取而代之的是秋虫的声音。>
+pause
+cls
+#res：只有月光洒落的，漆黑的群山之中。我们在第一个出现的山路口停下了车>
+pause
+cls
+call<$a4eb1e4c, 0> ('236', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNaka_0477')
+#res：明：「我说，你觉得是哪边？」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0409')
+#res：堇：「哪边呢……看了地图也搞不清楚」>
+pause
+cls
+#res：只知道“大概这附近是在山里吧”这样的程度。>
+pause
+cls
+#res：而且这么小的路，很有可能一开始就没有记录在地图上。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0478')
+#res：明：「至少要是能认出方向的话，说不定就能定位了呢」>
+pause
+cls
+#res：……方向？听到这句话我想到了一件事。>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0410')
+#res：堇：「只是方向的话，很简单」>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0479')
+#res：明：「怎么做？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：我指示她关掉了车灯，然后抬头看向天空。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_12b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('0SNsumi_0411')
+#res：堇：「看，那是仙后星座，在那延长线上的是……」>
+pause
+cls
+#res：一边说着一边指着北极星。也就是说，那边就是北边。>
+pause
+cls
+#res：然后，从夏天的星座就能知道东西方向。这种程度的知识小学的时候就学会了。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0480')
+#res：明：「嘿~虽然我也知道这些知识，但是找不到呢」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0412')
+#res：堇：「嗯，因为是很小，很不起眼的星星嘛」>
+pause
+cls
+#res：我也不是一开始就知道的。只是经常眺望着，终于变得可以找到了。>
+pause
+cls
+call<$812afdf0, 0> ('0SNaka_0481')
+#res：明：「你啊，我还以为你只玩游戏呢，没想到还有奇怪的技能」>
+pause
+cls
+call<$812afdf0, 0> ('0SNsumi_0413')
+#res：堇：「这也不是什么了不起的事……」>
+pause
+cls
+#res：对。并不是那么了不起的事情。>
+pause
+cls
+#res：只是在打游戏的间隙，望向夜晚的天空而已。“只是10年”左右，眺望着星空而已……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+exit (0)

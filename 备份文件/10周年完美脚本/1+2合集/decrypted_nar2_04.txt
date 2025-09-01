@@ -1,0 +1,1085 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (6)
+syscall<$90d5298a> ('setu_002')
+call<$49ea5b57, 0> (120)
+#res：…一段灿烂的回忆…一个夏日的故事…>
+pause
+cls
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$a4eb1e4c, 0> ('c00', 1500)
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('n04')
+#res：炙热的阳光和蝉鸣。看来今天也会很热呢。>
+pause
+cls
+#res：从那天起，从初次住院至今，已经是第3年的夏天了。>
+pause
+cls
+#res：当然我也并非一直都待在医院。而是每天过着往返自家和医院的日子。>
+pause
+cls
+call<$812afdf0, 0> ('setu_003')
+#res：「大概是半年前吧…最后来看望我的人是…」>
+pause
+cls
+#res：穿着睡衣的时间也在慢慢增加…>
+pause
+#res：就好像和这成反比一样，来探望我的人也慢慢变少。>
+pause
+cls
+#res：一开始每天来看我的同学们。曾经，那些被称作朋友的存在。>
+pause
+cls
+#res：到了现在，已然变成了“认识的人”。在街上偶遇的时候，也只是打个两三句招呼就离开了。>
+pause
+cls
+#res：再过段时间，就会变成[陌生人]，最后彻底消失在他们的记忆之中吧。>
+pause
+cls
+call<$812afdf0, 0> ('setu_004')
+#res：「看来，对于一般人来说…」>
+pause
+cls
+call<$812afdf0, 0> ('setu_005')
+#res：「我并非是能让人感到愉快的存在吧…」>
+pause
+cls
+#res：即使只是和我见一面也会感到不舒服，脑海里想到我的事时，大概也是一样的感觉吧。>
+pause
+cls
+call<$812afdf0, 0> ('setu_006')
+#res：「…所以，才会将我从他们的世界抹除的吧…」>
+pause
+cls
+#res：但每到放学的时候，我还是会从窗户看看有没有人来探望。>
+pause
+cls
+#res：我又等了半年之后，终于不再向外看了。>
+pause
+cls
+#res：而我也终于学会拉上窗帘了。我承认了这件事，也察觉了其中的理由。>
+pause
+cls
+call<$812afdf0, 0> ('setu_007')
+#res：「已经过了3年，我也应该知道了…」>
+pause
+cls
+#res：他们并不是忘记了我…>
+pause
+cls
+#res：而是装作从一开始就当作不认识…当作从没见过我的样子。>
+pause
+#res：就当作“一开始就什么也没发生”一样。>
+pause
+cls
+call<$812afdf0, 0> ('setu_008')
+#res：「看来他们也是…」>
+pause
+cls
+call<$812afdf0, 0> ('setu_009')
+#res：「…想要闭上眼睛逃避的样子…」>
+pause
+cls
+syscall<$f62e3ca7> ('rain01')
+call<$a4eb1e4c, 0> ('sora_ame01')
+call<$5f271e74, 0>
+#res：反复进出了医院好几次之后，>
+pause
+cls
+#res：已经不会再有人来看我的，大概是被所有人从记忆中抹除的时候…>
+pause
+cls
+#res：我的家也从久居的独院，搬到了公寓里。>
+pause
+cls
+#res：妈妈也会到附近的快餐店，开始早出夜归的打工生活。>
+pause
+cls
+#res：我知道这代表着什么意思。>
+pause
+cls
+#res：…住院费也不是开玩笑的事情。>
+pause
+cls
+#res：这是在医院每天住院的病人们，几乎每天都会谈论的话题。>
+pause
+cls
+#res：我也知道了，其实他们比家人所以为的，更在意给家人增添负担的事。>
+pause
+cls
+#res：我们搬进的这个古旧又有些脏乱的木屋，>
+pause
+cls
+#res：不仅狭小，而且距离父亲的单位通勤时间超过两小时。不过，到医院却只需步行3分钟。>
+pause
+cls
+#res：站在这又旧又窄的公寓前爸爸说着>
+pause
+cls
+#res：『这里的空气真新鲜呢…』>
+pause
+cls
+#res：他这么说着笑了起来。妈妈也一同强颜欢笑着。>
+pause
+cls
+#res：大概是因为我的身体的关系吧，我的房间装上了空调，当然在其它房间是看不到的。>
+pause
+cls
+#res：出门打工的妈妈，常常给我带回说是卖剩下的可乐饼和炸土豆之类的。>
+pause
+cls
+#res：在狭小的房间中，跟我一起吃着。总是一副开心的样子对我笑着…>
+pause
+cls
+call<$49ea5b57, 0> (100)
+#res：…这让我非常的…>
+pause
+#res：…辛苦。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：这种处处迁就我的感觉，实在是让我喘不过气来。比起感动，高兴，我的心中更多的是愧疚…>
+pause
+cls
+#res：“都是你的错”>
+pause
+cls
+call<$812afdf0, 0> ('setu_010')
+#res：「或许…希望他们这样对我说也说不定吧…」>
+pause
+cls
+#res：真希望他们能够责备我，被这般温柔的对待真的让人很难受…而对于什么也做不到的自己，我也总是感到烦躁，甚至愤怒。>
+pause
+cls
+#res：如果，神明真的存在的话，希望他能让我赶快好起来。如果不行的话，那么让我立刻死去也好。>
+pause
+cls
+#res：在那些，希望抹除我的存在的人中…>
+pause
+cls
+#res：与之相反的，强化我存在的父母。>
+pause
+cls
+#res：…这让我更加痛苦。只恨就算被如此温柔的对待却不能有所报答的自己。>
+pause
+cls
+#res：世界上不计其数的称作“不幸”的其中一个，偶然地，降落在了我的身上…>
+pause
+cls
+#res：也许这个时候，我反而应该摆着笑容，开朗地生活下去也说不一定…>
+pause
+cls
+#res：但最后我能做的，也不过只有把不喜欢吃的土豆默默地咽下肚而已…>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：知了知了，>
+pause
+cls
+call<$d334ba75, 0> ('o02')
+#res：炽热的阳光和蝉的低鸣。>
+pause
+cls
+#res：当梅雨季节过去，完全入夏的时候，也不知道是第几次，我终于是又出院了。>
+pause
+cls
+#res：不过，这并不代表着结束。>
+pause
+cls
+#res：出院这词同时也表示着，到下次入院为止，长时间不断地反复进出医院的生活的开始。>
+pause
+cls
+#res：…在炎热的天空下，我穿着睡衣，出发前往步行只需要3分钟到达的医院。>
+pause
+cls
+#res：对着正要陪我去的妈妈，“一个人没问题的啦”我这么告诉她。>
+pause
+cls
+#res：我本想按照自己的方式为妈妈着想，不过看到妈妈因为这句话而难过的样子，我也很痛苦。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a007', 1500)
+call<$5f271e74, 0>
+#res：不经意间，我的脚步停在了某个学校前面。>
+pause
+cls
+#res：大概是小学吧。因为已经到了暑假，所以几乎看不到人影。>
+pause
+cls
+#res：「…………………」>
+pause
+cls
+#res：在这个，感受不到任何人的气息的学校面前，不知道为什么我看向了那里，不由地停下了脚步。>
+pause
+cls
+#res：有时候，看到那些充满朝气的小孩子们来回跑动，我也会不自觉地将视线移向他们…>
+pause
+cls
+#res：在炎热的天下，穿着长袖的睡衣真的很热。甚至觉得穿成这样的自己，和看着的校园实在很不协调。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…在那里逗留了一小段时间后，我又迈起了步伐。>
+pause
+cls
+#res：不过，目标却不是医院而是回家。>
+pause
+cls
+#res：然后，一回到了自己的房间，就取出一直沉寂在衣柜里的校服。>
+pause
+cls
+#res：…隔了3年再次穿上，几乎和新买的一样的水手服。以前，只穿了不到一周。>
+pause
+cls
+#res：然后对现在的我来说…这是唯一一件睡衣以外的衣服。>
+pause
+cls
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：再次走到炎热的天气下。同刚才一样，嘈杂的蝉鸣和流下的汗滴。>
+pause
+cls
+#res：不过，往来行走的人们，没有再次在我身上停下目光。>
+pause
+cls
+#res：这样的我，也成为了夏日小城风光的一部分，被当作日常的一部分而被『认同』了。>
+pause
+cls
+#res：然后，来到之前到达的校园，在眼前摆放着的，是小孩们玩耍的单杠。>
+pause
+cls
+#res：我向那伸出手来，>
+pause
+cls
+call<$812afdf0, 0> ('setu_022')
+#res：「…嗯…」>
+pause
+cls
+#res：把力量施加在手腕处，双脚使出全力往地上一蹬。>
+pause
+cls
+#res：一瞬间感到了漂浮在宇宙中的体验…>
+pause
+#res：身体随着转了一圈。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a002a', 1)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('setu_043')
+call<$a4eb1e4c, 0> ('a002b')
+call<$a4eb1e4c, 0> ('a002')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setu_012')
+#res：「…还没有问题」>
+pause
+cls
+#res：不明缘故的这样自言自语着，从单杠上看见的景色。>
+pause
+cls
+#res：强烈的阳光把地面染成白色，地面因热气扭曲的光线而变的摇摆不定。>
+pause
+cls
+#res：时不时能听到的小孩们的笑闹声，以及强调自己是夏日主角的蝉鸣声。>
+pause
+cls
+#res：用已经承受不住身体而开始颤抖的手腕，我，感受着“现在”。>
+pause
+cls
+#res：…为什么，会突然想到做这种事情呢…>
+pause
+cls
+#res：详细的原因连自己也不知道。>
+pause
+cls
+#res：如今，没有穿睡衣以外的衣服的时候，也没有需要穿睡衣以外的衣服的时候了。>
+pause
+cls
+#res：大抵是因此而感到寂寞吧…又或是因为，想确认自己的体力是否还凑合…>
+pause
+cls
+call<$a4eb1e4c, 0> ('a003', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setu_013')
+#res：「我…应该同大家一样的…」>
+pause
+cls
+#res：…和过着普通生活的大家一样，应该在“那一边”才对。>
+pause
+#res：像是在单杠上绕一圈这种微不足道的事，是不需要露出这么痛苦的表情来完成才对的。>
+pause
+cls
+#res：这么想着，虽然勉勉强强想摆出笑容…>
+pause
+cls
+#res：但手腕却止不住地发抖，果然这件事…>
+pause
+#res：对于我来说还是太难了…>
+pause
+cls
+call<$a4eb1e4c, 0> ('a004', 1500)
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('nar011')
+call<$a4eb1e4c, 0> ('nar01')
+call<$5f271e74, 0>
+syscall<$90d5298a> ('setu_0000')
+call<$a4eb1e4c, 0> ('nar01', 1500)
+call<$a4eb1e4c, 0> ('nar01c', 1)
+call<$a4eb1e4c, 0> ('nar01d')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：知了，知了，>
+pause
+cls
+call<$d334ba75, 0> ('2mi02')
+call<$812afdf0, 0> ('setu_011')
+#res：「…好热……」>
+pause
+cls
+#res：明明还没到中午，柏油马路便蹿起了热气。看来今天也会很热呢。>
+pause
+cls
+#res：在这种天气里，我像平常一样一个人前往医院。>
+pause
+cls
+#res：因为很近，所以穿着睡衣去也没什么大不了的，不过现在外出的时候我却常常穿着校服。>
+pause
+cls
+#res：…这样看来，我果然还是在动摇着。>
+pause
+cls
+#res：这样内心的动摇会持续到什么时候自己也不知道。可能某天会突然就放弃也说不一定吧。>
+pause
+cls
+#res：只不过，三年的光景，足以改变一个人了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005', 1500)
+call<$5f271e74, 0>
+#res：然后，又经过了那个学校，在眼前就能看见医院的入口时…>
+pause
+cls
+call<$812afdf0, 0> ('setu_014')
+#res：「…纽扣，要掉了呢…」>
+pause
+cls
+#res：手里拿着的小小的手提包。我注意到手提包带子的纽扣快掉了。>
+pause
+cls
+#res：虽然不知道是从什么时候开始掉的，不过都来到这了也不可能再回家去缝上。>
+pause
+cls
+#res：于是我把手提包抱在胸前，就这样走进医院。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…………>
+pause
+cls
+#res：同样的医生，同样的对白，今天的检查也就这么结束了。>
+pause
+cls
+#res：身体状况稳定的时候一周1次，要是一周3次的话就是短期住院的预兆了。>
+pause
+cls
+#res：…这一周的检查结束了。>
+pause
+cls
+#res：一边想着那些事，我一边走向1楼的大门。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', 1500)
+call<$5f271e74, 0>
+#res：因为到了下午的休诊时间，门诊通道几乎看不到什么人。>
+pause
+cls
+#res：有时候，会看到医生，带着像是实习医生的人经过这里。>
+pause
+cls
+#res：或是慌忙赶往急救中心的护士。>
+pause
+cls
+#res：明明被限制进食了，却还去商店买东西吃的患者。看他手腕上的绿色手环，据说是表示消化系统问题的疾病。>
+pause
+cls
+#res：这所有的画面，都是习以为常的医院场景。>
+pause
+cls
+#res：然后，在那个商店门前…>
+pause
+cls
+#res：我第一次，和那个人相遇了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('sabu_006')
+#res：「那个，你…」>
+pause
+cls
+call<$812afdf0, 0> ('setu_015')
+#res：「嗯？」>
+pause
+cls
+#res：突然被一个开朗的声音叫住，我有些惊讶。>
+pause
+cls
+#res：回头一看，是个穿着睡衣，面生的姐姐。>
+pause
+cls
+#res：虽然想着，是不是住院时曾认识过的哪位呢，但是我确实没有对这个面貌的记忆。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setu_016')
+#res：「…有什么事吗？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_007')
+#res：「那个，纽扣快要掉了喔…」>
+pause
+cls
+#res：她边说着边用手指向我的手提包。>
+pause
+cls
+#res：虽然只是单纯的亲切也说不一定，不过被告知自己已经发觉的事情，我也有些不知道该如何回答。>
+pause
+cls
+call<$812afdf0, 0> ('setu_017b')
+#res：「…是啊…」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_008')
+#res：「什么“是啊”啊？你就没有其他要说的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setu_018b')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('setu_019d')
+#res：「……谢谢……」>
+pause
+cls
+#res：我边说着边低下头。>
+pause
+cls
+#res：我犹豫着，感觉果然还是不能说自己已经知道了。不过，似乎道谢也显得有些奇怪。>
+pause
+cls
+#res：…没见过的姐姐。她那一头长长的黑发和那明亮的声音令人印象深刻。>
+pause
+cls
+#res：看到她穿着的不是医院准备的拖鞋，就知道她大概不是来医院探病的人，而是就住在医院的人。>
+pause
+cls
+#res：…那纤细的手腕上，手环的颜色是白色的。这是我第一次看到，我所不知道意思的颜色。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_009')
+#res：「那么，我帮你缝好吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setu_020c')
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_010')
+#res：「我可是，有带着针线盒的喔…」>
+pause
+cls
+call<$812afdf0, 0> ('setu_021c')
+#res：「…可是……」>
+pause
+cls
+#res：我对于这突然的一句话感到不知所措。这，说的不光是纽扣的事情。>
+pause
+cls
+#res：这数年来，对于被大家消除存在的我来说，从未有过对方想与我进一步接触的事。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_011')
+#res：「好啦好啦，来，跟我来吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setu_022')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_012b')
+#res：「没事的啦，又不是什么奇怪的地方。」>
+pause
+cls
+#res：说完了这句话，姐姐就自顾自的转身开始走掉。>
+pause
+cls
+#res：我保持着复杂的心情，跟在了后面。>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：乘上电梯。>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+#res：姐姐默不作声，按下了最顶楼的按钮。>
+pause
+cls
+call<$812afdf0, 0> ('setu_023')
+#res：「…７Ｆ？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_013')
+#res：「哎呀？难不成你知道？」>
+pause
+cls
+call<$812afdf0, 0> ('setu_024')
+#res：「…不…说不上知道的程度…」>
+pause
+cls
+#res：７Ｆ。也就是称作安宁病房的地方。>
+pause
+cls
+#res：详细的情况我并不知道，当然也根本就没去过。说到底，这里本身就听说禁止无关人员进入。>
+pause
+cls
+#res：前往那里也就表示着，这姐姐是7楼的人吧…>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：不久后电梯到了。马上出现在眼前的是护士的值班室。>
+pause
+cls
+#res：然后，打开门的同时，护士们一同往这边看来。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_014')
+#res：「啊，她是我认识的人」>
+pause
+cls
+#res：因为这一句话，又继续着她们的工作。就再也没往我们这边瞧了。>
+pause
+cls
+#res：只是，我觉得初次来到的这个地方…>
+pause
+cls
+#res：微妙的，有着独特而不可比拟的凝重氛围。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', 1500)
+call<$5f271e74, 0>
+#res：姐姐带着我来到，像是谈话室的地方。>
+pause
+cls
+#res：很明显这里和我所住过的，3楼或是其他楼层不同。这里有着沙发和大屏幕的电视。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_016')
+#res：「那么，马上帮你缝好哟…」>
+pause
+cls
+#res：这样说着，姐姐接过我的手提包，开始熟练的缝起纽扣来。>
+pause
+cls
+#res：我也坐到沙发上环视这里。>
+pause
+cls
+#res：环顾四周，也感受不到什么人的气息，顶多就是偶尔看见老人和像是陪护的人经过而已。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_017')
+#res：「对了，你…」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_018')
+#res：「是感冒了吗？　或者是来探望别人的？」>
+pause
+cls
+call<$812afdf0, 0> ('setu_025')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setu_026b')
+#res：「…现在…是正在接受治疗中…」>
+pause
+cls
+#res：虽然烦恼过该怎么说，不过还是老实的回答了。>
+pause
+#res：也说出了之前几天刚出院，现在又在接受治疗的事。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_019')
+#res：「嗯~，看来你也很辛苦呢…」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_020')
+#res：「顺便问下，你参加的是什么社团呢？」>
+pause
+cls
+call<$812afdf0, 0> ('setu_027')
+#res：「…社团？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_021')
+#res：「你看，现在不还是暑假吗？」>
+pause
+cls
+#res：一边说着，一边指向我的校服。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_022')
+#res：「因为是住过院的人应该是文化部吧？　难道是运动部的经理么？」>
+pause
+cls
+call<$812afdf0, 0> ('setu_028')
+#res：「不…什么都没做…」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_023')
+#res：「呀？　真是意外的回答呢。」>
+pause
+cls
+call<$812afdf0, 0> ('setu_029')
+#res：「…………………」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_024')
+#res：「…难道…是因为讨厌睡衣？」>
+pause
+cls
+#res：这突如其来的敏锐问题，我真不知道该如何回答是好。>
+pause
+cls
+#res：也不能说是因为讨厌睡衣，感觉详细的原因，无法用语言来表达贴切。>
+pause
+cls
+#res：然后，姐姐问的问题…>
+pause
+#res：大概，指的是那件事吧。>
+pause
+cls
+#res：并不只是像说的一样，问我喜不喜欢睡衣而已。>
+pause
+cls
+call<$812afdf0, 0> ('setu_031b')
+#res：「姐姐是…这里的病人？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_026')
+#res：「嗯，别看我这样，我也是7楼的居民喔」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_027')
+#res：「简单来说的话，就是很快就会死的人呢」>
+pause
+cls
+#res：这种我原本只以为是传闻的事，直接，被7楼的病人干脆地说出来了。>
+pause
+cls
+#res：能用这么开朗的声音说出死这个字的姐姐。至少我是没有办法能理解的。>
+pause
+cls
+#res：…这个人，到底在想些什么呢…>
+pause
+cls
+call<$812afdf0, 0> ('sabu_028')
+#res：「那个，如果可以的话下次再来玩吧」>
+pause
+cls
+call<$812afdf0, 0> ('setu_032c')
+#res：「…我吗？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_029')
+#res：「嗯，没什么能做的事很无聊呢」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_030')
+#res：「而且啊，这里探访时间到很晚也没什么问题的」>
+pause
+cls
+#res：然后姐姐她，又告诉了我很多关于这7楼的事情。>
+pause
+cls
+#res：虽然一直以来都只知道些模糊的传闻，不过看来这里是等死的地方的说法似乎是真的。>
+pause
+cls
+call<$812afdf0, 0> ('sabu_031')
+#res：「虽然还有其他的规则，不过到这里就不能再说了」>
+pause
+cls
+call<$812afdf0, 0> ('setu_033')
+#res：「…为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_032')
+#res：「这不是理所当然的吗」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_033')
+#res：「因为你…不是这里的病人啊…」>
+pause
+cls
+#res：她这样喃喃着…露出了沉重的表情。>
+pause
+cls
+#res：这表情看起来不仅是寂寞，甚至也感到似乎是严肃的感觉。>
+pause
+cls
+#res：…今天也穿着这身衣服，仍不死心地追寻着过往日常的我。>
+pause
+cls
+#res：与这样的我不同，这个姐姐…不，这个7楼的病人，>
+pause
+cls
+#res：她已经接受了所有现实，已经有所觉悟了吗…>
+pause
+cls
+call<$812afdf0, 0> ('sabu_034')
+#res：「反正，下次来医院检查的时候就记得顺道来玩吧…」>
+pause
+cls
+call<$812afdf0, 0> ('sabu_035')
+#res：「看在我不管怎么样努力，最多也不会超过半年的份上」>
+pause
+cls
+#res：她这么说着向我告别，再一次朝我露出了她的笑容。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：黑色的长发和白色的塑料手环。愉悦似的说话方式给人留下了深刻的印象。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：互相之间，明明连名字都还不知道。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：…15岁的夏天…>
+pause
+call<$49ea5b57, 0> (80)
+#res：这是我们第一次的相遇。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setu_011')
+#res：「…好热……」>
+pause
+cls
+#res：几天后。我再次来到了医院。>
+pause
+cls
+#res：不过，我今天不是来受诊的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005')
+call<$5f271e74, 0>
+#res：…可以的话就来玩吧…>
+pause
+cls
+#res：前几天，才认识的姐姐这样说过。>
+pause
+cls
+#res：或许，是因为我不知为何在意起这句话，又或者是我对7楼这个地方，产生了莫名的好奇也说不一定。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：叮，>
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+#res：电梯来到最顶楼。>
+pause
+cls
+#res：轻轻对朝这边看过来的护士低了低头，以示招呼之意后，我前往姐姐的病房。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0236')
+#res：「啊，嗯，请进」>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_open_04')
+#res：咔嚓，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi-0001')
+#res：「…来了哦…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0237b')
+#res：「欢迎，我在等着你哦…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0238')
+#res：「快快，坐下坐下，今天也很热是吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0002')
+#res：「…嗯…」>
+pause
+cls
+syscall<$f62e3ca7> ('isu2b')
+#res：躺在床上姐姐坐起来后，要我坐在旁边的椅子上。>
+pause
+cls
+#res：感觉第一次进入的7楼病房，和平常居住的3楼病房有点不同。>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0239')
+#res：「真抱歉啊，不过呢，我就知道你一定会来的」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0240')
+#res：「因为你，很闲吧」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0003')
+#res：「…为什么，这么说？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0241')
+#res：「嗯？　因为，我们病人的工作不就只有睡觉吗？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0242')
+#res：「世界上，没有比这更闲的人了」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0109')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0243')
+#res：「嗯？　你不这么认为吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0005')
+#res：「…没…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0244')
+#res：「真是的，还是那么冷酷呢…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0245')
+#res：「啊，对了，你喜欢冰淇淋吗？」>
+pause
+cls
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0246')
+#res：「噢？那么讨厌吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0007')
+#res：「…不…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0247')
+#res：「那就行了，走，一起去餐厅吃东西吧」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0248')
+#res：「不用客气喔，姐姐请客的」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0009')
+#res：「…不认识的人，不能跟着她走…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0249')
+#res：「啊？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0010')
+#res：「妈妈，这样对我说的…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0250')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0251')
+#res：「啊，哈哈哈…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0011')
+#res：「…为什么笑了？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0252')
+#res：「啊，抱歉，我没恶意的啦，真的…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0253')
+#res：「嗯~，不过的确是这样呢…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0254')
+#res：「确实不能跟着不认识的人走呢」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$708b0256> ('isu1')
+call<$13059346, 0> (500)
+call<$812afdf0, 0> ('himeko-0255b')
+call<$49ea5b57, 0> (120)
+#res：「…姬子喔…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0012')
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0256')
+#res：「“辉夜姬”的姬，“小孩子”的子，」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0257')
+#res：「顺便一提，天秤座AB型…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0258b')
+call<$49ea5b57, 0> (90)
+#res：「…你呢？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0013')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0014')
+#res：「水瓶座O型…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0015')
+#res：「…濑津美…」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0259')
+call<$49ea5b57, 0> (80)
+#res：「那么，这样就算认识了呢，濑津美…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('setsumi-0016')
+call<$49ea5b57, 0> (85)
+#res：…炙热的阳光和蝉的叫声…>
+pause
+cls
+syscall<$90d5298a> ('setsumi-0017')
+call<$49ea5b57, 0> (85)
+#res：在这纯白的7楼中也响了起来…>
+pause
+cls
+syscall<$90d5298a> ('setsumi-0018')
+call<$49ea5b57, 0> (85)
+#res：名叫姬子的姐姐。>
+pause
+cls
+syscall<$90d5298a> ('setsumi-0019c')
+call<$49ea5b57, 0> (85)
+#res：虽然，我对姐姐的事情还什么都不知道…>
+pause
+cls
+syscall<$90d5298a> ('setsumi-0020')
+call<$49ea5b57, 0> (85)
+#res：从这天开始，漫长的夏天就这样开始了…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3500)
+call<$a4eb1e4c, 0> ('black')
+call<$5f271e74, 0>
+call<$13059346, 0> (2500)
+syscall<$818a4b92>
+call<$ab6fec48, 0>
+syscall<$1204d7e8>
+syscall<$e3605cfa> (300)
+syscall<$a79731a2> ('nar01.mpg', 1, 0, 0, 800, 600)
+syscall<$f63cb36c> (op802[#0000cb730a08ffff])
+syscall<$221c2cc2>
+push 1
+op1b0[#0000cb730a08ffff]
+op82f
+call<$a4eb1e4c, 0> ('black')
+call<$5f271e74, 0>
+exit (0)

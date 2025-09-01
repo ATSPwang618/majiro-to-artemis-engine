@@ -1,0 +1,911 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$812afdf0, 0> ('setsumi_0254')
+#res：「好热」>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+#res：不由得，说出了这样的话。看来今天也还是仲夏的样子。>
+pause
+cls
+#res：在走向，平常前往的医院途中…>
+pause
+cls
+#res：我走到了另一个的地方。>
+pause
+cls
+call<$a4eb1e4c, 0> ('kyoukai1')
+call<$5f271e74, 0>
+#res：教堂。在前几天去海边之前来过这里一次之后，我又一次来到了这里。>
+pause
+cls
+#res：…不知为何，不再和千寻见面的姬子。>
+pause
+cls
+#res：正确来说，大概不只是千寻而已吧。家人和朋友之类亲近的人，姬子也都全部回避着的样子。>
+pause
+cls
+#res：因此，我代替她来到千寻的身边。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：像以前一样，她轻轻地打开了房门，我也朝里面迈出脚步。>
+pause
+cls
+call<$a4eb1e4c, 0> ('kyoukai2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0255')
+#res：「…千寻。」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0129')
+#res：「啊，濑津美…？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0256')
+#res：「…我把这个，带来了。」>
+pause
+cls
+#res：说完，我把保管好的车钥匙转交给她。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0257')
+#res：「姬子要我转交给你的。」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0130')
+#res：「这样，谢谢呢，在这么热的天气里…」>
+pause
+cls
+#res：回答着收下钥匙的千寻，浮现出平常的稳重笑容。>
+pause
+cls
+#res：然后，从口袋取出手帕来。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0258')
+#res：「啊………」>
+pause
+cls
+#res：将我脸上流下的汗，温柔的拭去。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0259')
+#res：「…谢谢…」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0131')
+#res：「那个，可以帮我传达给姐姐吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0262')
+#res：「嗯？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0132')
+#res：「假如，有需要我的时候…」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0133')
+#res：「随时都告诉我…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0175')
+#res：「…嗯，我知道了。」>
+pause
+cls
+#res：对话中，千寻，一直帮我擦拭着汗水。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0261')
+#res：「…那么。」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0134')
+#res：「啊，稍微等一下。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0122')
+#res：「愿主的恩惠和祝福降临于你…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0263')
+#res：「…又是，为了我？」>
+pause
+cls
+#res：她没再回答这问题。>
+pause
+#res：只是，对我露出温柔的笑容。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：走出教堂，突然蝉鸣传来。>
+pause
+cls
+#res：太阳来到头顶，在地面投射成短小黑影的仲夏时节。>
+pause
+cls
+#res：在这时，千寻说是现在要去学校一趟，结束后再去7楼这样。>
+pause
+cls
+#res：她说过星期六的时候要去特殊教育学校，而星期日则要去做协助弥撒的工作。>
+pause
+cls
+#res：…其他同龄的人，一定和她是完全不同的吧。他们大概都正以自已为中心快乐的生活着。>
+pause
+cls
+#res：这样的生活方式，只有千寻才适合吗？只因为是天主教徒就理所当然的吗？我不能够理解。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：再次来到医院后，我沿着地板上的白色胶带往电梯向前进。>
+pause
+cls
+syscall<$f62e3ca7> ('ele2')
+#res：叮，>
+pause
+cls
+#res：然后，前往早已熟识的7楼，我快步来到姬子的病房。>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩、咖叽>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0344')
+#res：「请进～」>
+pause
+cls
+#res：咖叽，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0345')
+#res：「欢迎，今天也很热吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0172')
+#res：「嗯…？」>
+pause
+cls
+#res：在回答之前，注意到了不一样的气氛。见到之后，似乎正在翻箱倒柜地找着什么。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0346')
+#res：「啊，这个？今天要入浴所以正在准备呢。」>
+pause
+cls
+#res：说着，从桌子旁拿出的是，洗脸盆和洗发剂之类的东西。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0347')
+#res：「对了，你也一起进来吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0265')
+#res：「…进来？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0348')
+#res：「是啊，一起洗澡喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+syscall<$f62e3ca7> ('isu1c')
+call<$812afdf0, 0> ('setsumi_0266e')
+#res：「唉？」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$49ea5b57, 0> (100)
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0350')
+#res：「噗，哈哈…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0267')
+#res：「…有什么好笑的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0351')
+#res：「嗯，你刚刚的反应很不错呢，平常太冷酷了所以更觉得不错呢。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0268')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0352')
+#res：「你看你看，因为都是女孩子嘛，不用这么害羞也没什么关系啦。」>
+pause
+cls
+#res：姬子才不是女『孩子』，虽然想这样反驳不过还是算了。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0353')
+#res：「那么，走吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0269d')
+#res：「嗯，可是，稍微…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0354')
+#res：「是是，没关系啦没关系啦。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：似乎很快乐的姬子。>
+pause
+cls
+#res：像是要捉弄着我一样的…在我背后推着我继续前进。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('shaw2b')
+#res：哗啦啦，>
+pause
+cls
+syscall<$708b0256> ('furo')
+call<$812afdf0, 0> ('hime1_0355')
+#res：「那个，汗也冲走了很舒服吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0124')
+#res：「…嗯。」>
+pause
+cls
+#res：结果，半强制地被带入了浴室。>
+pause
+cls
+#res：只是，一开始还觉得没有办法一起进入，不过勉强算是有容纳两个人的空间。>
+pause
+cls
+#res：恐怕这，也是让陪护一起进入为前提设计的吧。>
+pause
+cls
+#res：可是我所在意的，不是浴室的宽广，而是其他的事情，不由得默默不语。>
+pause
+cls
+syscall<$708b0256> ('furo')
+call<$812afdf0, 0> ('hime1_0356')
+#res：「…难不成，很好奇吗？」>
+pause
+cls
+#res：说完，指着自己胸口大大的伤疤的姬子。>
+pause
+cls
+#res：那是我这小小伤痕完全没办法去比较的。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0357')
+#res：「毕竟，我也是女孩子呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0358')
+#res：「这个出现的时候受到的打击很大呢。」>
+pause
+cls
+#res：我默默地聆听着她所说的话。虽然想回些什么，却不知如何回答才好。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0359')
+#res：「我说，来吧，我来帮你冲下背吧，坐过来。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0260')
+#res：「…嗯，我知道了。」>
+pause
+cls
+syscall<$f62e3ca7> ('shaw2b')
+#res：然后，姬子一边冲洗着，一边用毛巾温柔的擦起我的后背。>
+pause
+cls
+#res：这让我想起了，先前帮我拭去汗水的千寻。>
+pause
+cls
+#res：…虽然我对于，姬子她，到底是不是虔诚的天主教徒的事不太了解。>
+pause
+cls
+#res：不过，她们两人…都是相当温柔的人这一点不会错的。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0272')
+#res：「那个，姬子…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0273')
+#res：「为什么，要回避千寻呢？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0360')
+#res：「嗯？和之前说的一样啦。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0274')
+#res：「因为是…温柔的人的关系吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0361')
+#res：「大概，一半是这样吧…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0275')
+#res：「那。剩下的一半是？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0362')
+#res：「那就是，秘密了…也是规则。」>
+pause
+cls
+#res：规则。这是以前也说过的词汇。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0276')
+#res：「…那么，我呢？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0277')
+#res：「我，不是温柔的人，所以姐姐才亲切的对我？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0363')
+#res：「………………」>
+pause
+cls
+#res：对于这个问题，这次姬子沉默了。>
+pause
+cls
+#res：然后，稍微思考了一下后。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0364')
+#res：「是特别的，可乐饼博士。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0338')
+#res：「…又说这种的话…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('shaw2b')
+#res：哗啦啦，>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0204')
+#res：「哇。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0365')
+#res：「你看…差不多要洗完了喔。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：结果，还是被转移话题了。>
+pause
+cls
+#res：而且不光是这样，姬子所说的话，我无法理解的事情很多，当作秘密的事情也很多。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：…那么，或许是…>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：把我，和某人重叠了吧…>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$84779a85, 0> (syscall<$924ee3eb>(0, 0, 0), syscall<$924ee3eb>(255, 255, 255), 220)
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2ka012')
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0101')
+#res：「如何？已经吃完了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0075')
+#res：「啊，嗯…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0102')
+#res：「呃，又把花椰菜留下来了。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0076')
+#res：「因为，本来就不喜欢嘛…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0103')
+#res：「呼，真拿你没办法呢。」>
+pause
+cls
+#res：明明以前会乖乖吃完的，如今却因为讨厌而剩了下来。>
+pause
+cls
+#res：不过，倒也并不是病情恶化导致的食欲不振。>
+pause
+cls
+#res：单纯地，只是变得会和我撒娇了吧。这样想着的我也很高兴。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0104')
+#res：「那么，给，体温表。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0105')
+#res：「用嘴来测量体温也可以，不过可别咬喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0077')
+#res：「嗯。」>
+pause
+cls
+#res：微笑着，含着体温表的她。>
+pause
+cls
+#res：从只能打开15厘米的窗户外射入的，夏日的阳光。照耀着她的侧脸。>
+pause
+cls
+#res：今天也向着坐在椅子上的我，露出了笑容。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0078')
+#res：「啊，说起来…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0106')
+#res：「你看，很危险的不能说话喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0079')
+#res：「好～」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：哔哔哔…>
+pause
+cls
+#res：不久后体温计的铃声响起，我，读出液晶萤幕上的温度。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0080')
+#res：「…几度？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0107')
+#res：「36．5度，这样的温度很平常呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0081')
+#res：「那么，我今天也想出去。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0108')
+#res：「中庭，还是去吃冰淇淋？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0082')
+#res：「嗯，哪个好呢…有点烦恼呢。」>
+pause
+cls
+#res：体温正常的话，就外出吧。>
+pause
+cls
+#res：这件事也得到了医生们的许可，在最近，也已经成为了每天的惯例。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0083')
+#res：「啊，对了…」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0084')
+#res：「比起这个，有个不认识的老奶奶来和我说话了。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0109')
+#res：「…不认识的老奶奶？什么时候？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0085')
+#res：「那个呢，昨天晚上。」>
+pause
+cls
+#res：…是谁呢？会到这7楼的人，应该也很有限。>
+pause
+cls
+#res：首先是病人和探病的家属。再来是医生和护士，以及我们陪护。>
+pause
+cls
+#res：除此之外的话，就只剩下偶尔会来的，神父和修女了吧。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0110')
+#res：「是来探望某个病人的吧？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0086')
+#res：「不，因为穿着睡衣，应该是这里的人吧。」>
+pause
+cls
+#res：…有点不可思议。>
+pause
+cls
+#res：的确在一般病房的话，病人之间的交流很普遍。>
+pause
+cls
+#res：有时候，因为在这个地方认识之后，成为了一生的挚友或是商业上的伙伴的事也有。>
+pause
+cls
+#res：可是，这7楼不同。>
+pause
+cls
+#res：互相之间，都知道自己快要去世，同为病人也没有什么好交流的了。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0111')
+#res：「那么，她来说了什么呢？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0087')
+#res：「那个，她问我是第几次了。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0112')
+#res：「…第几次？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0088')
+#res：「嗯，她说要是第一次的话，有事情要告诉我。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0113')
+#res：「你怎么回答的呢？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0089')
+#res：「我说有点不太了解后，她就说那下次再说吧。」>
+pause
+cls
+#res：到底，是什么事情？>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说到这个，曾经有听过传说。>
+pause
+cls
+#res：这里有着只有7楼病人们之间，不断传递下去的…称为规则的东西。>
+pause
+cls
+#res：当然我也没相信过，问过其他以前负责7楼病人的人，也被否定了。>
+pause
+cls
+#res：不过…>
+pause
+#res：要是真的有这样的信息的话，到底传达的又是怎样的事情呢…>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0114')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0090')
+#res：「…姐姐？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0115')
+#res：「啊，啊，抱歉。」>
+pause
+cls
+#res：不由得，一下子愣住了。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0116')
+#res：「那么，今天去中庭吧？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0117')
+#res：「你看，难得今天，天气不怎么热呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0091')
+#res：「呜，也有点想吃冰淇淋呢…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0118')
+#res：「那么就在中庭吃冰淇淋吧。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+#res：虽说有些微凉，不过到底是仲夏。就算有些风，阳光依旧如此强烈。>
+pause
+cls
+#res：所以我，把她留在中庭树荫下的椅子上，便跑去了附近的商店。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0119')
+#res：「哈啊哈啊，久等了～」>
+pause
+cls
+#res：我手里拿着刚从商店买回来的冰淇淋，小跑着回来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0092')
+#res：「啊，流了好多汗。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0120')
+#res：「呼，好热～」>
+pause
+cls
+#res：因为流着汗，不由得扇起了裙子。在这盛夏中奔跑，流汗也是理所当然的。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0121')
+#res：「你看，还没融化喔，冰淇淋。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0093')
+#res：「嗯，谢谢…」>
+pause
+cls
+#res：「不过…姐姐的份呢？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0123')
+#res：「呼呼呼，不用担心喔。」>
+pause
+cls
+#res：我做着夸张的动作，将60日元的苏打冰淇淋从袋子里取出来。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0124')
+#res：「锵！」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0094')
+#res：「啊，变成两个了。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0125')
+#res：「这样。」>
+pause
+cls
+#res：咭吱，>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0126')
+#res：「给你，一人一半哦。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0095')
+#res：「哈哈，嗯。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+#res：在夏日阳光下，两人一起吃着苏打冰淇淋。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0127')
+#res：「果然冰淇淋啊，在炎热的时候吃最棒呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0096')
+#res：「嗯，虽然有点化了。」>
+pause
+cls
+#res：边这样谈论边享用着的我们。眼前的花坛中，三色堇和非洲菊正盛开着。>
+pause
+cls
+#res：前几天看见的冬用区域，也大概种植起什么了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0097')
+#res：「那个，能不能再为我做下那个呀…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0128')
+#res：「可以喔，那么帮我拿一下冰淇淋。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0098')
+#res：「嗯。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：双手各拿着1个冰淇淋的她。一个是我的冰淇淋，另外一个是她自己的。>
+pause
+cls
+#res：然后我，从口袋里将十字架取出后，像平常一样，静静地合上双手。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0129')
+#res：「正如我们饶恕了亏负我们的人…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0130')
+#res：「饶恕我们对你的亏负吧…」>
+pause
+cls
+#res：…天主经。也就是所谓的主祷文。>
+pause
+cls
+#res：恐怕，是什么都无所谓吧。>
+pause
+cls
+#res：只要，是为她所着想的我，她也因此而快乐，这样就足够了…>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0131')
+#res：「好，已经结束了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0099')
+#res：「嗯，谢谢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0132')
+#res：「不不，也不是什么厉害的魔法啦。」>
+pause
+cls
+#res：反正，我也只是一个信徒，只不过是效仿而已。理所当然的，那些句段都不可能是自己的话语。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0100')
+#res：「今天的，是谁说的呢？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0133')
+#res：「当然是耶稣本人喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0101')
+#res：「那么，其他的人也有吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0134')
+#res：「嗯，很伟大的圣者啊教皇啊，有很多人的句段呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0102')
+#res：「唉～，这么多人的句段，姐姐都知道啊。」>
+pause
+cls
+#res：面对佩服着的她，我点了下头。>
+pause
+cls
+#res：全部的话是有点不太可能，不过像是福音书之类的我还是读过的。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0135')
+#res：「那么，对了…这个，你想要吗？」>
+pause
+cls
+#res：说完，我再次从口袋里取出十字架来。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0103')
+#res：「唉？可以吗？我可以收下么。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0136')
+#res：「嗯，而且我还有一个的…」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0137')
+#res：「更重要的是，这样我们就可以一起做了呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0104')
+#res：「这样说的话…我也可以施放魔法了？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0138')
+#res：「哈哈，算不算是魔法可不知道呢。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+#res：手里拿着十字架，似乎很高兴的她。>
+pause
+cls
+#res：原本…7楼的病人，会反复的进出医院几次。>
+pause
+cls
+#res：…不过她，已经无家可归。>
+pause
+cls
+#res：所以，一直居住在这里。所以我也，一直陪伴在身边。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…尼洛和阿洛伊斯的相遇，已经经过了两个月。>
+pause
+cls
+#res：原本的话，大概已经是迎接第一次出院的时候了吧…>
+pause
+cls
+call<$bc417f7b, 0>
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+exit (0)

@@ -1,0 +1,1484 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$84779a85, 0> (syscall<$924ee3eb>(0, 0, 0), syscall<$924ee3eb>(255, 255, 255), 220)
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('n01a', 1)
+call<$a4eb1e4c, 0> ('n01b')
+call<$a4eb1e4c, 0> ('n01c', 1)
+call<$a4eb1e4c, 0> ('n01d')
+call<$5f271e74, 0>
+#res：－尼洛和阿洛伊斯－>
+pause
+cls
+call<$d334ba75, 0> ('2ka012')
+#res：6月。梅雨季节的广阔天空。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005')
+call<$5f271e74, 0>
+#res：：「这次的主治医师和以往不同...」>
+pause
+cls
+#res：站在医院前，我的脑海里，充斥着对于即将见面的对方的期待。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006')
+call<$5f271e74, 0>
+#res：在长长的走廊中，我找到医生并跟他说起话来。>
+pause
+cls
+#res：「那个...真的好吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0003')
+#res：「嗯，请一定让我来做。」>
+pause
+cls
+#res：「嗯，就算你这样说...」>
+pause
+cls
+#res：对于我的请求面露难色的医生。>
+pause
+cls
+#res：因为对还是大学生的我来说，负担还是太重了吧？在这背后大概是有着这样的理由。>
+pause
+cls
+#res：「对方是...知道吧？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0004')
+#res：「当然知道，正因为这样我才自愿负责的。」>
+pause
+cls
+#res：依旧说话吞吐的医生，以及纠缠着这医生的我。>
+pause
+cls
+#res：事情的开端，是我自愿担任安宁病房的新病人的陪护的时候。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0005')
+#res：「啊，我从教会那里拿到了推荐函。」>
+pause
+cls
+#res：我这么说着把一封信函交给了他。>
+pause
+cls
+#res：在这里。有“特别”限制的事情，不光要看这里，还要看看教会的意见如何。>
+pause
+cls
+#res：「知道了...我会向办公室的医生报上去的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0006')
+#res：「非常感谢。」>
+pause
+cls
+#res：我深深地低下头，然后离开了这个地方。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005')
+call<$5f271e74, 0>
+#res：志愿担任7楼的陪护。>
+pause
+#res：这件事情本身，也并不是什么很奇怪的事情。>
+pause
+cls
+#res：而且我，到现在为止，也照顾过了3个安宁病房的病人。>
+pause
+cls
+#res：考虑到自己的年龄，我也算是少有的拥有陪护经验的人。倒也可以称得上是熟手了。>
+pause
+cls
+#res：要说为什么的话，通常的医院，不管是否为本人自愿，就大学生的义工行为来说，在安宁病房的工作实在辛苦。>
+pause
+cls
+#res：所以不管人手如何不足，在安宁病房这种地方还是会拒绝的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0007')
+#res：「不过...这里是天主教医院。」>
+pause
+cls
+#res：而且，和其他的地方比较起来，比起医疗组织来说倒比较像是宗教组织。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0008')
+#res：「而且我是，天主教徒...」>
+pause
+cls
+#res：在懂事以前便受过洗，也从事了很多公益活动。>
+pause
+cls
+#res：...这大概，就是我全部的理由吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0009')
+#res：「不过这次负责的人和平常不同...」>
+pause
+cls
+#res：对方还是个“小孩”。而且不光光是个小孩，还是个躺在病床上却没有监护人照顾的小孩。>
+pause
+cls
+#res：简单来说是无家可归，没有父母的小孩。>
+pause
+cls
+#res：当然，即便是孩子，也不可能刚一出生就没了父母。>
+pause
+cls
+#res：残忍地，把孩子留在了病房...>
+pause
+cls
+#res：就这样人间蒸发的父母也不少。虽然不想承认，不过这也是现实。>
+pause
+cls
+#res：像这样，无处可去，无人可依的小孩...>
+pause
+cls
+#res：一开始救济她的，就是我们这样的天主教医院。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0010')
+#res：「...也可以说，这里是她最后一座避风港。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：并且，这种慈悲的行为...这种天主教教义，正是让我成为信徒的理由。>
+pause
+cls
+#res：所以我，并不是什么虔诚的信徒。>
+pause
+cls
+#res：不管是浸信会也好，基督新教也更好，那些东西怎么样都无所谓。>
+pause
+cls
+#res：虽然说从懂事之前就受到了洗礼，那也只不过，是因为我偶然出生在教堂旁边的家庭而已。>
+pause
+cls
+#res：再怎么样，我也不会有希望终生宣誓的决心。>
+pause
+cls
+#res：...我只是纯粹的，赞同这个慈悲的精神罢了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：叮>
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('a006')
+call<$5f271e74, 0>
+#res：今天并不是平常去的7楼，而是5楼。>
+pause
+cls
+#res：和还未见过的尼洛打招呼。>
+pause
+cls
+#res：这里所说的「尼洛」，是我们陪护和护士间的暗语。>
+pause
+cls
+#res：从7楼的病人，小孩，无家可归这些词汇中联想到的。>
+pause
+#res：恐怕，是从“佛兰德斯的狗”里命名的吧。>
+pause
+cls
+#res：感觉实在是很失礼的命名方式，不过到现在，我也不知道事情的真假。>
+pause
+cls
+#res：在我来到这里之前似乎就已经这么定下来了。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0011')
+#res：「只是...这应该不是怀有恶意的称呼吧。」>
+pause
+cls
+#res：要说为什么的话，是因为每当知道尼洛要来的时候，就会有很多自愿负责尼洛的医生和护士以及陪护。>
+pause
+cls
+#res：这种情况，是因为这里是，以无私奉献为宗旨的天主教医院吧。>
+pause
+cls
+#res：然后，在这当中负责尼洛的陪护，被人半尊敬半捉弄的，称作阿洛伊斯。>
+pause
+cls
+#res：...其实，帕奇那边，感觉更合适吧...>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0012')
+#res：「不过我们，没办法陪他们一起死去。」>
+pause
+cls
+#res：所以，才会以最好的挚友阿洛伊斯称呼。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0013')
+#res：「而我呢，也是想要扮演阿洛伊斯的人之一...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0014')
+#res：「早。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0001')
+#res：「啊，嗯...早...」>
+pause
+cls
+#res：仰起身子，往这边看来的女孩子。>
+pause
+cls
+#res：膝盖上，放着刚吃完的午餐餐盘，大概是刚吃过午餐吧。>
+pause
+cls
+#res：那柔顺的头发让人印象深刻。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0015')
+#res：「啊，真乖呢，全部都吃完了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0002')
+#res：「嗯...」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0003')
+#res：「...虽然我很讨厌花椰菜的。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0004')
+#res：「那个，姐姐你是...？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0016')
+#res：「啊，还没自我介绍呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0019')
+#res：「我是这次，负责照顾你的陪护喔。」>
+pause
+cls
+#res：说完，拿出了证明书给她看。>
+pause
+cls
+#res：虽然对这种年纪的小孩，这样做也没什么意义，不过给对方看下证明，也是这里的规定。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0020')
+#res：「那么，之后就请多多指教了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0006')
+#res：「啊，嗯...我也是...」>
+pause
+cls
+#res：虽说是应了我一声，但还是一脸懵懂的看着我>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0007')
+#res：「...不过，陪护的是什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0021')
+#res：「嗯？」>
+pause
+cls
+#res：意料之外的事。>
+pause
+cls
+#res：虽然知道她大概还有很多事情不了解，不过没想到会连这也不知道。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0008')
+#res：「和医生啊，护士啊不同吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0022')
+#res：「这...」>
+pause
+cls
+#res：...这问题该怎么回答好呢？>
+pause
+cls
+#res：照顾你日常所需的人。>
+pause
+#res：普通的话这样回答也没关系吧。>
+pause
+cls
+#res：不过，在这之后她要前往的是7楼。>
+pause
+cls
+#res：然后我，是她的陪护。对于尼洛来说就是阿洛伊斯。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：本来，在未被通知之前是不能住进7楼的。也就意味着，对您的治疗行动已经结束。>
+pause
+cls
+#res：说直接一点的话，就是宣告您的死亡。>
+pause
+cls
+#res：那是在接受了这些说明，并且同意了这种方案，才可以住进去的地方。>
+pause
+cls
+#res：所以，普通的医院的话，安宁病房是几乎不会收留小孩子的。>
+pause
+cls
+#res：...不过，尼洛不同。>
+pause
+#res：这个医院也不普通，更不用说她出自天主教徒家庭。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0009')
+#res：「...怎么了？姐姐？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0023')
+#res：「啊，哈哈，对不起。」>
+pause
+cls
+#res：陪护是什么？对于这问题我一时没办法总结出来，于是稍微沉默了一小会。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0024')
+#res：「是呢...那个，像是朋友吧。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0010')
+#res：「...姐姐是？我的朋友？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0025')
+#res：「嗯，所以，有什么事都可以跟我说，不用客气喔。」>
+pause
+cls
+#res：我立刻，将她已经吃完的餐盘收拾好。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0011')
+#res：「啊，抱歉...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0026')
+#res：「没什么没什么，朋友就不用客气啦。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0012')
+#res：「嗯，嗯...」>
+pause
+cls
+#res：对着似乎还在客气的女孩子，我继续说着。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0027')
+#res：「而且啊，我很高兴呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0013')
+#res：「...为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0028')
+#res：「其实呢，从以前开始就想要个年龄差距很大的朋友。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0014')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0015')
+#res：「我也...一直想要有一个姐姐。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0029')
+#res：「诶呀？那么就这样决定了喔。」>
+pause
+cls
+#res：说完，我把手伸了过去。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0030')
+#res：「在这之后也请多多指教呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0016')
+#res：「嗯，我这也是...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (85)
+#res：炙热的阳光和蝉鸣。初次触碰的手非常的温暖。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：不久后将要搬到7楼，那个夏天的故事。>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：...就这样，我们成为了朋友。>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：...尼洛和阿洛伊斯成为了朋友...>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：几天后。我一如往常的，朝着她的方向前进。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0031')
+#res：「好热...」>
+pause
+cls
+#res：一大早蝉就开始卯足了劲地鸣叫，看来今天也会很热的样子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0032')
+#res：「早。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0017')
+#res：「...早。」>
+pause
+cls
+#res：同昨日一样，她轻轻地仰起身子说着早安。>
+pause
+cls
+#res：虽然，稍微变得亲近了些，不过，她还是一直一副客气的样子。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0033_1')
+#res：「早上的体温检查已经结束了？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0018')
+#res：「嗯，36.5度...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0034')
+#res：「这样啊，安心了呢。」>
+pause
+cls
+#res：说完我把早餐的餐盘收拾好。然后，到下午之前就没有什么需要做的事情了。>
+pause
+cls
+#res：本来，陪护的工作就不是很多。负责治疗行动的部分的也是医院和护士的工作。>
+pause
+cls
+#res：就只有查查体温的程度，还有就是帮助她周围的日常所需等。>
+pause
+cls
+#res：...不过反过来说，帮助日常所需是没有”上限”的。>
+pause
+cls
+#res：正因为这样，不是医师和护士，而是陪护被给予了阿洛伊斯的称呼。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0035')
+#res：「那么，到餐厅去吧？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0019')
+#res：「嗯？可是，刚刚才吃过的...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0036')
+#res：「吃冰激凌喔，冰激凌，毕竟这么热呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0020')
+#res：「可是...」>
+pause
+cls
+#res：她用着很复杂的表情看向我。应该不光光只是客气，还想着什么其他的事情吧。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0037')
+#res：「没问题啦，姐姐请客的。」>
+pause
+cls
+#res：于是我，像是推着她一样走向餐厅。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：因为还是上午，还没什么人的样子。在这里，我们并排着坐到椅子上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shokudou')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0038')
+#res：「那么，想吃什么都可以说啦。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0021')
+#res：「嗯，可是...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0039')
+#res：「我～说～过～，不用客气的。」>
+pause
+cls
+#res：我这么说着，把餐厅的菜单递给她。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0022')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0023')
+#res：「那么，香草口味...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0040')
+#res：「好，香草口味的明白了。我要吃什么才好呢～」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0041')
+#res：「呃，冰激凌只有一种口味呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0024')
+#res：「嗯，好像是这样...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0042')
+#res：「哈哈，这样的话就没有选择的余地呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0043')
+#res：「那么，我这就去买喔。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我把她留在座位上，前往柜台。>
+pause
+cls
+#res：瞟向四周，和这个小女孩同龄的小孩，都在和妈妈爸爸一起享用着。>
+pause
+cls
+#res：理所当然的，像她这种年纪，一个人在医院的餐厅坐着总感觉怪怪的。>
+pause
+cls
+#res：...不过，她的父母已然不在。>
+pause
+cls
+#res：当然她是不知道的，我们也没让她知道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shokudou')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0044')
+#res：「给，久等了～」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0026')
+#res：「哇，冰激凌好多。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0045')
+#res：「嗯，因为比想象中的还小，感觉只吃一个也太少了。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0046')
+#res：「也就是说，我们每人要吃两个喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0027')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0047')
+#res：「怎么了？难不成是讨厌冰激凌。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0028')
+#res：「不，不是的，不是这样的...」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0029')
+#res：「...假如，被妈妈看到的话会生气的吧。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0030')
+#res：「妈妈总是说不能吃冰激凌的...」>
+pause
+cls
+#res：她这样说着，寂寞地低下了头。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0048')
+#res：「没，没问题啦，因为是和姐姐在一起啊。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0031')
+#res：「...真的？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0049')
+#res：「嗯，医生和护士也不会生气的。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0032')
+#res：「嗯，我明白了。」>
+pause
+cls
+#res：于是这次，她终于开心地拿起了小勺子。>
+pause
+cls
+#res：虽然或许是理所当然的，她可能从没来这里吃过一次吧。>
+pause
+cls
+#res：...可是，像是这种年纪的小孩，不可能会讨厌冰激凌和巧克力的。>
+pause
+cls
+#res：我想着这样的事，正看着她慢慢享用的时候...>
+pause
+cls
+#res：她却只是吃了几口后，便停下手来。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0050')
+#res：「...怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0033')
+#res：「说起来，妈妈...」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0034')
+#res：「最近呢，几乎都没有来看我。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0051')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0035')
+#res：「以前明明每天都来的...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0052')
+#res：「...这......」>
+pause
+cls
+#res：除此之外我什么也回答不了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：这孩子也没理由会知道，至少，我没办法告诉她。>
+pause
+cls
+#res：你的父母已经走了。之后，你要一个人孤独地前往7楼去...>
+pause
+cls
+#res：...我怎么可能说得出这样的话来。>
+pause
+cls
+#res：虽然，这实在很悲哀，但我也清楚的知道这是常有的事。>
+pause
+cls
+#res：只留下病人，家人就这样消失。>
+pause
+cls
+#res：理由各种各样。经济上的，心理上的...>
+pause
+cls
+#res：虽然觉得这是非常无情且残忍的行为，但我也没有打算，要单方面的责备父母。>
+pause
+cls
+#res：也没有父母想把孩子留在病房，就这样离去的。>
+pause
+cls
+#res：那大概不是简单一句累了之类的词能形容的，对于当事者来说相当大的苦恼和负担吧。>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：...只是...>
+pause
+call<$49ea5b57, 0> (90)
+#res：觉得这个世界很冷淡。>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：不过我也知道，这就是现实的一部分。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shokudou')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0036')
+#res：「嗯？姐姐怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0053')
+#res：「不，没什么喔。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0054')
+#res：「比起这个...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0055')
+#res：「你看，要是喜欢的话我的份也拿去吧？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0037')
+#res：「啊，可是...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0056')
+#res：「没关系没关系啦，不用客气的。」>
+pause
+cls
+#res：我把她吃完的盘子收拾起来后，再把自己装着冰激凌的盘子放到她面前。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0057')
+#res：「...好吃么？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0038')
+#res：「嗯...」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0039')
+#res：「诶，这个冰激凌真好吃呢。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (90)
+#res：...这样说着对我笑了。>
+pause
+#res：一直都很客气的她，第一次对我笑了。>
+call<$49ea5b57, 0> (90)
+#res：...>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：只是因为吃了医院餐厅的廉价香草冰淇凌...>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：...第一次，对我露出了笑容...>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+#res：几天后。>
+pause
+cls
+#res：炙热的阳光和蝉鸣。今天的我，也前往那女孩子的方向。>
+pause
+cls
+#res：虽然从前几天开始移到7楼，不过并没有什么特别的改变。>
+pause
+cls
+#res：所以，现在最大的不安是有关于父母的疑问。到底该如何答好这个问题，我没有自信。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：叮，>
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+#res：「早安。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0058')
+#res：「嗯，今天也很热呢。」>
+pause
+cls
+#res：和亲近的护士朋友，互相道着早安。>
+pause
+cls
+#res：「如何？已经习惯这里了？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0059')
+#res：「嗯，原本，5楼也是单人间。」>
+pause
+cls
+#res：她所指的『这里』是7楼的事情。习惯了吗？所问的，也不是我。>
+pause
+cls
+#res：「难不成，晚上也一直在一起？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0060')
+#res：「嗯，差不多，睡在医院的病床上也已经习惯了...」>
+pause
+cls
+#res：「果然没有监护人，各种事情都很辛苦呢...」>
+pause
+cls
+#res：对于这句话我暧昧地点了头。>
+pause
+cls
+#res：顺便一提，她所指的没有监护人...>
+pause
+cls
+#res：并不是指行踪不明音信全无之类的，而是指已经不存在于这个世界了。>
+pause
+cls
+#res：关于死因，护士长虽然没有告诉我，但有听说不是因为事故，也不是因病而死。>
+pause
+cls
+#res：...剩下的死因只剩下一个。>
+pause
+cls
+#res：所以，也就不再追问下去了，互相之间。>
+pause
+cls
+#res：这是即使在现在，对于我们天主教徒来说也是重罪，是禁忌之一。>
+pause
+cls
+#res：「那么，要是有什么事情就和我说吧。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0061')
+#res：「嗯，谢谢。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0062')
+#res：「早～，状况如何？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0040')
+#res：「嗯，今天看起来不错。」>
+pause
+cls
+#res：她如往常一样，从床上轻轻地仰起上半身，往这边看过来。>
+pause
+cls
+#res：而我，则坐在了旁边的椅子上。>
+pause
+cls
+#res：然后，就维持着这种状态，几乎一整天都和她一起度过了。>
+pause
+cls
+#res：从窗口进来的眩目阳光，照耀着她的侧脸，有时候，也会说些无所谓的事情。>
+pause
+cls
+#res：...这就是平常我们的样子。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0063')
+#res：「今天也是，漂亮的花朵呢...」>
+pause
+cls
+#res：在窗边装饰着，几个小小的花瓶。在那里也，映照出鲜艳的白色与黄色。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0041')
+#res：「那个呢，是护士姐姐装饰的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0064')
+#res：「这样，真是不错呢。」>
+pause
+cls
+#res：一边回答着一边往黄色的非洲菊花瓶里浇上水。看她这个样子，似乎很高兴。>
+pause
+cls
+#res：乍看之下，是很平常的病房情景。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：...不过，其实不是如此。>
+pause
+#res：本来，对于她来说这种用来探望的花是不存在的。>
+pause
+cls
+#res：因为无家可归，没有人会带着花来的。>
+pause
+cls
+#res：不过，在这里的医院...特别是这里的7楼，每天都会从别人那里收到花束。>
+pause
+cls
+#res：然后护士和我们陪护，就把收到的花分配到这楼的各个房间。>
+pause
+cls
+#res：如果这样花还是不够的话，就从花坛中择选一些来搭配。这也是我们工作的一部分。>
+pause
+cls
+#res：就算是，完全没有人来探望的病人，我们也会为他“做出”一直都有花的样子，这就是我们这的实际情况。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0065')
+#res：「喜欢非洲菊么？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0042')
+#res：「嗯，不过我更喜欢白色的那个」>
+pause
+cls
+#res：这样说着，她向另一个花瓶的...白色百合指去。>
+pause
+cls
+#res：一般来说探病用的花束香味会特别的浓厚，而这些花瓶，也并不是我们准备的。>
+pause
+cls
+#res：不过，可以很容易的想到送花的人是谁。能够送出这种东西的人，不会太多。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0043')
+#res：「这是教会的人装饰的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0066')
+#res：「嗯，看来已经来过了呢」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0044')
+#res：「嗯，他们说还会再来的。」>
+pause
+cls
+#res：闻着百合的气味高兴的回答着的她。恐怕来探病的是神父或是修女吧。>
+pause
+cls
+#res：考虑到她现在的状况，教会，会这么做也不奇怪。>
+pause
+cls
+#res：...对于不是信徒的人也无差别地用着慈悲精神对待。>
+pause
+#res：某种意义上来说，也像是这里的作风。>
+pause
+cls
+#res：不过对于她来说...大概是不明白这些的吧。>
+pause
+cls
+#res：就算父母是天主教徒，而她本身，还是未接受过洗礼的身体。而且幼小无知。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0045')
+#res：「啊，说起来...」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0046')
+#res：「关于爸爸妈妈的事...」>
+pause
+cls
+#res：突然说到父母的话题，我惊讶了一下。这是最令我不安的问题。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0047')
+#res：「他们啊，好像说是去了很远的地方旅行去了。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0067')
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0048')
+#res：「所以，有一段时间不能来探望我了。」>
+pause
+cls
+#res：...是谁这样告诉她的？>
+pause
+cls
+#res：一瞬间，我把想问的话咽了下去。>
+pause
+cls
+#res：大概是医生或者护士吧...？或许，也可能是神父或修女。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：不过，不管是谁，我都没办法去反驳。>
+pause
+cls
+#res：这样的谎话...>
+pause
+#res：单纯地说谎是不行的，是错误的。>
+pause
+cls
+#res：我们都不是这种话就可以应付的小孩了。虽然不知道是谁告诉她的，但他的心情大概是一样的吧。>
+pause
+cls
+#res：对于这种行为，如果要站在道德高点，去责备他们，说这不过是应付场面的伪善的话...>
+pause
+cls
+#res：希望能告诉直接与她接触的我们，有何其他解决的方法。>
+pause
+cls
+#res：如果这种行为，被称作恶的话...那我们全部，也都是恶人吗。>
+pause
+#res：...隐瞒事实的我也是同罪吗。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0049')
+#res：「嗯，妈妈怎么不快点回来呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0050')
+#res：「每次呢，妈妈都带着做好的布丁过来呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0068')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0051')
+#res：「那个，到时候姐姐也一起吃吧？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0069')
+#res：「嗯，真期待呢...」>
+pause
+cls
+#res：除此之外，我不知道该如何作答。>
+pause
+cls
+#res：只是，面对着这无法形容的痛苦，不由想随便找些其他话题来继续。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0070')
+#res：「对，对了...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0071')
+#res：「那，那个，去餐厅吧。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0052')
+#res：「唉？可是刚刚，才吃过早餐的喔。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0072')
+#res：「没关系没关系啦，我再请你吃冰激凌喔。」>
+pause
+cls
+#res：我再次推着她的后背，前往平常去的医院餐厅。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (90)
+#res：...成为朋友的尼洛和阿洛伊斯。>
+pause
+cls
+#res：本来应该是扮演帕奇，但我们却没办法和她们一起死去。>
+pause
+cls
+#res：所以我是，尼洛最好的朋友阿洛伊斯。>
+pause
+cls
+#res：...不过，抱着隐瞒的话，真的能称作是朋友吗？>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：然后，她自己也，再过不久就要死去这事...>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：到底要继续隐瞒到什么时候才可以呢...>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+#res：知了，知了，>
+pause
+cls
+#res：几天后，今天也是晴朗广阔的夏日天空。>
+pause
+cls
+#res：在这样的天空下，今天我们去了中庭。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0053')
+#res：「呼，今天有点热呢...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0073')
+#res：「那么，差不多回去了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0054')
+#res：「不，我想在外面再待一会儿。」>
+pause
+cls
+#res：这样说着，她对我露出了笑容。对我如此亲近。>
+pause
+cls
+#res：或许是理所当然，这里并没有与她年龄相仿的人。这里的7楼，几乎都是上了年纪的老人。>
+pause
+cls
+#res：所以，我想更多地陪在她的身边。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0055')
+#res：「奇怪？为什么那地方没有种花呢？」>
+pause
+cls
+#res：在眼前广阔的花坛。>
+pause
+cls
+#res：在各种各异的花朵和绿叶当中，只有那个角落什么都没有看到。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0056')
+#res：「...难道说是枯萎了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0074')
+#res：「嗯，差不多，也可以这么说呢...」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0057')
+#res：「这样啊，有点感觉可怜呢。」>
+pause
+cls
+#res：说着似乎有点寂寞的话语。>
+pause
+cls
+#res：不过那边，是种植春放植物的区域。只是已过了开放时间，如今到了这个季节枯萎的。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0075')
+#res：「不过呢，下个月还会种下种子的...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0076')
+#res：「一定马上就会变得热闹起来喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0058')
+#res：「嗯，我知道了。」>
+pause
+cls
+#res：这句话，这次是用着愉悦的表情回答的。>
+pause
+cls
+#res：对于这样的她，我说起了，突然想到的句子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0077')
+#res：「这里是荒野...所以花才开喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0059')
+#res：「嗯？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0078')
+#res：「这是，以赛亚书里的句段。」>
+pause
+cls
+#res：然后我开始向她说明。>
+pause
+cls
+#res：在35章中，说是旷野和干旱之地，必然欢喜，沙漠也必快乐，又像玫瑰盛开。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0079')
+#res：「...必开花繁盛，乐上加乐，而且欢呼。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0060')
+#res：「有点，不太了解呢...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0080')
+#res：「就是说，不是因为什么都没有而难过...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0081')
+#res：「而是正因为什么都没有，连喜悦也诞生了这样的意思吧？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0061')
+#res：「唉～，姐姐，好厉害。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0082')
+#res：「哈哈，也没那么厉害啦。」>
+pause
+cls
+#res：不知为何佩服着的她，而我否定了她的话。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0083')
+#res：「反正，我也只不过是知道经文和圣人的句子而已...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0084')
+#res：「...也不是我自己说出来的句子呢。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0062')
+#res：「那么，姐姐是博学多闻的人对吧？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0085')
+#res：「嗯？啊，对于这些事是很了解吧。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0063')
+#res：「...博士？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0086')
+#res：「哈哈，博士啊～」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0087')
+#res：「虽然也没到那种程度，不过感觉这称呼也不错呢。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0064')
+#res：「那么，你知道那个吗？」>
+pause
+cls
+#res：她这么说着，指向医院入口种植的海枣树。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0065')
+#res：「我，觉得那应该是凤梨树吧。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0088')
+#res：「...凤梨树？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0066')
+#res：「嗯，那非常的高大吧。」>
+pause
+cls
+#res：虽然，的确有点相似...>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0067')
+#res：「但是，为什么大家都不吃呢？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0089')
+#res：「..................」>
+pause
+cls
+#res：不像是在开玩笑。这孩子一定是认真说出来的吧。>
+pause
+cls
+#res：是应该否定，还是应该肯定，我一瞬间苦恼住了...>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0090')
+#res：「没错，你发现了很了不起的地方呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0091')
+#res：「其实...那个确实是凤梨树喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0068')
+#res：「果然...」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0092')
+#res：「不过呢，这件事绝对要保密喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0069')
+#res：「为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0093')
+#res：「要是被大家发现的话，它不就会被吃掉了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0094')
+#res：「所以，就这样，在它长得更大更大之前要保守秘密。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0070')
+#res：「原来如此...真不愧是博士呢。」>
+pause
+cls
+#res：她似乎很佩服地回答道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0095')
+#res：「那个，像是这样的事情我也知道喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0071')
+#res：「什么什么？」>
+pause
+cls
+#res：她用着期待的眼神，注视着我。>
+pause
+cls
+#res：而我也面向这样的她，从口袋里取出了十字架...>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0096')
+#res：「愿主的恩惠和祝福降临于你...」>
+pause
+cls
+#res：我合上双手，闭上眼睛，为她献上祈祷。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0097')
+#res：「好，结束了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0072')
+#res：「刚刚的是什么？像是咒语的东西吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0098')
+#res：「咒语啊...稍微有点不一样吧。」>
+pause
+cls
+#res：的确，要像是圣人和大司教的话，那确实可以称作咒语和魔法也说不一定。>
+pause
+cls
+#res：...不过我，既不是牧师也不是圣职者，只是一介信徒。>
+pause
+cls
+#res：所以，也并没到像圣礼那种夸张的程度，只是单纯的祈祷而已。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0073')
+#res：「那么，是魔法？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0099')
+#res：「嗯，是这种感觉吧。」>
+pause
+cls
+#res：或者说...>
+pause
+#res：只不过是安慰。>
+pause
+cls
+#res：从一开始就并没有期待着效果，原本，祈祷也不是为了这样的意图才存在的。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0100')
+#res：「不过，啊，因为很难得，所以称作魔法也可以喔。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0074')
+#res：「嗯，我知道了。」>
+pause
+cls
+#res：然后，对着我露出了平常的开朗笑容。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (80)
+#res：...成为朋友的尼洛和阿洛伊斯。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：到现在，明明是挚友了，我能做到的却只是买给她冰激凌而已...>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：就这样，阿洛伊斯终于又找到了一件，能为她做的事...>
+pause
+cls
+call<$bc417f7b, 0>
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+exit (0)

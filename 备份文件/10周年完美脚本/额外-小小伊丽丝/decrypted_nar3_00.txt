@@ -1,0 +1,791 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('kaze3')
+call<$35395c9f, 0> (4)
+#res：―风吹过。>
+pause
+cls
+#res：寒风冷冷的宣告着秋天的离去，被夕阳渲染的麦穗也随风摇曳。>
+pause
+cls
+call<$d334ba75, 0> ('ebi_ori02')
+call<$812afdf0, 0> ('n3iri_0018b')
+#res：伊丽丝：「『“……所有的生命，都有其光辉的时刻”』」>
+pause
+cls
+call<$a4eb1e4c, 0> ('3tui_02', 1500)
+call<$5f271e74, 0>
+#res：如果那样的话，如今眼前所看到的景色，充满光辉也是理所当然的吧。>
+pause
+cls
+#res：即使被冰冷的北风吹得四处摆动，它的生命依旧那么顽强。>
+pause
+cls
+#res：……但是……>
+pause
+#res：这并不会永恒。这光辉，最终也会褪去色彩。>
+pause
+cls
+#res：这就是这个世界的真理。任何人，任何事物，都绝对逃避不了的真理。>
+pause
+cls
+#res：春生，夏长，秋实……>
+pause
+cls
+#res：……然后冬天又将来临。那是个，让人感到冰冷的终结的季节。>
+pause
+cls
+#res：就像为漫长的生命画上句号般，只能忍耐的黑夜就要开始了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora012', 1200)
+call<$5f271e74, 0>
+#res：再过不久天空将雪花飘飘，所有的景物都会在一瞬间就被披上了银白色吧。>
+pause
+cls
+#res：……每当开始下雪的时候，我总会想起一些往事……>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0020')
+#res：伊丽丝：「『……我的名字叫佩内洛普』」>
+pause
+cls
+call<$a4eb1e4c, 0> ('3tui_03', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0021')
+#res：伊丽丝：「『这是个在冬天的回忆留下的名字……』」>
+pause
+cls
+#res：那是无法磨灭的回忆。一到冬天，总会不由自主想起她。>
+pause
+cls
+#res：就像刚睡醒的孩子会突然间大声地哭起来一样。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0022')
+#res：伊丽丝：「『……很久以前，某个地方有个小女孩……』」>
+pause
+cls
+#res：不能说得上是过得很幸福的小女孩。生逢乱世。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0023')
+#res：伊丽丝：「『……她名字叫伊丽丝』」>
+pause
+cls
+#res：现在说来应该是十多年以前的事情了……严格来说已经忘记究竟是多少年了。>
+pause
+cls
+#res：是啊。故事，到底要从哪里说起呢……>
+pause
+cls
+#res：……刚出生的时候，悲伤哭泣的时候，第一次杀人的时候……>
+pause
+cls
+#res：每个人的人生都会有的转折点。她的人生也有过好多转折点。>
+pause
+cls
+#res：那恐怕是……>
+pause
+#res：……第一次从城堡里出来的时候开始的。>
+pause
+cls
+#res：距今大约十年前，刚好八岁生日那天。>
+pause
+cls
+#res：她被嫁到了邻国。听起来像是虚假的，这却是真实的故事 。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0013', 1200)
+call<$5f271e74, 0>
+#res：―季节是初冬>
+pause
+cls
+#res：才刚入11月，纯白的雪花就从空中飘散下来，那是非常寒冷的一天。>
+pause
+cls
+#res：嘎塌嘎塌地在山路上前进的马车。从出生到现在，这是她第一次被带出城堡。>
+pause
+cls
+#res：在摇晃的马车里，快冻僵的她望向窗外。>
+pause
+cls
+#res：虽然这些景色都是她第一次看到，但是她并未感觉到新鲜，快乐。>
+pause
+cls
+#res：第一次看见的风景……>
+pause
+#res：只是让她感到非常的害怕……>
+pause
+cls
+call<$13d4a7f9, 0>
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$a4eb1e4c, 0> ('na03_t01', 1500)
+call<$a4eb1e4c, 0> ('na03_t01', 1500)
+call<$a4eb1e4c, 0> ('na03_t01b', 100)
+call<$a4eb1e4c, 0> ('na03_t01c', 300)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$84779a85, 0> (syscall<$924ee3eb>(53, 37, 7), syscall<$924ee3eb>(255, 227, 200), 220)
+call<$812afdf0, 0> ('n3kiri_0025')
+#res：小伊丽丝：「……好冷……」>
+pause
+cls
+#res：像是自言自语似地小声呢喃。这突然下起的雪，更是平添了一层寒冷。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_02', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0026')
+#res：小伊丽丝：「……我的名字叫伊丽丝」>
+pause
+cls
+#res：正式的名字叫伊丽丝·卡蒙伊斯·阿利娜。>
+pause
+cls
+#res：卡蒙伊斯，卡蒙伊斯是外祖父的姓阿利娜是祖父的姓。>
+pause
+cls
+#res：听说是在阿利娜的小国里出生，而我好像是排行第二位的公主。>
+pause
+cls
+#res：说成“好像”，有点像是说别人的事一样，我不记得父母有没有直接告诉过我，这也是没办法的事。>
+pause
+cls
+#res：不仅如此，我连好好与父母交谈过的记忆都没有。>
+pause
+cls
+#res：甚至连他们的容貌都记不起来。>
+pause
+cls
+#res：不,不仅仅是父母。从懂事开始，我就是自己一个人。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我到这个岁数以前，一直都只是在小小的房子里生活。>
+pause
+cls
+#res：当然，人们都叫我伊丽丝公主，也没有受到粗鲁地对待过。>
+pause
+cls
+#res：每天都能在豪华的浴室沐浴，也会给我自己喜欢的衣服，食物等任何事物。>
+pause
+cls
+#res：……但是，房子的钥匙却在门外。不允许我自由地离开这个房间。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_033', 1200)
+call<$5f271e74, 0>
+#res：……没有自由，什么都没有的生活着。就像个被囚禁的人吧。>
+pause
+cls
+#res：这个狭小的房子，就是我生活的全部世界。从小小的窗口所能看到的世界也是我全部的世界。>
+pause
+cls
+#res：虽然能看到，却是镜花水月。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0027')
+#res：小伊丽丝：「所以，我一直仰望天空……」>
+pause
+cls
+call<$2b7b2134, 0>
+call<$a4eb1e4c, 0> ('na03_034')
+call<$a4eb1e4c, 0> ('na03_032', 1200)
+call<$5f271e74, 0>
+#res：尤其是喜欢冬天的夜空。我曾一直清晰地眺望着那冬日的星座。>
+pause
+cls
+#res：向着突然变紧张的空气，吐出白色的气息。闪闪发光的星星。无事可做。也没有会做的事。>
+pause
+cls
+#res：这里的生活只教会了我一件事。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0028')
+#res：小伊丽丝：「……黎明前的天空是最黑暗的」>
+pause
+cls
+#res：在东方的天空吐出鱼肚白之前……>
+pause
+cls
+#res：发现整个天空就像被拉上了一层漆黑的帷幕。>
+pause
+cls
+#res：就像是黑夜在洞悉了自己已经被白天追得走投无路后，做出了最后抵抗般，一切都变得黑暗无光。>
+pause
+cls
+#res：……这些就是我八年来的全部生活。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0029')
+#res：小伊丽丝：「但是，就算是这样的我，好像也是有目的的」>
+pause
+cls
+#res：也可以说是存在的理由。>
+pause
+cls
+#res：自懂事之前，就一直被别人这样教导。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：有一天。下定决心向一个侍女问道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_08b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0030')
+#res：小伊丽丝：「难道……我一直要生活在这里吗？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_002')
+#res：侍女：「不，公主有一个很重要的使命噢」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0031')
+#res：小伊丽丝：「……使命？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_003')
+#res：侍女：「是的，您尊贵的身体便是为了这使命而生，而我们大家则是来守护你完成使命的」>
+pause
+cls
+#res：一边说着，一边换新的床单。>
+pause
+cls
+#res：当时街道上，好像在流行着恐怖的黑死病。>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_004')
+#res：侍女：「公主 时机到了的话，你就会嫁到邻国去噢」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0032')
+#res：小伊丽丝：「我要被嫁出去？ 那是什么时候呢？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_005')
+#res：侍女：「恩……这个我就不清楚了……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_006')
+#res：侍女：「但是……在那天到来之前，公主如果病倒的话，我们就会被追究责任的」>
+pause
+cls
+#res：说完那些话，侍女就从房间里出去了。然后跟平时一样从外面把门锁上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……还是这样，直到明天，谁也不会来。当然，我也出不去。>
+pause
+cls
+#res：曾经想要出去而一直的哭，但是一次都没能成功过。>
+pause
+cls
+#res：这种事情来来回回地过了好几年，我终于知道是不会有结果的。>
+pause
+cls
+#res：所以，没有目送离开的侍女。>
+pause
+cls
+#res：而是和平常一样，从窗口望向天空。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_032', 1200)
+call<$5f271e74, 0>
+#res：我无数次独自一人望着黑暗的夜空……>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_033', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0033')
+#res：小伊丽丝：「……小小的伊丽丝想过了……」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0034')
+#res：小伊丽丝：「人……只有被谁『需要』， 才能称之为人……」>
+pause
+cls
+#res：而我有被嫁到邻国的命运。那似乎就是我存在的理由。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0035')
+#res：小伊丽丝：「……那似乎就是我存在的理由」>
+pause
+cls
+#res：即使已经没有自由，我也这样想着。>
+pause
+cls
+#res：这就是我被当成一个“人”对待的理由啊，自言自语。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：然后这时，突然，突然要被送到邻国了。>
+pause
+cls
+#res：就是在那个狭小的房间里一个人生活，才刚刚到八岁生日的那天。>
+pause
+cls
+#res：当然，我连跟结婚对象都没见过。也没听过声音，不知道年纪。>
+pause
+cls
+#res：这恐怕是一场为了和平而举行的政治婚姻吧。当然是以婚姻之名，实际上不过是个人质罢了。>
+pause
+cls
+#res：那时的我却完全没有意识到这些。那些都是我还年幼时的事……>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_02', 1200)
+call<$5f271e74, 0>
+#res：嗝咯嗝咯地摇晃着。看着一晃而过的景色。>
+pause
+cls
+#res：想起来出城的话，这是我出生以来第一次。>
+pause
+cls
+#res：这个时候，不论是谁都会因为外面新鲜的景色，而感到心情愉快吧。>
+pause
+cls
+#res：但是，对于我来说，内心的不安战胜了外出的愉悦。没有见过的事物，只会徒增自己的不安。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcm34_001')
+#res：侍从：「公主殿下，马上就要到达了」>
+pause
+cls
+#res：话音刚落，马车就停了下来。>
+pause
+cls
+#res：不知何故，在什么都没有的森林中，马车却停了下来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3003')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0036')
+#res：小伊丽丝：「喂，为什么要停在森林里？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm34_002')
+#res：侍从：「我们就只能送到这里了」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm34_003')
+#res：侍从：「接下来的路，就只有公主您一个人能朝前走了……」>
+pause
+cls
+#res：说着，就把我从马车里放了下来。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm34_004')
+#res：侍从：「请照顾好自己……我们就此回去了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0037')
+#res：小伊丽丝：「等……等一下……」>
+pause
+cls
+#res：她们就像没听到一样，驾着马车沿着来时的路离开了。>
+pause
+cls
+#res：我被这突然发生的事情惊呆了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3007', 1200)
+call<$5f271e74, 0>
+#res：寒风无情的吹打着我的身体，眼前陌生的路无限的延伸着，望不到尽头。>
+pause
+cls
+#res：沿路竖立着一排陈旧的木桩。>
+pause
+cls
+#res：……看来这里就是国境了吧？>
+pause
+cls
+#res：想到这里，我也想回去，但看来是不行了。>
+pause
+cls
+#res：因为，有几辆马车和几个并不相识的人，朝着我走来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3tui_05', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3zijo_0001')
+#res：侍女B：「我们等候多时了，伊丽丝小姐」>
+pause
+cls
+#res：是个可爱的年轻女性。>
+pause
+cls
+#res：从服装上看，就像平时在房间的侍女一样。>
+pause
+cls
+#res：但是，和可爱的声音礼貌的言辞相反的，>
+pause
+cls
+#res：眼神却是冰冷的。也并未对我行礼。>
+pause
+cls
+#res：另外，还有很多连马也不下，在远处沉默地围观着这边的人。>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0002')
+#res：侍女B：「请先把公主的证明拿出来吧」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0038')
+#res：小伊丽丝：「啊，好……」>
+pause
+cls
+#res：一边回答，一边把挂着的吊坠交给她。这可是，作为公主身份的证明。>
+pause
+cls
+#res：是四岁生日时收到以后，就被告知要不离身的带着的东西。>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0003')
+#res：侍女B：「确认完毕……然后请将身上的所有东西都交给我，衣服请脱掉」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0039')
+#res：小伊丽丝：「……全部？ 在这里？」>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0004')
+#res：侍女B：「对，全部」>
+pause
+cls
+#res：像是侍女的人用冷淡的语气回答我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：她沉默着，向着树林里走去，同时也招手叫我跟在她后面。>
+pause
+cls
+#res：………………>
+pause
+cls
+#res：在那里，裙子和内衣和手镯，身上全部的东西都被脱了下来。>
+pause
+cls
+#res：雪飘下来，寒冷的风吹打着赤裸的身体。>
+pause
+cls
+#res：陌生的地方，陌生的人面前，比起寒冷和害羞，更是不安得想哭。>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0005')
+#res：侍女B：「现在，请把这个穿在身上」>
+pause
+cls
+#res：那是看一眼就知道是很高级的新裙子。>
+pause
+cls
+#res：在不安和寒冷中，我照她说的把衣服穿在身上。>
+pause
+cls
+#res：……这就是，这个国家的衣服？>
+pause
+cls
+#res：莫非是……我的国家的所有东西，一个都不可以带进去吗………>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0006')
+#res：侍女B：「接下来，最后请把这个收好」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0040')
+#res：小伊丽丝：「……吊坠？」>
+pause
+cls
+#res：这个不是我刚才给她的吊坠。>
+pause
+cls
+#res：我那个只是贝壳加工而成的普通吊坠，而这个则是用宝石做成的浮雕项链。>
+pause
+cls
+#res：……我从未拥有过这样贵重的物品。>
+pause
+cls
+#res：我惶恐地把那个项链戴在头上。>
+pause
+cls
+#res：然后，>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0007')
+#res：侍女B：「和你非常般配噢，伊丽丝公主」>
+pause
+cls
+#res：侍女说完就笑了起来。来到这里，第一次被叫公主。>
+pause
+cls
+#res：与此同时，远处围着的人也，一起行了礼。>
+pause
+cls
+#res：……看来这个国家，这个才是身份的证明吧。>
+pause
+cls
+#res：不久，侍女把我带到马车那边。在她的催促中坐上了马车。>
+pause
+cls
+#res：那个时候……不经意间，看到了刚刚换衣服的地方。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0041')
+#res：小伊丽丝：「啊……」>
+pause
+cls
+syscall<$f62e3ca7> ('takibi01')
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：熊熊燃烧着的衣服。那是我才刚刚脱下来的衣服。>
+pause
+cls
+#res：虽然没想过刚才脱下来的衣服会被怎么处置，不过没想到居然当场就烧掉了。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0067')
+#res：小伊丽丝：「………………」>
+pause
+cls
+#res：并不是伤心。只是，有点被吓到了>
+pause
+cls
+#res：原本，全都是来这的前一天被给予的东西，也没有什么特别值得留念的。>
+pause
+cls
+#res：只不过，一旦有那些物品会被如此处置的预感下，看到这场景……>
+pause
+cls
+#res：在燃烧的火焰中，之前的吊坠也被随随便便地投了进去。>
+pause
+cls
+#res：……到刚刚为止，那还是我公主身份的证明……>
+pause
+cls
+#res：……懂事开始就一直带在身上的，我作为“我”的证明……>
+pause
+cls
+#res：在不知道的名字森林里被燃成灰烬。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3007', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3zijo_0008')
+#res：侍女B：「怎么了，公主」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0067')
+#res：小伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0009')
+#res：侍女B：「早点进去吧， 有很多人在等着你噢」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0043')
+#res：小伊丽丝：「……是，我知道了」>
+pause
+cls
+#res：只回答了这些，我也坐上了马车。再没有任何言语。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0013', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0033')
+#res：小伊丽丝：「……年幼的伊丽丝想到了……」>
+pause
+cls
+#res：在祖国阿利娜出生长大的伊丽丝已经消失了。从今以后，要变成这个国家的伊丽丝。>
+pause
+cls
+#res：说不寂寞是骗人的，但这就是现实。>
+pause
+cls
+#res：就这样……自言自语道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…………>
+pause
+cls
+#res：接着还是在摇晃的马车上……经过山路，在光滑的石板街上继续前进着。>
+pause
+cls
+#res：不久，周围开始出现许多大房子和砖砌的屋子的时候，>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0010')
+#res：侍女B：「公主，到了噢」>
+pause
+cls
+#res：语音刚落，马车就停了下来。我照着侍女所说从马车上下来了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3008', 1200)
+call<$5f271e74, 0>
+#res：虽是第一次看到，但只是远远望去就能感受到那城堡的雄伟。比以前住的还要更加的高大。>
+pause
+cls
+#res：……那里就是我新的……居住地。>
+pause
+cls
+#res：我来到这样的地方真的好吗？虽然说到现在为止都被叫做公主……>
+pause
+cls
+#res：只在很小的房间里生活过的我，觉得自己在这里显很不合时宜，变得更加不安。>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0011')
+#res：侍女B：「进去吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：然后马车又开始摇晃起来，在一扇很大的门前下来。被那壮观的门吓呆了。>
+pause
+cls
+#res：像是为了催促惊呆了的我，侍女开始在前面带路了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3009', -100101)
+call<$5f271e74, 0>
+#res：……在宽阔的道路上前行，也不知经过了多少房间。>
+pause
+cls
+#res：在此期间，我没有跟任何人打过照面。>
+pause
+cls
+#res：不，准确的说，是没有任何人跟我的视线相对。>
+pause
+cls
+#res：在走廊各处确实是有过几个人，但不管谁见我，无一例外的全部低下头。>
+pause
+cls
+#res：然后，恭敬地低下头行礼。>
+pause
+cls
+#res：……这样的待遇，还是第一次。>
+pause
+cls
+#res：某种意义上说，这种自己是公主的感觉，从出生到现在还是第一次体验到。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：没过多久，穿过一个宏大的殿堂……>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0012')
+#res：侍女B：「这边请……」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0045')
+#res：小伊丽丝：「哎，坐在……这里吗？」>
+pause
+cls
+#res：侍女没有回答，只是点了点头。虽然没搞清楚怎么回事，还是照她说的坐了下来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_042', 1200)
+call<$5f271e74, 0>
+#res：在这一瞬间，就在坐下的同时，整个殿堂突然安静了下来。>
+pause
+cls
+#res：刚刚还在说话的人全部沉默了。再仔细看了一下这间殿堂，发现椅子只有一张。>
+pause
+cls
+#res：也就是说坐着的只有我一个。>
+pause
+cls
+#res：全部的人都没有动，静静地注视着我。>
+pause
+cls
+#res：……到底，要怎么办才好？完全搞不明白。>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0013')
+#res：侍女B：「（……公主……）」>
+pause
+cls
+#res：注意到我样子的侍女，在我耳边小声道。>
+pause
+cls
+call<$812afdf0, 0> ('n3zijo_0014')
+#res：侍女B：「（先让大家免礼吧）」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0046')
+#res：小伊丽丝：「（我，我知道了……）」>
+pause
+cls
+#res：看着那些依旧一动不动地，看向我这边的人，>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0047')
+#res：小伊丽丝：「免，免礼……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：慢慢的有几个人开始说话了，打破了紧张，房间变得热闹起来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_04', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcm34_005')
+#res：男性贵族：「欢迎您的到来，伊丽丝公主」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw3_007')
+#res：女性贵族：「今后还请多多指教」>
+pause
+cls
+#res：这些微笑着搭话的人们。恐怕，都是这个国家权贵吧。>
+pause
+cls
+#res：在陌生的国家，陌生的人，带着笑脸地叫着我的名字。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0048')
+#res：小伊丽丝：「（……难道说我在这个国家……受人们欢迎么？）」>
+pause
+cls
+#res：……之前……在来这里之前，我似乎有听过自己的存在意义。>
+pause
+cls
+#res：所以，现在来到这里，我总觉得像是失去了那个意义般的感到害怕。>
+pause
+cls
+#res：但是，如果新的……“我”被需要的话……>
+pause
+cls
+#res：那样的话，我就还有作为“人”的证明，这样想就很开心。>
+pause
+cls
+#res：年幼的伊丽丝这样想到……>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$bc417f7b, 0>
+exit (0)

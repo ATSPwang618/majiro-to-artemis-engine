@@ -1,0 +1,361 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (8)
+syscall<$15eedeaa> (1500)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……人只有在意识到自己的死亡时，才会体会到活着的感觉吧。>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$812afdf0, 0> ('2n4yoko_0080')
+#res：●●阳子：「虽然只是一句老套的话……但如今，我切身地体会到了这一点」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0012b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0081')
+#res：●●阳子：「那个时候，我想留给人的选择一定已所剩无几……」>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0082')
+#res：●●阳子：「想要不被任何人察觉，不留下任何痕迹地，悄悄地离去……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0012b', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0083')
+#res：●●阳子：「又或是，想要留下曾经活着的证明」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0012b', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0084')
+#res：●●阳子：「一定是从这两者中选其一吧」>
+pause
+cls
+#res：想来没有其他的选项。我也不知道哪一个是正确答案。>
+pause
+cls
+#res：是想要悄然离去，还是期望留下某些证明……>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0085')
+#res：●●阳子：「我……选择了后者」>
+pause
+cls
+#res：只是，仅此而已。>
+pause
+cls
+#res：不，准确来说最开始是前者。但逐渐转变成了后者……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$a4eb1e4c, 0> ('nar4_tel00', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('sora012b', 1200)
+call<$5f271e74, 0>
+#res：11月清澈的天空。>
+pause
+cls
+#res：吹拂的风，也将要正式染上冬天的气息。>
+pause
+cls
+#res：中庭。我一如往常地正在给花坛浇水…>
+pause
+cls
+call<$812afdf0, 0> ('n4obasan001')
+#res：阿姨：「今天也是个好天气啊……」>
+pause
+cls
+#res：有位女士向我搭话。是位偶尔在谈话室说过话的，面熟的人。>
+pause
+cls
+call<$812afdf0, 0> ('n4obasan002')
+#res：阿姨：「哎，可以的话，能收下这个吗？」>
+pause
+cls
+#res：我看了一下，是一本诗集。>
+pause
+cls
+#res：因为她总是将这本书带在身边，想必是本她心爱的书。>
+pause
+cls
+#res：但是，我没有收下它的理由。>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_016')
+#res：濑津美：「……为什么……要给我？」>
+pause
+cls
+call<$812afdf0, 0> ('n4obasan003')
+#res：阿姨：「因为你看上去，是个喜欢读书的人……而且也没有其他能给的人了……」>
+pause
+cls
+#res：说完，她用手指了指我手上拿着的地图和图鉴一类的东西。>
+pause
+cls
+call<$812afdf0, 0> ('n4obasan004')
+#res：阿姨：「毕竟，给其他人的话……收下了也会感觉很为难吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_017')
+#res：濑津美：「是啊…………会很为难呢」>
+pause
+cls
+#res：我对她的话表示同意，并收下了书。>
+pause
+cls
+#res：在我接过书时，她那像是寂寞，又像是欣喜的……十分复杂的表情，给我留下了深刻的印象。>
+pause
+cls
+#res：花坛前，仍然日头高照。属于一段同为白手环佩戴者之间的对话。>
+pause
+cls
+call<$812afdf0, 0> ('n4obasan005')
+#res：阿姨：「那么，我也差不多该走了」>
+pause
+cls
+call<$812afdf0, 0> ('new_086')
+#res：濑津美：「……嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说完这句话后，那位女士向家人身边走去。即使是同样戴着白手环的人，但这是她第三次临时出院。>
+pause
+cls
+#res：……恐怕，已经不会再次见面了吧。>
+pause
+cls
+#res：我把收下的书放到长椅上，再次拿起了喷水壶。>
+pause
+cls
+syscall<$f62e3ca7> ('mizuyari')
+call<$a4eb1e4c, 0> ('n4ev_006b', 1200)
+call<$5f271e74, 0>
+#res：在其他花都已枯萎，冷冷清清的花坛之中……有颗独自，青葱成长着的水仙。>
+pause
+cls
+#res：明明还没有到正式的花期，却已经开始绽放出星星点点的白花。>
+pause
+cls
+#res：……曾经，和姬子小姐一起种下的这些花儿。>
+pause
+cls
+#res：在那之后又绽开多少次了呢？>
+pause
+cls
+#res：―水仙正式的花期是1月到３月。虽然能用种子栽培，但还是以鳞茎栽培为主。>
+pause
+cls
+#res：还有……>
+pause
+#res：……花语是爱自己。>
+pause
+cls
+#res：尽管迄今为止这些年，我一直能见到这些花的身姿……总觉得今年似乎有些困难了。>
+pause
+cls
+#res：是这些花会先绽放和凋零呢……还是，我会先死去呢……>
+pause
+cls
+#res：大概，会是在一个接近的时间点吧。我想离这个预测不会差太远。>
+pause
+cls
+#res：但是，看着已经星星点点绽开的几朵花儿，能感觉到说不定花会更早。>
+pause
+cls
+#res：在我还在漠然地思考那些事的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('4syuji_042')
+#res：４主人公：「……真是性急呢，已经在开花了吗」>
+pause
+cls
+#res：回头看去，那是一位穿着白大褂的中年大叔。>
+pause
+cls
+#res：印象里有见过几次。记得好像是这个医院里一位地位很高的医生。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('4syuji_043')
+#res：４主人公：「那些花……是你在照料吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0026')
+#res：濑津美：「并不……」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_044')
+#res：４主人公：「可我经常看见你呢」>
+pause
+cls
+#res：接着他来到我面前的长椅上，坐下说道，>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_045')
+#res：４主人公：「来吧，你也坐一会如何？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_019')
+#res：★☆濑津美：「…………」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_046')
+#res：４主人公：「今天是个好天气，感觉很舒服啊」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_020')
+#res：★☆濑津美：「……嗯，明白了」>
+pause
+cls
+#res：我照他说的在长椅上坐下。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('n4ev_007', -100101)
+call<$5f271e74, 0>
+#res：……真是个有些奇怪的人。>
+pause
+cls
+#res：一般来说，医院里的医生，不知是不是因为顾及我们的感受，总是对我们很客气……>
+pause
+cls
+#res：不知为何从这个人身上，却感受不到那样的氛围。>
+pause
+cls
+#res：话说，医院里的大人物，在这种地方无所事事真的好吗？>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_021')
+#res：濑津美：「……你……很闲吗？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_047')
+#res：４主人公：「不过，还是没有你们闲吧」>
+pause
+cls
+call<$812afdf0, 0> ('setunp_1075')
+#res：濑津美：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_023')
+#res：濑津美：「……听说病人的工作就是好好睡觉」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_048')
+#res：４主人公：「嗯，这话没错」>
+pause
+cls
+#res：虽然语气沉着，说话内容却直言不讳。>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_024')
+#res：濑津美：「真是个怪人……你应该是医院里的大人物吧」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_049')
+#res：４主人公：「是啊，别看我这样其实很厉害哦」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_050')
+#res：４主人公：「现在担任着医疗局长，以前也做过院长」>
+pause
+cls
+#res：虽然不是很清楚，但如果是院长的话应该是医院里最厉害的人了吧。>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_025')
+#res：濑津美：「那么……这么厉害的医生，找我有什么事吗？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_051')
+#res：４主人公：「嗯，因为我对那个有些在意」>
+pause
+cls
+#res：说着他望着我手里拿着的那些书。>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_052')
+#res：４主人公：「地图、图鉴和诗集……明明这么年轻兴趣却很广泛呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_026')
+#res：濑津美：「没什么。我不年轻，书也是从别人那里收下的」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_053')
+#res：４主人公：「……原来如此。收下的东西吗」>
+pause
+cls
+#res：不知为何，他又自顾自地认同了。>
+pause
+cls
+#res：接着，又看着我手上的白手环说道，>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_054')
+#res：４主人公：「话说回来，七楼还住得惯吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_027')
+#res：濑津美：「……一般」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_055')
+#res：４主人公：「一般啊……你真是相当严厉呢」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$812afdf0, 0> ('4syuji_056')
+#res：４主人公：「顺便一问，规则还在流传着吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_028')
+#res：濑津美：「咦……」>
+pause
+cls
+#res：……规则？为什么这个人会知道这些……>
+pause
+cls
+#res：听说规则只会在七楼的人之间流传，姬子也这么说过。>
+pause
+cls
+#res：而现在自己来到七楼后，也认为这些说法是真的……>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_057')
+#res：４主人公：「哎呀，别摆出那种架势。我并不是说要你告诉我那些……」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_030')
+#res：濑津美：「你……真是个奇怪的医生」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_058')
+#res：４主人公：「是啊……或许的确是这样呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('4syuji_059')
+#res：４主人公：「但……也并不是……」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_0592')
+#res：４主人公：「……并不是从一开始就打算成为医生的……」>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+exit (0)

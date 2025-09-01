@@ -1,0 +1,273 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('h000')
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (1000)
+call<$d334ba75, 0> ('2sou01')
+#res：１楼的门诊接待处的地板上。>
+pause
+cls
+#res：贴着不同颜色的胶带。>
+pause
+cls
+#res：这是指示着红色,蓝色,绿色,所代表的是各科室所在的地方。>
+pause
+cls
+#res：我沿着其中白色胶带的指示前进。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：走大概30米，就能在右手边看到一个商店，商店的对面是吸烟室。>
+pause
+cls
+#res：而左手边的，是外科候诊室。再去走廊的尽头，便有一部小电梯。>
+pause
+cls
+#res：我搭上电梯…>
+pause
+#res：直接按下了最顶楼的按钮。>
+pause
+cls
+call<$a4eb1e4c, 0> ('at02a', 1)
+call<$a4eb1e4c, 0> ('at02b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('se\ele2')
+#res：叮，>
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('at02c')
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+#res：７楼。>
+pause
+#res：出现在眼前的是护士站。>
+pause
+cls
+#res：护士们一同往这边看来。>
+pause
+cls
+#res：但是，确认是我后便转回了视线。好像什么都没看见一样，继续她们的工作。>
+pause
+cls
+#res：…高高的天花板，仅能拉开15厘米的窗户。纯白、明亮又冰冷的地方。>
+pause
+cls
+#res：我直接走向在尽头左手边的谈话室。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', 1500)
+call<$5f271e74, 0>
+#res：那里摆着一台大电视和沙发。还有几朵花装饰在窗边。>
+pause
+cls
+#res：花瓶种植的迷你向日葵，感觉，像是在夏天一样盆栽种植着的非洲菊，也正鲜艳地开着。>
+pause
+cls
+#res：…这些都是曾经看过的东西。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0001')
+#res：「再次来到这里…已经隔了多少年呢…」>
+pause
+cls
+#res：和那时不同的，也只是我的穿着。从水手服变成睡衣，>
+pause
+cls
+#res：以及腕上的手环，从蓝色变成白色而已。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：『你…』>
+pause
+cls
+#res：听到声音后我回头一看，是位不认识的老婆婆。>
+pause
+cls
+#res：身上的睡衣和白色手环，代表着她也是这里的病人。>
+pause
+cls
+#res：『是来探病的？　还是其他楼层的病人？』>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0002')
+#res：「…不是」>
+pause
+cls
+#res：我一边摇头，一边给她看我的手环。>
+pause
+cls
+#res：『啊…是这样啊…』>
+pause
+cls
+#res：老婆婆像是触碰了不该触碰的话题一般地回应着。>
+pause
+cls
+#res：可以感觉到，这样的话语中， 隐含着“明明还这么年轻真是可怜”的感叹。>
+pause
+cls
+#res：当然，这种经历已经多到厌倦了。毕竟，10年的病程都是这么过来的。>
+pause
+cls
+#res：…只是没想到，即使是和我一样的7楼居民，也会用同情的目光看着我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa')
+call<$5f271e74, 0>
+#res：『说起来…你>
+pause
+#res：…是第几次？』>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0003')
+#res：「…是指什么？」>
+pause
+cls
+#res：『来这里…７楼』>
+pause
+cls
+#res：一时间，我完全无法理解她想问什么。>
+pause
+cls
+#res：不过，在我反问她之前，>
+pause
+cls
+#res：『看来是第一次呢』>
+pause
+cls
+#res：老婆婆似乎自说自话地找到了答案。>
+pause
+cls
+#res：『那么，也告诉你吧，要好好听哦』：「………………」>
+pause
+cls
+#res：『…首先，７楼这个地方…』>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：即使没有收到我的回应，老婆婆还是自顾自地继续说了下去。>
+pause
+cls
+#res：…没有第4次。第3次进出院就是最后了，做好心理准备吧。>
+pause
+cls
+#res：想逃跑的话不要走Ａ车站，走Ｂ车站。>
+pause
+cls
+#res：什么都不要吃…对家人来说负担最少。>
+pause
+cls
+#res：她这么跟我说了。除此之外也都是些让人绝望的内容。>
+pause
+cls
+#res：恐怕，这是只有７楼的居民们…>
+pause
+cls
+#res：只有正靠近死亡的人们，才会“传承”下来的东西吧。>
+pause
+#res：『怎么样？　记住了吗？』>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa')
+call<$5f271e74, 0>
+#res：「…嗯」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0005')
+#res：老婆婆大致说明完了后。感觉气色变得比刚刚好点了。>
+pause
+cls
+#res：『嗯……对你这般年轻的孩子，　实在让人难以启齿…』>
+pause
+cls
+#res：『但毕竟也是规则，再难也要告诉你』>
+pause
+cls
+#res：说着这些，老婆婆走出谈话室。>
+pause
+cls
+#res：离开的时候，『再有新人来的时候，就由你来告诉他这些事吧。』 老婆婆又带上这么一句。>
+pause
+#res：炽热的阳光和蝉鸣声。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：从只能从打开１５ｃｍ的窗户中看到的夏空。看来今天也会很热呢。>
+pause
+cls
+#res：…不知已经隔了多少年。不过这也是我第一次以“居民”的身份来到这里。>
+pause
+cls
+#res：…而且，传达给我的规则。>
+pause
+cls
+#res：本来，是只有这里的居民才会被告知的吧…>
+pause
+cls
+#res：「不过…这当中有几条，我早就知道了…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('at01a', 1)
+call<$a4eb1e4c, 0> ('at01', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0006')
+#res：…也许从那天开始…>
+pause
+cls
+call<$a4eb1e4c, 0> ('at01c', 1500)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (300)
+#res：就知道会有这一天…>
+pause
+cls
+call<$a4eb1e4c, 0> ('at01d')
+call<$a4eb1e4c, 0> ('at01f')
+call<$5f271e74, 0>
+syscall<$90d5298a> ('setsumi_0009')
+call<$a4eb1e4c, 0> ('at01e', 1500)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('t001c', 1)
+call<$a4eb1e4c, 0> ('t001b')
+call<$a4eb1e4c, 0> ('t001a')
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (1500)
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+exit (0)

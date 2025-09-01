@@ -1,0 +1,805 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$d334ba75, 0> ('o01')
+#res：比平时更早的，我前往了医院。>
+pause
+cls
+#res：手拿着的手提包里面放着两个便当。因为天气很热，也准备了冰冻过的饮水壶。>
+pause
+cls
+#res：…虽然不知道要去哪里，不过记得之前说过，是要去海边的样子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0124')
+#res：「啊，濑津美。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0194')
+#res：「…千寻？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0125')
+#res：「那个，其实我在找你。」>
+pause
+cls
+#res：然后，从口袋里拿出了什么，递过来交给了我。>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0126')
+#res：「这个，可以帮我转交给姐姐吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0195b')
+#res：「钥匙？」>
+pause
+cls
+#res：拿到手的是，一把闪着银色光泽的钥匙。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0196')
+#res：「…难道是，汽车的？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0127')
+#res：「嗯，说是停在后面的停车场就应该懂了。」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0128')
+#res：「那么，拜托了。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说完这句话后，千寻就往某处离去了。>
+pause
+cls
+#res：…真没想到，会是驾车去…>
+pause
+cls
+#res：还是说，有其他的什么人负责开车？>
+pause
+cls
+#res：这样想着，我前往姬子所在的方向。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：叮……>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+#res：稍微看了一下休息室，确认她不在这里后我便直接走向病房。>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咔嚓，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0229')
+#res：「早，今天来得真早呢。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0197b')
+#res：「…因为你说过要来早点。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0198b')
+#res：「还有，这个…要我转交给你的。」>
+pause
+cls
+#res：说着，拿出之前收到的钥匙。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0230')
+#res：「谢谢，那么出发吧。」>
+pause
+cls
+#res：理所当然一样收下了钥匙的姬子。>
+pause
+#res：…难不成真的要开车去吗？>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+#res：来到了停车场。>
+pause
+cls
+#res：刚好是早上的门诊时间，靠近出入口的地方，停满了汽车。>
+pause
+cls
+#res：不久后…在停车场走了一小会，来到了最远处时。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0231')
+#res：「有了，好久不见呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_chu')
+call<$5f271e74, 0>
+#res：姬子在一辆汽车前停了下来，是一辆红色的敞篷车。>
+pause
+cls
+#res：只是，那辆车…怎么看都只能坐两人此时，关于是不是还有一位司机的疑问也随之烟消云散了>
+pause
+cls
+syscall<$f62e3ca7> ('tobira3')
+call<$812afdf0, 0> ('hime1_0232')
+#res：「如何？车不错吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0199')
+#res：「…比起这个…开车没问题吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0233')
+#res：「法律上的话没问题。」>
+pause
+cls
+#res：我不是指的这个意思吧…>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0200')
+#res：「…很危险的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0234')
+#res：「出了车祸再说啦～」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0201')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0235')
+#res：「真是的，没问题的啦，我有数的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0236')
+#res：「别看我这样，我自己的身体，我自己是最清楚的了。」>
+pause
+cls
+#res：哎，虽然这么说，我也不知道该相信她到什么地步…>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0237')
+#res：「我说啊，就算是我，也不会自己觉得危险还开车的啦。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0202')
+#res：「…真的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0238')
+#res：「嗯，因为公路上也不是只有我一个人在开的嘛。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_close')
+#res：碰，>
+pause
+cls
+syscall<$f62e3ca7> ('car_03')
+#res：说完后，姬子马上钻进了汽车。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0239')
+#res：「那么，你打算怎样？旁边的座位，可是空着的喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0201')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0239')
+#res：「…我知道了啦。」>
+pause
+cls
+syscall<$f62e3ca7> ('car_close')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+syscall<$f62e3ca7> ('car_start2')
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+#res：发出轻快的引擎声，开始前进的红色敞篷车。>
+pause
+cls
+call<$d334ba75, 0> ('2o01')
+#res：从平常走习惯的道路，经过了偶尔会去的附近超市…>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+#res：经过了3个十字路口，转眼之间，来到了宽敞的主干道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai1')
+call<$5f271e74, 0>
+#res：…不过，她到底想跑到哪里去？>
+pause
+cls
+#res：以前说过即使搭乘电车也要两个小时，所以应该有相当远的距离…>
+pause
+cls
+#res：想着这件事，我呆呆地望起两旁的景色。>
+pause
+cls
+syscall<$f62e3ca7> ('car01')
+call<$a4eb1e4c, 0> ('shanai1c', 1)
+call<$a4eb1e4c, 0> ('shanai1')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0204')
+#res：「哇。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0240')
+#res：「啊，抱歉，晃到你了？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0205b')
+#res：「嗯，有点…」>
+pause
+cls
+syscall<$f62e3ca7> ('car_start2')
+call<$a4eb1e4c, 0> ('shanai1b', 1)
+call<$a4eb1e4c, 0> ('shanai1')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0206')
+#res：「哇。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0241')
+#res：「啊，很久没开车了，在我找回手感之前，你就稍微忍耐一下吧。」>
+pause
+cls
+#res：晃动的那一瞬间之前，就觉得不太平稳了。>
+pause
+cls
+#res：实际上，速度倒也没有很快，只是没有顶棚，即便是稍微打下方向盘也让人感觉到恐怖。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0207')
+#res：「那个，再稍微，慢一点…」>
+pause
+cls
+syscall<$f62e3ca7> ('car01')
+call<$a4eb1e4c, 0> ('shanai1c', 1)
+call<$a4eb1e4c, 0> ('shanai1')
+call<$5f271e74, 0>
+#res：咭，咯，>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0242')
+#res：「嗯？你说什么？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0208')
+#res：「…没什么。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我，只能默默地紧抓住安全带。>
+pause
+cls
+#res：虽然头发已被吹乱了，但也只能忍耐一下吧。>
+pause
+cls
+#res：比起这个，我双手拼命握紧安全带的样子，说不定有点滑稽…>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai1')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0243')
+#res：「奇怪？濑津美你在做什么呢？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0209')
+#res：「…我的事你就别在意了。」>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sora01')
+call<$5f271e74, 0>
+#res：注意到的时候，四周的景色已从街景转变为一片绿意……>
+pause
+cls
+#res：不知道是姬子，终于恢复了手感，还是我，习惯了这种驾驶方式…>
+pause
+cls
+#res：总之，终于可以冷静地说话了。>
+pause
+cls
+syscall<$f62e3ca7> ('03_kaze_05c2')
+call<$a4eb1e4c, 0> ('shanai4')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0244')
+#res：「怎样？敞篷也不错吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0210')
+#res：「嗯，风很舒服…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0245')
+#res：「没错，和自然融为一体的感觉很棒呢。」>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('car_run2')
+call<$5f271e74, 0>
+#res：的确，在街道的时候没怎么觉得，不过在这样自然当中，敞开心扉的感觉确实不错。>
+pause
+cls
+#res：接着，说着这些事情的时候，不断地有临道的车超了过来。>
+pause
+cls
+#res：一开始，还觉得姬子的驾驶方式很恐怖，不过看来，竟然真的在安全驾驶。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai4')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0211')
+#res：「…这个，是什么车？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0246')
+#res：「咦？对车感兴趣了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0212')
+#res：「不，倒也不是这样…」>
+pause
+cls
+#res：也没什么特别的意思。只是，不知为何想知道而已。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0247')
+#res：「依诺斯…Roadster」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0213')
+#res：「…难不成，是很厉害的车？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0248')
+#res：「不…也没到这种惊人的程度。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0249')
+#res：「只是我喜欢而已，没有空调也没有导航系统的古老车子。」>
+pause
+cls
+#res：然后，姬子告诉我很多关于这辆汽车的事。>
+pause
+cls
+#res：NA型怎样的，功重比怎样之类的，认真地说着相当专业的东西。>
+pause
+cls
+syscall<$f62e3ca7> ('kei05')
+call<$812afdf0, 0> ('hime1_0250')
+#res：「呃，被86给超了。」>
+pause
+cls
+#res：她指着刚从旁边超越我们的那车，说道。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0251')
+#res：「被那家伙超了，不知道为什么很不甘心啊。」>
+pause
+cls
+#res：继续说着中置引擎怎样，转子怎样，还是一样热衷地说着完全不懂的词汇的姬子。>
+pause
+cls
+#res：…勒芒是在指某种零食吗？>
+pause
+cls
+#res：虽然我，对这些东西完全是一头雾水…>
+pause
+cls
+#res：不过，姬子如此地喜欢汽车这件事，倒是切实的传达给我了。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0252')
+#res：「嗯，不过有点怪呢…」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0214')
+#res：「…什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0253')
+#res：「这车意外的，相当能跑呢。明明有好长一段时间没保养了。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_thru_rl')
+#res：继续前进的Roadster。红色的引擎盖映出夏日的晴空继续前进着。>
+pause
+cls
+#res：不久后…抬头仰望，太阳已经爬到头顶正上方。>
+pause
+cls
+#res：穿过长长的山路，>
+pause
+#res：不知不觉间，眼前迎面而来的大海。>
+pause
+cls
+call<$a4eb1e4c, 0> ('umimiti')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('umi12b')
+syscall<$708b0256> ('umitori')
+call<$812afdf0, 0> ('hime1_0254')
+#res：「如何？风景不错吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0215')
+#res：「…嗯。」>
+pause
+cls
+#res：一望无际的海岸线。阳光在碧绿的波浪胡乱地反射着。>
+pause
+cls
+#res：在远处摇动的松树林，以及海鸥的鸣叫也传了过来。>
+pause
+cls
+#res：然后，公路两旁看到的是，许许多多的海枣树。>
+pause
+cls
+#res：虽然姬子以前，说过像是凤梨树，不过就和以前说的一样，不管哪棵都很高大。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai6', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0216')
+#res：「…这里是目的地？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0255')
+#res：「嗯，已经不远了喔。再稍微走一段就到可以停车的地方了。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+syscall<$f62e3ca7> ('car_stop2')
+syscall<$cf35f0e3> (1500)
+syscall<$708b0256> ('tobira3')
+call<$812afdf0, 0> ('hime1_0256')
+#res：「到了喔。」>
+pause
+cls
+syscall<$f62e3ca7> ('car_close')
+call<$d334ba75, 0> ('a01')
+call<$a4eb1e4c, 0> ('car_chu1')
+call<$5f271e74, 0>
+syscall<$708b0256> ('umitori')
+#res：沿海的道路旁边，像是紧急停车点的路边。>
+pause
+cls
+#res：虽然只有停靠2到3辆汽车的空间，不过交通量比较小，不怕有其他汽车过来。>
+pause
+cls
+#res：把车停在这里后，我们走出车外。>
+pause
+cls
+call<$a4eb1e4c, 0> ('umimiti', -100101)
+call<$5f271e74, 0>
+syscall<$708b0256> ('jihan1')
+call<$812afdf0, 0> ('hime1_0257')
+#res：「那个，饮料要什么？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0217')
+#res：「…柠檬茶。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0258')
+#res：「明白，稍微等我一下喔。」>
+pause
+cls
+syscall<$708b0256> ('jihan2')
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$a4eb1e4c, 0> ('umimiti', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0013')
+#res：「给，久等了。」>
+pause
+cls
+syscall<$f62e3ca7> ('z0021')
+#res：啵咻，>
+pause
+cls
+#res：伴随着海浪声，拉环的声音轻轻响起。>
+pause
+cls
+#res：然后姬子她，面向大海插着腰说道，>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0259')
+#res：「咕～咕～呼…好喝。」>
+pause
+cls
+#res：就像是刚洗完温泉喝着牛奶一样的，一口气喝完了橙汁。>
+pause
+cls
+#res：于是我也，像她一样插着腰，一口气喝完了柠檬茶。>
+pause
+cls
+#res：然后，向着面前广阔的大海走去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibe')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('anami2')
+call<$812afdf0, 0> ('setsumi_0218')
+#res：「…这里，真漂亮呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0260')
+#res：「嗯，我可是超喜欢这个地方喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0219')
+#res：「…以前也常常来这？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0261')
+#res：「也不能这么说，偶尔而已。」>
+pause
+cls
+syscall<$cf35f0e3> (1000)
+call<$812afdf0, 0> ('hime1_0262')
+#res：「不过，原本也只是偶然发现这里的。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0220')
+#res：「…偶然？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0263')
+#res：「因为你看，这辆车不是没有导航系统吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0264')
+#res：「所以一开始，也是在随便开到这里的。」>
+pause
+cls
+#res：这样回答时姬子的表情，和平常有些许的不一样…>
+pause
+cls
+#res：似乎很寂寞，又有点像是怀念以往的复杂表情。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0265')
+#res：「说到这，也算是到达目的地了呢。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：刚这样说完，开始跑到后备箱开始翻箱倒柜。>
+pause
+cls
+#res：然后，拿出像是小锯子的东西来，向沿着道路种植的，高大的海枣树走去。>
+pause
+cls
+#res：…难不成，真想要切下来看看的意思…>
+pause
+cls
+call<$a4eb1e4c, 0> ('umimitiz', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0221')
+#res：「…那个，这是什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0266')
+#res：「诶呀？你不知道手弓锯么？虽然本是切割金属用的，不过很能切喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0222')
+#res：「不是问这个，你打算做什么?」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0267')
+#res：「当然是，切来看看啊，稍微切个5厘米左右吧。」>
+pause
+cls
+#res：说完贴着海枣树，搭上弓锯。>
+pause
+cls
+#res：虽然感觉阻止她比较好…不过姬子自己，到底认真到什么程度我都不清楚。>
+pause
+cls
+#res：还是说只是5厘米左右的话，我也不用太过担心吧？>
+pause
+cls
+#res：就这样，我一个人正担心的时候…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0268')
+#res：「嗯，果然还是算了。」>
+pause
+cls
+#res：这样说着，她又把手弓锯放回后备箱。>
+pause
+cls
+#res：呼～，还是放弃了啊…或是说一开始就根本没打算切？>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0269')
+#res：「还有人能看见，等再晚一点切吧。」>
+pause
+cls
+#res：…并不是放弃了啊…>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('umitori')
+#res：灼热的阳光，潮湿的海风。以及海边独有的气味。有时候，也会靠来几只海鸥。>
+pause
+cls
+#res：在这样的海滩，我们开始了错过用餐时间的午餐。>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibe')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0270')
+#res：「啊呜啊呜，你妈妈厨艺真好呢。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0223')
+#res：「…今天特别用心做的。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0271')
+#res：「这样啊，是位好妈妈呢。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0124')
+#res：「…嗯。」>
+pause
+cls
+#res：一边闲聊着一边吃着便当。>
+pause
+cls
+#res：坐在姬子准备好的野餐布上，互相戴上防晒用的草帽的午餐会。>
+pause
+cls
+#res：海鸥就像是公园的鸽子一样，只要给它一点可乐饼，就会很有精神地吃起来。>
+pause
+cls
+#res：两人被那滑稽的样子逗得笑了起来。>
+pause
+cls
+#res：…这种感觉到已经多少年没有体会到了呢？姬子对着不由得思考起这件事的我说道。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0272')
+#res：「…看来，还是以为你很喜欢呢？」>
+pause
+cls
+#res：她看着一如往常放在里面的土豆而说着。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0225')
+#res：「……………」>
+pause
+cls
+#res：对那句话，我不由得沉默了。>
+pause
+cls
+#res：…曾经说过这不是温柔。>
+pause
+cls
+#res：换句话说，讨厌的话就干脆的说出讨厌，这才叫做温柔。>
+pause
+cls
+#res：即使是我，也是明白的。>
+pause
+cls
+#res：虽然知道…但那是母亲不惜忍受发红的手而为我做的…>
+pause
+cls
+#res：但在那样高兴的妈妈面前，就这样说出实话，她会有多么难过啊…>
+pause
+cls
+#res：这样的事情，我也非常清楚…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (120)
+#res：啪啪，>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0226')
+#res：「唉？」>
+pause
+cls
+#res：回过神看见，是姬子用手温柔的在我的后背拍着。>
+pause
+cls
+#res：就像是让小孩停止哭泣一样的哄着，轻轻的拍着我的后背。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0273')
+#res：「不过，也是没有办法的啦。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0274')
+#res：「毕竟说来容易做来难啊。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0227b')
+#res：「…姬子…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0275')
+#res：「是啊…要是有一天能好好的说出来就好了…」>
+pause
+cls
+syscall<$cf35f0e3> (500)
+call<$812afdf0, 0> ('setsumi_0055b')
+#res：「…嗯…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('umitori')
+call<$812afdf0, 0> ('hime1_0276')
+#res：「其实啊，虽然好像很难…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0277')
+#res：「不过，有时任性一下...说不定就是最好的方法」>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：这样说完她对我笑了笑。>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：…用着如往常一样开朗的表情，温柔地鼓励着我…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+exit (0)

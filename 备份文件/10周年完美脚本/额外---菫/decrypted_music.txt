@@ -1,0 +1,597 @@
+
+#function $25a54e5e
+op836[#00]
+op829[]
+exit (0)
+
+#function $b4914652
+op836[#02]
+op829[]
+call<$d334ba75, 0> (op802[#6002c44151a7feff])
+exit (0)
+exit (0)
+
+#function $6514f86e
+op836[#000000000000]
+op829[#02]
+syscall<$30636d6e> (op802[#6000d6dd6664f9ff], op802[#6000f1029b09fdff], op802[#6000b0338010fcff], op802[#60003b9c5c57fbff], op802[#60000cf69e56faff], op802[#20002959809cffff], op802[#6000f1029b09fdff], op802[#6000b0338010fcff])
+push 0
+push op802[#600026b70315feff]
+op148
+jmp82e @67
+push op802[#600026b70315feff]
+switch { @80, @79, @78, @77, @76, @75, @74, @73, @72, @71, @70, @69 }
+
+  @80
+push #res：サウンドモード_テロップ_to_78,99_0000_作編曲：藤間仁(Elements-Garden)-_-作詞：>
+goto @68
+
+  @79
+push #res：サウンドモード_テロップ_to_78,99_0001_作編曲：Ebi(SoundUnion)->
+goto @68
+
+  @78
+push #res：サウンドモード_テロップ_to_78,99_0002_作編曲：Elements-Garden>
+goto @68
+
+  @77
+push #res：サウンドモード_テロップ_to_78,99_0003_作編曲：SENTIVE>
+goto @68
+
+  @76
+push #res：サウンドモード_テロップ_to_78,99_0004_作編曲：なるちょ>
+goto @68
+
+  @75
+push #res：サウンドモード_テロップ_to_78,99_0005_作編曲：館内明（TGZ）>
+goto @68
+
+  @74
+push #res：サウンドモード_テロップ_to_78,99_0006_作編曲：まにょっ(Little-Wing)->
+goto @68
+
+  @73
+push #res：サウンドモード_テロップ_to_78,99_0007_作編曲：井出今日子>
+goto @68
+
+  @72
+push #res：サウンドモード_テロップ_to_78,99_0008_作編曲：sin(Birth-Entertainment)>
+goto @68
+
+  @71
+push #res：サウンドモード_テロップ_to_78,99_0009_作編曲：まにょっ(Little-Wing)-_-作詞：海富一-のコピー>
+goto @68
+
+  @70
+push #res：サウンドモード_テロップ_to_78,99_0010_作編曲：souten>
+goto @68
+
+  @69
+push #res：作曲：藤間仁（Elements-Garden）編曲：館>
+
+  @68
+op1b2[#6002c44151a70000]
+op82f
+syscall<$5eb974f7> (op802[#20002959809cffff], op802[#6002c44151a70000], 78, 99)
+
+  @67
+exit (0)
+
+#entrypoint $83f2ae52
+op836[]
+op829[#0000000000]
+push 1
+op1b0[#6000b9a34cac0200]
+op82f
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+push 1
+op1b0[#60000b68a6090300]
+op82f
+
+  @66
+call<$8d982efa, 0> (300)
+push 'title_back2'
+op80f[#2779bc1f000000000100]
+op1b0[#60004c4b037c0000]
+op82f
+syscall<$5eb974f7> (op802[#60004c4b037c0000], 'title_parts_left')
+syscall<$5eb974f7> (op802[#60004c4b037c0000], 'title_parts_right')
+syscall<$5eb974f7> (op802[#60004c4b037c0000], 'title_parts_right')
+syscall<$fddf6c40> (op802[#60004c4b037c0000], 0, 0, 800, 600, syscall<$924ee3eb>(0, 0, 0), 128)
+syscall<$5eb974f7> (op802[#60004c4b037c0000], #res：サウンドモード_on>)
+push 'title_back2'
+op80f[#8d00a3f2000000000100]
+op1b0[#6000d6dd66640100]
+op82f
+syscall<$5eb974f7> (op802[#6000d6dd66640100], 'title_parts_left')
+syscall<$5eb974f7> (op802[#6000d6dd66640100], 'title_parts_right')
+syscall<$5eb974f7> (op802[#6000d6dd66640100], 'title_parts_right')
+syscall<$fddf6c40> (op802[#6000d6dd66640100], 0, 0, 800, 600, syscall<$924ee3eb>(0, 0, 0), 128)
+syscall<$5eb974f7> (op802[#6000d6dd66640100], #res：サウンドモード_push>)
+syscall<$5eb974f7> (op802[#20002959809cffff], 'title_back2')
+syscall<$5eb974f7> (op802[#20002959809cffff], 'title_parts_left')
+syscall<$5eb974f7> (op802[#20002959809cffff], 'title_parts_right')
+syscall<$fddf6c40> (op802[#20002959809cffff], 0, 0, 800, 600, syscall<$924ee3eb>(0, 0, 0), 128)
+syscall<$5eb974f7> (op802[#20002959809cffff], #res：サウンドモード_off>)
+push op802[#6000b9a34cac0200]
+jmp82e @39
+push op802[#6000b9a34cac0200]
+op830[#00000000]
+jne (1) @65
+call<$b4914652, 0> ('nagi_op_full')
+call<$6514f86e, 0> (0, 10, 176, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @65
+jne (2) @64
+call<$b4914652, 0> ('e_01')
+call<$6514f86e, 0> (1, 271, 176, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @64
+jne (3) @63
+call<$b4914652, 0> ('el_10_mast')
+call<$6514f86e, 0> (2, 533, 176, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @63
+jne (4) @62
+call<$b4914652, 0> ('sen_02')
+call<$6514f86e, 0> (3, 10, 217, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @62
+jne (5) @61
+call<$b4914652, 0> ('maemuki_full')
+call<$6514f86e, 0> (4, 271, 217, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @61
+jne (6) @60
+call<$b4914652, 0> ('k_01')
+call<$6514f86e, 0> (5, 533, 217, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @60
+jne (7) @59
+call<$b4914652, 0> ('m01')
+call<$6514f86e, 0> (6, 10, 258, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @59
+jne (8) @58
+call<$b4914652, 0> ('e_02')
+call<$6514f86e, 0> (1, 271, 258, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @58
+jne (9) @57
+call<$b4914652, 0> ('k_02')
+call<$6514f86e, 0> (5, 533, 258, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @57
+jne (10) @56
+call<$b4914652, 0> ('naki-setsunai_full1')
+call<$6514f86e, 0> (4, 10, 299, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @56
+jne (11) @55
+call<$b4914652, 0> ('el_11_mast')
+call<$6514f86e, 0> (2, 271, 299, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @55
+jne (12) @54
+call<$b4914652, 0> ('ide_01')
+call<$6514f86e, 0> (7, 533, 299, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @54
+jne (13) @53
+call<$b4914652, 0> ('el_09_mast')
+call<$6514f86e, 0> (2, 10, 340, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @53
+jne (14) @52
+call<$b4914652, 0> ('ide_03')
+call<$6514f86e, 0> (7, 271, 340, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @52
+jne (15) @51
+call<$b4914652, 0> ('ta_02')
+call<$6514f86e, 0> (8, 533, 340, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @51
+jne (16) @50
+call<$b4914652, 0> ('k_04h')
+call<$6514f86e, 0> (5, 10, 381, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @50
+jne (17) @49
+call<$b4914652, 0> ('m02')
+call<$6514f86e, 0> (6, 271, 381, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @49
+jne (18) @48
+call<$b4914652, 0> ('nagi_op_inst')
+call<$6514f86e, 0> (2, 533, 381, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @48
+jne (19) @47
+call<$b4914652, 0> ('souten')
+call<$6514f86e, 0> (10, 10, 422, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @47
+jne (20) @46
+call<$b4914652, 0> ('sen_01')
+call<$6514f86e, 0> (3, 271, 422, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @46
+jne (21) @45
+call<$b4914652, 0> ('ide_04')
+call<$6514f86e, 0> (7, 533, 422, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @45
+jne (22) @44
+call<$b4914652, 0> ('ta_012')
+call<$6514f86e, 0> (8, 10, 463, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @44
+jne (23) @43
+call<$b4914652, 0> ('ide_02')
+call<$6514f86e, 0> (7, 271, 463, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @43
+jne (24) @42
+call<$b4914652, 0> ('m_ed_inst')
+call<$6514f86e, 0> (6, 533, 463, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @42
+jne (25) @41
+call<$b4914652, 0> ('m_ed_full')
+call<$6514f86e, 0> (9, 10, 504, 261, 41, op802[#60004c4b037c0000])
+goto @40
+
+  @41
+jne (26) @40
+call<$b4914652, 0> ('op_orgol')
+call<$6514f86e, 0> (11, 271, 504, 261, 41, op802[#60004c4b037c0000])
+
+  @40
+
+  @39
+call<$9db1da35, 0> (600)
+push 1
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @38
+call<$ffc5bc91, 0> (1, 10, 176, 261, 41)
+
+  @38
+push 2
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @37
+call<$ffc5bc91, 0> (2, 271, 176, 261, 41)
+
+  @37
+push 3
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @36
+call<$ffc5bc91, 0> (3, 533, 176, 261, 41)
+
+  @36
+push 4
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @35
+call<$ffc5bc91, 0> (4, 10, 217, 261, 41)
+
+  @35
+push 5
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @34
+call<$ffc5bc91, 0> (5, 271, 217, 261, 41)
+
+  @34
+push 6
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @33
+call<$ffc5bc91, 0> (6, 533, 217, 261, 41)
+
+  @33
+push 7
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @32
+call<$ffc5bc91, 0> (7, 10, 258, 261, 41)
+
+  @32
+push 8
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @31
+call<$ffc5bc91, 0> (8, 271, 258, 261, 41)
+
+  @31
+push 9
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @30
+call<$ffc5bc91, 0> (9, 533, 258, 261, 41)
+
+  @30
+push 10
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @29
+call<$ffc5bc91, 0> (10, 10, 299, 261, 41)
+
+  @29
+push 11
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @28
+call<$ffc5bc91, 0> (11, 271, 299, 261, 41)
+
+  @28
+push 12
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @27
+call<$ffc5bc91, 0> (12, 533, 299, 261, 41)
+
+  @27
+push 13
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @26
+call<$ffc5bc91, 0> (13, 10, 340, 261, 41)
+
+  @26
+push 14
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @25
+call<$ffc5bc91, 0> (14, 271, 340, 261, 41)
+
+  @25
+push 15
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @24
+call<$ffc5bc91, 0> (15, 533, 340, 261, 41)
+
+  @24
+push 16
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @23
+call<$ffc5bc91, 0> (16, 10, 381, 261, 41)
+
+  @23
+push 17
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @22
+call<$ffc5bc91, 0> (17, 271, 381, 261, 41)
+
+  @22
+push 18
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @21
+call<$ffc5bc91, 0> (18, 533, 381, 261, 41)
+
+  @21
+push 19
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @20
+call<$ffc5bc91, 0> (19, 10, 422, 261, 41)
+
+  @20
+push 20
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @19
+call<$ffc5bc91, 0> (20, 271, 422, 261, 41)
+
+  @19
+push 21
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @18
+call<$ffc5bc91, 0> (21, 533, 422, 261, 41)
+
+  @18
+push 22
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @17
+call<$ffc5bc91, 0> (22, 10, 463, 261, 41)
+
+  @17
+push 23
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @16
+call<$ffc5bc91, 0> (23, 271, 463, 261, 41)
+
+  @16
+push 24
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @15
+call<$ffc5bc91, 0> (24, 533, 463, 261, 41)
+
+  @15
+push 25
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @14
+call<$ffc5bc91, 0> (25, 10, 504, 261, 41)
+
+  @14
+push 26
+push op802[#6000b9a34cac0200]
+op160
+jmp82e @13
+call<$ffc5bc91, 0> (26, 271, 504, 261, 41)
+
+  @13
+push op802[#6000b9a34cac0200]
+jmp82e @12
+call<$ffc5bc91, 0> (901, 265, 50, 69, 59)
+call<$ffc5bc91, 0> (902, 333, 50, 69, 59)
+call<$ffc5bc91, 0> (904, 466, 50, 69, 59)
+push op802[#6000b9a34cac0200]
+op1b0[#60000b68a6090300]
+op82f
+
+  @12
+call<$ffc5bc91, 0> (903, 400, 50, 69, 59)
+call<$ffc5bc91, 0> (999, 602, 39, 662, 64)
+push op802[#6000b9a34cac0200]
+jmp82e @11
+call<$aa17a4f9, 0> (904)
+
+  @11
+push -1
+op80f[#8718178b000000000100]
+op1b0[#600085cc63f40400]
+op82f
+push op802[#600085cc63f40400]
+op830[#00000000]
+jmp838 (1) @9
+jmp839 (99) @9
+push op802[#6000b9a34cac0200]
+jmp82e @10
+syscall<$15eedeaa> (1000)
+call<$25a54e5e, 0> (500)
+
+  @10
+push op802[#600085cc63f40400]
+op1b0[#6000b9a34cac0200]
+op82f
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+goto @66
+goto @1
+
+  @9
+jne (901) @8
+syscall<$15eedeaa> (1000)
+call<$25a54e5e, 0> (500)
+push 1
+push op802[#6000b9a34cac0200]
+op120
+push 1
+op120
+push 26
+op118
+push 26
+op110
+push 1
+op118
+op1b0[#6000b9a34cac0200]
+op82f
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+goto @66
+goto @1
+
+  @8
+jne (902) @7
+syscall<$15eedeaa> (1000)
+push 0
+op1b0[#6000b9a34cac0200]
+op82f
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+goto @66
+goto @1
+
+  @7
+jne (903) @6
+push op802[#60000b68a6090300]
+op1b0[#6000b9a34cac0200]
+op82f
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+syscall<$15eedeaa> (1000)
+call<$25a54e5e, 0> (500)
+goto @66
+goto @1
+
+  @6
+jne (904) @5
+syscall<$15eedeaa> (1000)
+call<$25a54e5e, 0> (500)
+push 1
+push op802[#6000b9a34cac0200]
+op120
+push 1
+op118
+push 26
+op110
+push 1
+op118
+op1b0[#6000b9a34cac0200]
+op82f
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+goto @66
+goto @1
+
+  @5
+jne (905) @2
+push op802[#20008ee4871dffff]
+jmp82e @4
+push 0
+op1b0[#20008ee4871dffff]
+op82f
+syscall<$d011ff32>
+goto @3
+
+  @4
+push 1
+op1b0[#20008ee4871dffff]
+op82f
+syscall<$2626fe02>
+
+  @3
+goto @66
+goto @1
+
+  @2
+jne (999) @1
+syscall<$cf35f0e3> (200)
+exit (0)
+
+  @1
+exit (0)

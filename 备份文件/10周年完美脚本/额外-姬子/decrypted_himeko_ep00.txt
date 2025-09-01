@@ -1,0 +1,83 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('black', 1000)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (8)
+call<$a4eb1e4c, 0> ('b4', 1000)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sin_e04z', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2na')
+call<$812afdf0, 0> ('c77setu_0002')
+#res：濑津美「－在清晨的天空下，\n我们从富士山下来，踏上了归途－」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0003')
+#res：濑津美「－途中，手里拿着便利店买的便当，\n 姬子突然小声说道－」>
+pause
+cls
+syscall<$f62e3ca7> ('kaze4')
+call<$a4eb1e4c, 0> ('sin_e05z', 1000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77hime_0001')
+#res：姫子「濑津美，\n 总之让我也定个规矩吧」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0004')
+#res：濑津美「……规矩？」>
+pause
+cls
+call<$812afdf0, 0> ('c77hime_0002')
+#res：姫子「嗯，交朋友其实也是可以的」>
+pause
+cls
+syscall<$f62e3ca7> ('kane02d')
+call<$a4eb1e4c, 0> ('sin_e06bz', 10)
+call<$a4eb1e4c, 0> ('sin_e06z', 1200)
+call<$5f271e74, 0>
+#res：钟声回响着。\n姬子把车停在了教会前，姬子让我下了车。>
+pause
+cls
+syscall<$708b0256> ('car_close')
+call<$812afdf0, 0> ('hime1_0559')
+#res：姫子「那，就在这里道别吧」>
+pause
+cls
+#res：然后…>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0580zz')
+#res：姫子「…再见了……可乐饼博士…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w3', 10)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sin_e07z', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77setu_0006')
+#res：濑津美「－说完这些，\n背对着我向教会走去－」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0007')
+#res：濑津美「恐怕，她们都在里面吧，\n是要去见千寻和优花吧」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0008')
+#res：濑津美「……肯定，曾经那个温柔的“曾经”也…」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0008b')
+#res：濑津美「…不再存在了吧…」>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('b3', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+syscall<$926c13e5> (1500)
+exit (0)

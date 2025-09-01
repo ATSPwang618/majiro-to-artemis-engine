@@ -1,0 +1,439 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (1500)
+syscall<$90d5298a> ('n001')
+call<$a4eb1e4c, 0> ('c001a', 1)
+call<$a4eb1e4c, 0> ('c001b')
+call<$a4eb1e4c, 0> ('c001')
+call<$a4eb1e4c, 0> ('c002')
+call<$a4eb1e4c, 0> ('c003')
+call<$5f271e74, 0>
+call<$13059346, 0> (700)
+call<$a4eb1e4c, 0> ('c004', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (200)
+syscall<$f62e3ca7> ('rain_1')
+call<$a4eb1e4c, 0> ('sora_ame03')
+call<$a4eb1e4c, 0> ('c02')
+call<$5f271e74, 0>
+#res：■ １９９６年　春 濑津美 ■>
+pause
+cls
+call<$d334ba75, 0> ('n04')
+call<$a4eb1e4c, 0> ('sora_ame01')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n002')
+#res：「…的确，从小时候起，我的身体就不是很好…」>
+pause
+cls
+#res：但也和别人一样上了小学，也有过暑假的时候一直玩耍到皮肤被晒黑。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin_heya_yu2', 1600)
+call<$5f271e74, 0>
+#res：６月。刚刚进入初中的时候。>
+pause
+#res：预定从下个月开始游泳，要用到泳装的第二天。>
+pause
+cls
+#res：那时，我第一次体验了住院这件事。>
+pause
+cls
+#res：那是第一学期期中考试不久前，下起了雨的，非常寒冷的日子>
+pause
+cls
+syscall<$f62e3ca7> ('rain_1')
+call<$a4eb1e4c, 0> ('sora_ame03', 1600)
+call<$5f271e74, 0>
+#res：下着梅雨的苍白天空。>
+pause
+cls
+#res：当然，在最开始的时候，班里的同学们几乎每天都会来探望我。>
+pause
+cls
+#res：出院的时候，每次周末，也会到我家里来玩。>
+pause
+cls
+#res：…但是，这一切也只有一开始是这样。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_ame01')
+call<$5f271e74, 0>
+#res：迎接秋天，跨过冬日住院，出院，检查…之后再次住院，就这样重复着…>
+pause
+cls
+#res：曾经，那些被我当作『朋友』的同学们>
+pause
+cls
+#res：在不知不觉中，变成了『熟人』。>
+pause
+cls
+#res：最终，成为了『陌生人』。>
+pause
+cls
+#res：每当岁月更替我从他们的记忆中逐渐的消逝>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_k01', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n003')
+#res：「…看来，他们似乎『不喜欢』我」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$812afdf0, 0> ('n004')
+#res：「对普通人来说，我的存在只是一个累赘」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_k01')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n005')
+#res：「所以…仿佛从记忆里消失了一样…」>
+pause
+cls
+syscall<$f62e3ca7> ('rain_1')
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$a4eb1e4c, 0> ('sora_ame03', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n006')
+#res：「在这个只看得到自己的世界里…　我送走了不知多少个季节…多少次下着梅雨的苍白天空…」>
+pause
+cls
+call<$812afdf0, 0> ('n007')
+#res：「我的英语教科书，自１年级的期中考试以后，就只是一片空白」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_0012', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n008_1')
+#res：「…从那时起…>
+pause
+call<$812afdf0, 0> ('n008_2')
+
+#res：
+#res：我的时间静止了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_0013b')
+call<$a4eb1e4c, 0> ('c005', 1600)
+call<$a4eb1e4c, 0> ('c0052')
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (800)
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('sora01', 1600)
+call<$a4eb1e4c, 0> ('c00', 1600)
+call<$5f271e74, 0>
+#res：■ 8年后…2004年 主人公 初夏 ■>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01')
+call<$5f271e74, 0>
+#res：夏日。满身是汗。>
+pause
+cls
+#res：驾照考场的现场，放置着一块巨大的电子公告板。>
+pause
+cls
+#res：当公告板的LED灯同时亮起。我和其他人一样，寻找着自己的考号。>
+pause
+cls
+#res：「２３７，２３７…」>
+pause
+cls
+#res：在将近最后的LED荧屏里，我顺利的找到了自己亮起的考号。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('faan1_b')
+#res：咣当咣当、>
+pause
+cls
+#res：刚好到了午后时间，车内尤其冷清。>
+pause
+cls
+#res：在这空旷冷清的车厢内，从考场出来的我开始了归途。>
+pause
+cls
+#res：左手握着刚刚收到的交规课本，胸前的口袋里揣着崭新的驾照。>
+pause
+cls
+#res：「我现在也算是有驾照的人了…」>
+pause
+cls
+#res：认真地嘟哝着，却也并没有什么感慨。>
+pause
+cls
+#res：我不是很想要开车。也并非有着什么其他的目的。>
+pause
+cls
+#res：只是周围有很多人都去了驾校，而且他们经常劝我也去考一张驾照。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_yoru01', 1600)
+call<$5f271e74, 0>
+#res：这天夜里。>
+pause
+cls
+#res：我将获得驾照的事情告诉了父母，『是吗』，被如此简短的回应了。>
+pause
+cls
+#res：我试着问到，能否借用父亲的车子，得到了同样简短的回答，>
+pause
+#res：『不行』!这样回复了我。>
+pause
+cls
+#res：其实我也并不是想开车，而他们的答复也和我的预想如出一辙。这就是我的父母。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：第二天。醒来后觉得胸口很难受，于是就去了医院。>
+pause
+cls
+#res：平时我和疾病什么的没有缘分。所以，初诊接待的等待时间，感觉非常无聊。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin_rouka')
+call<$5f271e74, 0>
+#res：好不容易等到诊察结束了的样子，接下来却是胸透和血液检查。是被迫去检查的。>
+pause
+cls
+#res：然后，经过漫长的时间，静静的等待者……>
+pause
+cls
+#res：不知不觉，当我读完等候室的三本JUMP，向第四本伸手时，>
+pause
+cls
+#res：就这样办理完了我的住院手续。>
+pause
+cls
+#res：一直放在胸口的口袋里的，那张崭新的驾照。>
+pause
+cls
+#res：看来暂时不会有使用到它的机会了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('sora07', 1600)
+call<$a4eb1e4c, 0> ('c03')
+call<$5f271e74, 0>
+#res：■　主人公　２００４年　秋　■>
+pause
+cls
+call<$d334ba75, 0> ('e01')
+call<$a4eb1e4c, 0> ('sora07')
+call<$5f271e74, 0>
+#res：到了蝉鸣的喧嚣渐渐平静下来的时节。>
+pause
+cls
+#res：我仍然待在医院之中。>
+pause
+cls
+#res：当然了，我也不是一直都住在医院里。只是不停地重复着入院与出院的过程。>
+pause
+cls
+#res：上个月，我经历了平生的第一次手术。出院后，要去离家５分钟车程的医院去接受定期检查。>
+pause
+cls
+#res：之后便是住院，出院，检查，住院的循环…>
+pause
+cls
+#res：尽管不知道ＰＥＴ啊易瑞沙啊都是些什么东西，等回过神来，这单调的循环已经持续了几个月。>
+pause
+cls
+#res：与食欲越来越差相对应，服用药物的量与种类与日俱增。我自己也能实际感受到，体力明显下降了>
+pause
+cls
+#res：我发觉双腿越来越消瘦，>
+pause
+cls
+#res：”这并不是错觉”，体重计的指针告诉我。>
+pause
+cls
+#res：但是…>
+pause
+#res：像是旁观者一般看着这一切。>
+pause
+cls
+#res：与其说是旁观的那种冷漠，简直就如同只是在看着电视里播出的一段镜头似的。>
+pause
+cls
+#res：事发突然，身上发生的事情，脑袋还没有反应过来。我无法对发生的这一切产生任何的实感。>
+pause
+cls
+#res：所以，尽管是发生在自己身上的事情，但我看待它的方式却仿佛自己是局外人似的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('c033', 1600)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：隆冬时节。当街头巷尾的圣诞气氛终于消散殆尽的时候，>
+pause
+cls
+#res：大概是因为到了年末了吧，我被允许回家了。>
+pause
+cls
+#res：当然这也只是暂时的。即便如此我还是感到了一丝喜悦。>
+pause
+cls
+call<$a4eb1e4c, 0> ('amazora02', 1600)
+call<$5f271e74, 0>
+#res：在雨雪交加的天气，我回到了久违的家中。>
+pause
+cls
+#res：不知道为什么，家人全都聚在一块。>
+pause
+cls
+#res：明明平时很少和我说话的父母，总觉得有点不自然地，笑着迎接我。>
+pause
+cls
+#res：平日里没少和我拌嘴的妹妹，也做好了我最爱吃的奶油炖菜和炸虾排。>
+pause
+cls
+#res：大家一起围坐在被炉边。抢着为我剥橘子皮。那异乎寻常的照顾。留给了我很深的印象。>
+pause
+cls
+#res：这时…>
+pause
+#res：我隐约察觉到了。>
+pause
+cls
+#res：静静地待在口袋里的，那张崭新的驾照。>
+pause
+cls
+#res：这张驾照，不出意外的话，永远都不会有它的用武之地了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+#res：面对着这些不自然的笑容…>
+pause
+cls
+#res：我冷静地，茫然地，漠不关心地思索着，仿佛这是别人的事情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$a4eb1e4c, 0> ('c032', 1600)
+call<$5f271e74, 0>
+#res：■　主人公　２００５年　１月　■>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin_rouka', 1600)
+call<$5f271e74, 0>
+#res：新年过后，我再次回到了医院里。>
+pause
+cls
+#res：不知为何，我并没有像以往那样被送到４楼，而是被带到了像谈话室一样的房间中。>
+pause
+cls
+#res：然后，爸爸和医生反复地交谈着，我夹在他们中间只是一直在听着。听着。>
+pause
+cls
+#res：这就是所谓的，病危通知吧。>
+pause
+cls
+#res：他们拐弯抹角地说了一大堆，归结起来就是。我似乎快要死了。>
+pause
+cls
+#res：「是吗…」>
+pause
+cls
+#res：所以，我只简短地回答了一句。也没能想到其他可以说的话了。直到走出谈话室为止，我也只说了这一句话。>
+pause
+cls
+#res：听到我的回答，医生拿起圆珠笔开始写着什么。>
+pause
+cls
+#res：大概是转入关怀病房的手续吧。他始终是一副事务性的态度。父亲的态度也与他相仿。>
+pause
+cls
+#res：…人的死，原来这么简单啊…>
+pause
+cls
+#res：这是我发自内心的感想。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：然后，从这一天开始我由４楼转入了７楼，由６人病房变成了单人间。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka', 1600)
+call<$5f271e74, 0>
+#res：而且，７楼与其他的楼层稍微有些不一样。>
+pause
+cls
+#res：首先，地板被擦得很亮。天花板也比以前高得多，宽敞得多。>
+pause
+cls
+#res：病房里面也非常漂亮，还有个很大窗户，日光透过巨大的玻璃窗射进屋内。>
+pause
+cls
+#res：…但是，窗户却只能拉开一点。>
+pause
+cls
+#res：我试了试，刚好是要伸出头还差点距离的宽度。>
+pause
+cls
+#res：另外，识别用手环的颜色也变了。>
+pause
+cls
+#res：从住院那天开始，一直戴在手腕上的塑料制手环。上面记载着我的姓名和血型。>
+pause
+cls
+#res：还有就是，识别用手环的颜色也变了,现在，它的颜色由蓝色换成了白色。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：从入院那天开始，我手腕上就一直佩戴着一只塑料手环。上面记载着我的姓名和血型。>
+pause
+cls
+#res：正当我来搬到７楼，又到了，每年电视台开始播放无聊的春节节目的时候。>
+pause
+cls
+#res：也正是在这新年伊始的时候，我结识了那位女孩…>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('nar01', 1600)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('n009')
+call<$a4eb1e4c, 0> ('nar01', 1600)
+call<$a4eb1e4c, 0> ('nar01c', 1)
+call<$a4eb1e4c, 0> ('nar01d')
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+exit (0)

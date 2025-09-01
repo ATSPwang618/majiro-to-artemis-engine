@@ -1,0 +1,39 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (4)
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$a4eb1e4c, 0> ('ns_37', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('pl_v2')
+syscall<$e7b90df5> (650)
+#res：■首先进行简单的说明>
+pause
+cls
+#res：水仙　菫……>
+pause
+cls
+#res：nekoneko soft的『菫』的女主角菫、将作为重要主角登场的故事。>
+pause
+cls
+#res：因此，为了观众能够理解，而加入了一定灯里的角色设定与背景的部分。>
+pause
+cls
+#res：本身是一种叙事诡计的构成，所以我想会很难理解吧>
+pause
+cls
+#res：所以如果你能想到【原来是这种设定的角色吗】大家只要这样模糊地感受到，我也会非常感谢的>
+pause
+cls
+#res：总之。我强行把它放进了水仙的故事里、请忽略立绘变得奇怪的事实＞＜>
+pause
+cls
+#res：另外，这作的时间点是水仙2之后4-5年、水仙1的1-2年前。>
+pause
+cls
+#res：那么 好久不见 感谢您的游玩＞＜>
+pause
+cls
+exit (0)

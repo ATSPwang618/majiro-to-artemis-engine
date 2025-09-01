@@ -1,0 +1,2870 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a9f1a825, 0> (0, 59, 75)
+call<$35395c9f, 0> (4)
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('01bg0010', 1500)
+call<$5f271e74, 0>
+#res：那是，自称总算开始从……>
+pause
+cls
+#res：“僕”变为“俺”的时候。>
+pause
+cls
+call<$d334ba75, 0> ('oa_03')
+syscall<$e7b90df5> (750)
+#res：如果要举出三个，班上最有人气的人的话，其中肯定会有我的时候……>
+pause
+cls
+#res：活泼又阳光，是公认的元气小孩的时候。>
+pause
+cls
+#res：暑假时，在市民游泳馆晒得黝黑已是日常……>
+pause
+cls
+#res：不知烦恼和悲伤为何物，与装睡和谄笑也无缘的时候……>
+pause
+cls
+#res：小学4年级的夏天。大概9、10岁的时候。我经历了住院这回事>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0002', 1200)
+call<$5f271e74, 0>
+#res：倒也不是身体有什么不适，毕竟是公认的，充满活力的孩子。>
+pause
+cls
+#res：……只是，经常会打瞌睡。上课时也睡着过。>
+pause
+cls
+#res：我想应该只是游戏玩多了，保健老师却建议我入院检查一下什么的。倒也没有强制我去。>
+pause
+cls
+#res：想到每年只有一次，大概三天就可以结束。正好是暑假，医院离家也不远。>
+pause
+cls
+#res：然后最重要的，因为想要有一次住院的经历，我就参加了这个“住院体检”还是什么的玩意。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0007', 1200)
+call<$5f271e74, 0>
+#res：来到邻街的医院后，发现除了自己外还有30来人。>
+pause
+cls
+#res：但其他的孩子，年龄都比我大些，没有年龄差不多大的孩子。>
+pause
+cls
+#res：大夫宣读着各种注意事项。>
+pause
+cls
+#res：说是最快3天，最长也就1周左右。因为是为了检查身体而住的院，所以没有什么好担心的。>
+pause
+cls
+#res：也没说什么特别重要的事。全是来这里前就听到过的话。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0010', -100101)
+call<$5f271e74, 0>
+#res：在2楼的一个四人间里，其他人全都比我年纪大。>
+pause
+cls
+#res：在随行的父母回去后，周围的人自然的聊起天来，只有自己搭不上话。>
+pause
+cls
+#res：因此待在病房里太无聊了，我来到了走廊上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a00072', -100101)
+call<$df76bd93, 0> ('shuj_a_a@02')
+call<$5f271e74, 0>
+#res：根据最开始的说明，貌似这个大学医院，除了我们以外就没有其他住院患者了，说到底也没有其他病房。>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@02')
+#res：健：「看起来不是医生的人也很多……」>
+pause
+cls
+#res：估计是大学里的人吧。没有穿着白大褂的人也有很多。>
+pause
+cls
+#res：我一边这么想着，一边漫无目的地走着……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0004', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('kanC_0022')
+#res：女护士Ｃ：「啊，那边不能去哦」>
+pause
+cls
+#res：在一个正好能看到电梯的地方，我被一个护士叫住了。>
+pause
+cls
+#res：健：「为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('kanC_0023')
+#res：女护士Ｃ：「好了，乖孩子，赶紧回去吧」>
+pause
+cls
+#res：虽然没告诉我是什么理由，我还是老老实实地按她说的，回到了自己的病房。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0010c', -100101)
+call<$5f271e74, 0>
+#res：那天晚上。>
+pause
+cls
+#res：吃过晚饭和测完体温后，正在发着呆。这里既没有电视，也没有游戏机，实在太无聊了。>
+pause
+cls
+call<$df76bd93, 0> ('mama_b_e@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_e@02')
+call<$812afdf0, 0> ('kanA_0058')
+#res：女护士Ａ：「喂，马上要就到熄灯时间了，赶紧去睡觉」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0010c', -100101)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('switch1')
+call<$a4eb1e4c, 0> ('bg_a0010d', 500)
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+#res：房间的灯就被关掉了。>
+pause
+cls
+#res：可是，什么能做的事情都没有，无聊死了。晚上9点根本睡不着。>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@07')
+#res：健：「总之，买罐果汁什么的吧……」>
+pause
+cls
+#res：记得玄关那里有自动贩卖机来着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0007a', -100101)
+call<$5f271e74, 0>
+#res：拿出零钱，正准备买可乐的我。>
+pause
+cls
+#res：在那里…>
+pause
+#res：…我第一次跟她相遇了。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0087')
+#res：小明：「……放弃比较好哦」>
+pause
+cls
+#res：回头看去，有个不知哪里来的女孩子。感觉和自己差不多大。>
+pause
+cls
+#res：健：「放弃说的是，啥呀？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@10')
+call<$812afdf0, 0> ('2koa_0088')
+#res：小明：「不行的，那个贩卖机……因为一直都不会冰镇」>
+pause
+cls
+#res：健：「欸，啊……这样啊……」>
+pause
+cls
+#res：她也是跟自己一样，今天来到这里的吗？不过，感觉她好像已经很熟悉这里了……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@05')
+call<$812afdf0, 0> ('2koa_0089')
+#res：小明：「……你今天新来的？」>
+pause
+cls
+#res：健：「嗯，要住院体检。你也是吧？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0090')
+#res：小明：「算是吧」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12', -100506)
+call<$5f271e74, 0>
+#res：只回答了这些，就走开了。但她去的方向，和我们的病房方向正相反。>
+pause
+cls
+#res：健：「诶？ 你要去哪儿？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0091')
+#res：小明：「回去啊……回自己的房间」>
+pause
+cls
+#res：健：「啊，其他地方也有病房啊……」>
+pause
+cls
+#res：对于我来说，倒也不是有什么深意的话。>
+pause
+cls
+#res：毕竟和一开始听到的说明不太一样，今天，在这边闲逛时也并没有看到其他病房。>
+pause
+cls
+#res：只是，稍微觉得有些意外，为什么她……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@37')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_g@37')
+call<$812afdf0, 0> ('2koa_0092')
+#res：小明：「要来吗？ 有冰的果汁哦」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@13', -100506)
+call<$5f271e74, 0>
+#res：健：「欸，啊，等下」>
+pause
+cls
+#res：不知道是不是没听见，快步走了起来。我也急急忙忙地，追了上去。>
+pause
+cls
+#res：……不知道为什么，说是非常冷淡还是……急性子的女孩。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$5f271e74, 0>
+#res：健：「电梯？」>
+pause
+cls
+#res：那里是白天时，那个护士说不能去的那个地方。>
+pause
+cls
+#res：健：「可以坐吗？」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0093')
+#res：小明：「不坐就回不了房间了」>
+pause
+cls
+syscall<$f62e3ca7> ('elv2')
+call<$a4eb1e4c, 0> ('bg_a0005c', -100101)
+call<$5f271e74, 0>
+#res：黑暗的走廊，非常的安静。事实上，一点人的气息都没有。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011c', -100101)
+call<$5f271e74, 0>
+#res：健：「好厉害的病房啊……」>
+pause
+cls
+#res：说是病房，实际是很宽阔的房间，看起来还是很豪华那种。沙发呀桌子，电视机，连书柜都有。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0094')
+#res：小明：「喝吗？冰的很好哦」>
+pause
+cls
+#res：健：「欸，啊，谢谢」>
+pause
+cls
+#res：从一个小冰箱里拿了一罐果汁递给我。>
+pause
+cls
+#res：健：「好厉害的房间啊……」>
+pause
+cls
+#res：又重新的，如此感叹了一下。只是因为有那张床，才勉强看起来是病房的程度。>
+pause
+cls
+#res：而且，瞥到的书架上，也塞满了绘本。>
+pause
+cls
+#res：健：「这些书也都是你的吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@13')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@13')
+call<$812afdf0, 0> ('2koa_0095')
+#res：小明：「……嗯」>
+pause
+cls
+#res：健：「噢~，还真喜欢书啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@04')
+call<$812afdf0, 0> ('2koa_0096')
+#res：小明：「………………」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_d@11')
+call<$812afdf0, 0> ('2koa_0097')
+#res：小明：「只是，没有其他能做的事而已……」>
+pause
+cls
+#res：有点寂寞的，吐出这句叹息的女孩子。>
+pause
+cls
+#res：虽然不是很明白……似乎我们是多人间，只有她却是单间。>
+pause
+cls
+#res：可能因为岁数和自己相近，聊天的人也没有，应该很寂寞吧。>
+pause
+cls
+#res：健：「那么，我会再来这里的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@03')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@03')
+call<$812afdf0, 0> ('2koa_0098')
+#res：小明：「为什么？」>
+pause
+cls
+#res：健：「你不是说很寂寞吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@11')
+call<$812afdf0, 0> ('2koa_0099')
+#res：小明：「也没有。只是无聊而已」>
+pause
+cls
+#res：健：「喔，是这样啊……」>
+pause
+cls
+#res：真是个不招人喜欢的孩子。说话也是一句一句向外蹦，性格也很阴暗的样子。>
+pause
+cls
+#res：回想起来，这就是对她最初的感想了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('01bg0020')
+call<$5f271e74, 0>
+#res：－第二天。>
+pause
+cls
+#res：健：「啊……打针好疼啊……」>
+pause
+cls
+#res：明天就要体检了，早上早早的就打针抽了血。>
+pause
+cls
+#res：但是这样下来，除了晚饭后要量体温以外，就没有什么事要做了。>
+pause
+cls
+#res：健：「好闲啊，去下小卖部好了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0007', -100101)
+call<$5f271e74, 0>
+#res：毫无目的地在院内闲逛着。>
+pause
+cls
+#res：就在我走在1楼走廊的时候……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@04')
+call<$812afdf0, 0> ('1koa_0079')
+#res：小明：「…………」>
+pause
+cls
+#res：健：「啊，是昨天的那个女孩……」>
+pause
+cls
+#res：也没在干什么，只是一个人呆站在走廊里。我只犹豫了一瞬间要不要上去搭话。>
+pause
+cls
+#res：……如果，有其他谈话对象的话我就不会在意了。……如果，不是因为特别闲的话就会无视吧。>
+pause
+cls
+#res：但那个时候，两种情况都不符合所以就去搭话了。>
+pause
+cls
+#res：健：「早上好……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@10')
+call<$812afdf0, 0> ('1koa_0011')
+#res：小明：「…………」>
+pause
+cls
+#res：没什么反应。>
+pause
+cls
+#res：健：「呐我说，你在这里干嘛啊？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@06')
+call<$812afdf0, 0> ('2koa_0100')
+#res：小明：「等人呗」>
+pause
+cls
+#res：健：「嗯？啊，是来探望的人吗……」>
+pause
+cls
+#res：环顾四周，都是些不知是谁的家属一样的人。昨天也一样，几乎每天都有人来的样子。>
+pause
+cls
+#res：健：「说起来，就几天的入院检查而已，真是夸张啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@01')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@01')
+call<$812afdf0, 0> ('2koa_0101')
+#res：小明：「你那边，没人来看你吗？」>
+pause
+cls
+#res：健：「嗯。接收手续结束后，就赶着回去了」>
+pause
+cls
+#res：健：「说是叫我自己一个人回去，真是过分的父母」>
+pause
+cls
+#res：一边这么说一边摆出爽朗的笑容。虽然说是过分的父母，当然并不是真心话。>
+pause
+cls
+#res：我自己也觉得我这种性格，就会被认为放着不管也没事。某种意义上，也是对我的一种信赖吧。>
+pause
+cls
+#res：也是因为幼稚地认为这样说比较酷，不觉得父母不来探望，就会寂寞。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@10')
+call<$812afdf0, 0> ('2koa_0102')
+#res：小明：「你……真成熟」>
+pause
+cls
+#res：突然如此说道的女孩子。>
+pause
+cls
+#res：健：「是吗？ 我倒是觉得年龄没有变化来着？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@05')
+call<$812afdf0, 0> ('2koa_0103')
+#res：小明：「不是那个意思……」>
+pause
+cls
+#res：然后不知道怎么想的，开始聊起了自己的事。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@01')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@01')
+call<$812afdf0, 0> ('2koa_0104')
+#res：小明：「我家，超有钱的」>
+pause
+cls
+#res：健：「是吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@13')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@13')
+call<$812afdf0, 0> ('2koa_0105')
+#res：小明：「我爸爸，是有名公司的老板，非常了不起的人喔」>
+pause
+cls
+#res：健：「诶，这么厉害啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@04')
+call<$812afdf0, 0> ('1koa_0079')
+#res：小明：「………………」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@06')
+call<$812afdf0, 0> ('2koa_0106')
+#res：小明：「……就这？」>
+pause
+cls
+#res：健：「怎么了？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_d@12')
+call<$812afdf0, 0> ('2koa_0107')
+#res：小明：「算了。果然还是小孩……」>
+pause
+cls
+#res：不知道哪里得罪到了，看起来有点不高兴的女孩子。难道说，刚才应该试着更惊讶一点会比较好？>
+pause
+cls
+#res：对我来说，跟我说我见都没见过的人，也不会有什么更深的感想了。>
+pause
+cls
+#res：……虽然不太明白，总之，先道个歉比较好吧……>
+pause
+cls
+#res：我冷冷地，如此思考着的时候……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@04')
+call<$812afdf0, 0> ('2koa_0108')
+#res：小明：「不过……并不讨厌呢」>
+pause
+cls
+#res：健：「什么？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@38@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_g@38@h')
+call<$812afdf0, 0> ('2koa_0109')
+#res：小明：「我说，我不讨厌你……」>
+pause
+cls
+#res：这次有那么一点点，害羞的样子越来越搞不明白了。>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (4)
+call<$a4eb1e4c, 0> ('01bg0020', 1500)
+call<$5f271e74, 0>
+#res：午后。站在正门入口，等着爸爸的我。>
+pause
+cls
+call<$d334ba75, 0> ('a24sou')
+syscall<$e7b90df5> (650)
+#res：昨天给了果汁的那个男孩，也在旁边呆呆的站着，好像很闲的样子。>
+pause
+cls
+#res：……这里也没其他事可做。在这里待了1年的我，已经非常清楚了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0007', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('hmama_a_a@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@04')
+call<$812afdf0, 0> ('hima_0027')
+#res：佐佐木：「诶呀，是朋友吗？」>
+pause
+cls
+#res：跑到我们身边的阿姨，今天也一如既往满面堆笑。>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_b@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_b@02')
+call<$812afdf0, 0> ('hima_0028')
+#res：佐佐木：「妈妈要去下车站附近，有什么想要的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0110')
+#res：小明：「没什么……」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_b@19')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_b@19')
+call<$812afdf0, 0> ('hima_0029')
+#res：佐佐木：「啊，买来的汉堡已经放在房间里了」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@02')
+call<$812afdf0, 0> ('hima_0030')
+#res：佐佐木：「那就这样，请和我的女儿好好相处哦」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_a@18', -100506)
+call<$5f271e74, 0>
+#res：这么说后，旁边的那个小孩也轻点了下头。>
+pause
+cls
+#res：健：「你妈妈，是个温柔的人对吧？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@12')
+call<$812afdf0, 0> ('2koa_0111')
+#res：小明：「不是妈妈……是阿姨」>
+pause
+cls
+#res：健：「是吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@05')
+call<$812afdf0, 0> ('2koa_0112')
+#res：小明：「而且，也不是什么温柔的人」>
+pause
+cls
+#res：感觉也没有想和我搞好关系，倒不如说更希望我不存在。>
+pause
+cls
+#res：健：「是吗，看起来不像是那样的来着……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@50')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_d@50')
+call<$812afdf0, 0> ('2koa_0113')
+#res：小明：「好吧，那我让你看看……跟我来」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：带着他，走向了电梯。>
+pause
+cls
+syscall<$f62e3ca7> ('elv2')
+call<$a4eb1e4c, 0> ('bg_a0005', -100101)
+call<$5f271e74, 0>
+#res：然后走过了长长的走廊，回到了自己的房间。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$5f271e74, 0>
+#res：健：「还是感觉这房间很厉害啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@05')
+call<$812afdf0, 0> ('2koa_0114')
+#res：小明：「那么，要开始了……」>
+pause
+cls
+#res：健：「什么？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@50')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_g@50')
+call<$812afdf0, 0> ('2koa_0115')
+#res：小明：「我不是说了要给你看嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说着的同时，把床上放着的书扔到了周围。>
+pause
+cls
+#res：之后把托盘上放着的，没吃完的汉堡，也直接那样扔到了地板上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011')
+call<$df76bd93, 0> ('shuj_a_a@09')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@09')
+#res：健：「喂，喂，你在做什么啊？」>
+pause
+cls
+#res：没有回答，连着书柜里的书一起，都翻了过来。>
+pause
+cls
+#res：旁边的小孩目瞪口呆的，不过也没办法。假如立场互换，我想我也会那样。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@51')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@51')
+call<$812afdf0, 0> ('2koa_0116')
+#res：小明：「然后，躲到那边去……」>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@07')
+#res：健：「那边是……床的下面？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@53')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@53')
+call<$812afdf0, 0> ('2koa_0117')
+#res：小明：「直到我说没问题了，才可以出来哦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我们躲到了床底下。虽然有点窄，不过躲进去两个人还是足够的。>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_b_c@01')
+call<$812afdf0, 0> ('2koa_0118')
+#res：小明：「差不多了，安静一点」>
+pause
+cls
+#res：健：「啊，嗯……」>
+pause
+cls
+syscall<$f62e3ca7> ('konkon1')
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$df76bd93, 0> ('hmama_a_b@03')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_b@03')
+call<$812afdf0, 0> ('hima_0031')
+#res：佐佐木：「我回来啦……诶呀？没人啊」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_d@15', -100610)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_d@15')
+call<$812afdf0, 0> ('hima_0032')
+#res：佐佐木：「这，这乱七八糟的算什么啊……」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_a@13')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@13')
+call<$812afdf0, 0> ('hima_0033')
+#res：佐佐木：「真是的，也不想想是谁收拾的」>
+pause
+cls
+#res：听到了似乎是很生气的声音，不过并没有发现我们藏了起来。>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$df76bd93, 0> ('hmama_a_a@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@06')
+call<$812afdf0, 0> ('hima_0034')
+#res：佐佐木：「什么嘛，还让人给她买汉堡，这家伙」>
+pause
+cls
+call<$df76bd93, 0> ('', -1)
+call<$5f271e74, 0>
+#res：随着粗着嗓子的声音，终于变成了喃喃的抱怨阿姨开始收拾起来了。>
+pause
+cls
+call<$b69673e4, 0> ('hmama_a_b@06')
+call<$812afdf0, 0> ('hima_0035')
+#res：佐佐木：「真不知道那孩子在想什么，一点都不像个小孩子……」>
+pause
+cls
+call<$b69673e4, 0> ('hmama_a_b@11')
+call<$812afdf0, 0> ('hima_0036')
+#res：佐佐木：「就这样，病得更重……」>
+pause
+cls
+call<$b69673e4, 0> ('hmama_a_a@13')
+call<$812afdf0, 0> ('hima_0037')
+#res：佐佐木：「干脆，就那么死了好了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('door_close01')
+#res：这么抱怨着，离开了房间。>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_b_c@01')
+call<$812afdf0, 0> ('2koa_0119')
+#res：小明：「已经可以出来了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('s_akar_b_e@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@05')
+call<$812afdf0, 0> ('2koa_0120')
+#res：小明：「明白了吧？ 这才是那个人的真面目」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0121')
+#res：小明：「根本不想和我好好相处，不如说觉得我很碍事」>
+pause
+cls
+#res：今天也是，只是为了讨好爸爸才来的。>
+pause
+cls
+#res：……说的这么清楚了。这个人应该也能理解了吧。>
+pause
+cls
+#res：可是……>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_a@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@04')
+#res：健：「不对，这样不行哦」>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_b@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_b@07')
+#res：健：「因为啊，这明明是你不想和她好好相处吧？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@29')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@29')
+call<$812afdf0, 0> ('2koa_0122')
+#res：小明：「欸……」>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_g@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_g@05')
+#res：健：「一开始就讨厌的话，关系肯定变不好啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@10')
+call<$812afdf0, 0> ('2koa_0123')
+#res：小明：「…………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011')
+call<$5f271e74, 0>
+#res：……也不是没这么想过。>
+pause
+cls
+#res：第一次见到阿姨的时候，最开始，是不是并不讨厌我的呢？>
+pause
+cls
+#res：会不会这里面也有我自己的原因呢……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@11')
+call<$812afdf0, 0> ('1koa_0079')
+#res：小明：「………………」>
+pause
+cls
+#res：但是，我还没有成熟到可以坦率承认这一点。>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@02')
+#res：健：「做了坏事之后，不好好道歉可不行哦」>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@05')
+#res：健：「好了，现在就去道歉吧？ 我也陪你一起去」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@48')
+call<$5f271e74, 0>
+#res：那么说着，直直的望着我。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_i@10')
+call<$5f271e74, 0>
+#res：……不知为何，我没有直视他。很难以与他对视。>
+pause
+cls
+#res：说不定我已经，失去了这个年龄来说不应该的程度的纯情与坦率吧……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0124')
+#res：小明：「你的……名字是？」>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@02')
+#res：健：「欸，健二……虽然一般别人都叫我小健……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@47')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@47')
+call<$812afdf0, 0> ('2koa_0125')
+#res：小明：「哦，那小健……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@02')
+call<$812afdf0, 0> ('2koa_0126')
+#res：小明：「你想……想在这里，多待会儿吗？」>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@04')
+#res：健：「这里说的是，医院？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@11')
+call<$812afdf0, 0> ('2koa_0127')
+#res：小明：「对。不想再多住会儿院么？」>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@08')
+#res：健：「嗯……毕竟是难得的暑假真难以决断啊……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@03')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@03')
+call<$812afdf0, 0> ('2koa_0128')
+#res：小明：「啊，喝果汁吗？ 在这里的话，冰镇的也可以随便喝哦？」>
+pause
+cls
+#res：如此说着的我，指了指房间里的冰箱。>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@06')
+#res：健：「真的？ 那再多住住院也不错」>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0020', 1200)
+call<$5f271e74, 0>
+#res：……就这样，他的出院时间延期了。>
+pause
+cls
+#res：在其他人3天左右就出院的时候……只有他一个人，依然还留在这里。>
+pause
+cls
+#res：因为我…>
+pause
+#res：…将“技巧”传授给了他。>
+pause
+cls
+#res：只是……他并不知道是怎么回事。因为我骗了他。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('s_akar_b_c@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@02')
+call<$812afdf0, 0> ('2koa_0129')
+#res：小明：「……这个，吃1片」>
+pause
+cls
+#res：一边说着，把之前那个药给了他一片。>
+pause
+cls
+#res：现在也还能领到，为了应付定期检查，我存了起来。>
+pause
+cls
+#res：健：「咦？不是说，检查前不能吃药吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@13')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@13')
+call<$812afdf0, 0> ('2koa_0130')
+#res：小明：「不是，是护士说。让小健吃的」>
+pause
+cls
+#res：当然是在说谎。护士甚至说的是检查前绝对不能吃。>
+pause
+cls
+#res：健：「可这个，看上去好苦啊……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0131')
+#res：小明：「那我给你拿果汁来」>
+pause
+cls
+#res：健：「哦哦，谢谢，thank you」>
+pause
+cls
+#res：只需一罐果汁，就无比高兴的小健很难以面对那样的笑脸。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：……现在，我正在做着很过分的事。>
+pause
+cls
+#res：只是对自己做的话，还好受些……就算是小孩子，也是非常不可原谅的事情吧。>
+pause
+cls
+#res：欺骗信任我的小健，很痛苦。>
+pause
+cls
+#res：但是在此之上总觉得，如果是小健的话，会来拯救这样的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a004c', 1300)
+call<$5f271e74, 0>
+#res：……有种在这个年龄，就掌握了装睡的精髓……>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a002d', 1500)
+call<$5f271e74, 0>
+#res：连天真都失去了的我，会被他所拯救的感觉……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('01bg0020', 1200)
+call<$5f271e74, 0>
+#res：蔚蓝的天空，远处传来蝉鸣声。在这7F也回响着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0020e', 10)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('04_sen01')
+syscall<$e7b90df5> (750)
+call<$a4eb1e4c, 0> ('bg_a0011', 1200)
+call<$5f271e74, 0>
+#res：转到了我的房间的小健。>
+pause
+cls
+#res：虽然在此之前，在这里的只有我一个人，但是拜托了一下大夫之后，简单的就得到了应允。>
+pause
+cls
+call<$df76bd93, 0> ('mama_b_b@01')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('kanC_0024')
+#res：女护士Ｃ：「那2个人要好好相处噢」>
+pause
+cls
+call<$df76bd93, 0> ('mama_b_b@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_b@02')
+call<$812afdf0, 0> ('kanA_0061')
+#res：女护士Ａ：「睡不着的时候，就读读书。知道吗？」>
+pause
+cls
+#res：说着，给了小健几本绘本。这里的书我已经都看过了。>
+pause
+cls
+call<$df76bd93, 0> ('mama_b_b@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_b@11')
+call<$812afdf0, 0> ('kanA_0019')
+#res：女护士Ａ：「那一会我再来检查体温哦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$5f271e74, 0>
+#res：烦人的护士离开之后，2人独处的时间开始了。>
+pause
+cls
+#res：和以往有着大量空闲时间，却只是在装睡的时候完全不一样。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@05')
+call<$812afdf0, 0> ('2koa_0134')
+#res：小明：「那些书，不要读比较好……」>
+pause
+cls
+#res：健：「为啥？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@10')
+call<$812afdf0, 0> ('2koa_0135')
+#res：小明：「太无聊了，会变困的」>
+pause
+cls
+#res：健：「这样啊……那干些啥？」>
+pause
+cls
+#res：这样一问，我也不知道该怎么回答了。这里也没其他什么事可做。>
+pause
+cls
+#res：健：「那去车站前面玩吧？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@29')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@29')
+call<$812afdf0, 0> ('2koa_0136')
+#res：小明：「诶……」>
+pause
+cls
+#res：健：「记得离这里不远，来走吧」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0137')
+#res：小明：「啊，可，可是……」>
+pause
+cls
+call<$df76bd93, 0> ('', -1)
+call<$5f271e74, 0>
+#res：抓起还在犹豫的我的手，大跨步跑了起来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我也曾多次想过出去外面，尤其是刚来的时候，更是这么想。>
+pause
+cls
+#res：可是感觉会迷路，就没离开过医院的范围。>
+pause
+cls
+#res：而且，要出去外面的话，肯定会被生气的拦住吧。>
+pause
+cls
+syscall<$f62e3ca7> ('elv2')
+call<$a4eb1e4c, 0> ('bg_a0007')
+call<$5f271e74, 0>
+#res：到了1层。周围能看到些大夫和大学的人。>
+pause
+cls
+syscall<$926c13e5> (1500)
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0138')
+#res：小明：「你知道路吗？」>
+pause
+cls
+#res：健：「不知道。不过到处走走，马上就知道了」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@10')
+call<$5f271e74, 0>
+#res：……这么随便真的没问题吗？>
+pause
+cls
+#res：如果迷路回不来了，打算怎么办啊？在那之前，就被发现跑出去了的话，会被抓回来的吧。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@31')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@31')
+call<$812afdf0, 0> ('2koa_0139')
+#res：小明：「……要怎么做？」>
+pause
+cls
+#res：健：「要跑的话我没关系哦。我跑很快的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@37')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_d@37')
+call<$812afdf0, 0> ('2koa_0140')
+#res：小明：「不行的，对手可是大人」>
+pause
+cls
+call<$b69673e4, 0> ('mama_b_b@08')
+call<$812afdf0, 0> ('kanC_0025')
+#res：女护士Ｃ：「啊，喂，你们2个要去哪儿？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@29')
+call<$5f271e74, 0>
+#res：不出所料，已经被发现了。毕竟就这么在大门口附近，也是当然的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0141')
+#res：小明：「那，回去吧……啊，哇」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('ev_a015', 1200)
+call<$5f271e74, 0>
+#res：小健没有理会我，再次拉起我的手跑了起来。>
+pause
+cls
+call<$b69673e4, 0> ('mama_b_a@08')
+call<$812afdf0, 0> ('kanA_0062')
+#res：女护士Ａ：「等等，站住」>
+pause
+cls
+#res：无视后面传来的声音，继续全力奔跑着。>
+pause
+cls
+#res：因为我的手被拉着，也只能全力跑着……>
+pause
+cls
+syscall<$f62e3ca7> ('z42')
+call<$a4eb1e4c, 0> ('4w', 10)
+call<$a4eb1e4c, 0> ('01bg0010', 1500)
+call<$5f271e74, 0>
+#res：向上看去，满眼都是蓝色的夏空。落在脚下的又短又黑的影子。可以听到远处传来的蝉鸣声。>
+pause
+cls
+#res：健：「哈呼——到这里的话，应该没问题了吧……」>
+pause
+cls
+#res：走过3个红绿灯，转过几栋建筑，终于停下了奔跑的脚步。>
+pause
+cls
+#res：健：「话说，嗯……没事吧？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_hina003')
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0142')
+#res：小明：「哈—嘶—，没，没事才怪……」>
+pause
+cls
+#res：不由地喘着粗气，在这炎热的空气中，汗流浃背的。>
+pause
+cls
+#res：这样的全力奔跑，已经好几年没有过了。>
+pause
+cls
+#res：健：「别看我这样，我在班里可是最快的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@09')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@09')
+call<$812afdf0, 0> ('2koa_0143')
+#res：小明：「哈—呼—，谁，谁管你啊……」>
+pause
+cls
+#res：这么热的天，在得意什么啊……>
+pause
+cls
+#res：明明这边是手腕被抓着，又使劲拉着跑，都要累倒了。>
+pause
+cls
+#res：……呼，累死了。一点一点的调整好气息。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@11')
+call<$812afdf0, 0> ('2koa_0144')
+#res：小明：「我说，差不多该松手了吧？」>
+pause
+cls
+#res：健：「嗯……哦，啊，你是叫明（メイ）吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：好像注意到我手环上写着的名字了。为了以防万一，今天带了塑料手环。>
+pause
+cls
+#res：－血型A  篠原  明  ９岁－>
+pause
+cls
+#res：……好像不会读姓的样子。而且，虽然写作明，但读作A ka ri（あかり）……>
+pause
+cls
+#res：不过，大多数人都是读明（メイ）。就算觉得很麻烦，每次都还是要解释一下。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_hina003')
+call<$df76bd93, 0> ('s_akar_b_c@09')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@09')
+call<$812afdf0, 0> ('2koa_0145')
+#res：小明：「那个读明（メイ）是不……」>
+pause
+cls
+#res：健：「嗯。明（メイ）吗……好可爱的名字」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@28@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@28@h')
+call<$812afdf0, 0> ('2koa_0146')
+#res：小明：「欸……可爱？」>
+pause
+cls
+#res：健：「怎么了吗？ 这种程度的汉字，我还是能读的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@37@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@37@h')
+call<$812afdf0, 0> ('2koa_0147')
+#res：小明：「不，没什么……」>
+pause
+cls
+#res：健：「那走吧」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@12@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@12@h')
+call<$812afdf0, 0> ('2koa_0148')
+#res：小明：「……嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a015', 1200)
+call<$5f271e74, 0>
+#res：再次抓起我的手，要开始跑起来的小健。>
+pause
+cls
+#res：不管我步伐已经有点累了，也不管眼前的小路已经变成了台阶，都不在乎。>
+pause
+cls
+#res：不论到哪都是按自己的节奏，使劲拉着我跑。>
+pause
+cls
+#res：……真是个小孩儿。都不会为对方考虑下。>
+pause
+cls
+#res：在这么炎热的天气里，像个笨蛋一样满头大汗快跑着……>
+pause
+cls
+#res：但不知道为何……我心情很好。将那只手…>
+pause
+#res：…紧紧地握着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_h_0015', -100101)
+call<$5f271e74, 0>
+#res：不久后就到了车站前。>
+pause
+cls
+#res：健：「总算是平安到达了……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@06')
+call<$812afdf0, 0> ('2koa_0149')
+#res：小明：「……虽然迷了2次路呢」>
+pause
+cls
+#res：健：「然后呢？现在干嘛？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@11')
+call<$812afdf0, 0> ('2koa_0150')
+#res：小明：「感觉肚子有点饿了……」>
+pause
+cls
+#res：健：「嗯，我也肚子空空了……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@02')
+call<$812afdf0, 0> ('2koa_0151')
+#res：小明：「呐，去买个芝士汉堡来呗」>
+pause
+cls
+#res：指着面前的一个快餐店。>
+pause
+cls
+#res：健：「好。稍等一下」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：健：「久等了，买回来了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_h_0015')
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+#res：没多久就回来了的小健。可他的手里只拿了一个汉堡。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@10')
+call<$812afdf0, 0> ('2koa_0152')
+#res：小明：「你的呢？」>
+pause
+cls
+#res：健：「抱歉，我只带了300元， 只能买1个了……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@29')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@29')
+call<$812afdf0, 0> ('2koa_0153')
+#res：健：「欸……」>
+pause
+cls
+#res：健：「这个月的零花钱都用完了，啊哈哈」>
+pause
+cls
+#res：说着，有点不好意思的笑了。>
+pause
+cls
+#res：……就好像做了什么很对不起人的事一样……非常想向小健道歉……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0154')
+#res：小明：「啊，那，那样就我来……」>
+pause
+cls
+#res：马上要从口袋里 拿出钱包的时候……>
+pause
+cls
+#res：健：「那，一人一半吧？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@02')
+call<$812afdf0, 0> ('2koa_0155')
+#res：小明：「可以是可以，可是……」>
+pause
+cls
+#res：健：「好啦好啦，别客气，你不是很喜欢这个吗」>
+pause
+cls
+#res：他用这样笑容说出来，就无法拒绝了。把掏到一半的钱包，又放回了口袋里。>
+pause
+cls
+#res：在这里掏出钱什么的，感觉就太失礼了……>
+pause
+cls
+#res：觉得会玷污小健那份单纯而又，温柔的感情……>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+#res：在夏日的天空下，我们并排坐在车站前的椅子上，吃着芝士对半分开的汉堡。>
+pause
+cls
+#res：健：「虽然好久没吃过了，真好吃啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a012', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0156')
+#res：小明：「……嗯」>
+pause
+cls
+#res：健：「你……不对， 明，很喜欢汉堡之类的吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a011', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0157')
+#res：小明：「……嗯」>
+pause
+cls
+#res：其实也没那么喜欢。只是不讨厌……的程度而已。>
+pause
+cls
+#res：健：「不过，这么热，喉咙都干了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a012', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0158')
+#res：小明：「……嗯」>
+pause
+cls
+#res：健：「怎么了你，从刚才开始，就只会说“嗯”」>
+pause
+cls
+#res：比起味道，比起炎热，胸中被充的更满。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a015', 1300)
+call<$5f271e74, 0>
+#res：我肯定是从那时开始……>
+pause
+cls
+#res：从不讨厌汉堡，变成了喜欢的吧。>
+pause
+cls
+#res：然后，小健也…>
+pause
+#res：…喜欢上他了吧……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('01bg0040')
+call<$5f271e74, 0>
+#res：漫长的白天结束了，短暂的夏夜开始了。>
+pause
+cls
+#res：因为白天跑了出去，被狠狠地说教了一通的我们。>
+pause
+cls
+#res：但是现在，一直都只有我一人的房间里，小健也在。现在正在旁边，不停地翻看着绘本。>
+pause
+cls
+call<$d334ba75, 0> ('ebisb2')
+call<$a4eb1e4c, 0> ('bg_a0011c', -100101)
+call<$df76bd93, 0> ('s_akar_b_a@01')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@01')
+call<$812afdf0, 0> ('2koa_0159')
+#res：小明：「喜欢绘本吗？」>
+pause
+cls
+#res：健：「一点也不喜欢。只是太闲了才看」>
+pause
+cls
+#res：我也是这么想的，所以太能明白了。>
+pause
+cls
+#res：至少是漫画的话也还好，绘本什么的不仅无聊，还用不了多久就能读完。>
+pause
+cls
+#res：健：「又不是小孩子了，谁还看绘本啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@36')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@36')
+call<$812afdf0, 0> ('2koa_0156')
+#res：小明：「嗯」>
+pause
+cls
+#res：一边那样说着，一边流畅地翻着书的小健。我下意识地也拿了一本。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a016', 1500)
+call<$5f271e74, 0>
+#res：已经看了好多遍的书，大致的故事梗概全都记住了。>
+pause
+cls
+#res：一边这么想着，一边翻着书页……>
+pause
+cls
+#res：健：「嗯，我看看……」>
+pause
+cls
+#res：健：「很早很早以前，北方的塔里住着一位公主……」>
+pause
+cls
+#res：健：「但是，公主一直都是孤身一人。 因为被关在了塔顶上……」>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_b_b@06')
+call<$812afdf0, 0> ('2koa_0160')
+#res：小明：「别读出来嘛」>
+pause
+cls
+#res：健：「没什么吧，反正无聊」>
+pause
+cls
+#res：说到是因为无聊，也就难以反驳了。自己也那样过所以十分清楚。>
+pause
+cls
+#res：健：「我看看……在某一天，公主下定了一个决心」>
+pause
+cls
+#res：健：「要逃离这个地方，然后每天都要吃汉堡」>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_b_b@27')
+call<$812afdf0, 0> ('2koa_0161')
+#res：小明：「哈?」>
+pause
+cls
+#res：健：「可是为了让饿肚子公主，从塔里逃出来的话，必须要打败坏心眼的皇后和魔法师……」>
+pause
+cls
+#res：健：「饿肚子公主向联合国提出了控诉，要求出动ＮＡＴＯ（北约）的军队」>
+pause
+cls
+#res：……总感觉，越来越乱七八糟的了。>
+pause
+cls
+#res：健：「但是，坏心眼的皇后以干涉内政为由，驳回了此事」>
+pause
+cls
+#res：健：「走投无路的饿肚子公主，作为偶像出道了，成为了世界级的歌手。可喜可贺」>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_b_b@37')
+call<$812afdf0, 0> ('2koa_0162')
+#res：小明：「……在胡说八道些什么啊……」>
+pause
+cls
+#res：健：「我感觉这样会更有趣些」>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_b_b@50')
+call<$812afdf0, 0> ('2koa_0163')
+#res：小明：「一点都不有趣。而且，饿肚子公主是说谁啊？」>
+pause
+cls
+#res：健：「诶呀，因为老是在吃着什么所以……」>
+pause
+cls
+#res：一边说着，一边笑嘻嘻的看着我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：……难道说，我被捉弄了？>
+pause
+cls
+#res：这种时候是该生气呢？还是说，该一起笑呢？>
+pause
+cls
+#res：出生以来第一次碰到这种事，不是很能明白。>
+pause
+cls
+#res：……仔细想了想，我……>
+pause
+cls
+#res：察觉到了，至今为止自己连一个能称之为“朋友”的存在都没有。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011c', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('mama_b_e@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_e@02')
+call<$812afdf0, 0> ('kanA_0059')
+#res：女护士Ａ：「喂，还没睡啊」>
+pause
+cls
+#res：熄灯前来巡视的护士。还是那个坏心眼的野口。>
+pause
+cls
+syscall<$f62e3ca7> ('switch1')
+call<$a4eb1e4c, 0> ('b', 500)
+call<$5f271e74, 0>
+#res：健：「啊，灯被关掉了……」>
+pause
+cls
+call<$b69673e4, 0> ('mama_b_a@23')
+call<$812afdf0, 0> ('kanA_0060')
+#res：女护士Ａ：「真是的，再添麻烦，就让你睡着了哟」>
+pause
+cls
+#res：说着，又回了走廊离开了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011d', -100101)
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_b_e@04')
+call<$5f271e74, 0>
+#res：健：「我说，真过分啊……读书读得正开心呢」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0164')
+#res：小明：「那个人，叫野口。心眼超坏的」>
+pause
+cls
+#res：健：「嗯，还说要让我睡着什么的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@06')
+call<$812afdf0, 0> ('2koa_0165')
+#res：小明：「小心一点，那是真的事情……」>
+pause
+cls
+#res：我也对他作了说明。>
+pause
+cls
+#res：如果熬夜太晚的话，就会被奇怪的药弄睡着。除了野口，坏心眼的护士还有2个这件事。>
+pause
+cls
+#res：健：「奇怪的药是？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_d@10')
+call<$812afdf0, 0> ('2koa_0166')
+#res：小明：「不清楚。因为马上就睡着了」>
+pause
+cls
+#res：健：「原来如此……总之，野口就是坏心眼魔法师呢」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@29')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_d@29')
+call<$812afdf0, 0> ('1koa_0011')
+#res：小明：「？？？」>
+pause
+cls
+#res：健：「而且，手下还有2个魔女」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@13')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@13')
+call<$812afdf0, 0> ('2koa_0167')
+#res：小明：「欸，啊啊……」>
+pause
+cls
+#res：原来如此，是这样的游戏啊。虽然一开始说的没听懂，后面的倒也明白了。>
+pause
+cls
+#res：健：「那坏皇后是谁？ 什么样的？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@10')
+call<$812afdf0, 0> ('2koa_0168')
+#res：小明：「嗯，心眼非常坏，而且还笑眯眯的？」>
+pause
+cls
+#res：健：「……感觉没什么迫力啊，明明是最终boss」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@07')
+call<$812afdf0, 0> ('1koa_0079')
+#res：小明：「…………」>
+pause
+cls
+#res：感觉好像不太满意。往更强的方向想想看。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_c@09')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_c@09')
+call<$812afdf0, 0> ('2koa_0169')
+#res：小明：「但是生气了的话，会喷火哦？」>
+pause
+cls
+#res：健：「太常见了……」>
+pause
+cls
+#res：唔。这样好像也不怎么有趣。明明好不容易才想到的……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@52')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_g@52')
+call<$812afdf0, 0> ('2koa_0170')
+#res：小明：「那，会从眼睛发射光束」>
+pause
+cls
+#res：健：「喔哦，从眼睛发射光束……好像很强的样子」>
+pause
+cls
+#res：看起来总算是满意了。>
+pause
+cls
+#res：健：「但是啊，这么多奇怪的敌人，饿肚子公主也真不容易啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@08')
+call<$812afdf0, 0> ('2koa_0171')
+#res：小明：「谁是饿肚子公主嘛……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0040', 1200)
+call<$5f271e74, 0>
+#res：……这之后，二人一直聊到了天亮。>
+pause
+cls
+#res：如果那就是和“朋友”一起的， “愉快的聊天”的话……>
+pause
+cls
+#res：那我算是同时完成了交朋友，和愉快聊天。这2个目标吧。>
+pause
+cls
+#res：时年9岁，谁也看不穿的，熟练掌握装睡的我。>
+pause
+cls
+#res：但是，在这方面还是第一次……>
+pause
+cls
+call<$a4eb1e4c, 0> ('4w', 10)
+call<$a4eb1e4c, 0> ('01bg0020', 1500)
+call<$5f271e74, 0>
+#res：－一周后。>
+pause
+cls
+#res：灼热的阳光与蝉鸣声。在8月的蔚蓝天空下，回响着蝉的叫声。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0007', -100101)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_g@02')
+#res：健：「看起来，野口好像不在……」>
+pause
+cls
+#res：偷偷观察1楼大门出入口的情况。这里的得分点是，只有跑步很快的野口在不在。>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@03')
+#res：健：「那，要走咯」>
+pause
+cls
+#res：这么说着的同时，紧紧抓住了我的手。>
+pause
+cls
+call<$b69673e4, 0> ('shuj_a_g@09')
+#res：健：「就是现在，冲啊冲啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a015', 1200)
+call<$5f271e74, 0>
+#res：被拉着跑了起来的我。>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0172')
+#res：小明：「哈—哈—，稍，稍微等下，小健」>
+pause
+cls
+#res：健：「没事没事，还一点都不累」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0173')
+#res：小明：「所，所以说，是我，已经跑不动了」>
+pause
+cls
+#res：健：「啊，信号灯变绿了，快点快点」>
+pause
+cls
+#res：还是老样子，不顾及他人感受，按自己的步调继续跑着的小健。>
+pause
+cls
+#res：然后，搞得我气喘吁吁的。就算中途呼吸变得急促，摇摇晃晃的还是被拉着。>
+pause
+cls
+#res：不过，只有那紧握的手，从来没有放开过。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_h_0015', -100101)
+call<$5f271e74, 0>
+#res：健：「好啦，到达咯」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@11')
+call<$5f271e74, 0>
+#res：健：「嗯？ 没事吧，明？ 看起来筋疲力尽的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@09')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@09')
+call<$812afdf0, 0> ('2koa_0174')
+#res：小明：「哈…呼…那不是当然的吗……」>
+pause
+cls
+#res：不由得满头大汗。>
+pause
+cls
+#res：小健也同样浑身是汗，但是却完全不在意的样子。>
+pause
+cls
+#res：健：「啊，说起来，汉堡怎么办？ 我可已经没钱了」>
+pause
+cls
+#res：这么说着就把零钱从口袋里掏出来给我看。只有一枚50元的硬币。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@13')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@13')
+call<$812afdf0, 0> ('2koa_0175')
+#res：小明：「啊，没事我带了……」>
+pause
+cls
+#res：我从自己的钱包里拿出300元递了过去。>
+pause
+cls
+#res：健：「那我马上就去买回来，等我一下」>
+pause
+cls
+#res：……其实还有多的钱。午饭后已经过了不少时间，肚子也饿了……>
+pause
+cls
+#res：但还是和小健一人分了一半。>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('ev_a011', 1200)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+#res：然后就又一次的，并坐在长椅上，二人开始吃汉堡。>
+pause
+cls
+#res：健：「话说你还真是吃不腻呢……」>
+pause
+cls
+#res：健：「就那么喜欢汉堡吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a012', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0176')
+#res：小明：「嗯……喜欢」>
+pause
+cls
+#res：一边微微点头一边回答。正确的说，应该是喜欢……上了。>
+pause
+cls
+#res：一边这样想着，一边看着小健的脸。因为一直盯着看会很害羞，所以小心翼翼地看着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a011d', 300)
+call<$5f271e74, 0>
+#res：……又开朗，又有趣，又是笨蛋，又孩子气……>
+pause
+cls
+#res：但是，有着自然而然的温柔的小健……让我在童心中，第一次找到了喜欢的对象。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a011', 300)
+call<$5f271e74, 0>
+#res：……老实说，汉堡的味道，已经搞不清楚了。已经脑子转不动到了这种程度。>
+pause
+cls
+#res：健：「嗯？ 你怎么了，一直盯着我」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0177')
+#res：小明：「欸……」>
+pause
+cls
+#res：健：「不会给你的哦，毕竟是我的那份」>
+pause
+cls
+#res：健：「真是拿饿肚子公主没办法啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a011c', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0171')
+#res：小明：「你才是饿肚子公主呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：……那之后，回到了医院，又被狠狠地责骂了。2个人站在一起，被挖苦了10多分钟。>
+pause
+cls
+#res：但是小健好像还是没吸取一点教训。>
+pause
+cls
+#res：反而因为下次看管就加严了，就更期待下次要如何逃走了。>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('01bg0040', 1200)
+call<$5f271e74, 0>
+#res：今天也是个，月亮露出大大脸庞的日子。>
+pause
+cls
+call<$d334ba75, 0> ('pl_vo')
+#res：月光微微渗透进残留着白天的温度和湿气的天空。依旧照着着我们。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a016c', 1500)
+call<$5f271e74, 0>
+#res：健：「……于是，坏心眼魔女思考了一番……」>
+pause
+cls
+#res：健：「干脆送个间谍进去，从内部破坏怎么样？」>
+pause
+cls
+#res：熄灯时间已经过去的，黑暗的房间里。>
+pause
+cls
+#res：呆呆看着绘本的我的旁边，小健今天也在乱编着奇怪的东西给我听。>
+pause
+cls
+#res：健：「逃跑变得更困难的饿肚子公主……但是，公主开发出了光学迷彩，可以变透明了」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0178')
+#res：小明：「这是什么新设定？」>
+pause
+cls
+#res：健：「这样女王那招，从眼睛里发出的光束也就无效了，超厉害」>
+pause
+cls
+#res：原本的故事已经没了影子，几乎都是随便的在编故事。>
+pause
+cls
+#res：健：「这样的饿肚子公主今天也大展身手了。可喜可贺」>
+pause
+cls
+#res：开心的说着这些的小健很有意思，我也感到很开心。>
+pause
+cls
+#res：……而且我还发现，小健虽然只是个小屁孩，却懂很多复杂的词。>
+pause
+cls
+#res：因为我看了很多书，所以还能大概理解……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011d', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0179')
+#res：小明：「为什么知道那么多难懂的词啊？」>
+pause
+cls
+#res：健：「嗯——，可能因为我喜欢看漫画？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@29')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@29')
+call<$812afdf0, 0> ('2koa_0180')
+#res：小明：「……漫画？」>
+pause
+cls
+#res：健：「你看漫画的话，上面不都会标注假名的吗？所以，难懂的词也能记住了的样子」>
+pause
+cls
+#res：健：「啊，还有，我也很喜欢动漫和游戏之类的」>
+pause
+cls
+#res：这么说着，小健好像非常开心。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@10')
+call<$5f271e74, 0>
+#res：不过我想，可能就是因为一直净看些漫画，所以才不会读没有标上假名的，我的姓和名字。>
+pause
+cls
+#res：健：「说起来，明喜欢什么？ 游戏之类的？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@37')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@37')
+call<$812afdf0, 0> ('2koa_0181')
+#res：小明：「啊，我想想……」>
+pause
+cls
+#res：健：「啊，也不一定是游戏，爱好之类的是？」>
+pause
+cls
+#res：稍微想了一下之后注意到了。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@11')
+call<$5f271e74, 0>
+#res：……好像我，什么都没有。>
+pause
+cls
+#res：换句话说，没有能被称做兴趣的，能让人沉迷其中的东西……>
+pause
+cls
+#res：健：「虽然这是我爸说过一句话……」>
+pause
+cls
+#res：健：「不管是什么，只要能找到让人沉迷其中的事情就好了」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@02')
+call<$812afdf0, 0> ('2koa_0182')
+#res：小明：「…………」>
+pause
+cls
+#res：听到这句话不由沉默了。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@10')
+call<$5f271e74, 0>
+#res：我既没有那样的东西，也没有以后能够找到的自信。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：……啊，对了。这时突然想到了一件事。>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0183')
+#res：小明：「稍微等一下……」>
+pause
+cls
+#res：一边回答，一边取出了藏在书柜上的玩具钢琴。>
+pause
+cls
+#res：这是去年从那个温柔的姐姐那里的得到的东西。>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('ev_a003', 1200)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+#res：健：「咦，好小的钢琴……」>
+pause
+cls
+#res：健：「难道说，你会弹钢琴吗？」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0184')
+#res：小明：「不会……，但是，从现在开始学」>
+pause
+cls
+#res：一边回答，一边试着按起了小小的琴键。>
+pause
+cls
+#res：发出了清脆的“叮”声的钢琴。距离离能称作是演奏，还差的很远。>
+pause
+cls
+#res：从现在开始努力的话，总有一天，我应该也能像模像样的吧……>
+pause
+cls
+#res：这样的我也可以，找到什么可以热衷起来的东西吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0020', 1200)
+call<$5f271e74, 0>
+#res：几天后。>
+pause
+cls
+#res：今天也是我们2人一起过。回过神来，已经快要进入8月中旬了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0007', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+#res：和之前一样，打算到车站前去……>
+pause
+cls
+call<$df76bd93, 0> ('mama_b_b@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_b@02')
+call<$812afdf0, 0> ('kanA_0063')
+#res：女护士Ａ：「喂，你们够了」>
+pause
+cls
+#res：健：「哇，被抓到了」>
+pause
+cls
+#res：毕竟逃跑的次数太多了，最近也越来越容易失败了。>
+pause
+cls
+call<$df76bd93, 0> ('mama_b_b@23')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_b@23')
+call<$812afdf0, 0> ('kanA_0064')
+#res：女护士Ａ：「哈-哈-，别，别再给我添麻烦了啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('shuj_a_a@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@08')
+#res：健：「唉，敌人的防御越来越强了啊……」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0185')
+#res：小明：「嗯，没办法呢」>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_g@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_g@07')
+#res：健：「你怎么啦？反应很平淡呢？」>
+pause
+cls
+#res：真讲的话，也并不是那么想去。>
+pause
+cls
+#res：恐怕，吃汉堡也不是我一开始的目的……>
+pause
+cls
+#res：只要和小健在一起，去哪里都一样。>
+pause
+cls
+#res：健：「没办法，那继续看书吧……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：听到这句话，我从床上坐了起来，打开了绘本。>
+pause
+cls
+#res：然后小健他，调整到可以瞥见我的书的角度，一起读了起来。>
+pause
+cls
+#res：其实看什么书都无所谓。反正小健也会任由自己的想法重新创作。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a016', 1500)
+call<$5f271e74, 0>
+#res：健：「第34话。北方之塔的饿肚子公主的危机！」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0186')
+#res：小明：「应该还只是第8话吧」>
+pause
+cls
+#res：健：「无所谓啦，是那个感觉嘛」>
+pause
+cls
+#res：然后，又开始手舞足蹈的说了起来。>
+pause
+cls
+#res：健：「由于坏心眼魔女的妨碍，逃不出去了的饿肚子公主……」>
+pause
+cls
+#res：健：「但是，由于开发了光学迷彩，成功的透明化了……」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0187')
+#res：小明：「那个设定，第4话就没用了吧？」>
+pause
+cls
+#res：健：「啊，是这样吗，嗯……那……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('konkon1')
+#res：……有人来了？>
+pause
+cls
+#res：我想万一是爸爸来了，赶紧钻到了自己的床上。>
+pause
+cls
+#res：然后静静的闭上眼睛，开始装睡。>
+pause
+cls
+#res：……醒着的话，说不定就会被问这问那的。>
+pause
+cls
+#res：如果被最近那样，可怕的爸爸追问的话我没有自信能够继续圆谎。>
+pause
+cls
+#res：如果暴露了，不仅会对我发很大的火，而且这样出院了的话，就得跟小健说再见了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('hmama_a_a@19')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@19')
+call<$812afdf0, 0> ('hima_0038')
+#res：佐佐木：「早上好，关系还是那么好啊」>
+pause
+cls
+#res：来的是阿姨，下意识松了口气。>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0188')
+#res：小明：「……爸爸呢？」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_b@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_b@02')
+call<$812afdf0, 0> ('hima_0039')
+#res：佐佐木：「应该马上就过来了哦。现在正在和院长谈话」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0189')
+#res：小明：「和院长？」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_b@09')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_b@09')
+call<$812afdf0, 0> ('hima_0040')
+#res：佐佐木：「嗯，好像要商量什么……」>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_a@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@04')
+call<$812afdf0, 0> ('hima_0041')
+#res：佐佐木：「那，妈妈先去一趟事务处」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$5f271e74, 0>
+#res：只留下这句话，又离开了病房的阿姨。>
+pause
+cls
+#res：……难道说，要让我出院了？装睡暴露了吗？>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@11')
+call<$812afdf0, 0> ('2koa_0190')
+#res：小明：「呐小健……能出去一下吗？」>
+pause
+cls
+#res：健：「为啥？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0191')
+#res：小明：「拜托了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('konkon1')
+#res：……来了。我赶紧钻进了自己的被窝。>
+pause
+cls
+#res：静静闭上眼睛，开始装睡。>
+pause
+cls
+#res：虽然有不会被任何人看破的自信，但此时还是十分的紧张。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a004', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('tpapa_0026')
+#res：多恵父：「今天也还是在睡觉么……」>
+pause
+cls
+#res：随着这声叹息，床边的椅子发出了坐在其上的声音。>
+pause
+cls
+call<$812afdf0, 0> ('tpapa_0027')
+#res：多恵父：「爸爸在工作上出了点差错……」>
+pause
+cls
+call<$812afdf0, 0> ('tpapa_0028')
+#res：多恵父：「和妈妈……不是，和新妈妈也经常吵架……」>
+pause
+cls
+#res：以失落的声音，独自叹息着的爸爸。>
+pause
+cls
+call<$812afdf0, 0> ('tpapa_0029')
+#res：多恵父：「想着至少，能看到你健康的样子就好……」>
+pause
+cls
+call<$812afdf0, 0> ('tpapa_0030')
+#res：多恵父：「但你一直都在睡觉，见不到面好寂寞啊。」>
+pause
+cls
+#res：听到这些话语想要起身，但没能起来。>
+pause
+cls
+#res：现在起来的话，骗人的事就暴露了。而且会再也见不到小健了。>
+pause
+cls
+call<$812afdf0, 0> ('tpapa_0031')
+#res：多恵父：「再见了，我还会再来的……」>
+pause
+cls
+#res：传来了无力的叹息声和，房门关闭的声音。>
+pause
+cls
+syscall<$f62e3ca7> ('door_close01')
+call<$a4eb1e4c, 0> ('ev_a004b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2koa_0192')
+#res：小明：「爸爸，非常失落……」>
+pause
+cls
+#res：早知如此，就应该好好起来，和他说些什么会比较好吧……>
+pause
+cls
+#res：也不可能这样一直躲下去。一直装睡也行不通。>
+pause
+cls
+#res：虽然我还小，这些道理还是知道的。>
+pause
+cls
+#res：明明越拖下去，就越害怕说明真相……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('shuj_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_a@07')
+#res：健：「咦？ 你爸爸已经走了啊……」>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_g@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_g@04')
+#res：健：「好久没见了吧，有高兴的说话吗？」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0193')
+#res：小明：「嗯……」>
+pause
+cls
+#res：当然是说谎了。别说聊天了，这几个月连一句话都没说过。>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_e@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_e@08')
+#res：健：「是吗，我家都还没人来看望过呢」>
+pause
+cls
+call<$df76bd93, 0> ('shuj_a_g@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('shuj_a_g@06')
+#res：健：「嘛，就算是来了，也只会说些废话， 还是不要来比较好」>
+pause
+cls
+#res：开朗的笑了。小健和他爸爸肯定相处得很好吧。>
+pause
+cls
+#res：假笑也好，装睡也好，肯定都跟小健无缘吧……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：－3天后。>
+pause
+cls
+call<$d334ba75, 0> ('04_sen01')
+syscall<$e7b90df5> (750)
+call<$a4eb1e4c, 0> ('bg_a0007')
+call<$5f271e74, 0>
+#res：还是老样子，为了跑去车站附近，蹲守在大门入口附近。>
+pause
+cls
+#res：健：「感觉最近，越来越难逃去了」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0158')
+#res：小明：「……嗯」>
+pause
+cls
+#res：这几天，出口附近都能看见看守一样的人了。>
+pause
+cls
+#res：可能是爸爸他，跟医院的人说了什么吧。>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0194')
+#res：小明：「回房间吧」>
+pause
+cls
+#res：健：「也是……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：回到房间的我们。和往常一样打开了绘本。>
+pause
+cls
+#res：出不去外面的话，就没什么别的可做的了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a016', 1500)
+call<$5f271e74, 0>
+#res：健：「饿肚子公主陷入了困境……怎么也逃不到外面去」>
+pause
+cls
+#res：健：「再这样下去，就会因为吃不到汉堡而饿死了」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0195')
+#res：小明：「这种程度才不会死呢」>
+pause
+cls
+#res：一如往常的对话。我听着这些小健创作的……应该说是有趣的胡编。>
+pause
+cls
+#res：但是那天，要比平时更加的来劲。>
+pause
+cls
+#res：健：「对了，来个附体能力吧」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0196')
+#res：小明：「附体？」>
+pause
+cls
+#res：健：「也就是说，转移到某人身上，跑到外面去」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0197')
+#res：小明：「虽然不太明白，那样的话这个身体呢？」>
+pause
+cls
+#res：健：「……身体？」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0198')
+#res：小明：「你看，附体到某人身上的话， 我们原来的身体不就会留在那里么？」>
+pause
+cls
+#res：健：「那，就只把这个床上当作安全区……」>
+pause
+cls
+#res：健：「不，不如，差不多不老不死的感觉怎么样？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：之后继续热情地说着设定的小健。>
+pause
+cls
+#res：偶尔，当我指出一些矛盾点，他就会换个方向思考。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('s_akar_b_a@01')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@01')
+call<$812afdf0, 0> ('2koa_0199')
+#res：小明：「可是，敌人要怎么打倒？」>
+pause
+cls
+#res：健：「那就，普通的拳打和脚踢吧」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@06')
+call<$812afdf0, 0> ('2koa_0200')
+#res：小明：「明明对手能从眼睛发射激光？」>
+pause
+cls
+#res：健：「因为你看，我们是用附体上去的人在战斗嘛」>
+pause
+cls
+#res：健：「就算被杀死了，本体也没有影响， 没有这样的不利因素可不行」>
+pause
+cls
+#res：健：「嗯……不再附加上其他条件限制的话，感觉作弊过头了……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@13')
+call<$5f271e74, 0>
+#res：好像小健越来越来劲了的样子。>
+pause
+cls
+#res：健：「所以，敬请期待下一回的饿肚子公主的大冒险」>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0040', 1200)
+call<$5f271e74, 0>
+#res：终于，天完全黑下来的时候……>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('ev_a003', 1200)
+call<$5f271e74, 0>
+#res：健：「哦，稍微熟练一点了？」>
+pause
+cls
+#res：这次，弹着玩具钢琴的我和，旁边看起来很高兴的小健。>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0201')
+#res：小明：「我说，什么时候我也能弹的很好吗？」>
+pause
+cls
+#res：健：「谁知道呢……也可能一直弹得很差」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0202')
+#res：小明：「唔，什么嘛……」>
+pause
+cls
+#res：健：「……但是，能有沉迷其中的事物也许也是一种幸福吧」>
+pause
+cls
+#res：说着，一脸温和地看着我。>
+pause
+cls
+#res：对我来说……还不明白这到底是不是能沉迷其中的事物>
+pause
+cls
+#res：只是觉得，某天能被小健夸真厉害的话，会非常高兴。>
+pause
+cls
+#res：就算是笨拙的我，总有一天……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('01bg0010', 1200)
+call<$5f271e74, 0>
+#res：－离暑假结束只剩几天的一天。>
+pause
+cls
+#res：护士来到我们跟前，通知了小健。>
+pause
+cls
+call<$d334ba75, 0> ('pl_vo')
+call<$812afdf0, 0> ('kanC_0026')
+#res：女护士Ｃ：「看样子，好像马上就出院了哦」>
+pause
+cls
+#res：健：「欸……」>
+pause
+cls
+call<$812afdf0, 0> ('kanC_0027')
+#res：女护士Ｃ：「太好了呢」>
+pause
+cls
+#res：健：「……………」>
+pause
+cls
+#res：就那样，看起来很寂寞的小健。我也是同样的心情。>
+pause
+cls
+#res：我知道，不可能一直在一起的。>
+pause
+cls
+#res：只是开始就用那个“技巧”让他留了下来而已。当然他本人并不知道，我一直在骗他。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：二人再次打开了绘本。今晚也是最后一次能这样做的了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a016c', 1500)
+call<$5f271e74, 0>
+#res：健：「最终回，饿肚子公主的逆袭！好莱坞版」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0204')
+#res：小明：「真是大场面呢」>
+pause
+cls
+#res：健：「因为设定已经完全设计好了，很完美的哦」>
+pause
+cls
+#res：健：「首先，为了得到附体能力……」>
+pause
+cls
+#res：开始了一条条的说明。>
+pause
+cls
+#res：说实在的，说的那些话，都是些幼稚的傻傻的东西。还不至于到要浪费脑子去思考的内容。>
+pause
+cls
+#res：但是，我全力地认真听着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011d', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_b_b@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@02')
+call<$812afdf0, 0> ('2koa_0205')
+#res：小明：「那敌人呢，该怎么办才好？」>
+pause
+cls
+#res：健：「当然是全歼。别称，杀无赦的饿肚子公主」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_e@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_e@12')
+call<$812afdf0, 0> ('2koa_0206')
+#res：小明：「真是个残忍的女主角呢……」>
+pause
+cls
+#res：健：「这也是个好结局吧？ 已经没有什么好担心的了」>
+pause
+cls
+#res：健：「所以说啊……」>
+pause
+cls
+#res：正想着都说到这里了啊，却突然停住了的小健。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@02')
+call<$812afdf0, 0> ('2koa_0207')
+#res：小明：「怎么了？」>
+pause
+cls
+#res：健：「……能，笑一下吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_a@29')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@29')
+call<$812afdf0, 0> ('2koa_0208')
+#res：小明：「欸……」>
+pause
+cls
+#res：健：「虽然来到这里之后，至今都一直和你一起过了这么久……」>
+pause
+cls
+#res：健：「一次就好，让我看看你开朗的笑容嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：如此说着，直直的看着我。>
+pause
+cls
+#res：一直陪我愉快的聊天，时不时给我鼓励的小健。>
+pause
+cls
+#res：然后现在……就在分别之前，还在担心着我。担心着这样子的我。>
+pause
+cls
+#res：健：「我说，刚才说的故事很有趣吧」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0209')
+#res：小明：「嗯……」>
+pause
+cls
+#res：健：「那，就更大声地笑出来嘛」>
+pause
+cls
+#res：……笑？怎么做？>
+pause
+cls
+#res：不知道。所以我尽可能大大地吸了一口气。>
+pause
+cls
+#res：因为吸气吸到了极限，我觉得之后就只能那么吐出来而已。虽然肯定，又笨拙，又不适合我，但我还是尽全力的……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0011d')
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_b_a@35@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_a@35@h')
+call<$812afdf0, 0> ('2koa_0210')
+#res：小明：「唔，呼呼，非，非常的，有趣」>
+pause
+cls
+#res：健：「是吗，饿肚子公主也满意了呢」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@13@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@13@h')
+call<$812afdf0, 0> ('2koa_0211')
+#res：小明：「啊哈哈，嗯，饿肚子公主也非常满意了」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_g@16@h')
+call<$5f271e74, 0>
+#res：……此时，我是不是在开朗地笑着呢……>
+pause
+cls
+#res：是不是能让即将离开的小健，能够不再为我担心，好好地笑着呢……>
+pause
+cls
+#res：虽然自己也知道不太像那么回事，但也没觉得有多羞耻……>
+pause
+cls
+#res：健：「那，我很快还会再来找你玩的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_d@34@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_g@34')
+call<$812afdf0, 0> ('2koa_0212')
+#res：小明：「真的？」>
+pause
+cls
+#res：健：「嗯，再一起逃出医院，去吃汉堡吧」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_b_b@13@h')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_b_b@13')
+call<$812afdf0, 0> ('2koa_0213')
+#res：小明：「谢谢，小健」>
+pause
+cls
+call<$a4eb1e4c, 0> ('0301bg0041', 1200)
+call<$5f271e74, 0>
+#res：……就这样，我同小健告别了。>
+pause
+cls
+#res：共同度过了一整个夏天……>
+pause
+cls
+#res：作为最初的朋友，让我体验到了快乐的聊天，让我喜欢上了汉堡，>
+pause
+cls
+#res：做了个奇怪的饿肚子公主的设定……>
+pause
+#res：……从我面前消失了……>
+pause
+cls
+call<$bc417f7b, 0>
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+exit (0)

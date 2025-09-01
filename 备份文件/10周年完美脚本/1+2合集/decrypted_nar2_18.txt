@@ -1,0 +1,925 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$35395c9f, 0> (6)
+#res：被染成橙色的天空......>
+pause
+#res：不知不觉，变成夜晚的黯蓝......>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora06')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0515')
+#res：「这里就可以了......」>
+pause
+cls
+syscall<$f62e3ca7> ('03_kaze_05c')
+call<$d334ba75, 0> ('2sou01')
+#res：终于停下脚步的姬子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('gake01', 1500)
+call<$5f271e74, 0>
+syscall<$708b0256> ('musi2')
+#res：差不多已过7合目的地方吧？是个有很多岩石，景致美丽的地方。>
+pause
+cls
+#res：看下时间，已是凌晨3点了。>
+pause
+#res：一天也差不多就这样过去了。>
+pause
+cls
+#res：因为是这种时间，也因为前日的天气，其他登山者的身影，几乎看不到了。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0516')
+#res：「等到黎明后，就在这里说出来。」>
+pause
+cls
+#res：这样说着，走到了岩石的边端。>
+pause
+cls
+#res：俯瞰悬崖，黑暗得看不见任何东西，这个谷底，也到了不知道到底有多深的程度。>
+pause
+cls
+#res：......不过至少，要是跳下去的话，是绝对不会有生还的希望的。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0517')
+#res：「......终于差不多，要到高潮了呢......」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0382b')
+#res：「高度也十分足够了呢......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0518')
+#res：「嗯，7楼的100倍喔。」>
+pause
+cls
+#res：海拔，约3000米。>
+pause
+#res：然后，防护用的，高高的围栏也没有。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0519')
+#res：「濑津美......有想问的事情就要趁现在喔。」>
+pause
+cls
+#res：对于这句话，我想到了各种各样的事。>
+pause
+cls
+#res：不过，明明应该持有很多的疑问......不知为何，却很难把那些问题用言语来表达。>
+pause
+cls
+#res：暂且考虑一下后，我开了口。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0383')
+call<$49ea5b57, 0> (80)
+#res：「......更多的，告诉我关于姬子的事。」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0187')
+#res：「............…」>
+pause
+cls
+#res：虽说是这样，但也是我考虑之后问出的问题。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0521')
+#res：「想听我的事情吗？还是说，想听像我这样立场的人的事情吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0384')
+call<$49ea5b57, 0> (80)
+#res：「......姬子自己的事情。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0520')
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0522')
+#res：「我是，这个世界众多天主教徒当中的其中一人。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0523')
+#res：「除此之外，就什么都不是了。」>
+pause
+cls
+#res：不过现在却......打算向着神明说出抱怨的话。>
+pause
+#res：然后恐怕......也打算违背最大禁忌。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0385')
+#res：「那么，关于以前佛兰德斯的狗的事......」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0386')
+#res：「不论如何，3人之中不选择一个就不行吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0524')
+#res：「嗯，人是没有其他的选项的。」>
+pause
+cls
+#res：......坚定的说出来了。>
+pause
+cls
+#res：即将去世的是尼洛，被留下来的是阿洛伊斯。绝对不会交集的两者......>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0387_1')
+call<$49ea5b57, 0> (90)
+#res：「那么，姬子是…>
+pause
+call<$812afdf0, 0> ('setsumi_0387_2')
+call<$49ea5b57, 0> (90)
+call<$8e803141, 0> 
+#res：>
+#res：…哪一个？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0525')
+call<$49ea5b57, 0> (80)
+#res：「..................」>
+pause
+cls
+#res：这个问题却没有得到回答。>
+pause
+cls
+#res：在天空逐渐变亮的地方......在这双手似乎可以触及天际的地方，默默地低下了头。>
+pause
+cls
+#res：......大概，穿着睡衣的姬子是尼洛吧。>
+pause
+cls
+#res：那么，现在的姬子是阿洛伊斯吗......如果说尼洛是不能对神明说出抱怨的，这我能够理解。>
+pause
+cls
+#res：那，我又是谁呢？是为了什么，而被带到这种地方来呢......>
+pause
+cls
+syscall<$f62e3ca7> ('kaze3bb')
+call<$a4eb1e4c, 0> ('gake01')
+call<$a4eb1e4c, 0> ('sora_a02', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0526')
+#res：「看来，时间差不多了。」>
+pause
+cls
+#res：这样说着，仰望着天空的姬子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_a03c', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0527')
+#res：「濑津美，收下吧。」>
+pause
+cls
+#res：然后，从口袋里拿出了什么，递给了我。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0388')
+#res：「......十字架？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0528')
+#res：「即使扔掉也是可以的喔......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0529')
+#res：「只是......我已经，没有资格再持有这东西了。」>
+pause
+cls
+#res：这是表示着何种意义......即使不问也能知道。>
+pause
+cls
+#res：......不过......>
+pause
+cls
+#res：到现在，明明说着是原天主教徒，却为什么又一直带在身上呢…>
+pause
+cls
+#res：想到这里的我这样觉得，或许在内心，并不是真的想去做这样的事吧......>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0389b')
+#res：「......真的可以吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0530')
+#res：「有祈祷的话......也有诅咒的。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0390b')
+call<$49ea5b57, 0> (80)
+#res：「希望不要这样......这么说不行？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0187')
+call<$49ea5b57, 0> (80)
+#res：「............…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0531b')
+call<$49ea5b57, 0> (80)
+#res：「......要看理由了......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：......理由。阻止她的理由......>
+pause
+cls
+#res：......就算，姬子本人是那样希望的？就算已是没有未来的7楼病人？>
+pause
+cls
+#res：如果，如同活着一样，人，也有寻死的权利的话......>
+pause
+cls
+syscall<$f62e3ca7> ('03_kaze_05c')
+#res：阻止她的理由......>
+pause
+#res：…到底，还有谁可以拥有呢......>
+pause
+cls
+#res：我连，什么是对的，什么才是温柔都不知道......>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_a03c', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0391b')
+#res：「呜，呜......」>
+pause
+cls
+#res：......不知为何......>
+pause
+#res：哭了起来。>
+pause
+#res：站在身旁却什么也做不到，体会到了自己的无能。>
+pause
+cls
+#res：天空渐渐明亮，仰望着一望无际的天空，不知为何难过了起来。>
+pause
+cls
+#res：......不管怎么想，阻止她的理由，我未曾持有过。>
+pause
+cls
+#res：如果是姬子自己决定了的事情，或许我根本就没有插嘴的权利......>
+pause
+cls
+#res：不过......就算是这样......>
+pause
+#res：就算，我没有可以阻止她的理由......>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0392b')
+call<$49ea5b57, 0> (80)
+#res：「因，因为......我也会难过......」>
+pause
+cls
+#res：不是其他人......>
+pause
+#res：只是因为我很难过。>
+pause
+cls
+#res：这样的我......希望能够阻止她......>
+pause
+cls
+#res：就算，这是我......>
+pause
+#res：被留下来的人的，单方面的任性......>
+pause
+cls
+#res：因为就算可以忍受住自己的痛苦，但却忍受不了别人的痛苦。比起去世的人的痛苦，被留下来的人却更加的痛苦吧......>
+pause
+cls
+call<$49ea5b57, 0> (100)
+#res：而且......>
+pause
+call<$49ea5b57, 0> (100)
+#res：我还......>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0393c')
+call<$49ea5b57, 0> (100)
+#res：「......没办法…成为阿洛伊斯............」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0391c')
+#res：「呜，呜......」>
+pause
+cls
+call<$13059346, 0> (700)
+call<$812afdf0, 0> ('hime2_0187')
+call<$49ea5b57, 0> (80)
+#res：「............…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0533b')
+#res：「......不要露出这样的表情啦......」>
+pause
+cls
+syscall<$f62e3ca7> ('kaze3bb')
+call<$812afdf0, 0> ('hime1_0535cc')
+#res：「你，你露出这样的表情......不是连我也难过起来了吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$84779a85, 0> (syscall<$924ee3eb>(0, 0, 0), syscall<$924ee3eb>(255, 255, 255), 220)
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (80)
+#res：......如果......我是圣者的话......>
+pause
+#res：...>
+call<$49ea5b57, 0> (80)
+#res：如果，我所说出的话......不只是安慰，也不只是祈愿......>
+pause
+cls
+call<$49ea5b57, 0> (120)
+#res：......而是真正的魔法的话......>
+pause
+cls
+syscall<$f62e3ca7> ('kane02d')
+call<$a4eb1e4c, 0> ('hime05f2', 1200)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('hime2_0208')
+call<$a4eb1e4c, 0> ('hime05g22', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('052sen02')
+call<$812afdf0, 0> ('hime2_0199c')
+call<$49ea5b57, 0> (80)
+#res：「呜，呜......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0170')
+call<$49ea5b57, 0> (80)
+#res：「对不起，姐姐......」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0171')
+#res：「没成为朋友就好了。」>
+pause
+cls
+#res：在不停哭泣的我面前，寂寞地说着道歉的她。>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0172')
+#res：「明明在规则里也有这条......」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0173')
+#res：「来到这里后，就不能再交朋友了。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0174')
+#res：「对不起，如果我有好好遵守的话。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0175')
+#res：「......也不会让姐姐哭泣了。」>
+pause
+cls
+syscall<$f62e3ca7> ('03_kaze_05c')
+call<$a4eb1e4c, 0> ('sora_a03c2', 1500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (80)
+#res：然后......再次面向天际，开始祈祷的她。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：面向着广阔的，一望无际的夏日天空，向着或许就在那里的神明......献上了祈祷......>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：真挚的模样......>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：将我的十字架拿在手中，只是主祷文，却相信着是魔法咒文的模样......>
+pause
+cls
+syscall<$f62e3ca7> ('kaze3bb')
+call<$a4eb1e4c, 0> ('okujou2', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime2_0213b3')
+#res：「不，不用了，不用再祈祷了。」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0176')
+call<$49ea5b57, 0> (80)
+#res：「......为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0199z')
+#res：「呜，呜......」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0215b')
+#res：「......没用的......就算那样做也......」>
+pause
+cls
+#res：终于......>
+pause
+#res：身为天主教徒，说出了不能说出口的话。>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0216b')
+#res：「所，所以停下来吧，你不会得到救助的......」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0217b')
+call<$49ea5b57, 0> (80)
+#res：「不管怎么做......都会死的......」>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：然后也说出了身为陪护......>
+pause
+#res：...>
+call<$49ea5b57, 0> (80)
+#res：身为尼洛的挚友阿洛伊斯......>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：......所不能说出口的话......>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0177')
+call<$49ea5b57, 0> (80)
+#res：「嗯，我知道的......」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0218')
+call<$49ea5b57, 0> (80)
+#res：「那......为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0178')
+call<$49ea5b57, 0> (80)
+#res：「..................」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0179')
+call<$49ea5b57, 0> (80)
+#res：「......没什么，我已经没关系了......」>
+pause
+cls
+call<$bc417f7b, 0>
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('hime03ccs2', 1500)
+call<$a4eb1e4c, 0> ('hime03cc', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0180')
+#res：「只是，希望哭泣着的姐姐......不要再哭泣而已......」>
+pause
+cls
+call<$812afdf0, 0> ('onnanoko_0181')
+#res：「......希望能早一点......恢复往常的笑容......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('black', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('onnanoko_0182')
+call<$49ea5b57, 0> (100)
+#res：「......只是为了这个而祈祷......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w2', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_torib')
+call<$a4eb1e4c, 0> ('hime04e', 1)
+call<$a4eb1e4c, 0> ('hime04c', 1500)
+call<$a4eb1e4c, 0> ('w2', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (3500)
+syscall<$90d5298a> ('hime1_0541_1')
+call<$a4eb1e4c, 0> ('black', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+syscall<$f62e3ca7> ('03_kaze_05c')
+call<$812afdf0, 0> ('setsumi_0396')
+call<$49ea5b57, 0> (80)
+#res：「......为什么......哭了呢？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0537_1')
+call<$49ea5b57, 0> (80)
+#res：「笨，笨蛋，我怎么知道......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0538b2')
+call<$49ea5b57, 0> (80)
+#res：「这个时候......哭泣也是可以的。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('hime06b', 1500)
+call<$a4eb1e4c, 0> ('hime06', 1500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (75)
+#res：......姬子哭着。在这双手似乎可以触及天际的地方，第一次让人看见了她的眼泪。>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：......这个时候的我......>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：应该说怎样的话才好呢......到底，什么才是温柔呢......>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：因为不曾知道......>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：只是，希望她能早些停止哭泣，希望她能早些恢复往常的笑容，>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：只能在她的后背轻轻地，温柔地拍打着......>
+pause
+cls
+syscall<$f62e3ca7> ('kaze3bb')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0539d')
+call<$49ea5b57, 0> (80)
+#res：「快住手......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0540_2b')
+call<$49ea5b57, 0> (80)
+#res：「被初中生同情到这种地步......我的人生还不至于这样的。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+call<$49ea5b57, 0> (80)
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0397')
+#res：「别在意......病史的话我比你还长喔......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0541_1')
+call<$49ea5b57, 0> (80)
+#res：「呜，呜......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0542_1')
+call<$49ea5b57, 0> (80)
+#res：「什，什么嘛......明明年纪比我小......」>
+pause
+cls
+syscall<$f62e3ca7> ('03_kaze_05c')
+call<$a4eb1e4c, 0> ('sora_a03c2', 1500)
+call<$5f271e74, 0>
+#res：青紫色的黎明逐渐明亮，转变为白色的日出。吹起的风，穿过了山间，带着些许寂寞的声音。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：......姬子哭泣了。连山谷间吹着的风也哭泣了。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：我大概也......>
+pause
+call<$49ea5b57, 0> (80)
+#res：哭泣了吧......>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 2000)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$812afdf0, 0> ('hime1_0543')
+call<$49ea5b57, 0> (80)
+#res：「还是算了......抱怨的话......」>
+pause
+cls
+#res：说完，向着天空将双手合上。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0398')
+#res：「......那......还你。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0544')
+#res：「是呢，没有这个的话效果很微弱的。」>
+pause
+cls
+#res：然后，将我还给她的十字架挂在了自己的脖子上，>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：在很高很高的地方......>
+pause
+#res：...>
+call<$49ea5b57, 0> (80)
+#res：向着更高的......向着天空献上了祈祷......>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('hime02b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0545')
+call<$49ea5b57, 0> (80)
+#res：「请仔细听着......因为似乎听不清楚所以特地来到这里......」>
+pause
+cls
+call<$13059346, 0> (700)
+call<$812afdf0, 0> ('hime1_0546')
+#res：「......我的话，怎样都已经无所谓了......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0547')
+#res：「不过，至少希望不要再有因为我......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0548')
+#res：「......而一直，内心痛苦着的人......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0549')
+#res：「然后，希望他们能尽快的，振作起来......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('hime02', 1500)
+call<$5f271e74, 0>
+#res：......就像是，自言自语一样淡淡地轻声说着的姬子。>
+pause
+cls
+#res：虽然继续说着其他的话，这之后，我却不知道是些什么了。>
+pause
+cls
+#res：......也许姬子是......>
+pause
+#res：想同神明和好吧......>
+pause
+cls
+#res：这样的表情，既不是悲怆也不是怜悯，而是令人感到凛然的美丽。>
+pause
+cls
+#res：......然后这是，绝对不会交集的两者的......>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：离去之人，对于留下来的人的愿望吧......>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_a03c2', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0550')
+call<$49ea5b57, 0> (80)
+#res：「呼......这就是全部了。」>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：然后，向着我的方向转过身来，>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0551')
+call<$49ea5b57, 0> (80)
+#res：「如何？如此平凡的愿望感到失望了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi-0007')
+call<$49ea5b57, 0> (80)
+#res：「......没......」>
+pause
+cls
+#res：我轻轻地摇了下头。>
+pause
+cls
+#res：就算是如此平凡的愿望，如果自己站在姬子的立场的话......>
+pause
+cls
+#res：也能同她一样，纯粹地为着留下来的人祈祷吗？>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0552')
+call<$49ea5b57, 0> (80)
+#res：「濑津美......你是证人喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0400')
+call<$49ea5b57, 0> (80)
+#res：「......我？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0553')
+call<$49ea5b57, 0> (80)
+#res：「嗯，如果事与愿违的时候......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0554')
+call<$49ea5b57, 0> (80)
+#res：「下一次，由你代替我抱怨吧......对神明。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0401b')
+call<$49ea5b57, 0> (80)
+#res：「这是......带我一起来这里的目的？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0555')
+call<$49ea5b57, 0> (80)
+#res：「那个，一半吧......」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+call<$49ea5b57, 0> (80)
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0402')
+call<$49ea5b57, 0> (80)
+#res：「剩下的一半......果然还是秘密？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0556')
+call<$49ea5b57, 0> (80)
+#res：「是呢......」>
+pause
+cls
+#res：这样说着，思考了一下之后......>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0557b')
+call<$49ea5b57, 0> (100)
+#res：「......魔法......像是那样的东西吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0403')
+call<$49ea5b57, 0> (100)
+#res：「魔法？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0558')
+call<$49ea5b57, 0> (75)
+#res：「嗯，现在没有效果呢，但是之后会渐渐浮现出效果的。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+syscall<$708b0256> ('car_thru_rl')
+#res：在清晨的天空下，我们来到了回家的路上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_run2')
+call<$5f271e74, 0>
+#res：之后，将商店买到的便当拿在手里，姬子自言自语地说着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai4')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0564')
+#res：「总之，也让我在规则上追加一条吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0411')
+call<$49ea5b57, 0> (80)
+#res：「......规则？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0565')
+call<$49ea5b57, 0> (80)
+#res：「嗯，交朋友也是可以的。」>
+pause
+cls
+#res：然后从口袋中取出了十字架，>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0566')
+#res：「原本这个十字架，送给你也是可以的......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0567')
+#res：「果然，我还是需要这个的。」>
+pause
+cls
+#res：这样说着，戴在了自己胸前原来的位置。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0568')
+#res：「所以濑津美，送其他不同的东西给你喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0412')
+call<$49ea5b57, 0> (80)
+#res：「......不同的东西？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0569')
+#res：「嗯......由你来决定。」>
+pause
+cls
+syscall<$708b0256> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+#res：继续前进的Roadster，从山谷之间，慢慢的往街道前进。>
+pause
+cls
+#res：握着方向盘的姬子。>
+pause
+#res：虽然不是穿着睡衣，不过却是平常熟悉的姬子。>
+pause
+cls
+#res：......如今不同的是，能看见她胸前戴着的十字架......>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai1')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0570')
+call<$49ea5b57, 0> (80)
+#res：「那个濑津美......给你说一件事。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0571')
+call<$49ea5b57, 0> (80)
+#res：「不管之后，你选择的是谁......」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0572')
+call<$49ea5b57, 0> (80)
+#res：「最后的最后，都不能抹杀自己的内心......」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0428')
+call<$49ea5b57, 0> (80)
+#res：「......是指什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0573b')
+call<$49ea5b57, 0> (80)
+#res：「没什么，现在的话。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0574')
+call<$49ea5b57, 0> (80)
+#res：「一定没问题的…最后应该也能笑着的」>
+pause
+cls
+call<$49ea5b57, 0> (90)
+#res：这里，所指的…>
+pause
+call<$49ea5b57, 0> (90)
+#res：就是刚刚说过的魔法吧…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+exit (0)

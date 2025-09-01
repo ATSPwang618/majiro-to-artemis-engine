@@ -1,0 +1,688 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+#res：知了，知了，>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0254')
+#res：「好热…」>
+pause
+cls
+#res：明明还只是上午，就已经有了仲夏的感觉。看来今天似乎也会很热的样子。>
+pause
+cls
+#res：在这样的天气下，我和平常一样，前往步行3分钟就可以到达的医院。>
+pause
+cls
+#res：手里拿着和平常一样的手提包。白底上印着黄色的向日葵。>
+pause
+cls
+#res：直到昨日都一成不变的夏天。>
+pause
+cls
+#res：不同的只有，手提包放着的，妈妈用心为我准备的便当而已。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0066c')
+#res：「喂～濑津美～」>
+pause
+cls
+call<$d334ba75, 0> ('2o01')
+#res：听到从远处传来的，熟悉的声音后回头一看。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0057')
+#res：「你怎么？　在这种地方？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0067')
+#res：「在等你喔，因为有想请你帮忙的事」>
+pause
+cls
+#res：说完这句话，姬子就开始走了起来。>
+pause
+cls
+#res：…到底是准备去哪里呢？看来不是大门，而是想去后门的样子…>
+pause
+cls
+#res：尽管不知道是什么事情，我还是跟在后面，>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0068')
+#res：「好～，到了喔～」>
+pause
+cls
+#res：来到的地方是医院的中庭。>
+pause
+cls
+#res：在小型喷水池的四周，是时钟台和几个花坛。是我在住院时，也来过好几次的地方。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0058')
+#res：「…这里怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0069')
+#res：「嗯，往那边看」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：姬子的手指向的是花园的一角。大约有3个平方的样子吧。>
+pause
+cls
+#res：只是，四周都种植着青草和鲜花，那一块区域却什么都没有种上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0070')
+#res：「就是这样…锵！」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0059')
+#res：「这是什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0071')
+#res：「球根喔，球根。现在我正打算种在这里呢」>
+pause
+cls
+#res：姬子很是得意的，从手中拿着的塑胶袋中，把球根取出来拿给我看。>
+pause
+cls
+#res：数了一下，大约100株吧？>
+pause
+cls
+#res：的确两个人一起种的话，1小时大概就可以完成，不过我所在意的地方是。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0060')
+#res：「…擅自种起来没问题吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0072')
+#res：「嗯？　因为这块区域是冬天才用的地方啊」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0061')
+#res：「…我所询问的是，“擅自”的那部分」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0073')
+#res：「没问题的，不会被骂的啦」>
+pause
+cls
+#res：这样的回答是不能作是回答的，不过是冬天用的，也就表示说这花是冬天盛开的意思吧。>
+pause
+cls
+#res：所以，正因如此，我也能理解要现在就种植的缘由了。>
+pause
+cls
+#res：不过，就算是这样说，和是否能随便在医院的花坛随意种植也联系不起来。>
+pause
+cls
+#res：…还是说，7楼的病人，即使做出这样的事也都会被允许呢？>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0074')
+#res：「那么，我们开始吧，　挖出大约１０厘米后把球根埋进去」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：这样说着，从放球根的袋子里，把搞园艺用的小铲子递给了我。>
+pause
+cls
+#res：…我最近身体状况还好，所以也没什么关系…>
+pause
+cls
+#res：不过，姬子在这么热的天气里，这样做没问题吗？>
+pause
+cls
+#res：我不由得开始担心起来，不过姬子本人，非常有干劲地在花坛里种植起球根来。>
+pause
+cls
+call<$49ea5b57, 0> (35)
+#res：喳库喳库喳库喳库喳库喳库喳库喳库，>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$49ea5b57, 0> (20)
+#res：喳库喳库喳库喳库喳库喳库喳库，喳库喳库喳库喳库喳库喳库喳库喳库喳库，>
+pause
+cls
+#res：…难不成，搞园艺也是她的爱好？>
+pause
+cls
+#res：这样想着，她的动作倒实在有够麻利。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0075')
+#res：「对对，就是这种感觉，轻轻地把土埋上」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0419')
+#res：「啊，嗯…」>
+pause
+cls
+#res：有时候，她也会来指导一下正在模仿她的我该怎么做。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nakaniwa', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0062')
+#res：「那个…这是什么花？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0076')
+#res：「水仙喔，知道吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0063')
+#res：「啊，嗯，名字的话…」>
+pause
+cls
+#res：说是这样，也只记得花是白色的而已。>
+pause
+cls
+#res：开花的画面也只在电视和书里见过，像这样触摸到球根还是第一次。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0077')
+#res：「那个，这个很少见喔，在这时节」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0064b')
+#res：「…这样吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0078')
+#res：「嗯，本来应该是在夏天结束后才会有的」>
+pause
+cls
+#res：然后姬子告诉我各种各样的关于水仙的知识。>
+pause
+cls
+#res：学名是Ｎａｒｃｉｓｓｕｓ，属于石蒜科。以球根为主的水仙从开始种植，到开花所需时间长达数年。>
+pause
+cls
+#res：说是在隆冬花坛的寂寥的时节，水仙那一枝独放的姿态，让人感觉凛然之美。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0065')
+#res：「…果然，园艺是你的爱好？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0079')
+#res：「嗯？　也不能算作是爱好喔」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0066')
+#res：「那，为什么如此了解？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0080')
+#res：「嗯～，真要说的话是因为工作的关系吧」>
+pause
+cls
+#res：园艺屋的人？花店的人？之前不是才说过喜欢汽车…>
+pause
+cls
+#res：完全搞不懂。再说，姬子的很多事情我都还不清楚。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0081')
+#res：「不过，无论如何，　它绽放的时候我都已经不在了呢」>
+pause
+cls
+#res：然后…还是老样子，开朗地说出吓人一大跳的事。>
+pause
+cls
+#res：我所知道的她，是7楼命不久矣的病人。>
+pause
+cls
+#res：也清楚，她是尽管身为7楼病人，也还能开朗地说出这种事情的人。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0082')
+#res：「好，大致上完成了，差不多该回病房了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：两个人一起，把手冲洗干净后前往7楼。>
+pause
+cls
+syscall<$f62e3ca7> ('ele2')
+call<$a4eb1e4c, 0> ('byoin7_rouka', -100101)
+call<$5f271e74, 0>
+#res：刚下电梯就看到，眼前经过着运送着午餐的手推车，看来已经是午饭的时间了。>
+pause
+cls
+call<$d334ba75, 0> ('2eb021')
+call<$a4eb1e4c, 0> ('byousitu')
+call<$5f271e74, 0>
+#res：于是，姬子拿上她的午餐，回到了病房。>
+pause
+cls
+#res：平常，一到这时间，我都会回到自己家里吃午餐。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0083')
+#res：「濑津美，一起去餐厅吧？　你也觉得回家里很麻烦的吧？」>
+pause
+cls
+#res：拿着自己的午餐盘，姬子建议我一起去下面餐厅。>
+pause
+cls
+#res：以往的话，也许会稍微考虑一下，不过今天有点不同。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0067b')
+#res：「…今天我，有带着便当来」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0084')
+#res：「唉？你有带便当来啊？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0068b')
+#res：「嗯…妈妈帮我做的」>
+pause
+cls
+#res：我边说边从手提包把便当盒拿了出来，放到病床旁的小桌子上。>
+pause
+cls
+#res：一并带来的，冷藏过的麦茶，也正好融化成刚能喝的样子。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0085')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0069')
+#res：「…怎么了？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0086')
+#res：「濑津美～」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0070')
+#res：「哇，吓我一跳…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0087')
+#res：「我现在啊，超～感动的喔」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0088')
+#res：「没想到在这里，　会有特地带着便当跑来看我的孩子」>
+pause
+cls
+syscall<$f62e3ca7> ('isu1c')
+call<$812afdf0, 0> ('hime1_0089')
+#res：「谢谢！谢谢你！」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0071')
+#res：「喂，哇，不要抱着我……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0090')
+#res：「哈哈，稍微有点过火了？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：然后我们，一起开始吃起午餐来。>
+pause
+cls
+#res：姬子也从病床下来，两个人在椅子上并排坐着。>
+pause
+cls
+#res：虽说姬子的午餐，是7楼的指定用餐，不过似乎和其他楼层的午餐没什么不同。>
+pause
+cls
+#res：…原本还以为，会很豪华的样子，不过还真的只是医院的普通午餐而已。>
+pause
+cls
+#res：相较之下，因为我的便当是，妈妈用心帮我做出来的。>
+pause
+cls
+#res：有着鸡腿和各种各样的可乐饼，非常的丰富。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0091')
+#res：「盯～………」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0092')
+#res：「那个那个，给我一个可以吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0072b')
+#res：「嗯…给你」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0093')
+#res：「好的～，我开动了，啊」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0094')
+#res：「好辣，这是咖喱馅的吧」>
+pause
+cls
+#res：明明应该不至于这么辣的，姬子却咕噜咕噜一直喝水。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0073')
+#res：「…没事吧？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0095')
+#res：「嗯，其实我超不会吃辣的…」>
+pause
+cls
+#res：与平时的形象不同，姬子的眼里甚至浮现出几滴泪水。>
+pause
+cls
+#res：她这个样子实在滑稽，而我则告诉了她各个可乐饼里的馅。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0074')
+#res：「这个，蔬菜馅的…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0096')
+#res：「啊？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0075')
+#res：「那边的是南瓜馅的，手边的是鲜肉馅的…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0097')
+#res：「那个…难不成，只是一看就知道里面是什么了？」>
+pause
+cls
+#res：对于那句话我点了下头。>
+pause
+cls
+#res：然后，对着半信半疑的姐姐，我用筷子将可乐饼分成两半，将馅露出来。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0076')
+#res：「看…没错吧」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0098')
+#res：「哇，怎么知道的？　明明外面看起来都是一样的」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0077b')
+#res：「…也不是完全一模一样的」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0099')
+#res：「嗯～至少我是完全分辨不出来呢…」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0100')
+#res：「那个，难不成对可乐饼很了解？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0078')
+#res：「…不…」>
+pause
+cls
+#res：…我自己并不觉得这是什么了不起的事情。>
+pause
+cls
+#res：只是单纯的，每天都吃的缘故，也能够从外边分辨出一点点的不同了而已。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$a4eb1e4c, 0> ('byousitu', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0101')
+#res：「呼，吃饱了」>
+pause
+cls
+#res：结束了午餐，我把已经空空如也的便当盒，再次放回到手提包里。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0102')
+#res：「那个，可乐饼博士」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0079')
+#res：「…啊？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0103')
+#res：「要不要去吃饭后的冰激凌？　博士？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0080')
+#res：「……………」>
+pause
+cls
+#res：不用问也知道，可乐饼博士，一定指的是我吧？>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0081')
+#res：「不要随便给人取…奇怪的外号啦」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0104')
+#res：「哈哈，看起来不大喜欢的样子呢」>
+pause
+cls
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：…从只能拉开15厘米的窗户外看到的夏日天空。>
+pause
+cls
+#res：嘈杂的蝉鸣，和姬子开朗的笑声，传遍了这狭小的房间。>
+pause
+cls
+#res：总是，活泼开朗地姬子。>
+pause
+cls
+#res：也许我也…>
+pause
+#res：跟着笑了也不一定…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+#res：在这之后，也一如往常的在病房度过…>
+pause
+cls
+#res：我们道别后，打算离开7楼时…>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0083')
+#res：「啊，那个…」>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$a4eb1e4c, 0> ('chi01')
+call<$5f271e74, 0>
+#res：回头一看，站着一位不认识的姐姐。>
+pause
+cls
+#res：穿着可爱的褶边裙。红色的围裙和胸口的十字架给了我对她的第一次印象。>
+pause
+cls
+#res：和以前看过的陪护一样，她身着同样的围裙…>
+pause
+cls
+#res：这样说的话，这个人也是陪护吧？>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0082')
+#res：「…找我有什么事吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0084')
+#res：「这里，除了工作人员和家属以外，是不可以进入的…」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0085')
+#res：「啊，还是说你是哪位病人的家属吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0083')
+#res：「……………」>
+pause
+cls
+#res：一瞬间，想好该怎么回答才对后，我开口说道。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0084')
+#res：「…我是那个叫姬子的人的…朋友…」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0086')
+#res：「唉？你是她的朋友？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0085')
+#res：「…她是这么说的」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0087')
+#res：「…………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0086')
+#res：「…怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0088')
+#res：「啊，不，没什么事，失礼了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说完这句话后，姐姐便不知向哪个方向走去了。>
+pause
+cls
+#res：…刚刚到底是怎么回事？她应该是陪护吧…>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+#res：太阳完全落山，今天的晚餐也正要结束的时候…>
+pause
+cls
+call<$a4eb1e4c, 0> ('heya1')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('mama_021')
+#res：「哇，都吃完了呢」>
+pause
+cls
+#res：为空空如也的便当盒而高兴着的妈妈。>
+pause
+cls
+call<$812afdf0, 0> ('mama_022')
+#res：「那么，明天也帮你做吧」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0087')
+#res：「嗯…谢谢…」>
+pause
+cls
+#res：其实，土豆都是姬子帮我吃下去的，不过我却没能说出这样的事来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('karakara')
+#res：喀啦喀啦喀啦，>
+pause
+cls
+#res：把房间的窗户打开后，稍微吹进来些凉凉的夜风。>
+pause
+cls
+call<$a4eb1e4c, 0> ('heya2y2', -100101)
+call<$5f271e74, 0>
+#res：在我的房间。窗户边晾着洗好等待吹干的水手服。>
+pause
+cls
+#res：因为夏天的炎热，让我不由得想打开空调，不过只要一想到爸爸还没回家，我就犹豫了。>
+pause
+cls
+#res：突然想起姬子的事…>
+pause
+cls
+#res：虽然最后还是被她搪塞过去了，不过擅自在花坛种花的真的没问题吗?>
+pause
+cls
+#res：而且她以前说过不需要陪护，甚至没有任何来探望的人，实在是很不可思议的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (80)
+#res：…名字叫做姬子，天秤座的AB型，手环的颜色是白色。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：我对姐姐的事情，仍然是一无所知…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+exit (0)

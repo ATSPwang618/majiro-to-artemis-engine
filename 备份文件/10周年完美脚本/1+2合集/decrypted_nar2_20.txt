@@ -1,0 +1,533 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('black', 1600)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$d334ba75, 0> ('2na')
+#res：１楼的门诊前方。>
+pause
+cls
+#res：沿着贴在地板上的，白色的胶带前进。>
+pause
+cls
+#res：然后，在走廊尽头的小型电梯我乘上它......>
+pause
+#res：按下了最顶楼的按钮。>
+pause
+cls
+call<$a4eb1e4c, 0> ('at02a', 1)
+call<$a4eb1e4c, 0> ('at02b', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：叮(电梯声)>
+pause
+cls
+syscall<$f62e3ca7> ('autodoor')
+call<$a4eb1e4c, 0> ('at02c')
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('byoin7_rouka', 1600)
+call<$5f271e74, 0>
+#res：7楼>
+pause
+#res：眼前的是，护士的值班室。>
+pause
+cls
+#res：好几个护士小姐，一同往这边看来>
+pause
+cls
+#res：不过，知道是我后又移回视线。好像，什么都没看到一样，继续工作。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa')
+call<$5f271e74, 0>
+#res：休闲室。最近我都在这里。>
+pause
+cls
+#res：大屏幕的电视播放着，新春的特别节目。>
+pause
+cls
+#res：不知道该看什么的我。没什么事能做。也没有其他能做的事。>
+pause
+cls
+#res：......从那之后已经过了快一个月。虽说好像是有些变化，又似乎什么都没变的感觉。>
+pause
+cls
+#res：到头来，我的父母倒是如设想一般发着牢骚。>
+pause
+cls
+#res：然后...让我有些不明白的是，她父母却很感谢我。>
+pause
+cls
+#res：......这两者的差距，让人印象深刻。>
+pause
+cls
+syscall<$f62e3ca7> ('asi02')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0167')
+#res：「早」>
+pause
+cls
+#res：回头一看是不认识的女性。>
+pause
+cls
+#res：「......你是？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0168')
+#res：「新来7楼照顾你的陪护。」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0169')
+#res：「请多指教。」>
+pause
+cls
+#res：开朗的样子，然后低下头行礼的她。>
+pause
+cls
+#res：似乎是个新人的样子。恐怕她也是，来询问那件事的吧。>
+pause
+cls
+#res：......关于那一件事情。>
+pause
+cls
+#res：只有一部分的相关人员知道详细的情况，这个医院，也已经传出了各种各样的谣言。>
+pause
+cls
+#res：虽然大概并不是因为兴趣的关系......不过也因此，有很多各种各样的人跑来问我。>
+pause
+cls
+#res：「......你也知道了？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0170')
+#res：「嗯，有听说了喔，关于那一件事的。」>
+pause
+cls
+#res：「......这样啊......」>
+pause
+cls
+#res：这个人也一定，觉得她挺乱来的吧。>
+pause
+cls
+#res：就算把事情告诉了他们，大部分的人也都只是皱下眉头。>
+pause
+cls
+#res：所以我，不太喜欢对别人说......>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0171')
+#res：「瀨津美......」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0172')
+#res：「......最后有微笑着吗？」>
+pause
+cls
+#res：「......唉？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0173')
+#res：「如果是这样的话......我也很高兴的......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：寒冷的冬季结束了......差不多到了不能穿纽扣式的衣服的时候。>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽，>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0174')
+#res：「进去了喔。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0175')
+#res：「怎么样了，身体状况？」>
+pause
+cls
+#res：「啊，今天似乎还不错的样子......」>
+pause
+cls
+#res：她大概也有自己要负责的人吧，不过也常来到我的身边。>
+pause
+cls
+#res：「说起来......你......」>
+pause
+cls
+#res：「......认识瀨津美吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0176')
+#res：「嗯，大学生的时候也担任过陪护，那个时候稍微......」>
+pause
+cls
+#res：「这样啊......」>
+pause
+cls
+#res：这样回答的她，浮现出稳重......而又怀念着什么一样的表情。>
+pause
+cls
+#res：「......你们，关系很好吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0177')
+#res：「嗯，怎么说呢......是个不会表达自己感情的人。」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0178')
+#res：「只是，我有为她献上了几句祈祷吧。」>
+pause
+cls
+#res：「......祈祷？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0179')
+#res：「嗯......如今也在祈祷着的喔。」>
+pause
+cls
+#res：「.....................」>
+pause
+cls
+#res：「这是......>
+pause
+#res：为了谁？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0180')
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0181')
+#res：「......为了所有的人。」>
+pause
+cls
+#res：毫不犹豫的一句话。>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0182')
+#res：「啊，如果可以的话，也为你......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$d334ba75, 0> ('2na_f')
+call<$a4eb1e4c, 0> ('tep001', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('tep002b', 1)
+call<$5f271e74, 0>
+#res：■　终章：　　7楼>
+pause
+cls
+call<$a4eb1e4c, 0> ('imege072')
+call<$5f271e74, 0>
+#res：4月。看着装饰在窗边的花瓶。>
+pause
+cls
+#res：和那时，所看到的花是相同的。当时有说过在这个时期是很罕见的。>
+pause
+cls
+#res：......就算是严格地说也是同一种花。问过之后，装饰的似乎是中庭开放的花。>
+pause
+cls
+#res：不过，为什么那个时候，她......>
+pause
+#res：......会回答说是淡路岛呢？>
+pause
+cls
+#res：虽然有说，只是因为被问到了，不过博学多识的她，应该会知道医院也种植有的吧......>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽，>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0167')
+#res：「早。」>
+pause
+cls
+#res：今天也来到这里的她。>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0184')
+#res：「......那朵花，很喜欢吧？」>
+pause
+cls
+#res：「算吧......」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0185')
+#res：「真漂亮呢，记得是水仙吧？」>
+pause
+cls
+#res：「..................」>
+pause
+cls
+#res：「Narcissus......」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0186')
+#res：「Narcissus？」>
+pause
+cls
+#res：「嗯，学名似乎是这样。」>
+pause
+cls
+#res：彼岸花科的植物。开花季节是冬季。虽然用种子也能培育，因为到开放所需时间要好几年所以几乎以球根为主。>
+pause
+cls
+#res：......然后......>
+pause
+#res：花语是珍爱自己...>
+pause
+#res：不过，真的是这样吗......>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0187')
+#res：「唉-真清楚呢，可以的话再多告诉我一些。」>
+pause
+cls
+#res：「...............」>
+pause
+cls
+#res：「语源出自，希腊神话的......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：6月。梅雨前的稀薄天空。>
+pause
+cls
+#res：在这，水蓝色的天空下，这次我的临时出院，似乎延期了的样子。>
+pause
+cls
+#res：本来的话已经是第3次出院了，实际上，已经是无限延期了吧......>
+pause
+cls
+#res：「咳，咳咳......」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0188')
+#res：「没事吧。」>
+pause
+cls
+#res：「啊，啊，咳，没事的......」>
+pause
+cls
+#res：比起这个，从上上个月开始就没有新人来了。>
+pause
+cls
+#res：时机很差吧，现在已经，大部分人都离去了。>
+pause
+cls
+#res：「那个，有新人要来的预定了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0189')
+#res：「啊，虽然不知道详细的情况......」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0190')
+#res：「听说不知为何这半年，将不会接受新进来的人了。」>
+pause
+cls
+#res：「这样......」>
+pause
+cls
+call<$2696124a, 0>
+call<$812afdf0, 0> ('chihiro-0191')
+#res：：「...这样怎么了吗？」>
+pause
+cls
+#res：应该是我们的错吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (100)
+#res：「我信任你......」>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：「有一件事想拜托你......」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0192b')
+call<$49ea5b57, 0> (80)
+#res：「好，是什么呢？」>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：「这本来，是完全和你没关系的事情......」>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：「希望你......>
+pause
+call<$49ea5b57, 0> (75)
+#res：传达给别人......」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+syscall<$90d5298a> ('setsumi_0434')
+call<$49ea5b57, 0> (90)
+#res：......那么......>
+pause
+cls
+call<$a4eb1e4c, 0> ('setu04b', 1)
+call<$a4eb1e4c, 0> ('setu04', 2000)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('setsumi_0435')
+call<$49ea5b57, 0> (90)
+#res：...因为只说一次......要好好听喔......>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (1500)
+call<$a4eb1e4c, 0> ('narall_st001', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st002', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st003', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st004', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st005', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st006', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st007', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st008', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st009', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$a4eb1e4c, 0> ('narall_st010', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (3500)
+call<$a4eb1e4c, 0> ('black', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$9468cb12, 0>
+call<$1558c5f5, 0> 
+#res：僫儖僉侾慡夋柺拞墰>
+syscall<$90d5298a> ('setsumi_0436')
+call<$49ea5b57, 0> (90)
+#res：...最后再一件事...>
+pause
+#res：...>
+call<$812afdf0, 0> ('chihiro-0193')
+syscall<$90d5298a> ('chihiro-0193')
+call<$49ea5b57, 0> (90)
+#res：『再一件事？』>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('white', 1500)
+call<$a4eb1e4c, 0> ('e_setu01', 1600)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('setsumi_0437b')
+call<$a4eb1e4c, 0> ('e_setu01b', 2000)
+call<$5f271e74, 0>
+call<$13059346, 0> (3500)
+call<$a4eb1e4c, 0> ('e_setu01c')
+call<$a4eb1e4c, 0> ('black', 2000)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('chihiro-0194')
+call<$49ea5b57, 0> (80)
+#res：『...就这样，委托给我了，这个规则。』>
+pause
+#res：...>
+syscall<$90d5298a> ('chihiro-0195')
+call<$49ea5b57, 0> (80)
+#res：『还未看见，真正的传承者...』>
+pause
+#res：...>
+syscall<$90d5298a> ('chihiro-0196')
+call<$49ea5b57, 0> (80)
+#res：『一定，马上会出现的吧。』>
+pause
+cls
+syscall<$90d5298a> ('chihiro-0197')
+call<$49ea5b57, 0> (80)
+#res：『即使、不在我的手里...』>
+pause
+#res：...>
+syscall<$90d5298a> ('chihiro-0198')
+call<$49ea5b57, 0> (80)
+#res：『也一定...』>
+pause
+#res：...>
+syscall<$90d5298a> ('chihiro-0199')
+call<$49ea5b57, 0> (80)
+#res：『...能继续流传下去的吧...』>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('white', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+syscall<$90d5298a> ('chihiro-0201d')
+call<$a4eb1e4c, 0> ('e_setu02', 1000)
+call<$a4eb1e4c, 0> ('e_setu02b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (4500)
+call<$1558c5f5, 0> ('sysdata.cfg')
+call<$a4eb1e4c, 0> ('white', 1200)
+call<$a4eb1e4c, 0> ('white', 1600)
+call<$5f271e74, 0>
+exit (0)

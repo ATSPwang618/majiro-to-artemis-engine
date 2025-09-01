@@ -1,0 +1,1040 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('sora_yu', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('nami3')
+#res：当太阳渐渐化作橙色的时候...>
+pause
+cls
+#res：无人的海滩上。冰冷的强风摇动着松林。>
+pause
+cls
+#res：驶入沙滩以后，我将驾驶席让给了她。>
+pause
+cls
+call<$d334ba75, 0> ('o02')
+call<$a4eb1e4c, 0> ('chusha_hamabe_yu', 1600)
+call<$5f271e74, 0>
+#res：「怎么样，踩得到离合器吗？」>
+pause
+cls
+call<$812afdf0, 0> ('nv312')
+#res：「踩得到...」>
+pause
+cls
+#res：「好，然后把排档由空挡换为二档」>
+pause
+cls
+call<$812afdf0, 0> ('nv313')
+#res：「...我知道的」>
+pause
+cls
+#res：「好，那你就随意开一开吧」>
+pause
+cls
+call<$812afdf0, 0> ('new_358')
+#res：「嗯，知道了...」>
+pause
+cls
+#res：她拼命地伸腿踩着踏板。聚精会神地握着方向盘。>
+pause
+cls
+#res：我在助手席上指导着她。>
+pause
+cls
+#res：「好...再慢慢松开离合器」>
+pause
+cls
+call<$812afdf0, 0> ('nv315')
+#res：「...嗯」>
+pause
+cls
+#res：之后，她略显紧张地松开了离合器...>
+pause
+cls
+syscall<$f62e3ca7> ('knocking')
+call<$812afdf0, 0> ('nv316')
+#res：「哇」>
+pause
+cls
+#res：不出所料，车身剧烈地震动了一下。>
+pause
+cls
+#res：「松开离合器的时候要慢一些」>
+pause
+cls
+call<$812afdf0, 0> ('nv317')
+#res：「嗯」>
+pause
+cls
+#res：尽管她这样回答，但毕竟不会一下子就适应。>
+pause
+cls
+#res：她轻轻地咬住嘴唇，认真地练习着。>
+pause
+cls
+#res：因为平时很少将内心情感显露在表情上，她现在的样子更使我感到无比地温馨。>
+pause
+cls
+#res：「喂，再这样开下去的话，咱们可都要晕车了哦」>
+pause
+cls
+call<$812afdf0, 0> ('nv318')
+#res：「我...我知道了」>
+pause
+cls
+syscall<$708b0256> ('car1')
+call<$a4eb1e4c, 0> ('sora_yu')
+call<$5f271e74, 0>
+#res：因为消音器的故障，银色的酷派在噪音中奔跑着。>
+pause
+cls
+#res：那啼哭声般的噪音回荡在这片无人的沙滩上...>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+#res：当晚霞慢慢地变为夜空的时候。当微弱的海风完全转为陆风的时候...>
+pause
+cls
+#res：巨大的月亮在天空中探出了头来。>
+pause
+cls
+#res：「已经基本习惯了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv319')
+#res：「...嗯」>
+pause
+cls
+#res：说着，她将排档由２档换作了３档。>
+pause
+cls
+#res：她终于习惯了离合器的操作，在这狭窄的海滩上自由地驰骋着。>
+pause
+cls
+#res：「能开到这一步的话...」>
+pause
+cls
+#res：「大概用不着去驾校，你也可以考到驾照了哦」>
+pause
+cls
+call<$812afdf0, 0> ('nv320b')
+#res：「...是吗？」>
+pause
+cls
+#res：「只是我的话并没有多少可信性。　毕竟我也是刚拿到驾照的人嘛...」>
+pause
+cls
+#res：我们都很清楚。即使现在考到了驾照，也没有任何意义。>
+pause
+cls
+#res：我们拥有地图，拥有药物，也拥有银色的酷派──尽管消音器的故障让得它显得很吵闹。>
+pause
+cls
+#res：...但我们没有时间，没有未来。>
+pause
+cls
+#res：正因为心中明白这一切，我才更加感到哀伤。>
+pause
+cls
+#res：「那么...>
+pause
+#res：就让我来为你发放驾照吧」>
+pause
+cls
+#res：说着，我从口袋中取出了自己的驾照。>
+pause
+cls
+#res：那是...本已失去了作用的驾照，>
+pause
+#res：对我来说，是本已一去不返的「日常世界」的凭证...>
+pause
+cls
+#res：「给你，就当作是毕业证书吧」>
+pause
+cls
+call<$812afdf0, 0> ('n321')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('nv322')
+#res：「就算收下...恐怕也没机会使用了呢...」>
+pause
+cls
+#res：「别推辞了...反正我的情况也与你差不多嘛」>
+pause
+cls
+#res：从没有任何人逃离过７楼的命运。宽敞的房间，仅能拉开１５ｃｍ的窗户，白色的塑料手环。>
+pause
+cls
+#res：...第３次将是最后一次，她是第２次，而我是第１次...>
+pause
+cls
+#res：「拿着吧...祝贺你毕业」>
+pause
+cls
+call<$812afdf0, 0> ('nv282')
+#res：「嗯...谢谢...」>
+pause
+cls
+#res：她微微点了点头后，接过了我的驾照。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：...现在，她也有了自己的驾照。>
+pause
+cls
+#res：不光是酷派，她既可以驾驶赛欧，也可以驾驶敞篷...可以驾驶任何自己喜欢的车辆。>
+pause
+cls
+#res：可以到任何自己想去的地方去...>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：驾车驰骋了一段时间后。>
+pause
+cls
+#res：我们来到了当初的目的地──能够看到水仙的地方。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_yoru01', 1600)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('n05')
+#res：尽管这里是观光地...>
+pause
+cls
+#res：但或许因为这里是郊外，或者因为现在是夜晚，总之周围看不到任何人活动的踪影。>
+pause
+cls
+#res：夜色是如此地深沉。我们在漆黑的车内等待着黎明。>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_inaka_yoru2', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv324')
+#res：「呐，干嘛不开灯呢？」>
+pause
+cls
+#res：「哦，因为电池的电量不多了」>
+pause
+cls
+call<$812afdf0, 0> ('nv325')
+#res：「嗯，是呐...」>
+pause
+cls
+#res：车内一片漆黑，引擎也被关闭了。>
+pause
+cls
+#res：只有仪表盘上那淡淡的荧光，映照出我们的面庞。>
+pause
+cls
+#res：在这既没有声响也没有灯光的狭窄车厢中，我们默默地等待着黎明的到来。>
+pause
+cls
+#res：那些衣物仍然堆放在后排的座位上。肥厚的牛仔裤和运动衫，以及粗陋的浴巾。>
+pause
+cls
+#res：我们从中捡起几件，当作棉被卷在身上。>
+pause
+cls
+#res：「...你冷吗？」>
+pause
+cls
+call<$812afdf0, 0> ('new_371')
+#res：「...嗯」>
+pause
+cls
+#res：「那就再靠近一些吧」>
+pause
+cls
+call<$812afdf0, 0> ('n328')
+#res：「唉...？」>
+pause
+cls
+#res：「别在意，到这边来吧」>
+pause
+cls
+#res：看到她在助手席上发抖，我指了指自己的膝盖。。>
+pause
+cls
+#res：「这样肯定会比较暖和的」>
+pause
+cls
+call<$812afdf0, 0> ('n329')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('nv330')
+#res：「不必了...我没事的」>
+pause
+cls
+#res：尽管嘴上这样说，但她却仍然在打着哆嗦。呼出的白雾，说明她显然是在逞强。>
+pause
+cls
+call<$812afdf0, 0> ('nv331')
+#res：「...莫非，你是因为冷才希望我过去的吗？」>
+pause
+cls
+#res：「嗯...哦，就算是那样吧」>
+pause
+cls
+call<$812afdf0, 0> ('n332')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('nv333')
+#res：「那么，好吧...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：她慢慢地挪了过来，犹犹豫豫地趴在了我的膝上。>
+pause
+cls
+#res：「怎么样？　暖和些了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv334')
+#res：「...嗯。」>
+pause
+cls
+#res：挡风玻璃在寒气的作用下披上了一层白霜。白雾与夜色交织着，使我完全看不到外边的景色。>
+pause
+cls
+#res：但是，黎明很快就会来了。>
+pause
+cls
+#res：那时，广阔的白色花丛一定会呈现在我们面前吧...>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：夜色渐渐消逝。>
+pause
+#res：旭日渐渐地将黑夜的深紫色染作了淡白色。>
+pause
+cls
+#res：无垠的白色花丛在晨光中起伏着...>
+pause
+cls
+call<$a4eb1e4c, 0> ('imege03')
+call<$a4eb1e4c, 0> ('imege04')
+call<$a4eb1e4c, 0> ('imege05', 1)
+call<$a4eb1e4c, 0> ('imege06', 1600)
+call<$a4eb1e4c, 0> ('imege07')
+call<$5f271e74, 0>
+#res：本是漆黑一片的原野，被渐渐地涂成了白色与黄色。>
+pause
+cls
+#res：我们不由得走出车外，注视着这幅美景。>
+pause
+cls
+#res：「太美了...」>
+pause
+cls
+call<$812afdf0, 0> ('new_371')
+#res：「...嗯」>
+pause
+cls
+#res：浮现在眼前的，是数不清的水仙。>
+pause
+cls
+#res：夜露在朝日的照耀下，让白色的花丛更显得晶莹剔透。宛如一条铺向大海的巨大绒毯。>
+pause
+cls
+#res：我们望着这一切交谈着。连气息也化作了同样洁白的雾气。>
+pause
+cls
+#res：...那一天，我们在无聊的电视画面中眺望着那些花朵。而今天，原本心中没有任何目标的我们则确确实实地站在了这里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('narcissu_b', 1600)
+call<$5f271e74, 0>
+#res：「......它们可以说是同一种类了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv336')
+#res：「嗯...即使严格地来说，也是同一种」>
+pause
+cls
+#res：「是吗，太好了...」>
+pause
+cls
+#res：我看不出种类的区别...那一天，电视中放映着的是完美绚丽的影像。>
+pause
+cls
+#res：与那相比，眼前的花朵们则显得零零散散。>
+pause
+cls
+#res：...但是，它们确确实实地存在于这里。>
+pause
+cls
+call<$812afdf0, 0> ('nv337')
+#res：「好美啊...」>
+pause
+cls
+#res：「...是啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+#res：现实是暧昧，乏味，平凡的...>
+pause
+cls
+#res：现实暧昧、乏味而平凡...但是，它对任何人都是冷酷而无情的。>
+pause
+cls
+#res：世界中充满了眼睛看不到的虚无，世界中充满了手指摸不到的幻影...>
+pause
+cls
+#res：但是现在，在这样的世界中，真实的东西确确实实地呈现在了我们眼前。>
+pause
+cls
+#res：在它的面前，一切虚无与幻影都化作了碎片...>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('cat072', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (300)
+syscall<$f62e3ca7> ('rain01')
+call<$a4eb1e4c, 0> ('sora_ame01', 1600)
+call<$5f271e74, 0>
+#res：雨不停地下着。从１月的雪白天空不停地落下。>
+pause
+cls
+call<$d334ba75, 0> ('sen032')
+call<$a4eb1e4c, 0> ('naname_inaka_ame2')
+call<$5f271e74, 0>
+#res：从那以后，已经２天过去了，而我们却依然没有离开这里，没能够离开这里。>
+pause
+cls
+call<$812afdf0, 0> ('nv338')
+#res：「咳咳」>
+pause
+cls
+#res：「喂，你没事吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv339')
+#res：「嗯...大概没事」>
+pause
+cls
+#res：她的病情恶化了。>
+pause
+cls
+#res：她将坐席放倒，躺在那里。我也一直将车停留在这里。>
+pause
+cls
+#res：尽管已经吃下了药，但却没有什么效果，病情仍然不见好转。>
+pause
+cls
+#res：...是啊，我们是来自７楼的人。>
+pause
+cls
+#res：从原本的病情来看，她已经是第２次了，随时都有可能迎来这一天。>
+pause
+cls
+#res：「呐...你想回去了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n340')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('nv341')
+#res：「...你想回去了吗？」>
+pause
+cls
+#res：「嗯，有一点点...」>
+pause
+cls
+syscall<$cf35f0e3> (300)
+call<$812afdf0, 0> ('nv342')
+#res：「是７楼...还是家？」>
+pause
+cls
+#res：「我、我...」>
+pause
+cls
+#res：......不知道...>
+pause
+cls
+#res：但我早有预料，她随时可能会迎来这一天。当然，我也随时可能变成这样。>
+pause
+cls
+#res：可是，仅仅在一旁看着，是很痛苦的事情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('cat073', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (300)
+syscall<$f62e3ca7> ('rain_1')
+call<$a4eb1e4c, 0> ('sora_ame01b', 1600)
+call<$5f271e74, 0>
+#res：雨依然下个不停。从昏暗的夜空中不断落下。>
+pause
+cls
+#res：车窗对面，水仙的花朵在雨滴中闪烁着洁白的光辉。>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_inaka_ame2', 1600)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('rain_12')
+syscall<$708b0256> ('amadare')
+#res：「对了...」>
+pause
+cls
+#res：我指了指玻璃对面的白色花朵。>
+pause
+cls
+#res：「记得水仙...是叫做Narcissus吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv343')
+#res：「...嗯，它的语源来自于希腊神话中的那耳喀索斯」>
+pause
+cls
+#res：「...希腊神话中的那耳喀索斯？」>
+pause
+cls
+#res：我一直以为这是一个陌生的词汇。但经她提醒，我才想起自己也有所耳闻...>
+pause
+cls
+#res：「就是那个陷入自恋的那耳喀索斯吗？」>
+pause
+cls
+call<$812afdf0, 0> ('nv344')
+#res：「嗯，因为原本就是神话，所以有着各种各样不同的说法...」>
+pause
+cls
+#res：她注视着我的脸，慢慢地解说下去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('e01')
+call<$812afdf0, 0> ('nv345')
+#res：「那耳喀索斯是一位被万人追求的美少年...」>
+pause
+cls
+call<$812afdf0, 0> ('nv346')
+#res：「妖精艾歌也是他的追求者之一」>
+pause
+cls
+call<$812afdf0, 0> ('nv347')
+#res：「但是，艾歌只能重复与对方相同的话语...」>
+pause
+cls
+#res：「...相同的话语？」>
+pause
+cls
+call<$812afdf0, 0> ('nv348')
+#res：「是的，所以...」>
+pause
+cls
+call<$812afdf0, 0> ('nv349')
+#res：「假如那耳喀索斯不对自己说出『我爱你』的话...」>
+pause
+cls
+call<$812afdf0, 0> ('nv350')
+#res：「艾歌就永远无法传达自己的爱意...」>
+pause
+cls
+#res：她寂寞地、悲伤地继续说道。>
+pause
+cls
+#res：她的视线如同过去那样，静静地遥望着远方。>
+pause
+cls
+call<$812afdf0, 0> ('nv351')
+#res：「但是...那是绝对不可能的」>
+pause
+cls
+call<$812afdf0, 0> ('nv352')
+#res：「无论怎样幻想，怎样憧憬，　艾歌的心愿绝对不可能会实现...」>
+pause
+cls
+call<$812afdf0, 0> ('nv353')
+#res：「最后，她对那耳喀索斯施下了诅咒」>
+pause
+cls
+#res：「...就是那个有名的，　爱上自己映在泉水中的倒影的诅咒吗？」>
+pause
+cls
+call<$812afdf0, 0> ('nv354')
+#res：「那耳喀索斯不眠不休地凝视着自己的倒影...」>
+pause
+cls
+call<$812afdf0, 0> ('nv355')
+#res：「就这样，化成了美丽的花朵」>
+pause
+cls
+call<$812afdf0, 0> ('nv356')
+#res：「这种花的名字...Narcissus就是这样诞生的」>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_inaka_ame2', 1600)
+call<$5f271e74, 0>
+#res：说完，她整理了一下自己的呼吸。听完这番讲解，我也感到了一丝悲伤。>
+pause
+cls
+#res：...对绝对无缘的事物抱持憧憬的艾歌，就如同现在的我们一样。>
+pause
+cls
+#res：「那么艾歌又怎么样了呢？」>
+pause
+cls
+call<$812afdf0, 0> ('nv357')
+#res：「已经不在了...在施下诅咒的那一刻，她就消失了」>
+pause
+cls
+#res：...消失了？>
+pause
+#res：这样一来岂不就毫无意义了吗...>
+pause
+cls
+#res：狠心施下了诅咒，最终却什么也没能得到，仅仅是给那耳喀索斯带去不幸...>
+pause
+cls
+call<$812afdf0, 0> ('new_407')
+#res：「...你怎么了？」>
+pause
+cls
+#res：「没什么...不过，你与她不同呐」>
+pause
+cls
+call<$812afdf0, 0> ('nv358')
+#res：「哎...」>
+pause
+cls
+#res：「你以前不是问过我吗？」>
+pause
+cls
+#res：「是否诅咒过自己那不公的命运...」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('nv360')
+#res：「嗯...因为我早已放弃了一切」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+syscall<$f62e3ca7> ('rain01')
+call<$a4eb1e4c, 0> ('sora_ame01b', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('new_412')
+#res：「『...我的时间静止了...』」>
+pause
+cls
+call<$d334ba75, 0> ('n04')
+#res：在这个只看得到自己的世界里...我送走了不知多少个季节...多少次下着梅雨的苍白天空...>
+pause
+cls
+call<$812afdf0, 0> ('nv362')
+#res：「...究竟是从何时开始，我变得如此孤独了呢...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_0012', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv361b')
+#res：「尽管闭上双眼，身边的世界也不会就此消失...」>
+pause
+cls
+#res：即使堵住耳朵，雨声也不会停止。我心里很清楚这一切。>
+pause
+cls
+#res：无论是比基尼泳装，翡翠色的大海，还是满脸微笑的偶像封面...>
+pause
+cls
+#res：...都不会使我感到嫉妒。>
+pause
+cls
+#res：在闭上双眼的世界中，即使没有车和地图，我同样可以漫步于任何城镇。>
+pause
+cls
+#res：即使没有心口的伤痕在时刻提醒着我，即使这世界就是那耳喀索斯的化身，而我则扮演着艾歌...>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_k01', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('new_415b')
+call<$49ea5b57, 0> (85)
+#res：「...即使如此，我也不会去憧憬他...更不会去诅咒他...」>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：我本已选择了这条道路...>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：但现在...>
+pause
+#res：「...............」>
+call<$49ea5b57, 0> (85)
+#res：我的心却动摇了。>
+pause
+cls
+call<$49ea5b57, 0> (65)
+#res：冰冻的时间再次开始了跃动。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('new_416b')
+call<$49ea5b57, 0> (100)
+#res：「伤口...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('chara_k02', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('new_416_1')
+call<$49ea5b57, 0> (65)
+#res：「越是深，越是重，愈合所需的时间也就会越久...」>
+pause
+cls
+call<$812afdf0, 0> ('new_416_2')
+call<$49ea5b57, 0> (65)
+#res：「那么，长久以来慢慢分开的东西，是否就再也无法复原了呢？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('new_417b')
+call<$49ea5b57, 0> (85)
+#res：「那样的话...」>
+pause
+cls
+call<$812afdf0, 0> ('new_418b')
+call<$49ea5b57, 0> (85)
+#res：「...已经活了２２年的我，究竟又会如何呢...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv363')
+#res：「咳咳」>
+pause
+cls
+#res：「喂，没事吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_inaka_yoru', 1600)
+call<$5f271e74, 0>
+#res：黎明前。我将手伸向助手席，为她揉着背。>
+pause
+cls
+#res：从那以后又是２天过去了，连那不见效果的药物也已经服尽了。>
+pause
+cls
+#res：...但是，即使是那种药，也总比什么都没有强得多。>
+pause
+cls
+#res：想到这里，我将手伸向车的钥匙，准备赶往药店。>
+pause
+cls
+#res：正当我打算发动引擎的时候...>
+pause
+cls
+call<$812afdf0, 0> ('nv365b')
+#res：「...不必了」>
+pause
+cls
+#res：她用微弱的声音制止了我。>
+pause
+cls
+#res：「但是，这样下去的话...」>
+pause
+cls
+call<$812afdf0, 0> ('nv366')
+#res：「...反正，已经没有效果了」>
+pause
+cls
+#res：「可是...」>
+pause
+cls
+#res：她说得没错。同样的药物恐怕已经没有疗效了。>
+pause
+cls
+#res：但是，即使如此，我也难以忍受自己只是这样在一旁看着。>
+pause
+cls
+#res：「那么，咱们到别的地方去吧」>
+pause
+cls
+call<$812afdf0, 0> ('nv367')
+#res：「...别的地方？」>
+pause
+cls
+#res：「嗯，别总是待在这种偏僻的地方嘛」>
+pause
+cls
+#res：「呐？　咱们快决定下一个目的地吧」>
+pause
+cls
+call<$812afdf0, 0> ('n368')
+#res：「...............」>
+pause
+cls
+#res：「哪里都可以的，还是要由你来指路」>
+pause
+cls
+#res：假装开朗的生硬语气让我自己也感到可笑。>
+pause
+cls
+#res：她静静地眺望着远方，我则在一旁故作爽朗地劝说着...>
+pause
+cls
+#res：...尽管我很清楚，这样做是没有意义的。>
+pause
+cls
+#res：最多也只不过是把剩余的２天变成３天而言。这一切我都很清楚。>
+pause
+cls
+#res：「呐，说说看吧。你肯定有想去的地方吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv369')
+#res：「不...」>
+pause
+cls
+#res：「对、对了，你不是喜欢车吗。想不想再到高速公路上去跑一跑啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n3712')
+#res：「...不...」>
+pause
+cls
+#res：「...............」>
+pause
+cls
+#res：「那、那么，咱们去买新衣服吧。你肯定想要吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n370')
+#res：「...............」>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：「.........」>
+pause
+call<$812afdf0, 0> ('nv371')
+call<$49ea5b57, 0> (75)
+call<$8e803141, 0> 
+#res：「」>
+#res：「不...」>
+pause
+cls
+#res：「你怎么总是『不』、『不』、『不』的...为什么...」>
+pause
+cls
+#res：说完，她便再次眺望着窗外。>
+pause
+cls
+#res：并非是在看着面前那无垠的水仙花丛，而是像从前那样，眺望着远方。>
+pause
+cls
+#res：她偶尔也会显露出那好似害羞又好似倔强的表情。>
+pause
+cls
+#res：但现在，她的脸上已不再有什么表情了...>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (85)
+#res：「...为、为什么要这样啊...」>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：「为什么总是这么消极...」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+call<$49ea5b57, 0> (85)
+#res：「..................」>
+pause
+cls
+#res：「为什么就不能稍微积极一些呢」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+#res：我不由地喊出了声。>
+pause
+cls
+#res：不知为何...>
+pause
+#res：我很悲伤。>
+pause
+#res：原本早已失去了对现实的感触。但现在，我的内心却异常痛苦。>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_inaka_yoru', 1600)
+call<$5f271e74, 0>
+#res：...车内沉静了下来。>
+pause
+cls
+#res：窗外那１月的花朵，水仙，Narcissus...>
+pause
+#res：在黎明前的夜色中摇动着它洁白的花瓣。>
+pause
+cls
+#res：但她注视着的却不是那白色的花朵，而是更远、更远的地方。>
+pause
+cls
+#res：只有那远远传来的海潮声，支配了周围的寂静...>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv374b')
+#res：「...我又怎么可能变得积极呢...」>
+pause
+cls
+#res：「哎...」>
+pause
+cls
+#res：昏暗的车内。她忽然开口了。>
+pause
+cls
+call<$812afdf0, 0> ('nv375')
+#res：「对事物充满憧憬，努力地追求，　假如心愿真的能够实现，当然很好...」>
+pause
+cls
+call<$812afdf0, 0> ('nv376')
+#res：「但是，假如无法实现的话，又该如何呢？」>
+pause
+cls
+call<$812afdf0, 0> ('nv377')
+#res：「根本没有那么坚强，　能够微笑着安慰自己...」>
+pause
+cls
+#res：她没有像往常那样眺望着远方，而是从助手席上静静地凝视着我。>
+pause
+cls
+call<$812afdf0, 0> ('nv378')
+#res：「我所能做的，　只有从一开始就放弃一切，不去追求任何事物...」>
+pause
+cls
+call<$812afdf0, 0> ('nv379b')
+#res：「我只能告诫自己，这是不可能的，　只能够以冷漠的眼光来旁观着自己啊...」>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：「...你...」>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：「呜，呜呜」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (80)
+#res：...她第一次哭泣了。>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：平时，她很少显露出自己的表情...>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：但现在，她却抖动着肩膀哭泣着。>
+pause
+cls
+call<$812afdf0, 0> ('nv381')
+call<$49ea5b57, 0> (75)
+#res：「我只能对自己说...假如那个时候试着去追求过...或许就会有不同的结果...」>
+pause
+cls
+call<$812afdf0, 0> ('nv382')
+call<$49ea5b57, 0> (75)
+#res：「只能将这些作为对自己最后的借口啊...」>
+pause
+cls
+call<$812afdf0, 0> ('nv383')
+call<$49ea5b57, 0> (75)
+#res：「因为我从一开始就明白一切都是不可能实现的...」>
+pause
+cls
+call<$812afdf0, 0> ('nv384')
+call<$49ea5b57, 0> (75)
+#res：「所以...我只能选择这样做啊...」>
+pause
+cls
+syscall<$f62e3ca7> ('nv385')
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (70)
+#res：玻璃的另一侧是无尽的夜空。>
+pause
+#res：..........>
+call<$49ea5b57, 0> (70)
+#res：在这黎明前的时刻，连月亮也不见了踪影。>
+pause
+cls
+call<$49ea5b57, 0> (70)
+#res：只能听到远处的海潮声，和她低沉的哭泣声。>
+pause
+cls
+call<$49ea5b57, 0> (70)
+#res：...或许，她的境遇正如同艾歌一样吧。>
+pause
+cls
+call<$49ea5b57, 0> (70)
+#res：只能够重复与他人相同的话语。自己却什么也无法倾诉，什么也无法追求，什么也不会关心...>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：...她所能做的，只有放弃。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：对她来说，拒绝从７楼和自己的家中进行选择...>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：或许...这就是最初也是最后的反抗吧...>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+exit (0)

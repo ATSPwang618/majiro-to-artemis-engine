@@ -1,0 +1,980 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2na')
+call<$35395c9f, 0> (6)
+call<$812afdf0, 0> ('mama_039')
+#res：「给，今天的便当。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0280')
+#res：「嗯，我出去了。」>
+pause
+cls
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+#res：我一如往常的将便当拿在手里前往医院。>
+pause
+cls
+#res：虽然已经是8月中旬了，炎热的夏日还在持续着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+#res：叮，>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+#res：7楼。我对着已经认识的护士，轻轻地点下头打了声招呼。>
+pause
+cls
+#res：走廊能看到，几位病人的身影。>
+pause
+cls
+#res：刚好是早晨体温检查结束的时候，大概正要和陪护一起去散步吧。>
+pause
+cls
+#res：看着这些带着白色手环的人们，我不由得想起。>
+pause
+cls
+#res：……7楼的病人，大概可以分成两种类型吧？>
+pause
+cls
+#res：有些人像是看透一切似的，总是一副冷静的样子，而有些人则一直忙着做着这样那样的事情……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0136')
+#res：「啊，没问题喔，我会扶着你的。」>
+pause
+cls
+#res：熟悉的声音传来，我回头一看，站在那边的。是正和坐着轮椅的老奶奶在一起的千寻。>
+pause
+cls
+#res：……恐怕，那个老奶奶就是千寻所负责的人吧。>
+pause
+cls
+#res：「那个，我之后想散下步，可以再麻烦你吗……」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0137')
+#res：「也是啊~等天色稍微转阴的时候，再去中庭吧。」>
+pause
+cls
+#res：千寻用着平稳的语气。对着老奶奶，露出了她一如既往的温柔表情。>
+pause
+cls
+#res：「那个千寻，可以再为我做那件事吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0138')
+#res：「嗯，可以的喔。」>
+pause
+cls
+#res：刚回答完，便静静地合上双手。>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0139')
+#res：「……不要让我们遭受承担不起的考验……」>
+pause
+cls
+#res：就这样，千寻献上了祈祷。之后又继续说着其他的句段。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0281')
+#res：「那个……」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0129')
+#res：「啊，濑津美……」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0282')
+#res：「你总是，那样为人祈祷吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0141')
+#res：「嗯，因为为了别人而祈祷是件不错的事情呢。」>
+pause
+cls
+#res：用着平常温柔的表情回答的千寻。>
+pause
+cls
+#res：不过那句话，我似乎有点在意。>
+pause
+cls
+#res：…为了别人……>
+pause
+cls
+#res：所以，我坦白的提出了疑问。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0283b')
+#res：「……为了自己不行吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0142')
+#res：「那，那个……」>
+pause
+cls
+#res：千寻一时间无言以对。>
+pause
+cls
+#res：她没有继续回答我。平常温柔的表情也跟着消失了。>
+pause
+cls
+#res：第一次看到千寻这样的表情……她也只是，一脸困扰地望向我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咖叽>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_open_04')
+call<$a4eb1e4c, 0> ('tizu01b', 1500)
+call<$5f271e74, 0>
+#res：像从前一样俯瞰着地图的姬子。>
+pause
+cls
+#res：对着进入病房的我，只是稍微瞥了一眼，视线马上又回到了地图。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0284')
+#res：「……有趣吗？」>
+pause
+cls
+#res：「你觉得呢？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0030')
+#res：「……不。」>
+pause
+cls
+#res：这样回答后，我也在旁边坐了下来，一同俯视着地图。>
+pause
+cls
+#res：…还是，没办法觉得这行为会有趣……>
+pause
+cls
+#res：这个地图，对姐姐来说又代表什么呢？>
+pause
+cls
+#res：即使是看似已经完全看开的7楼病人，也还是，会对这个世界留有什么念想的吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('tizu01', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('pera')
+call<$812afdf0, 0> ('hime1_0611')
+#res：「……要比喻的话，我们是死刑犯呢。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0094')
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0612')
+#res：「虽然只是被宣告死亡……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0613')
+#res：「却不曾知道，那一天何时会到来，只是被有限的时间追逐着。」>
+pause
+cls
+#res：……死刑犯。要这样说的话，似乎确实是这样。>
+pause
+cls
+#res：就像刚刚想的一样，在这7楼，有人似乎一直都在忙碌着。>
+pause
+cls
+#res：倒不如说，正因为知道命不久矣，所以才更努力地在仅存的时间里活着的感觉。>
+pause
+cls
+#res：还是说，所谓的人……>
+pause
+#res：体会到死的意义后，才能第一次体会到「生」的意义么……>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0614')
+#res：「保持冷静的人，是已经做好觉悟的人吧。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0615')
+#res：「或者说是，装作已经做好觉悟的人吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0350b')
+#res：「……姬子是？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0616')
+#res：「当然是后者。像我这年纪，怎么可能做得好觉悟。」>
+pause
+cls
+#res：很干脆地说了。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0617')
+#res：「如果不是这样的话，也不会说什么死前想做的10件事这种话吧？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说了这些，再次向地图看去的姬子。>
+pause
+cls
+#res：然后，对着同样看着地图的我说道。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0367')
+#res：「濑津美……头发，变长了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0286')
+#res：「啊……嗯，是呢……」>
+pause
+cls
+#res：这么说或许真的变长了也不一定。这个月，妈妈还没有给我理过头发。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0368')
+#res：「我来给你理下吧？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0094')
+#res：「唉？」>
+pause
+cls
+syscall<$f62e3ca7> ('03_kami2')
+call<$812afdf0, 0> ('hime1_0369')
+#res：「来，姐姐给你理头发喔。」>
+pause
+cls
+syscall<$708b0256> ('isu1')
+#res：对于突然的建议，我有点没反应过来……>
+pause
+cls
+#res：在先走一步的姬子后面，我跟着走了过去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byoin7_rouka', -100101)
+call<$5f271e74, 0>
+#res：不久后，我们来到了护士的值班室，姬子面对着里面的护士。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0370')
+#res：「那个，我想去上面一会，那个能稍微借我下吗？」>
+pause
+cls
+#res：「可以啊……是要理头发吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0371')
+#res：「嗯，今天也没什么风呢。」>
+pause
+cls
+#res：然后，从护士那边拿过什么来，再次沿着走廊过去。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0372')
+#res：「濑津美，这里喔。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：走了一会儿后，她在走廊的尽头停了下来。>
+pause
+cls
+#res：正确来说，是在爬上紧急楼梯后，总是一直关闭着的，高大的铁门前。>
+pause
+cls
+#res：……虽然到现在为止都没见打开过，恐怕是前往天台的入口吧。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0373')
+#res：「锵，在这里钥匙登场了。」>
+pause
+cls
+syscall<$f62e3ca7> ('tetudoor')
+#res：咖叽，碰……>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+#res：一瞬间所能看到的全是白色。>
+pause
+cls
+#res：待开始习惯后的眼前是，>
+pause
+cls
+syscall<$f62e3ca7> ('kaze3bb')
+call<$a4eb1e4c, 0> ('okujou')
+call<$5f271e74, 0>
+#res：……凛冽的气流，夏日的天空，以及很高的围栏。有很多很多，洗好的床单随风摇动着。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0374')
+#res：「今天也是好天气呢~，绝对适合理发的晴天呢。」>
+pause
+cls
+#res：仰望了天空后，这样说着的姬子。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0375')
+#res：「是第一次吧？到这里来。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0287')
+#res：「……嗯，第一次。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0376')
+#res：「是啊，一般都是这样。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0377')
+#res：「入院患者的话，是绝对不允许到这里来的。」>
+pause
+cls
+#res：理由不用说也能想象得到。>
+pause
+cls
+#res：和7楼的天花板一样高的围栏。>
+pause
+#res：只要想到，这是因为什么才有的就很简单了。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0378')
+#res：「那么，开始理发吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0288')
+#res：「……真的要这样做？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0379')
+#res：「没问题啦，别看姐姐这样，技术可是很好的喔。」>
+pause
+cls
+#res：这样说完后，她指向前面的小长椅。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0380')
+#res：「那么，就先坐在那里吧。」>
+pause
+cls
+#res：然后将白色透明的，大型垃圾袋取出来。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0381')
+#res：「接着，让脑袋从这里穿过去。」>
+pause
+cls
+#res：是用剪刀剪出来的么，垃圾袋上有着刚好能让头穿过的圆洞。>
+pause
+cls
+#res：我照着她的话把脑袋穿了过去，像是理发店的理发布一样，完全地把身体覆盖起来。>
+pause
+cls
+#res：然后，在我面前，用剪刀剪出了咖嚓咖嚓的声音。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0382')
+#res：「那么，这位客人，想要怎么剪呢？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0289')
+#res：「……客人？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0383')
+#res：「是想要夏天的感觉，理得短一些吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0290')
+#res：「……至少理齐吧。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0384')
+#res：「哈哈，明白了喔。」>
+pause
+cls
+#res：笑着拿起梳子一边梳理着头发的姬子，一边熟练地开始理发。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：咖擦咖擦……>
+pause
+cls
+#res：灵快清脆的剪刀声。看来现在，她正在帮我修齐后面的头发。>
+pause
+cls
+#res：…我可不想被剪成奇怪的样子……>
+pause
+cls
+#res：这么想着的同时，我又想起别的事。>
+pause
+cls
+#res：……这里说是入院患者是禁止进来的。>
+pause
+#res：那样的理由我可以理解，也能够接受。>
+pause
+cls
+#res：那么，姬子明明作为7楼病人，却可以照样来到这里，又是为什么呢？>
+pause
+cls
+#res：因为是原陪护，所以大家都信任着她吗……>
+pause
+cls
+call<$a4eb1e4c, 0> ('okujou')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0385')
+#res：「我说濑津美……你现在在意的是，自己的头发吗？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0291')
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0386')
+#res：「或者说是，其他的事情？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0292')
+#res：「……其他的事情。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0387')
+#res：「可以喔，那么就回答你吧。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0388b')
+#res：「并不因为是原陪护，大家才选择信任我。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0293')
+#res：「……那么是什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0389')
+#res：「果然，就算是现代……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0390')
+#res：「也是禁忌之一呢，对于天主教徒来说。」>
+pause
+cls
+#res：一开始，我不明白她在说什么。>
+pause
+cls
+#res：…不过，我马上就反应过来了……>
+pause
+#res：是自杀。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0294')
+#res：「明明是“原”天主教徒大家也依旧相信着我呢……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0391')
+#res：「真的，我也想试试背叛他们的期待，从围栏跨过去看看呢~」>
+pause
+cls
+#res：一如既往地，说些不知道是认真的还是开玩笑的话的姬子。>
+pause
+cls
+#res：恐怕，是不会这样做的吧……>
+pause
+cls
+#res：不过假如，她真的突然往围栏跑去的话该怎么办才好？如今，这里只有我自己一个人……>
+pause
+cls
+#res：不知为何，脑袋里全是这些事。我也难以静下心来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0392')
+#res：「那么，大概就是这样吧……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0393')
+#res：「好的，这位客人，理发结束了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0295')
+#res：「啊，嗯，谢谢……」>
+pause
+cls
+#res：回答完之后，用刚拿到的镜子照着自己的头发。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0296')
+#res：「哇，刘海……」>
+pause
+cls
+#res：看到之后，大约在眉毛上方两厘米的位置，直线似地剪齐了。>
+pause
+cls
+#res：…就像是日本人偶，或是参加七五三的小孩一样……>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0394')
+#res：「很可爱喔，濑~津~美~」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0109')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0395')
+#res：「哈哈，因为你都去注意其他事情了嘛。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0396')
+#res：「女孩子的话，不注意下自己的发型可不行喔。」>
+pause
+cls
+#res：看见露出有点别扭表情的我，更加高兴了的姬子。>
+pause
+cls
+#res：不管她说如何适合如何可爱，这样笑着实在没有什么说服力。>
+pause
+cls
+#res：……呼~。>
+pause
+cls
+#res：不由得，叹出一口气后，我询问起之前就感觉到的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('okujou')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0298')
+#res：「那个，如果我没猜错的话……」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0299')
+#res：「姬子是不是……把我和某人重叠了么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0397')
+#res：「哎呀哎呀，敏锐的问题呢，真是……」>
+pause
+cls
+#res：接着姬子稍微思考了一下，>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0398')
+#res：「嗯，有一半或许是这样吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0300')
+#res：「……那么，剩下的一半呢？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0399')
+#res：「这个是……秘密喔。」>
+pause
+cls
+#res：……这个也当作是秘密了。>
+pause
+cls
+#res：以前说的什么规则也是，姬子偶尔会有不愿意告诉我的事情。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0400')
+#res：「就这样，那么，回去吧。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：收拾好刚才用过的剪刀，我们两个人一起将姬子理发店的遗址周围打扫干净。>
+pause
+cls
+#res：然后……向着刚刚进来的入口，正要离开的时候，>
+pause
+cls
+#res：姬子突然停下脚步，回过头来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('okujou')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('hime1_0401')
+#res：「啊啊，对了对了，最后那件事呢……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0402')
+#res：「我觉得大概差不多了吧。」>
+pause
+cls
+#res：……最后的一件事？差不多了？>
+pause
+cls
+#res：恐怕是，之前说过的，死前想做的10件事吧。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0301')
+#res：「……又打算去其他什么地方吗？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0403')
+#res：「嗯，总之这里不行呢。」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0404')
+#res：「这么点高度的话，是不够的。」>
+pause
+cls
+#res：……是说对于跳下去而言，高度不够的意思吗？>
+pause
+#res：这可是指着顶楼围栏说出的话。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0405')
+#res：「虽然是你不知道的事，本来我已经，差不多是第2次了喔。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0003')
+#res：「……是指什么？」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0406')
+#res：「进出医院的次数。我是因为有特别的原因而一直待在这里。」>
+pause
+cls
+#res：然后她告诉了我第3次是最后一次，没有第4次。>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0407')
+#res：「果然体力这方面，我也差不多该到极限了呢……」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0408')
+#res：「这大概，会是最后一次从医院跑出去了吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('hime1_0409')
+#res：「不过，虽然不可能当天就回来，不过可以的话你就再陪我一次吧。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('sora01y')
+call<$5f271e74, 0>
+#res：天空慢慢被染成橙色。>
+pause
+cls
+syscall<$f62e3ca7> ('z43')
+#res：灸热的太阳落下山去，夏蝉的鸣叫也被暮蝉所取代之时……>
+pause
+cls
+call<$d334ba75, 0> ('2sou01')
+#res：不经意来到的是，平常的校园。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a007b')
+call<$5f271e74, 0>
+#res：我并没有要做什么，只是站在单杠前发呆，想着刚刚的事情。>
+pause
+cls
+#res：「那个，姐姐，想玩单杠吗？」>
+pause
+cls
+#res：似乎是关心着我的样子，在附近玩耍的小孩，又跑来和我对话。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0302')
+#res：「……不用了，不用在意我的。」>
+pause
+cls
+#res：面对这样的回答，小孩露出了像是不可思议的表情后，再度回到朋友的身边。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……刚刚姬子说了，无法当天就回来。>
+pause
+cls
+#res：虽然不知道究竟想去哪里，不过却说希望我可以得到妈妈的允许。>
+pause
+cls
+#res：…可以的话就再陪一次吧……>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0303')
+#res：「没有强迫我……」>
+pause
+cls
+#res：虽然这样说，我们已经一起度过将近1个月，说这次是最后一次……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07')
+call<$5f271e74, 0>
+#res：还是两个人，享用着今天的晚餐。>
+pause
+cls
+call<$a4eb1e4c, 0> ('heya1')
+call<$5f271e74, 0>
+#res：在桌子上的，是和以往一样的家常菜和炸土豆。以及一脸高兴的，因为看到被吃光的便当盒而欣喜着的妈妈。>
+pause
+cls
+#res：在这，一如既往的晚餐中，我也一直思考着先前的事情。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0304')
+#res：「那个，妈妈……」>
+pause
+cls
+call<$812afdf0, 0> ('mama_040')
+#res：「怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0305')
+#res：「又邀请我出去兜风了……」>
+pause
+cls
+call<$812afdf0, 0> ('mama_041')
+#res：「啊，不是很好吗？还是那个姬子吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0306')
+#res：「嗯……不过这次我们要在外面留宿……」>
+pause
+cls
+call<$812afdf0, 0> ('mama_042')
+#res：「可以喔，没事的。」>
+pause
+cls
+#res：出乎意料的，妈妈很简单地答应了。」>
+pause
+cls
+call<$812afdf0, 0> ('mama_043')
+#res：「那么妈妈就，再帮你们准备便当吧。」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0307')
+#res：「嗯……谢谢……」>
+pause
+cls
+call<$812afdf0, 0> ('mama_044')
+#res：「哈哈，这次也会用心去做的喔。」>
+pause
+cls
+call<$812afdf0, 0> ('mama_045')
+#res：「啊，对了，今天炸得也不错呢。」>
+pause
+cls
+#res：说着拿出盘子里，一如平常的炸土豆。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0308')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('mama_046')
+#res：「那个，怎么了？你不是喜欢炸土豆的吗？」>
+pause
+cls
+#res：自然地……>
+pause
+#res：像是理所当然一样地劝我吃土豆的妈妈。似乎相当高兴的样子。>
+pause
+cls
+#res：不过，她高兴地将盘子推过来的，那手指上已不再有粉红的指甲油。取而代之的，是那有些许发红的手。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：……只要，我默默地咽下土豆就好。>
+pause
+#res：不管如何的讨厌，我只要忍耐着就好了。>
+pause
+cls
+#res：不过……这真的就是温柔吗……>
+pause
+cls
+#res：不由得，想起了姬子说过的话。>
+pause
+cls
+#res：就算，对我们施以报应的某人，不会原谅我们……>
+pause
+cls
+#res：我还是，想说声对不起，不管是对妈妈，还是对姬子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('heya1', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('setsumi_0309')
+#res：「那个，妈妈……」>
+pause
+cls
+#res：我，下定决心坦白。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0310')
+#res：「姬子是……7楼的人」>
+pause
+cls
+call<$812afdf0, 0> ('mama_047')
+#res：「嗯？7楼是什么？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0311')
+#res：「……就是安宁病房。」>
+pause
+cls
+call<$812afdf0, 0> ('mama_048')
+#res：「嗯？……啊，那里的护士小姐吗？」>
+pause
+cls
+#res：她会这样认为，也是理所当然的。>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0312')
+#res：「……那里的病人。」>
+pause
+cls
+call<$812afdf0, 0> ('mama_049')
+#res：「啊？」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0313')
+#res：「她是安宁病房的……入院患者。」>
+pause
+cls
+call<$812afdf0, 0> ('mama_050')
+#res：「……唉？…………」>
+pause
+cls
+call<$812afdf0, 0> ('mama_051')
+#res：「安宁病房的病人……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2000)
+call<$5f271e74, 0>
+#res：…很长……>
+pause
+#res：相当漫长的沉默。>
+pause
+cls
+#res：一直开着的电视里传来的主持人的声音，已非言语，而成了单纯的声响。>
+pause
+cls
+#res：…其实，只是很短的一段时间也说不一定，不过我却感觉，相当漫长……>
+pause
+cls
+#res：甚至感觉……时间似乎已经再也不会流动了……>
+pause
+cls
+#res：就好像……>
+pause
+#res：“某些东西”已经无法再回到以前一样令人害怕……>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('mama_052')
+#res：「呜，呜……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：已然，刚刚的笑容不复存在了。拿着可乐饼的手，就这样停在了那个地方。>
+pause
+cls
+#res：…听到说交到朋友的时候，明明是那么高兴的……>
+pause
+cls
+#res：要是我不坦白的话，明明到现在也会是笑着的……>
+pause
+cls
+call<$812afdf0, 0> ('mama_053')
+#res：「停，停下来吧濑津美，不要再接近那样的人……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('mama_054b')
+#res：「妈妈，很害怕的……」>
+pause
+cls
+call<$812afdf0, 0> ('mama_055_1b')
+#res：「只要想到，你也，有一天会变成那个样子就……」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0127')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('setsumi_0314')
+call<$49ea5b57, 0> (90)
+#res：「……对，对不起……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07')
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (80)
+#res：……我果然还是，只能说声对不起而已。>
+pause
+cls
+#res：…这根本不是温柔……>
+pause
+#res：姬子曾对着默默吃着土豆的我这么说过。>
+pause
+cls
+#res：不过，她也说过……>
+pause
+#res：实际做出来，是特别困难的……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+exit (0)

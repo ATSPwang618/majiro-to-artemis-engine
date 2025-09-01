@@ -1,0 +1,1954 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$a4eb1e4c, 0> ('nst_07', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$35395c9f, 0> (10)
+#res：7F。第一次到来的最上层。>
+pause
+cls
+syscall<$f62e3ca7> ('ele2')
+#res：-叮->
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('n04')
+syscall<$e7b90df5> (650)
+#res：电梯门打开的同时，一齐看向我的护士们。>
+pause
+cls
+#res：母亲微微点头礼貌地示意了一下，就像什么也没发生似的回到工作中去了。>
+pause
+cls
+#res：貌似这里除了患者和家属，以及来探病的人以外，无关人员是进不来的。>
+pause
+cls
+#res：而且这一层，也和其他楼层有些不同。>
+pause
+cls
+#res：首先，地板亮闪闪的。天花板也比之前的要高宽很多。>
+pause
+cls
+#res：而且病房都是单间，没有多人间的样子。听说原则上什么时候来探访都可以。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+#res：不一会儿，我被带到了走廊尽头的房间。>
+pause
+cls
+#res：母：「哇，非常好看的房间呢」>
+pause
+cls
+#res：发出如此感叹，向我作出微笑的母亲。>
+pause
+cls
+#res：之后根据护士的说明，似乎这里采用的窗户很大，而且设计上可以保证很好的采光。>
+pause
+cls
+#res：窗户很宽阔，让人感到一切都很干净漂亮。>
+pause
+cls
+#res：床一定也是接近全新的吧。纯白的床单在耀眼的日光下十分晃眼。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……之后母亲跟两边病房中的病人、护士还有护工们都打了招呼。>
+pause
+cls
+#res：在这所有人都声音和蔼的安稳氛围中，偷偷看我的人们都……>
+pause
+cls
+#res：“这么年轻真是可怜啊……”>
+pause
+cls
+#res：有这微妙的感觉。虽然没说出声，但那个眼神，在这么说。>
+pause
+cls
+#res：母：「那，明天还会再来的，我们就先回去了哦」>
+pause
+cls
+#res：伴随着温和的笑容，在不知何处有些生硬的氛围中，母亲离开了。>
+pause
+cls
+#res：在离开的时候，>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+#res：兄：「我说，菫……」>
+pause
+cls
+#res：突然，低下声音，和我耳语的哥哥。>
+pause
+cls
+#res：兄：「这个，给你玩吧？」>
+pause
+cls
+#res：说着，拿出了自己的PSP游戏机。以前我也借来过很多次。>
+pause
+cls
+#res：堇：「……那哥哥呢？」>
+pause
+cls
+#res：兄：「我没事啦……」>
+pause
+cls
+#res：一如既往，有些生硬的语气。和母亲一样，没有对上我的视线。>
+pause
+cls
+#res：然后，悄悄地像要藏起来似的放在了床边。>
+pause
+cls
+#res：哥哥肯定以为，这里不准玩游戏吧。>
+pause
+cls
+#res：虽然之前的病房是这样的……但在这7F，已经没有什么禁止的了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+#res：那天晚上。吃完晚饭，早就过了熄灯时间的时候。>
+pause
+cls
+#res：我从床上坐起，呆呆玩起了游戏。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_08', 1200)
+call<$5f271e74, 0>
+#res：在黑暗中，用着借来的PSP，开始玩一直在玩的那个游戏。>
+pause
+cls
+#res：因为用了平时在家里打的那个存档，可以继续玩着无敌的宝矿力酱。>
+pause
+cls
+#res：然后，习惯性地持续打着怪，已经不知打了多少周目，困难的区域也通关之时，>
+pause
+cls
+#res：……死亡。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_08b', 300)
+call<$5f271e74, 0>
+#res：淡淡的这样想到。自己也不清楚，为什么会这么想。>
+pause
+cls
+#res：……爸爸妈妈会伤心的吧？>
+pause
+cls
+#res：最先想到了这个。>
+pause
+cls
+#res：还是说，会因为这样就少了一个“挂念”，反而感到轻松了？>
+pause
+cls
+#res：说实在的，这我也不知道。>
+pause
+cls
+#res：只是，至今都没有想过这样的事……我便开始深刻地思考起有关自己死亡的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05c', -100101)
+call<$5f271e74, 0>
+#res：堇：「但是，要怎么做……」>
+pause
+cls
+#res：跟之前不一样，试着认真地思考了那个方法。>
+pause
+cls
+#res：……上吊。感觉这应该是最省事的。>
+pause
+cls
+#res：以前上网也搜索的时候，也是这么写的。似乎是相对没那么痛苦，而且能切实死掉的方法。>
+pause
+cls
+#res：其他还有从高处跳楼之类的，也是一定能死的方法。>
+pause
+cls
+#res：我一边这样想着，顺手想要打开窗户时才注意到。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1300)
+call<$5f271e74, 0>
+#res：……窗户打不开？>
+pause
+cls
+#res：稍微打开一点点，就再也打不开了。只有大约15厘米。刚好是头过去不的大小。>
+pause
+cls
+#res：难道说……抬头看向天花板……>
+pause
+cls
+#res：……天花板这么高？>
+pause
+cls
+#res：而且完全没有能挂绳子的地方。墙壁上也没有一点有凹凸的部位。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_02', 1500)
+call<$5f271e74, 0>
+#res：看起来……来到这7F的人想法也是一样的呢。>
+pause
+cls
+#res：白色的墙壁，高高的天花板，只能打开15厘米的窗户。说话莫名生硬的家人。>
+pause
+cls
+#res：似乎我对自己的死有了实感……>
+pause
+cls
+#res：大概也是第一次，对自己“活着”这件事，认真的考虑起来了吧。>
+pause
+cls
+#res：但也领悟到了，事到如今也做不了什么了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('243', 1300)
+call<$5f271e74, 0>
+#res：第二天早上。我一整晚都在想着如何才能死掉。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04b', 1300)
+call<$5f271e74, 0>
+#res：结果是…>
+pause
+#res：…想不到什么。没想到过自杀是这么困难的事。>
+pause
+cls
+#res：虽然只是依稀的……但也想着不要给谁添麻烦。>
+pause
+cls
+#res：眼前稍微只能打开一点的窗户。从那只能打开15cm的窗户照射进了刺眼的阳光。>
+pause
+cls
+#res：还是早上5点。离巡查还有1个多小时。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04c', 300)
+call<$5f271e74, 0>
+#res：……就算待在这里，也什么都做不了。>
+pause
+cls
+#res：这样判断之后，我从医院里逃了出去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ekimiti', -100101)
+call<$5f271e74, 0>
+#res：不是后门，而是从正面大门走出去之后，就这样沿着步道前进。>
+pause
+cls
+#res：因为至今为止已经住过无数次医院所以知道。比起急诊病患用的紧急出入口，走这条路更不显眼。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：堇：「好热……」>
+pause
+cls
+#res：下意识地说了一句。时间明明还早，看来今天也是会变得很热的天气了。>
+pause
+cls
+#res：……记得最近的车站应该是在这边。>
+pause
+cls
+#res：虽然平时都是坐公交的，但以前有过一次坐电车来的经历。靠着那时的记忆，我走上了去往车站的道路。>
+pause
+cls
+call<$a4eb1e4c, 0> ('miti2', -100101)
+call<$5f271e74, 0>
+#res：不久眼前出现了一条宽阔的大道。路过的行人纷纷对着穿着睡衣的我侧目。>
+pause
+cls
+#res：但也没有特别在意，直接就走过去了。因为旁边就是医院吧。>
+pause
+cls
+#res：……我倒也没有想着就这样去什么地方。>
+pause
+cls
+#res：更何况，我也还没决定好要去哪里。>
+pause
+cls
+#res：总之，先走一步看一步。待在医院里的话，什么也做不了了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg1021', -100101)
+call<$5f271e74, 0>
+#res：不一会就到了车站前。>
+pause
+cls
+#res：穿着睡衣的我还是那样显眼，但也就那么回事。>
+pause
+cls
+#res：我想就这样去买票、检票，也没有人会来阻止吧。>
+pause
+cls
+#res：……说不定比想象中的还要简单呢。>
+pause
+cls
+#res：而且在其他楼层住院的时候，想要跑出来还要更难一些。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：女护士：「诶呀，你……」>
+pause
+cls
+#res：堇：「呃……」>
+pause
+cls
+#res：回头看去，那是一个我有印象的年轻女性。>
+pause
+cls
+#res：因为穿着私服，开始还没认出来，那是以前住院时3楼内科的护士。>
+pause
+cls
+#res：女护士：「是来买东西吗？」>
+pause
+cls
+#res：堇：「啊，嗯……」>
+pause
+cls
+#res：立马这么回答了。当然是假的，总不能说是来车站看看吧。>
+pause
+cls
+#res：女护士：「那，买完东西后，得赶紧回医院哦」>
+pause
+cls
+#res：说完这些，就快步离开了。我还以为她会更生气，稍微松了口气。>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg1021', -100101)
+call<$5f271e74, 0>
+#res：然后，仔细看了下周围，发现了好几个见过的人。>
+pause
+cls
+#res：那边好像是，X光的大夫。跟他一起的大概是1F综合接待处的姐姐。>
+pause
+cls
+#res：……也对。在医院工作的人，都在用这个车站上下班。>
+pause
+cls
+#res：平时，只坐巴士来过所以不知道。>
+pause
+cls
+#res：而且，因为刚才只是在车站前面晃悠，才没有被说什么吧。>
+pause
+cls
+#res：如果已经过了检票口的话，我觉得就不会那样了。。>
+pause
+cls
+#res：搞不好，会被就地抓住，还有被救护车送回医院的可能性。>
+pause
+cls
+#res：我一边这么想着，一边回头返回医院。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：我认识到了，在这个车站坐车会很不妙。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06', -100101)
+call<$5f271e74, 0>
+#res：再次回到医院。坐在中庭的椅子上，呆呆的思考起来。>
+pause
+cls
+#res：堇：「……想死真是意外地难呢……」>
+pause
+cls
+#res：这样发着牢骚。想来也许是挺简单的，但对我来说难以做到。>
+pause
+cls
+#res：难道只是单纯因为我的觉悟还不够吗？还是说，其实我还没有真的想死呢？>
+pause
+cls
+#res：恐怕是两边都有吧。具体来说，可能是因为不知道“何时会死”，就更是如此了。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+#res：那是在我想着这种毫无意义的事情的时候。>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$a4eb1e4c, 0> ('ns_21', 1200)
+call<$5f271e74, 0>
+#res：视线中突然出现了个女孩。手里拿着花洒，似乎在给花坛浇水。>
+pause
+cls
+#res：看到这穿睡衣的样子，估计和我一样是这里住院患者吧。>
+pause
+cls
+#res：……但是这么随便地给花坛浇水真的好的吗？>
+pause
+cls
+#res：对这样呆呆想着的我……>
+pause
+cls
+#res：濑津美：「你……是7F的人呢」>
+pause
+cls
+#res：传来了这样的话语。在看到戴在我手腕上的白色手环后这么说到。>
+pause
+cls
+#res：濑津美：「第几次了？」>
+pause
+cls
+#res：堇：「什么的？」>
+pause
+cls
+#res：濑津美：「不知道就好……看起来还没听说过的样子」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06', -100101)
+call<$5f271e74, 0>
+#res：说着我听不懂的话的女孩子。>
+pause
+cls
+#res：从睡衣的袖子望去，戴在手腕上的塑料手环是青色的。>
+pause
+cls
+#res：估计是3F或4F的心血管科的住院患者吧。在我以前待过的内科那边，不记得有看到过她。>
+pause
+cls
+#res：濑津美：「看来，你勉强还来得及呢」>
+pause
+cls
+#res：堇：「来得及是说？」>
+pause
+cls
+#res：濑津美：「还可以看到这花，开花的样子」>
+pause
+cls
+#res：说着用手指向的是，刚才浇了水的花坛的一角。但那是一片连芽都还没冒，只有一堆土的区域。>
+pause
+cls
+#res：濑津美：「总之……我的意思就是，在冬季之前是死不了的」>
+pause
+cls
+#res：堇：「你是怎么知道的？」>
+pause
+cls
+#res：濑津美：「没什么理由啦。开了的话，就送给你吧……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：说完这些，离开了花坛的女孩子。>
+pause
+cls
+#res：和我一样身材小巧，长长的头发给人留下很深的印象。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('nst_08', 1200)
+call<$5f271e74, 0>
+#res：-崭新的驾照>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1200)
+call<$5f271e74, 0>
+#res：我打开了白天送到的，亚马逊的大箱子。>
+pause
+cls
+#res：虽然已经忘了买过什么，但肯定是流行的什么人气商品。>
+pause
+cls
+#res：我随便从中拿出1件，放进了电脑里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_300', 1200)
+call<$5f271e74, 0>
+#res：明：「这都第几个了……我玩的游戏……」>
+pause
+cls
+#res：在大家所说的H游戏安装时，我突然如此嘟囔到。>
+pause
+cls
+#res：显示器旁边，是才发售没多久的新动画的DVD。除此以外，还有包含旧作在内堆积成山的有名游戏。>
+pause
+cls
+#res：然后，将刚才那个亚马逊大箱子里的，还未开封的20多个软件拿了出来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_300b', 300)
+call<$5f271e74, 0>
+#res：……倒也没有那么喜欢游戏和动画。>
+pause
+cls
+#res：虽然大多实际玩过之后都很有趣，但老实说，短时间内玩这么多也开始腻了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_300', 300)
+call<$5f271e74, 0>
+#res：明：「不过，如果这是作为契机所必需的话……」>
+pause
+cls
+#res：现在的情况，是那2个人和我并没交集。准确来说，是就算联系得上，也没法派上用场。>
+pause
+cls
+#res：……至少要装作是偶然意气相投的，不能被察觉到我的真面目。>
+pause
+cls
+#res：虽然多少有点大费周章，自己也会很累，但我觉得这个方法是最好的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+#res：……虽然也可能有更好的方法……>
+pause
+cls
+#res：但现在的我，想不到其他的方法了……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+#res：第二天早上。一直玩游戏玩到深夜，就这么打起了盹。>
+pause
+cls
+#res：不管怎么说，萌系游戏啊，休闲系啊，在故事发展到高潮前都很无聊。>
+pause
+cls
+#res：……不过，这么短的时间里玩那么多游戏，想睡觉应该也是理所当然的吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2eb021')
+syscall<$e7b90df5> (550)
+#res：优花：「哟，看起来很精神呢」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_22', -100101)
+call<$5f271e74, 0>
+#res：明：「嗯……是你啊……」>
+pause
+cls
+#res：睡眼惺忪地看了下，在那边的是优花。看来今天也擅自跑到这个病房来了。>
+pause
+cls
+#res：而且不知道是怎么想的，穿着这么轻飘飘的衣服过来。明明也老大不小了，却有这种丢人的爱好。>
+pause
+cls
+#res：优花：「啊，又一直在玩游戏，真是的」>
+pause
+cls
+#res：明：「烦死了，跟你也没关系吧」>
+pause
+cls
+#res：优花：「不行哦。得多出去转转才行」>
+pause
+cls
+#res：然后，就一个人叽叽喳喳说个不停。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……想来从最初的相识算起，已经3年多了。>
+pause
+cls
+#res：现在也是，会在周末或快忘掉她的时候突然出现，说完想说的就直接回去的怪人。>
+pause
+cls
+#res：当然，我也试过好几次彻底无视她，但对她貌似没有什么用，最后，我就放弃认输了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0012', -100101)
+call<$5f271e74, 0>
+#res：明：「你的工作呢？　像这样工作日的大白天还跑过来，没问题吗？」>
+pause
+cls
+#res：优花：「你好烦哦，有好好地做啦」>
+pause
+cls
+#res：优花：「话说，你都是公司里地位最高的人了，　可不能就这么把工作翘掉了啊」>
+pause
+cls
+#res：明：「我才不管」>
+pause
+cls
+#res：能这样说这些的俏皮话的对象，只有她而已。说到底，会跑到我身边来的也只有她。>
+pause
+cls
+#res：……朋友…>
+pause
+#res：…我觉得应该不是。>
+pause
+cls
+#res：至少，我没有那种想法。>
+pause
+cls
+#res：那把她赶走不就好了，我却没那么做。老实说，我自己也不知为何。>
+pause
+cls
+#res：优花：「对了，考试怎么样了？」>
+pause
+cls
+#res：明：「拿到了……」>
+pause
+cls
+#res：优花：「哇，很厉害嘛。笔试也是一次就通过」>
+pause
+cls
+#res：这里说的拿到指的是驾照。是我毫无兴趣的玩意。>
+pause
+cls
+#res：但是因为优花一直在念叨，勉为其难去驾校学了下，终于把驾驶证拿到手了。>
+pause
+cls
+#res：优花：「说不定，你很有开车的才能嘞？」>
+pause
+cls
+#res：明：「说啥呢？莫名其妙的」>
+pause
+cls
+#res：优花：「毕竟你科二都一把就过，科三也是一把就通过的吧？　这不就代表你有开车的才能嘛？」>
+pause
+cls
+#res：明：「没有啦。真是的，一把一把的烦死了」>
+pause
+cls
+#res：优花：「哎，赶紧把驾驶证给我看看吧」>
+pause
+cls
+#res：明：「不要」>
+pause
+cls
+#res：优花：「让我看看嘛。别那么小气啦」>
+pause
+cls
+#res：说着站起身，向我靠了过来。>
+pause
+cls
+#res：别看优花这样，还挺缠人的。回想起来最开始相遇的时候也是很不客气。>
+pause
+cls
+#res：明：「呼-真拿你没办法……」>
+pause
+cls
+#res：虽然不太情愿，但是我还是放弃了。然后拿出崭新的驾驶证，递到她手上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：优花：「噗噗噗，这张有趣的脸是什么鬼？太紧张啦」>
+pause
+cls
+#res：明：「吵死了，快还给我」>
+pause
+cls
+#res：所以说我才不想给她看驾驶证……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0012', -100101)
+call<$5f271e74, 0>
+#res：优花：「不过啊，这下子你就可以去任何地方了」>
+pause
+cls
+#res：明：「哪都不去。也没有车」>
+pause
+cls
+#res：优花：「那就买啊，就那种很酷很帅的，反正你是有钱人」>
+pause
+cls
+#res：明：「没兴趣」>
+pause
+cls
+#res：对。并没什么想要去哪里的想法。>
+pause
+cls
+#res：还也只是优花一直在耳边念叨，我才勉强去考的驾照……>
+pause
+cls
+#res：既然选择了闭眼的世界……对于“这边”的事我什么也不打算去做。>
+pause
+cls
+#res：我所选择的，不是这个世界……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('ns_08', 1200)
+call<$5f271e74, 0>
+#res：回想一下，我除了玩游戏还是玩游戏。>
+pause
+cls
+call<$d334ba75, 0> ('ebi_ori01')
+syscall<$e7b90df5> (850)
+call<$a4eb1e4c, 0> ('ns_08', 1200)
+call<$5f271e74, 0>
+#res：与任何人都没有交点，只身一人……好像活在梦中一样。>
+pause
+cls
+#res：不如说，这根本不能叫活着。>
+pause
+cls
+#res：就算成了现在这样的等死之人，也没有什么改变。没有什么能留下的，也没有什么有留下的意义的东西。>
+pause
+cls
+#res：这样想着，突然想起来一件事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：我把游戏存了下档，走到窗边，把脸靠了上去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_12b', 1200)
+call<$5f271e74, 0>
+#res：从只能打开15厘米的窗户望向星空。看到的是宽广美丽的夏季星座们。>
+pause
+cls
+#res：左边的是天津四，在其之上，是天琴座的织女星 。右手边的，是天鹰座的牵牛星 。>
+pause
+cls
+#res：这就是有名的夏季大三角。这种程度的知识，稍微看点书就能知道。>
+pause
+cls
+#res：当然我也不是一开始就清楚这些星座呀星星什么的，对此也没那么感兴趣。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……那是不再去学校，差不多正好过了1年的一个冬日……>
+pause
+cls
+#res：夜晚，照旧待在房间里玩着游戏。>
+pause
+cls
+#res：正当我体会到单刷的极限，走投无路之时。还没有变成奶妈，也还没有白石小姐的时候。>
+pause
+cls
+#res：不知为何去到了阳台上的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_12', 1200)
+call<$5f271e74, 0>
+#res：堇：「好美的星空……」>
+pause
+cls
+#res：仰望着夜空，这样低语着。在大楼的灯光之中，能见到隐隐约约却又拼命发着光的星星们。>
+pause
+cls
+#res：倒也不是对星星和星座有多感兴趣。相关的知识也完全没有。>
+pause
+cls
+#res：但是，既没有其他可做的事。也没有能做的事。准确的来说，是什么也不想做。>
+pause
+cls
+#res：堇：「那个，那些是什么星座呢……」>
+pause
+cls
+#res：在寒冷清澈的夜空下，透过呼出的白色哈气，能看到明亮闪耀的冬日星空。>
+pause
+cls
+#res：我回到房间里，从书架里取出了百科全书。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：总共有12册的厚重的书。打开了其中写着《地球·宇宙》的那本。>
+pause
+cls
+#res：那是我小学入学的时候，从哥哥那里拿到的旧书。直到现在我都从没翻开看过。>
+pause
+cls
+#res：书中记载的，是配以美丽照片和插画所共同解说的大量星座和星星。>
+pause
+cls
+#res：在昏暗的房间中，来回对照那一页的天体照片和窗外的景色的我。>
+pause
+cls
+#res：仿佛开了灯的话，星星就会消失了一样，就这么保持着黑暗……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$5f271e74, 0>
+#res：第二天早上。>
+pause
+cls
+call<$d334ba75, 0> ('n_gin')
+call<$a4eb1e4c, 0> ('a005', 1200)
+call<$5f271e74, 0>
+#res：刚刚吃过午饭，马上就要开始下午的体温检查时。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04', -100101)
+call<$5f271e74, 0>
+#res：母：「那么，妈妈就先回去了，明天还会再来的」>
+pause
+cls
+#res：堇：「啊，嗯……」>
+pause
+cls
+#res：母：「那明天见，我明天还会再来的」>
+pause
+cls
+#res：说着，拿着午饭的餐盘离开了病房的母亲。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04b', 300)
+call<$5f271e74, 0>
+#res：每天早上或晚上，都会像这样来看我一次。>
+pause
+cls
+#res：爸爸和哥哥下班的时候，也一起过来过。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04c', 300)
+call<$5f271e74, 0>
+#res：……我跟其他7F的患者不同，还没有配护工。>
+pause
+cls
+#res：目前为止，还没觉得身体不舒服到那种地步，具体的我也不是特别清楚。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04b', 300)
+call<$5f271e74, 0>
+#res：但是，那是一种预计病情会发展很快，症状会急剧恶化的疾病吧>
+pause
+cls
+#res：毕竟不是装装样子来到7F的。也没忘记那句让我“做好觉悟”的话。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：一边呆呆这样想着，一边去往谈话室的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', -100101)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2na')
+#res：阿姨：「……我说，你」>
+pause
+cls
+#res：忽然有个没见过的阿姨过来向我搭话。>
+pause
+cls
+#res：看来也是在这7F住院的病人吧。可以看到手腕上戴着和我一样的白色塑料手环。>
+pause
+cls
+#res：阿姨：「难道说，你是第一次到这来？」>
+pause
+cls
+#res：堇：「啊，嗯……」>
+pause
+cls
+#res：阿姨：「那已经听过了吗？这里的规则？」>
+pause
+cls
+#res：堇：「规则？」>
+pause
+cls
+#res：阿姨：「看来还没听过呢」>
+pause
+cls
+#res：面对满脸不可思议的我，阿姨擅自得出了结论的样子。>
+pause
+cls
+#res：阿姨：「那，稍等一下哈……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……等一下？>
+pause
+cls
+#res：虽然不知道是要干啥，但也按她说的，等在了原地。>
+pause
+cls
+#res：好像是回自己的病房了，是要拿什么东西吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', -100101)
+call<$5f271e74, 0>
+#res：阿姨：「久等啦」>
+pause
+cls
+#res：不一会儿就回来了的阿姨。手里还拿着一个小小的笔记本。>
+pause
+cls
+#res：阿姨：「啊，我啊，记性不太好，所以就记在本子上了」>
+pause
+cls
+#res：说着对我微微笑了笑。从刚才开始，我就完全不明白是在说什么。>
+pause
+cls
+#res：阿姨：「那我开始说了，听好了哦……」>
+pause
+cls
+#res：堇：「啊，嗯？」>
+pause
+cls
+#res：虽然不太明白是要说什么，总之先闭嘴听一听。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……第3次出院的时候，就是最后一次了。没有第4次。>
+pause
+cls
+#res：要从医院逃跑的时候，不要去最近的A车站，要去B车站。>
+pause
+cls
+#res：什么也别吃。这是最快的死法，对家人来说负担也是最小的。>
+pause
+cls
+#res：………………>
+pause
+cls
+#res：……还有很多这种加速死亡的方法，阿姨都从那本笔记上读给了我听。>
+pause
+cls
+#res：然后，我也稍微想起了些什么。>
+pause
+cls
+#res：因为以前在4F的内科住院时，从同一个病房的阿姨那里，也听到过类似的传言。>
+pause
+cls
+#res：像是只在被临终关怀的患者之间流传的话语之类……>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', -100101)
+call<$5f271e74, 0>
+#res：堇：「……难道那个就是规则？」>
+pause
+cls
+#res：阿姨：「嗯，与其说是规则，　更像是只传达给来到这里的人的情报之类的东西」>
+pause
+cls
+#res：……原来如此。有了些同感。>
+pause
+cls
+#res：对于死亡近在眼前的我们，不能对别人说的……>
+pause
+#res：不能问起的事情有很多。>
+pause
+cls
+#res：哪怕，那是多么切实地想法也一样。>
+pause
+cls
+#res：前几天，我什么也没想就去了A车站。要是提前知道了这些，就会去B车站了吧。>
+pause
+cls
+#res：……虽然不知道这是谁开始的，但对作为当事人的我们而言是重要的情报。>
+pause
+cls
+#res：阿姨：「嗯-接下来是，不许交朋友……」>
+pause
+cls
+#res：我也同意这个。>
+pause
+cls
+#res：我们这些人，很快就要死了。事到如今，就算再结识什么亲近之人，也只是徒增悲伤。>
+pause
+cls
+#res：阿姨：「啊，差不多要到检查体温的时间了……」>
+pause
+cls
+#res：阿姨：「剩下的都写在这里了，慢慢看吧」>
+pause
+cls
+#res：将读着的2张笔记本纸张递给我后，阿姨向护士站走去。>
+pause
+cls
+#res：临走的时候还告诉我，要告诉初次来到这里的人。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：被独自留在了原地的我，将收到的笔记纸拿在手里，回到了病房。>
+pause
+cls
+#res：然后打开笔记，看上面记载的所谓规则。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_15c', -100101)
+call<$5f271e74, 0>
+#res：上面记载了各种各样的事情。说实话，意义不明的留言也有很多。>
+pause
+cls
+#res：比如一开始像是要写遗书，结果慢慢变成对某人道歉的话语……>
+pause
+cls
+#res：不一会儿，我的目光停留在了写在最后的一句话。>
+pause
+cls
+#res：堇：「……可以交朋友吗？」>
+pause
+cls
+#res：是什么意思呢？明明之前还写着不行的？>
+pause
+cls
+#res：思考了一会儿后，我注意到了。>
+pause
+cls
+#res：这是不同的人写的东西。也就是说，这大概是由好几个人写下的。>
+pause
+cls
+#res：一开始还以为只是些情报和建议，但又不止这些的感觉。>
+pause
+cls
+#res：倒不如说，大概是类似讯息之类的东西……>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$5f271e74, 0>
+#res：又过了一会儿，太阳开始下山的时候。没什么特别要做的事情，下到了一楼的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('232', -100101)
+call<$5f271e74, 0>
+#res：并没有什么目的。只是…不想待在病房…待在7F而已。>
+pause
+cls
+#res：…7F或者家中。只会死在其中之一，无人例外。>
+pause
+cls
+#res：刚刚在读的规则上是这么写的。大概就是那样吧。>
+pause
+cls
+#res：所以我，不知道怎么说，就是不想待在这两个地方。我想肯定没什么别的深意。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06by', -100101)
+call<$5f271e74, 0>
+#res：之后又来到了中庭。>
+pause
+cls
+#res：就算出去到外面，也并没有能去的地方。即便如此，在7F的病房里待着也是不乐意的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……啊，还在那里。眼前是早上说过话的那个女孩。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_21y', -100101)
+call<$5f271e74, 0>
+#res：在夕阳映照的天空之下，还是老样子，似乎在给花坛浇着水。>
+pause
+cls
+#res：和早上见到她的时候一样，独自一人提着花洒浇着水。>
+pause
+cls
+#res：……虽然这个女孩肯定也是住院患者，但真的可以这样随便给花坛浇水吗？>
+pause
+cls
+#res：不禁又冒出了和早晨一样的疑问。>
+pause
+cls
+#res：然后，在我准备就这样视而不见的时候……>
+pause
+cls
+#res：“可以交朋友吗”刚刚读到过的规则，忽然浮现在了脑中。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06cy', -100101)
+call<$5f271e74, 0>
+#res：堇：「又在浇水吗？」>
+pause
+cls
+#res：濑津美：「嗯。早上和傍晚的两次……」>
+pause
+cls
+#res：对才刚冒出芽，冷冷清清的花坛浇着水。>
+pause
+cls
+#res：感觉跟其他区域盛开的鲜艳的夏秋花朵相比起来，只有那一片显得十分寂寥。>
+pause
+cls
+#res：堇：「那……是什么花？」>
+pause
+cls
+#res：没什么特别的意思。只是顺口问了一下。>
+pause
+cls
+#res：然而她却愣了一下……>
+pause
+cls
+#res：濑津美：「narcissus……是水仙」>
+pause
+cls
+#res：简短地回应道。依旧看着花坛，并没有看向我。>
+pause
+cls
+#res：……水仙。有听过这个名字。>
+pause
+cls
+#res：但知道得不详细。只是记得是一种白色的花的程度。>
+pause
+cls
+#res：濑津美：「话说回来，你决定了吗？」>
+pause
+cls
+#res：堇：「什么事？」>
+pause
+cls
+#res：濑津美：「家里或者7F……在哪里死的事情」>
+pause
+cls
+#res：看着我手腕上戴着的白色塑料手环说到。>
+pause
+cls
+#res：才在刚才听说了规则，正好在思考这件事。>
+pause
+cls
+#res：堇：「没什么，哪边都行……」>
+pause
+cls
+#res：濑津美：「为什么？」>
+pause
+cls
+#res：堇：「呃？就算你问我……」>
+pause
+cls
+#res：我真的觉得那边都无所谓，并没有去想更复杂的了。>
+pause
+cls
+#res：而且，在哪边死？我觉得这个和我自身的意愿没什么关系吧。>
+pause
+cls
+#res：说到底也就只是随着病情的发展，等到了时间就会有的结果。硬要说的话无非是看“运气”而已。>
+pause
+cls
+#res：濑津美：「我不想在家里……但是，也不想在7F……」>
+pause
+cls
+#res：堇：「那，要怎么办？」>
+pause
+cls
+#res：濑津美：「还没有想过……」>
+pause
+cls
+#res：听起来有些落寞的答案。我在意到了她说的那个“还没”。>
+pause
+cls
+#res：也就是说，已经做好某天会去7F的觉悟了吗？>
+pause
+cls
+#res：……而我却直到现在，对此还是没有什么真实感……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+#res：从白日漫长的夏季开始，天空上开始换上大大的月亮时候。>
+pause
+cls
+call<$d334ba75, 0> ('pl_vo')
+#res：晚饭和晚上的检查结束之后，在熄灯时间之前，什么能做的事情都没有。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：咚咚>
+pause
+cls
+#res：兄：「给你带慰问品来咯……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05b', -100101)
+call<$5f271e74, 0>
+#res：堇：「啊，哥哥……」>
+pause
+cls
+#res：今天哥哥也来了。肯定是工作结束了，顺路过来的吧。>
+pause
+cls
+#res：然后把买来不久的便利店袋子递给了我。里面是2个饭团和一袋薯片。>
+pause
+cls
+#res：从以前开始，住院的时候只要我一抱怨医院的伙食差点意思，哥哥就会悄悄带这些过来。>
+pause
+cls
+#res：兄：「你今天不玩游戏吗？」>
+pause
+cls
+#res：堇：「啊，嗯，正准备玩……」>
+pause
+cls
+#res：兄：「那就别在意我玩去吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：说着，坐到了床旁边的椅子上的哥哥。>
+pause
+cls
+#res：我拿出PSP，开始继续玩之前的游戏。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_07b', 1300)
+call<$5f271e74, 0>
+#res：坐在床上，玩的时候稍微将游戏机斜着拿在手里，为了让旁边的哥哥更容易看到画面。>
+pause
+cls
+#res：虽然也没有聊什么，只是那样，坐在旁边陪了我1个小时左右。>
+pause
+cls
+#res：哥哥来医院探病的时候，不知从何时开始，我们就开始像这样度过了。>
+pause
+cls
+#res：兄：「……你玩得挺好的嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_07', 300)
+call<$5f271e74, 0>
+#res：堇：「嗯……」>
+pause
+cls
+#res：偶尔会看着我的游戏画面，这样搭搭话。>
+pause
+cls
+#res：不过除此之外，也没有再更深入的继续对话了。仅限于共同看着游戏机画面的时候的对话而已>
+pause
+cls
+#res：……倒也不是因为心意相通所以话少。>
+pause
+cls
+#res：很疏远的。总觉得有点生硬的客气态度。>
+pause
+cls
+#res：不只哥哥是这样，妈妈和爸爸也差不多。>
+pause
+cls
+#res：不是不说话，而是说不上话了。>
+pause
+cls
+#res：……是什么时候变成这样的呢？>
+pause
+cls
+#res：虽然从以前开始对话就不多，但还是经常和我玩游戏。硬拉着让我玩格斗游戏，总是打得我落花流水。>
+pause
+cls
+#res：现在只是这样在旁边看着，其实应该挺无聊的吧。而且说不定也不喜欢这种游戏。>
+pause
+cls
+#res：明明今天也是刚结束工作，身心疲惫，我也明白他是强行抽空来陪我的。>
+pause
+cls
+#res：虽然没挑明了说，但他其实在担心我也好……>
+pause
+cls
+#res：因为说不出口，所以只是这样在旁边看着也好……>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：堇：「我说，哥哥……」>
+pause
+cls
+#res：兄：「怎么了？」>
+pause
+cls
+#res：堇：「啊，嗯，那个……」>
+pause
+cls
+#res：一时语塞。该说些什么好呢……>
+pause
+cls
+#res：对于这么担心我的哥哥……对于不知何时开始渐渐疏远的家人……>
+pause
+cls
+#res：……谢谢…>
+pause
+#res：…该说这个吗？还是说，对不起，这样？>
+pause
+cls
+#res：因为无法对此做出判断，最后我说出来的是……>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_07b', 1300)
+call<$5f271e74, 0>
+#res：堇：「没事……没什么……」>
+pause
+cls
+#res：只是边看着游戏画面，边低声说了这么一句。>
+pause
+cls
+#res：兄：「是吗……」>
+pause
+cls
+#res：然后……哥哥也继续盯着游戏画面，只是这样回答到。>
+pause
+cls
+#res：所以我也继续默默玩着游戏。旁边的哥哥也什么都不说，只是看着游戏画面……>
+pause
+cls
+#res：彼此间都没再多说什么。害怕会变得……更加疏远。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$a4eb1e4c, 0> ('sora02', 1200)
+call<$5f271e74, 0>
+#res：晴朗的夏空今天也十分开阔。已经到了8月下旬，正好是最热的时期。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04b', -100101)
+call<$5f271e74, 0>
+#res：到这7F来，正好过去了4天的时候。我没什么特别的变化。>
+pause
+cls
+#res：硬要说的话，以前额外能做的事情也没有了。因为基本上在这里干什么都可以。>
+pause
+cls
+#res：就算游戏玩到深夜，护士也不会说什么。>
+pause
+cls
+#res：每天，早上或是傍晚，母亲呀哥哥都会来看我。偶尔父亲下班了也会过来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04c', 300)
+call<$5f271e74, 0>
+#res：客客气气的家人，来到这里时，越来越觉得疏远了。>
+pause
+cls
+#res：这让人感觉十分憋屈。很是寂寞。感觉非常对不起他们。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ns_04b', 300)
+call<$5f271e74, 0>
+#res：所以，我开始经常到中庭里去了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06', -100101)
+call<$5f271e74, 0>
+#res：中庭的花坛今天也盛开着各色各样的花朵。可能因为还是夏天吧，很多种类的鲜花都在盛开。>
+pause
+cls
+#res：花丛之中，女孩今天坐在了椅子上。好像已经给花坛浇完水了。>
+pause
+cls
+#res：……怎么说呢？  虽然好像是在看什么书的样子……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06c', -100101)
+call<$5f271e74, 0>
+#res：堇：「那是……看的什么？」>
+pause
+cls
+#res：濑津美：「地图哦」>
+pause
+cls
+#res：堇：「……地图？」>
+pause
+cls
+#res：女孩静静地看着翻开的一页。书页上，从大路主干道到偏僻小路都详细的画在上面。>
+pause
+cls
+#res：……虽说如此，但感觉这个行为并没有什么有趣的。>
+pause
+cls
+#res：堇：「有趣吗？」>
+pause
+cls
+#res：濑津美：「一点也不」>
+pause
+cls
+#res：堇：「那，为什么要看呢？」>
+pause
+cls
+#res：濑津美：「………………」>
+pause
+cls
+#res：不知为何，她沉默了。对我来说，倒是没打算问什么难以回答的问题的。>
+pause
+cls
+#res：至少跟地图无缘的我对此没有任何兴趣。>
+pause
+cls
+#res：而且眼前这个女孩也是，我也不觉得她会对地图感兴趣。>
+pause
+cls
+#res：不一会，似乎是稍微思考了一阵……>
+pause
+cls
+#res：濑津美：「……是魔法哦 」>
+pause
+cls
+#res：堇：「啥？」>
+pause
+cls
+#res：mofa？说的是那个魔法吗？完全是意料之外的单词，一下子没能反应过来。>
+pause
+cls
+#res：濑津美：「为了剩下的一半……为了最后可以笑着……」>
+pause
+cls
+#res：堇：「………………」>
+pause
+cls
+#res：……听不懂。>
+pause
+cls
+#res：地图是魔法，是什么个意思？难道是我哪里听错了吗？>
+pause
+cls
+#res：想到这，我正准备继续说话的时候……>
+pause
+cls
+#res：濑津美：「借给你……」>
+pause
+cls
+#res：堇：「咦，把什么？」>
+pause
+cls
+#res：突然，把手里的地图递给了我的女孩子。>
+pause
+cls
+#res：濑津美：「因为我已经记住了……」>
+pause
+cls
+#res：堇：「记住了，是说这整本地图？」>
+pause
+cls
+#res：微微点了点头。>
+pause
+cls
+#res：濑津美：「而且……我现在还不需要」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：说完这些，迅速站起身来，不知道走哪去了。>
+pause
+cls
+#res：堇：「………………」>
+pause
+cls
+#res：只留下了我一个人在原地。手中只拿着从她那里得到的地图册。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('nst_09', 1200)
+call<$5f271e74, 0>
+#res：-优花和明 2>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('car_run22', 100)
+call<$a4eb1e4c, 0> ('car_run2', 1200)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('ide09')
+syscall<$e7b90df5> (750)
+#res：优花：「不过还真是热啊……」>
+pause
+cls
+#res：一只手握着方向盘，一边说着。>
+pause
+cls
+#res：今天是周三。时间是上午8点30分。因为首都高速很少见的没有堵车，应该还完全来得及。>
+pause
+cls
+call<$a4eb1e4c, 0> ('231', -100101)
+call<$5f271e74, 0>
+#res：和平时一样，在公司的地下停车场停好车，我走向了办公室。>
+pause
+cls
+#res：因为今天没什么要做的事，所以打完卡后，打算出去转转。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020', -100101)
+call<$5f271e74, 0>
+#res：优花：「早上好」>
+pause
+cls
+#res：精神地打了招呼，走向了自己的办公桌。现在已经不用来回给同事泡茶或者泡咖啡了。>
+pause
+cls
+#res：反而大多数时候都是别人为我泡茶泡咖啡。>
+pause
+cls
+syscall<$f62e3ca7> ('keitai_call1', 1)
+#res：滴滴滴……>
+pause
+cls
+#res：咦？这么一大早的真难得。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('pi')
+#res：优花：「嗯，喂……欸，啊，嗯……好久不见了呢」>
+pause
+cls
+#res：对方是认识的一个护士。负责那个医院7F的。>
+pause
+cls
+#res：以前去看望姬子的时候逐渐熟识起来，现在也会偶尔一起出去喝酒的关系。>
+pause
+cls
+#res：女护士：「话说之前的那个女孩，她已经差不多1周都没来了的样子」>
+pause
+cls
+#res：优花：「是吗。我知道了，谢谢」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020', -100101)
+call<$5f271e74, 0>
+#res：优花：「也没啥要紧工作，就久违的带她去一下吧……」>
+pause
+cls
+#res：挂掉电话后，这样自言自语到。>
+pause
+cls
+#res：顺便说明下，说要带着去的地方是7F。要带去的对象是明。>
+pause
+cls
+#res：虽然到现在为止，她貌似时不时会去7F玩，但稍不注意，就会突然不再露脸了。>
+pause
+cls
+#res：因此，我会定期的强行带着她过去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', -100101)
+call<$5f271e74, 0>
+#res：优花：「哟，挺精神的嘛」>
+pause
+cls
+#res：这么说着的同时，打开了门。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_301', -100101)
+call<$5f271e74, 0>
+#res：明：「什么啊，你怎么又来了……」>
+pause
+cls
+#res：优花：「反正也没什么活儿……啊，你又在玩游戏啊」>
+pause
+cls
+#res：明：「好烦啊，我又不是因为喜欢才玩的」>
+pause
+cls
+#res：优花：「是吗？那为啥？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_301b', 300)
+call<$5f271e74, 0>
+#res：明：「是，是因为……」>
+pause
+cls
+#res：不知为何欲言又止的明。>
+pause
+cls
+#res：大概是有她自己的理由吧，我倒也不在意她不告诉我。>
+pause
+cls
+#res：更何况，不管是什么她只要有个目标，对我来说也是值得高兴的事。>
+pause
+cls
+#res：总之，她这2年似乎一直沉迷于游戏和网络。>
+pause
+cls
+#res：虽然不知道心境发生了什么变化，但看来她至少不再像从前一样，想着要自杀了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$a4eb1e4c, 0> ('2bg_a0011', -100101)
+call<$5f271e74, 0>
+#res：优花：「对了，最近这段时间，你没去7F吧？」>
+pause
+cls
+#res：明：「嗯？毕竟太无聊了嘛，都是些老年人，也没什么话题可聊」>
+pause
+cls
+#res：优花：「嘛，虽然的确如此」>
+pause
+cls
+#res：明：「本来也只是优花你一直唠叨我才会去的」>
+pause
+cls
+#res：明：「真是的，都是你爱管闲事，给我添了多大麻烦」>
+pause
+cls
+#res：虽然她总是这样抱怨，但对此有所在意应该也是事实吧。>
+pause
+cls
+#res：从那时起已经过去3年了，直到现在都有在好好地去7F就是最好的证明。>
+pause
+cls
+#res：说我啰嗦什么的……不过是个借口而已。>
+pause
+cls
+#res：去7F也好，玩游戏也好，都是好兆头。>
+pause
+cls
+#res：……这样下去，要不了多久她就会重新振作起来吧……>
+pause
+cls
+#res：明：「优花……为了让你别误会，话我可先说在前头」>
+pause
+cls
+#res：优花：「欸……」>
+pause
+cls
+#res：明：「我，哪里都没有变哦」>
+pause
+cls
+#res：就好像是看穿了我现在的想法一样的发言。>
+pause
+cls
+#res：明：「我啊……只是不跟任何人有什么人情借贷而已」>
+pause
+cls
+#res：又是一如既往的，这句台词。已经不知道听了有多少次了。>
+pause
+cls
+#res：像这样不肯接纳任何人的态度，从开始认识到现在，都一以贯之。没有动摇过。>
+pause
+cls
+#res：……但她应该也已经发现其中的矛盾了吧？>
+pause
+cls
+#res：一边说着不跟任何人交流，现在却还是在跟我对话。>
+pause
+cls
+#res：一边说着什么也不想做，却玩着堆成山的游戏，还拿了驾照，也会去7F。>
+pause
+cls
+#res：……所以我要说的话也不会变。>
+pause
+cls
+#res：这种程度就哑口无言的话，早就没法和她一起相处这么多年了吧。>
+pause
+cls
+#res：优花：「好嘞。那就久违的去一次吧？」>
+pause
+cls
+#res：明：「不用了。话说你倒是自己去啊」>
+pause
+cls
+#res：优花：「好啦好啦，别那么说嘛。我会载你去的」>
+pause
+cls
+#res：说着，我单方面的把她赶出了房间。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：明：「哇，等下，别拉我的手」>
+pause
+cls
+#res：优花：「啊，干脆，让明来开车试试看？」>
+pause
+cls
+#res：明：「不要。话说别对只是有证的人说些不可能的话啊」>
+pause
+cls
+#res：优花：「开车什么的很简单的啦，习惯了就好了」>
+pause
+cls
+#res：我拉着还在不停抱怨的明的手，强行把她带了出去。>
+pause
+cls
+#res：不这样的话她是不会动的，经过这么几年的交往下来，我早已搞清楚了。>
+pause
+cls
+syscall<$f62e3ca7> ('ele2')
+#res：―叮>
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+#res：优花：「你好，好久不见」>
+pause
+cls
+#res：到了7F。我对着护士站轻轻点头打了下招呼。>
+pause
+cls
+#res：女护士：「你好，优花小姐……今天明小姐也一起来了呢」>
+pause
+cls
+#res：优花：「嗯，因为她最近好像都没怎么来。就一起带过来了」>
+pause
+cls
+#res：明：「真是，多管闲事……」>
+pause
+cls
+#res：丢下这句台词的同时，明独自快步走向了谈话室。>
+pause
+cls
+call<$a4eb1e4c, 0> ('danwa', -100101)
+call<$5f271e74, 0>
+#res：明：「这里还是那么令人郁闷呢……」>
+pause
+cls
+#res：然后重重地坐到了大沙发上，开始用电视遥控器不停变换起电视频道。>
+pause
+cls
+#res：就算有7F的人正在看着电视也毫不在意。而7F的人似乎也没有什么不满。>
+pause
+cls
+#res：大概是因为对她的行为已经习惯了吧，只是盯着不紧不慢换着台的电视频道而已。>
+pause
+cls
+#res：……基本上，明每次到这里来也不是什么都不做的。>
+pause
+cls
+#res：也没有谁跟她特别脸熟，会跟她说说话。就只是坐在谈话室的椅子上，呆呆地望着电视机。>
+pause
+cls
+#res：但似乎偶尔也会去观察这里的人们。>
+pause
+cls
+#res：对于头脑很好的她来说，肯定仅凭此就能感觉到些什么了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：女护士：「说起来优花小姐…….」>
+pause
+cls
+#res：熟人的护士小声的在耳边说着。>
+pause
+cls
+#res：女护士：「前几天，这里又来新人了。你知道吗？」>
+pause
+cls
+#res：优花：「什么样的人？」>
+pause
+cls
+#res：女护士：「是个还很年轻的女孩」>
+pause
+cls
+#res：这还真是挺少见的。基本上这里都是些上了年纪的老年人。>
+pause
+cls
+#res：女护士：「身材娇小，头发很长……感觉看起来很是可爱」>
+pause
+cls
+#res：优花：「……身材娇小又很可爱？」>
+pause
+cls
+#res：这个形容，好像想到了某个符合这些的人。>
+pause
+cls
+#res：在很早以前，曾经说一次话的女孩。姬子十分关心的一个孩子。>
+pause
+cls
+#res：记得那孩子的名字是……>
+pause
+cls
+#res：优花：「难道是……叫濑津美的女孩？」>
+pause
+cls
+#res：女护士：「不是，不叫这个名字」>
+pause
+cls
+#res：优花：「是吗……那就还好……」>
+pause
+cls
+#res：按照姬子所说的，只是觉得那孩子似乎也是病人。就算真是病人，也并不一定就是这个医院的。>
+pause
+cls
+#res：何况从那时起也已经过去5年多了。>
+pause
+cls
+#res：如果那时就已经病得很重了的话，已经离世了的可能性也很高。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+#res：明：「我说优花，该回去了吧」>
+pause
+cls
+#res：来了才不到30分钟，好像就已经不耐烦了。>
+pause
+cls
+#res：优花：「再待一会儿嘛，好不容易才来一趟」>
+pause
+cls
+#res：明：「不要啦。这么压抑的地方，只会觉得无聊」>
+pause
+cls
+#res：优花：「好了啦。那就去下食堂吧。你还没去过吧」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('shokudou', -100101)
+call<$5f271e74, 0>
+#res：不一会就到了医院的食堂。因为还是上午，所以食堂里空空荡荡的。>
+pause
+cls
+call<$d334ba75, 0> ('ebisb2')
+#res：然后，在对向而坐的餐桌上，放上了4盘冰淇淋。>
+pause
+cls
+#res：明：「这是……冰淇淋？」>
+pause
+cls
+#res：优花：「虽然是医院的就是了」>
+pause
+cls
+#res：明：「菜单上也只有香草味的，量还这么少……」>
+pause
+cls
+#res：一边抱怨着，一边一口一口吃着的明。虽然是打算一人2个的，但似乎还不够她吃的。>
+pause
+cls
+#res：我呆呆地望着,她那不停地挥舞着勺子的身影。>
+pause
+cls
+#res：……回想起来，和姬子来这里时也是这样的感觉。>
+pause
+cls
+#res：在4F住院的时候，趁着医生不注意，总是到这里来吃冰淇淋。我也总是陪着她。>
+pause
+cls
+#res：然后2人都被骂。每到那时千寻酱就会说着“算了算了”的来解围。>
+pause
+cls
+#res：那之后，已经过去多少年了呢……>
+pause
+cls
+#res：呆呆这么想着的时候，明停下了手上飞舞的勺子。>
+pause
+cls
+#res：明：「我说优花……能提一个问题吗？」>
+pause
+cls
+#res：优花：「……怎么了？」>
+pause
+cls
+#res：明：「你不会……把我和某人重叠在一起了吧？」>
+pause
+cls
+#res：优花：「………………」>
+pause
+cls
+#res：直直的盯着我的她。>
+pause
+cls
+#res：那敏锐的洞察力，毫不动摇的视线，都让我想起了姬子。>
+pause
+cls
+#res：所以我老实回答到。>
+pause
+cls
+#res：优花：「大概……是吧」>
+pause
+cls
+#res：优花：「肯定是把你和她重叠了吧……」>
+pause
+cls
+#res：明：「果然。我就知道」>
+pause
+cls
+#res：明：「还有，我是说大概……那个人已经去世了吧？」>
+pause
+cls
+#res：优花：「说的没错」>
+pause
+cls
+#res：明：「而且我和那人的面貌也比较相似吧？」>
+pause
+cls
+#res：明：「至少是可以让你重叠上去的相似」>
+pause
+cls
+#res：优花：「嗯，这也无法否定」>
+pause
+cls
+#res：明：「那，我就直说了……」>
+pause
+cls
+#res：明：「你想让我做什么？想要我变成什么样子？」>
+pause
+cls
+#res：优花：「那，那是……」>
+pause
+cls
+#res：明：「是？」>
+pause
+cls
+#res：优花：「………………」>
+pause
+cls
+#res：面对这个问题我哽住了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2b', 1000)
+call<$5f271e74, 0>
+#res：……难道想要让她变得和姬子一样吗？>
+pause
+cls
+#res：是要像现在这样，制止她持续10年以上的装病和家里蹲，不和任何人接触的生活……>
+pause
+cls
+#res：还是像无论面对谁，都能抬头挺胸，但是年纪轻轻人生就结束了的……>
+pause
+cls
+#res：把我这样的人当成挚友的姬子一样……>
+pause
+cls
+#res：……不知道。>
+pause
+cls
+#res：这就是答案。老实说，我自己也不知道到底想做什么。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shokudou', -100101)
+call<$5f271e74, 0>
+#res：明：「优花，我只告诉你一点……」>
+pause
+cls
+#res：明：「就是无论有多么的相似，但我和她有着决定性的差别」>
+pause
+cls
+#res：优花：「我知道的啦，你还活着」>
+pause
+cls
+#res：而姬子早已离开这个世界了。这个差别我还是知道的。>
+pause
+cls
+#res：明：「不对。说反了」>
+pause
+cls
+#res：优花：「……反了？」>
+pause
+cls
+#res：明：「那个人，并没有死」>
+pause
+cls
+#res：明：「现在也还活着……在你的心中」>
+pause
+cls
+#res：优花：「……在我的心中？」>
+pause
+cls
+#res：明：「但我的目标正好相反……」>
+pause
+cls
+#res：明：「我想要什么都不留下，什么也不做，从这个世界上消失」>
+pause
+cls
+#res：明：「对。就好像从一开始就不曾存在过一样……」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('2b', 1500)
+call<$5f271e74, 0>
+exit (0)

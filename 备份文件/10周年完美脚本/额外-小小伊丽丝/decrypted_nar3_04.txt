@@ -1,0 +1,1695 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (2000)
+call<$35395c9f, 0> (4)
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('na03_c_05', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：―那一夜。我们再次向森林中进发。>
+pause
+cls
+#res：为了更好的取暖，正寻找着合适的地方。>
+pause
+cls
+call<$d334ba75, 0> ('sen04-bgm')
+call<$812afdf0, 0> ('n3iri_0077')
+#res：伊丽丝：「啊……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('3099', -100101)
+call<$5f271e74, 0>
+#res：公主殿下罕见的开口了。不知为何她在一块旧的告示牌前站着。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1056')
+#res：约翰：「啊，看来这是原国界」>
+pause
+cls
+#res：“原”是指，如今这个国家也已经战败，全部都已经被吞并了。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1057')
+#res：约翰：「因为战争的原因，现在离开这个国家所需要的距离多了近一倍……喂，你要去哪里」>
+pause
+cls
+#res：不知为何，公主殿下开始往眼前的森林中走去。>
+pause
+cls
+#res：禁不住，观察周围，看是不是有士兵出现，完全没有人的气息。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1058')
+#res：约翰：「等一下啊」>
+pause
+cls
+#res：不知是不是真的听不见我的声音，那家伙没有理会我，继续走进森林。>
+pause
+cls
+#res：……真没办法……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我有点在意，跟了上去……>
+pause
+cls
+#res：在铺着薄雪的地面不知挖出了什么东西，拿在手里。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1059')
+#res：约翰：「那是什么东西……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0078')
+#res：伊丽丝：「……是浮雕贝壳」>
+pause
+cls
+#res：还是那样简单的回答。>
+pause
+cls
+#res：……看上去上面有烧焦的痕迹，有点陈旧，肮脏破碎的贝壳而已……>
+pause
+cls
+#res：不知为何，这家伙很珍惜的看着那件东西。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1060')
+#res：约翰：「难道是你以前埋下的？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0079')
+#res：伊丽丝：「………………」>
+pause
+cls
+#res：她并没有作出任何回答。>
+pause
+cls
+#res：只是默默的把手中的东西放开……>
+pause
+#res：再次把它埋起来。>
+pause
+cls
+#res：……这家伙到底想干什么？难得挖了出来，又把它埋了？>
+pause
+cls
+call<$a4eb1e4c, 0> ('3099', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1061')
+#res：约翰：「……呐，要撒上水嘛？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0080')
+#res：伊丽丝：「……？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1062')
+#res：约翰：「说不定会像小麦那样，发出芽来呢」>
+pause
+cls
+#res：然这只是开玩笑。也有点讽刺她这意味不明的举动。>
+pause
+cls
+#res：然而……>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0081')
+#res：伊丽丝：「……是的话就好了」>
+pause
+cls
+#res：只嘟哝一声，回答道。>
+pause
+cls
+#res：那个脸，显得比平常任何时候都孤单，还是第一次见到这家伙时的表情。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0082')
+#res：伊丽丝：「……走吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：最后只说了那样的话，就赶快离开了那个地方。>
+pause
+cls
+#res：明明到刚才为止她都那样注视着贝壳的，但现在却再也没有回头看……>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1063')
+#res：约翰：「喂，等一下公主殿下」>
+pause
+cls
+call<$a4eb1e4c, 0> ('3099', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0083')
+#res：伊丽丝：「我说你啊，能不能给我适可而止」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1064')
+#res：约翰：「你指什么？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0084')
+#res：伊丽丝：「称呼我公主殿下」>
+pause
+cls
+#res：说着，又用平常那严肃的脸对着我。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1065')
+#res：约翰：「那，该怎么称呼你呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0085')
+#res：伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0086')
+#res：伊丽丝：「没什么……叫什么都行，随便你」>
+pause
+cls
+#res：说着，又转身开始向前走。我仍旧不太明白这家伙。>
+pause
+cls
+#res：只是，这时候，她露出的那少见的，有点孤单……>
+pause
+cls
+#res：像是怀念着什么的表情，给我留下了很深的印象。>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……………………>
+pause
+cls
+#res：…………>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0013', 1200)
+call<$5f271e74, 0>
+#res：―第二天。夜。>
+pause
+cls
+#res：雪静静地飘下。>
+pause
+cls
+call<$d334ba75, 0> ('ebi_ori02b')
+#res：犹如灰色【的】天空下着的是白色的飞虫，渐渐树木被涂成白色。>
+pause
+cls
+#res：今天我们继续在山路上赶路。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_13b2', 1500)
+call<$5f271e74, 0>
+#res：然后……跟往常一样，那家伙袭击了一个不知名的士兵。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm38_001')
+#res：年轻的士兵：「请，请饶我一命……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0088')
+#res：伊丽丝：「……放弃吧，反正中毒了也是要死的」>
+pause
+cls
+#res：一边说着，一边向喉咙割去。>
+pause
+cls
+#res：那个年轻的士兵看来已经对自己的死有了觉悟。放弃了抵抗，双手闭合仰望着天空开始了祈祷。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcm38_002')
+#res：年轻的士兵：「愿这个人有一颗慈悲之心……」>
+pause
+cls
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru01_1')
+#res：话一说完，年轻士兵便沉默了。这样的情况已经是4次了。>
+pause
+cls
+call<$13d4a7f9, 0>
+call<$a4eb1e4c, 0> ('3099', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1066')
+#res：约翰：「结束了……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0089')
+#res：伊丽丝：「恩，已经把他杀了」>
+pause
+cls
+#res：接着跟平常一样，从染了血的皮袋里，找出面包，往嘴里送去。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1067')
+#res：约翰：「还是那样毫不留情啊，公主……明明可以不置他于死地的」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0090')
+#res：伊丽丝：「……我可不想被先去拿面包的人说教」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1068')
+#res：约翰：「啊，也对」>
+pause
+cls
+#res：经过了几天相处，相对来说开始了解这家伙了。>
+pause
+cls
+#res：她的剑术还算不错。>
+pause
+cls
+#res：虽然一直都是在对方身后冷不防地出剑，看过的人都知道。那是正统的刀法。>
+pause
+cls
+#res：当然，在实际的战场上是行不通的。因为太过端正了，并不是在乱战时使用的刀法。>
+pause
+cls
+#res：但是，一对一战斗的话，也不会输给山贼或佣兵程度的人。>
+pause
+cls
+#res：再者，这家伙最厉害的地方是，毫不留情。>
+pause
+cls
+#res：换句话说，就是对活着有着极大执着。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1069')
+#res：约翰：「不过啊，你连同胞也毫不留情呢……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0091')
+#res：伊丽丝：「……同胞？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1070')
+#res：约翰：「恩，再怎么说你也是这个国家的人吧」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0092')
+#res：伊丽丝：「你错了，而且，除了自己以外，所有人都是外人」>
+pause
+cls
+#res：然后指着躺在地上的尸体，>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0093')
+#res：伊丽丝：「活下去的道路只有一条……而死亡的道路却有无数条」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1071')
+#res：约翰：「原来如此……那么这士兵的惨死，只是无数种死法其中的一种吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0094')
+#res：伊丽丝：「是的。 我的生存之道，除此以外再无其他」>
+pause
+cls
+#res：一边说着，一边把这再不会动的尸体，踢下山谷。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：尸体滚落压断了树枝发出巨大的响声，毫无抵抗地滚下去。>
+pause
+cls
+#res：那家伙连看都不看，一句话没说的把剑上的血迹抹去。也不在意脸上的血。>
+pause
+cls
+#res：我一边看着她，一边说。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3099', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1072')
+#res：约翰：「公主殿下，再问你一个问题可以吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0095')
+#res：伊丽丝：「……什么？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1073')
+#res：约翰：「你……就那么想活命吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0096')
+#res：伊丽丝：「没错，因为生命只有一次」>
+pause
+cls
+#res：不假思索地回答。一点犹豫的样子也没有。>
+pause
+cls
+#res：……那么年轻，却杀人不眨眼，毫不留情……>
+pause
+cls
+#res：我并不觉得这是种悲哀。反倒觉得，悲哀的应该是这个世界……>
+pause
+cls
+call<$2b7b2134, 0>
+call<$a4eb1e4c, 0> ('bg_0001', 1200)
+call<$5f271e74, 0>
+#res：―数日后。>
+pause
+cls
+#res：我们今天依然回避人群，在森林里前进。>
+pause
+cls
+#res：久违的晴空，格外高远。放射着冬天特有的温暖阳光。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_27b', 1200)
+call<$5f271e74, 0>
+#res：但是无论白天夜晚，都好像跟这家伙没有关系。>
+pause
+cls
+#res：只要是在食物没的时候，就会袭击路过的士兵。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1)
+call<$5f271e74, 0>
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru01_1')
+#res：……毫不留情地杀死求饶的对方，把食物银币抢夺过来。>
+pause
+cls
+#res：脸上染着血迹，口中吃着面包干粮。无情，冷酷，残忍，染满鲜血。>
+pause
+cls
+#res：也就是说……这就是平常的公主殿下。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3007', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0097')
+#res：伊丽丝：「……怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1074')
+#res：约翰：「没什么，只是想你一点也没变啊……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0098')
+#res：伊丽丝：「……没办法，对我来说，没有其他活下去的道路了」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1075')
+#res：约翰：「嘛，可能的确如此……」>
+pause
+cls
+#res：就像以前所说的那样，这家伙似乎没有归宿。>
+pause
+cls
+#res：而且还被人追杀着。>
+pause
+cls
+#res：对于这个国家来说，是不会对一个即将行刑的人的逃跑视而不见的。况且还是战败国王族的幸存者。>
+pause
+cls
+#res：至少在离开这个国家之前，被追杀也不奇怪。>
+pause
+cls
+#res：虽然并不是想维护她，也不是不能理解她那每次发现士兵的时候，都想把士兵杀死的心情。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1076')
+#res：约翰：「……虽然这么说，但为了面包就杀人还是有点那个……」>
+pause
+cls
+#res：对着我那像是自言自语的问题，>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0099')
+#res：伊丽丝：「对我来说，只能这样做了……」>
+pause
+cls
+#res：她嘟囔了一句。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0100')
+#res：伊丽丝：「还是说……你可以教我种小麦的方法吗？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1077')
+#res：约翰：「不好意思……很可惜的是，我也是除了杀人外，什么也不会」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0101')
+#res：伊丽丝：「那就闭嘴……」>
+pause
+cls
+#res：说着，脸上露出少许寂寞的样子低下头去。>
+pause
+cls
+#res：……肯定，这家伙也是知道的。>
+pause
+cls
+#res：总不能一直过着这种生活。>
+pause
+cls
+#res：虽然直到现在，都是出其不意偷袭对方才赢得了的，但如果是多对一，或者对付正规军队，骑士之类我想是行不通的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3003', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1078')
+#res：约翰：「喂，公主，如果遇到你赢不了的对手时，怎么办？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0102')
+#res：伊丽丝：「……你觉得我为什么跟你一起走？」>
+pause
+cls
+#res：原来如此。确实是简单的回答。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1079')
+#res：约翰：「但是，如果我自己一个人逃跑了呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0103')
+#res：伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1080')
+#res：约翰：「我以前说过……」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1081')
+#res：约翰：「我只是在寻找合适的死法，并不是像你那样渴望活下去」>
+pause
+cls
+#res：是的。我的目的就是如此而已。>
+pause
+cls
+#res：如今这样避人耳目，去其他领地是因为，待在这个国家，因为无关痛痒的事而死去的可能性高。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1082')
+#res：约翰：「一旦发生什么紧急情况我会抛弃你哦。会自己逃跑」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0104')
+#res：伊丽丝：「……那时候，我也就只能死了」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1083')
+#res：约翰：「什么嘛，你看得那么开啊」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0105')
+#res：伊丽丝：「那也是没办法的，不是么。因为连接死亡的道路有着无数条……」>
+pause
+cls
+#res：虽然没有清清楚楚地说出口，但如果靠这种方式活到现在的话……>
+pause
+cls
+#res：那实在是过于残酷的人生啊。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1084')
+#res：约翰：「但是公主殿下，我还是要给你一个忠告」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0106')
+#res：伊丽丝：「……忠告？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1085')
+#res：约翰：「……是啊，作为杀人者的前辈，看来你并不知道这件事」>
+pause
+cls
+#res：说着，我指着眼前的尸体。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1086')
+#res：约翰：「看见从这家伙身上流出来的血了么？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0107')
+#res：伊丽丝：「……那又怎么样？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1087')
+#res：约翰：「那么， 有感觉你自己也在流血么？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0108')
+#res：伊丽丝：「哈？」>
+pause
+cls
+#res：四处看着自己全身，活动着身体，>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0109')
+#res：伊丽丝：「我并没有受伤啊」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1088')
+#res：约翰：「不，在你砍那家伙的时候……你的心就已经受伤了」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0110')
+#res：伊丽丝：「……心？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1089')
+#res：约翰：「不知道吧？ 心也会流血的……」>
+pause
+cls
+#res：然后血不断地流着……不久……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3003', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0111')
+#res：伊丽丝：「……烦死了，反正又不会死」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1090')
+#res：约翰：「啊，并不会死。只不过……>
+pause
+#res：心里会打开一个缺口而已」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0112')
+#res：伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1091')
+#res：约翰：「总之，种麦子是很麻烦的事情……杀人也不简单就是了」>
+pause
+cls
+#res：说着，拍了拍这家伙的头，然后又开始出发了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0001b', 1200)
+call<$5f271e74, 0>
+call<$13d4a7f9, 0>
+#res：仰望天空，不知何时出现了白色的气息。>
+pause
+cls
+#res：从那天空中，又开始下起零散的小雪。>
+pause
+cls
+#res：“伤口”的话……>
+pause
+#res：似乎伤得越深，治愈所需的时间就越长。>
+pause
+cls
+#res：……所以流出来的血，必须在某处得到治疗。纵使已经流出过多的血，能治好的程度也很有限。>
+pause
+cls
+#res：如果，无法治愈的话……>
+pause
+#res：心中就会产生缺口。>
+pause
+cls
+#res：这就是作为杀人者前辈，唯一能对这家伙说的话……>
+pause
+cls
+call<$2b7b2134, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……………………>
+pause
+cls
+#res：那天夜里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0011b', 1200)
+call<$5f271e74, 0>
+#res：太阳慢慢下山，在空中巨大的月亮刚露出头的时候。>
+pause
+cls
+call<$d334ba75, 0> ('sou3-11')
+syscall<$e7b90df5> (750)
+#res：一边听着小溪涓涓的流水声，我们在溪边坐下，烧着火取暖。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3021', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1092')
+#res：约翰：「喂，稍微洗一下澡吧……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0103')
+#res：伊丽丝：「………………」>
+pause
+cls
+#res：没有特别的反应，恐怕是默许了我的提案了吧。>
+pause
+cls
+#res：就这样，公主慢慢走到溪边。>
+pause
+cls
+#res：就算是这家伙。到处沾满血迹也会感觉不舒服吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('water02')
+#res：冰冷的水浸过我的腰间，哗啦哗啦地洗着脸。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_23', 1500)
+call<$5f271e74, 0>
+#res：这大雪纷飞的天气中，呼着白气。>
+pause
+cls
+#res：向旁边看看，那家伙同样把腿伸进水中。>
+pause
+cls
+#res：但是，并不像我那样豪爽地泡入水中……似乎在顾虑着什么，该说是有点怯懦的碰着水。>
+pause
+cls
+#res：战战兢兢，用手碰了碰水，因为太冷又缩了回去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_23b', 300)
+call<$5f271e74, 0>
+#res：看上去，洗个脸就很辛苦的样子……>
+pause
+cls
+#res：平时几乎完全不表露出情感，现在却罕见的露出了有点恼怒，不高兴的样子。>
+pause
+cls
+#res：……完全看不出，她是个冷血的杀手啊。>
+pause
+cls
+#res：那样的行为和表情，无论怎么看都像普通的小孩子。>
+pause
+cls
+#res：但是，如果说有些不同的地方的话，>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1094')
+#res：约翰：「那个，公主殿下，像现在就可以把剑放下了吧」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0113')
+#res：伊丽丝：「做不到……已经跟手粘在一起了」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1095')
+#res：约翰：「那是啥？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0114')
+#res：伊丽丝：「………………」>
+pause
+cls
+#res：然后，她凝视自己的手和剑，>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0115')
+#res：伊丽丝：「对我来说， 放下剑，就等于死了……」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1096')
+#res：约翰：「哦~，那样想很好。 不愧是公主殿下」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0116')
+#res：伊丽丝：「……别捉弄我」>
+pause
+cls
+#res：与其说杀气……不如说像是在闹别扭一样的感觉，公主殿下的脸稍微鼓胀了起来。>
+pause
+cls
+#res：看来她自己也挺在意的，就这样憋住呼吸，一口气泡入水中。>
+pause
+cls
+syscall<$f62e3ca7> ('water02')
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：…………>
+pause
+cls
+#res：把衣服和身体都一并洗了之后，我们在河滩上点火取暖。>
+pause
+cls
+#res：夜空的月亮，变得更大更明朗。黎明前一定会相当冷吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3021', 1200)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('takibi01')
+#res：噼里啪啦燃烧的火。>
+pause
+cls
+#res：取暖是必然的，但在这时期湿着身子的话，可是会冻死的。>
+pause
+cls
+#res：我们都把衣服晾在旁边的树干上，裸赤裸着靠着火取暖……>
+pause
+cls
+syscall<$926c13e5> (1500)
+#res：就算是这位公主殿下，也感到不好意思吧，她转过身子，背对着火焰。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1097')
+#res：约翰：「……嗯？」>
+pause
+cls
+#res：偶然一看，一只飞虫停着在手臂上。>
+pause
+cls
+#res：一边想在这季节很罕见，一边毫不犹豫地把它投进火堆里。>
+pause
+cls
+#res：对我来说，这是自然而然的动作……>
+pause
+cls
+call<$a4eb1e4c, 0> ('3021', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0117')
+#res：伊丽丝：「……你真奇怪啊」>
+pause
+cls
+#res：背对着我的那家伙，开口说话了。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1098')
+#res：约翰：「在说什么？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0118')
+#res：伊丽丝：「你刚才，把蟋蟀杀了吧」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1099')
+#res：约翰：「……那又怎么样？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0119')
+#res：伊丽丝：「杀蟋蟀很不吉利哦」>
+pause
+cls
+#res：……不吉利？才刚想她究竟想说什么……>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1100')
+#res：约翰：「我才不知道那蟋蟀传出来的谣言」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0120')
+#res：伊丽丝：「……蟋蟀传出来的？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1101')
+#res：约翰：「嗯，是为了保护自己，才流传出去的吧……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0121')
+#res：伊丽丝：「原来如此……」>
+pause
+cls
+#res：当然，我本是想开玩笑的，这家伙却露出了一面钦佩的表情。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0122')
+#res：伊丽丝：「你意外的聪明啊……」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1102')
+#res：约翰：「……“意外的”是多余的」>
+pause
+cls
+#res：我笑了笑，然后向夜空看去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0004', 1200)
+call<$5f271e74, 0>
+#res：明亮的月，无数的繁星。>
+pause
+cls
+#res：星光虽然被月光掩盖了，但依然微弱地闪烁着。>
+pause
+cls
+#res：那点小小的星光是北极星。指着北方。指向巨人的左脚——参宿七，和御夫座α星的前方。>
+pause
+cls
+#res：并且，高高闪耀着的金星是冬天的证明。这全都是以前的远征经验告诉我的。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1103')
+#res：约翰：「离春天还很久呢……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0123')
+#res：伊丽丝：「看星星就能知道？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1104')
+#res：约翰：「恩，看星座的位置我大概就能知道了」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0124')
+#res：伊丽丝：「知识很渊博呢……还说除了杀人以外什么都不懂」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1105')
+#res：约翰：「真遗憾，那也是作为杀人的一环知道的」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……已经有二十年了……不，可能有三十年了吧。>
+pause
+cls
+#res：学会的时候，我还是一个小孩子。>
+pause
+cls
+#res：回想起那久远的记忆……>
+pause
+cls
+#res：这家伙也嘟哝一声，继续说话了。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0125')
+#res：伊丽丝：「那么，这也知道吗？」>
+pause
+cls
+#res：然后再次向夜空望去……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0004', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0126')
+#res：伊丽丝：「黎明前的天空……是最为黑暗的」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1106')
+#res：约翰：「不，不知道……」>
+pause
+cls
+#res：被这么一说确实有这种感觉，但也没试过认真去确认。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0127')
+#res：伊丽丝：「在东边天亮之前……是最黑暗的」>
+pause
+cls
+#res：她露出了有些寂寞的表情，说出了这句话。>
+pause
+cls
+#res：简直就像我之前那样，回忆往事般的嘟哝了一声。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1107')
+#res：约翰：「……你也是因为，这是杀人的一环而知道的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0128')
+#res：伊丽丝：「谁知道呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……到现在这家伙还有很多谜团。>
+pause
+cls
+#res：没有归宿，没有目的地。还被人追杀着。>
+pause
+cls
+#res：就算侥幸可以逃出这个国家，之后这家伙准备怎么办呢？>
+pause
+cls
+#res：……逃跑，不断地逃跑……但是，她在追求着些什么呢……>
+pause
+cls
+#res：为了什么目的，而生存下去呢……>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$13d4a7f9, 0>
+call<$a4eb1e4c, 0> ('bg_0001b', 1200)
+call<$5f271e74, 0>
+#res：第二天。雪依然在白色的天空中，星星点点地落着。>
+pause
+cls
+#res：跟往常一样走在森林当中，快要来到开阔地方的时候。>
+pause
+cls
+call<$d334ba75, 0> ('ebi_ori01')
+#res：……谁在哪里？>
+pause
+cls
+#res：走在前面的公主殿下也突然停下了脚步。看来她也觉察到了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3020', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0129')
+#res：伊丽丝：「喂……」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1108')
+#res：约翰：「啊，大概2~3个人吧」>
+pause
+cls
+#res：对方是谁并不知道。有可能性太多了。>
+pause
+cls
+#res：有可能是追杀这家伙也说不定，又或者是为了在路上被我们杀死的人复仇的。>
+pause
+cls
+#res：不过，无论哪方面，会有敌人出现都是预料之中的事情。也没想过可以顺顺利利直截了当走出这个国家。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0130')
+#res：伊丽丝：「………………」>
+pause
+cls
+#res：公主看着我，似乎觉察着我在想什么。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1109')
+#res：约翰：「……不安吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0131')
+#res：伊丽丝：「……你觉得我为了什么才跟你一起走？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1110')
+#res：约翰：「啊，原来如此」>
+pause
+cls
+#res：首先我向能预先观察对方的地方移动。>
+pause
+cls
+#res：这样的场合，跟对方正面相对才是上策。>
+pause
+cls
+#res：就算能从这里逃跑，躲起来。问题并不会解决。>
+pause
+cls
+#res：反而会被一直跟踪着，在没防备时受到突然袭击就麻烦了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：首先要确定对方的人数，我们先在树荫里监视着。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1111')
+#res：约翰：「（……看上去，只有三个人而已……）」>
+pause
+cls
+#res：确定他们没有增援后，我示意公主，在他们面前出现。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_14c07', 1200)
+call<$5f271e74, 0>
+#res：那几个不知名的士兵可能没想到我们会突然出现吧。>
+pause
+cls
+#res：显得有些惊讶。>
+pause
+cls
+#res：从服装上看不像是山贼之类的，但是又不像是正规士兵。>
+pause
+cls
+#res：……那样的话，是我这样的佣兵吧。>
+pause
+cls
+#res：从没有装备短弓看来，应该是受委托抓这家伙回去的。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0132')
+#res：伊丽丝：「（……呐，想怎么办？）」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1112')
+#res：约翰：「（没问题，交给我吧）」>
+pause
+cls
+#res：暂且，按住旁边的这个家伙。>
+pause
+cls
+#res：从正面冲突的话，可能会两败俱伤。他们也知道这种事情。>
+pause
+cls
+#res：首先，由我向对方搭话。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_14c07', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1113')
+#res：约翰：「你们难道是为了这家伙来的吗？」>
+pause
+cls
+#res：指着旁边的公主殿下说道。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm36_010')
+#res：佣兵C：「嗯，能乖乖把她交给我们吗」>
+pause
+cls
+#res：说着，和我们对峙着的敌人把手放在剑上。>
+pause
+cls
+#res：看来对方也不是突然就砍过来的傻瓜。>
+pause
+cls
+#res：……那样的话还有交涉的余地，还可以有其他方法。>
+pause
+cls
+#res：要是正规士兵和骑士，会把使命放在第一位吧，但他们只是为了钱接下任务的佣兵。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：我从皮包里，拿出了1枚金币。是枚罕见的罗马金币。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1114')
+#res：约翰：「就这样，拿钱离开好吗？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm36_011')
+#res：佣兵C：「……金币？ 难道真是金币？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1115')
+#res：约翰：「对，不信的话也可以拿去看」>
+pause
+cls
+#res：说着，把金币投到他们的脚下。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm36_012')
+#res：佣兵C：「………………」>
+pause
+cls
+#res：面对脚下的金币，佣兵们不禁你眼看我眼。>
+pause
+cls
+#res：看样子，收买他们是有可能的。>
+pause
+cls
+#res：毕竟只是被钱雇佣的家伙。他们也就只有这种程度吧。>
+pause
+cls
+#res：……但是，我……>
+pause
+#res：并没想让他们就这样离开。>
+pause
+cls
+#res：等他们其中一个人，弯腰捡金币的时候……>
+pause
+cls
+#res：这时，>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_19f')
+call<$a4eb1e4c, 0> ('na03_19g', 1)
+call<$5f271e74, 0>
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('yohanp_1116')
+#res：约翰：「哈！」>
+pause
+cls
+#res：我一下冲了过去。>
+pause
+cls
+#res：同时往斜肩砍去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_19h', 1)
+call<$a4eb1e4c, 0> ('b', 1)
+call<$5f271e74, 0>
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru01_1')
+#res：突然一个同伴被砍倒了，剩下的两人十分惊恐和狼狈。>
+pause
+cls
+#res：对着这两个人，我连给他们抽剑的机会也没给。>
+pause
+cls
+call<$09990fae, 0> (1, 2)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru02')
+#res：马上一挥刀，砍倒了他们的脚。>
+pause
+cls
+call<$6137cc81, 0> ('red', 2)
+syscall<$ed84e320> ('kiru01_1')
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('npetcm36_013')
+#res：【可爱】佣兵D：「唔挖~~」>
+pause
+cls
+#res：抱着流血的脚在地上打滚的三人。在寂静的山谷间，回响着他们的悲鸣。>
+pause
+cls
+#res：……并不是会立刻死掉的致命伤也行。>
+pause
+cls
+#res：把他们弄成像这样，无法逃跑，又不能好好战斗的状态的话也一样。>
+pause
+cls
+#res：在战场的话……濒死就等于死亡。>
+pause
+cls
+#res：这就是我战斗的方法，思考的方法。我可不想跟敌人在正面白刃交锋。>
+pause
+cls
+#res：之后慢慢的，一个个割破喉咙就好了。人的生命，脆弱得一瞬间就可以毁灭掉。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm36_014')
+#res：佣兵D：「别杀我，我们只是被委托了而已……」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1117')
+#res：约翰：「很遗憾，我不能放过你们」>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$6137cc81, 0> ('red', 2)
+syscall<$ed84e320> ('kiru01_1b2')
+#res：……真是天真。>
+pause
+cls
+#res：有空去捡金币，倒不如先把对方砍倒了再说。>
+pause
+cls
+#res：那种东西，明明可以杀死我们后，慢慢抢的……>
+pause
+cls
+call<$a4eb1e4c, 0> ('3015', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0137')
+#res：伊丽丝：「……还是老样子，残忍的杀人手段」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1118')
+#res：约翰：「公主殿下，你想说这很卑鄙吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0138')
+#res：伊丽丝：「……没什么」>
+pause
+cls
+#res：和所说的话一样，毫无表情的回答着。>
+pause
+cls
+#res：虽然不知道她是不是真的这么想，至少这家伙可以毫不在乎的看着这一切。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1119')
+#res：约翰：「但是，刚才的事只是那些家伙们太天真了。他们战场经验不足吧」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0139')
+#res：伊丽丝：「……不愧是前辈，学习到东西了」>
+pause
+cls
+#res：明显是在挖苦我的回答。>
+pause
+cls
+#res：不知为何，我不可思议的觉得这样才像是她。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0140')
+#res：伊丽丝：「但是你…… 普通地战斗，也很强不是嘛？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1120')
+#res：约翰：「恩。别看我这样，其实我是个骑士」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0141')
+#res：伊丽丝：「……真是个不好笑的笑话呢」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1121')
+#res：约翰：「恩，是个不好笑的笑话……」>
+pause
+cls
+#res：我们把砍倒的尸体扔下了山谷后，便离开了那里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……恐怕那些是只要给他钱，就会乖乖离开的。>
+pause
+cls
+#res：那种程度的佣兵吧。>
+pause
+cls
+#res：但是，活着回去的话，肯定会对其他人说起这件事。所以要杀他们灭口。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1122')
+#res：约翰：「（不过，就算是这样…… 像他们那样的家伙还会来吧……）」>
+pause
+cls
+#res：跟普通死刑犯逃亡不同。>
+pause
+cls
+#res：战败国王族的幸存者，不可能轻易就饶恕。至少在离开这个国家前是不会太平的。>
+pause
+cls
+#res：……或许是时候该跟这家伙告别了。>
+pause
+cls
+#res：边想着，我从山间走向荒野。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0001b', 1200)
+call<$5f271e74, 0>
+#res：―第二天。离开了森林，我们进入了荒野。>
+pause
+cls
+syscall<$f62e3ca7> ('kaze3')
+call<$a4eb1e4c, 0> ('3018b', 1200)
+call<$5f271e74, 0>
+#res：虽然积雪少,可是，刺骨的寒风夺走体温。在没有遮蔽物的这个地方更是厉害。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_21', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1123')
+#res：约翰：「喂。把头压低点。迎风走要斜着身子……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0142')
+#res：伊丽丝：「……嗯」>
+pause
+cls
+#res：不时，对旁边这家伙发出指示。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0143')
+#res：伊丽丝：「呐，这也是你在杀人的日子里知道的么？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1124')
+#res：约翰：「当然」>
+pause
+cls
+#res：……从那开始我就想。>
+pause
+cls
+#res：即使要离开这个国家，也不是说去哪个国家都好。>
+pause
+cls
+#res：现在的这个国家，并没有关系特别好的国家，到和这个国家随时都会爆发战争的国家是最理想的。>
+pause
+cls
+#res：在那么紧张的状态的地方的话，很难想象会越过国界追捕我们。>
+pause
+cls
+#res：……从前几天的那些佣兵来到的日数计算，必须尽快离开这个国家了。>
+pause
+cls
+#res：所以，即使知道“危险”，也选择了跨过这个荒野。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100102)
+call<$a4eb1e4c, 0> ('3018b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1125')
+#res：约翰：「（……应该是在这附近才对……）」>
+pause
+cls
+#res：不知道多少年前，我来到过这里。>
+pause
+cls
+#res：从那时候的经验看来，在走出山岳的这个地点，会有麻烦的东西在。>
+pause
+cls
+#res：一边这样想着，边东张西望地前进着……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1126')
+#res：约翰：「……有了」>
+pause
+cls
+#res：我在遥远的岩石地表的对面，发现了城寨。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3006', -100101)
+call<$5f271e74, 0>
+#res：虽然想着，说不定已经没了，不过果然现在还保留着关卡。>
+pause
+cls
+#res：即使这样，抱着没有屯驻士兵的希望，眯着眼睛一看……>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1127')
+#res：约翰：「（不妙啊……）」>
+pause
+cls
+#res：不仅是士兵，连骑兵也看见。>
+pause
+cls
+#res：被发现就麻烦了，而且迂回的道路也没有。>
+pause
+cls
+#res：是察觉到我的异状吧，>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0144')
+#res：伊丽丝：「怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1128')
+#res：约翰：「不，没什么……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0145')
+#res：伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0146')
+#res：伊丽丝：「……是出问题了吧」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1129')
+#res：约翰：「算是吧」>
+pause
+cls
+#res：我开始对她简单的说明了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3006', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1130')
+#res：约翰：「那边的城寨看得见吧？ 被他们发现就麻烦了……」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0147')
+#res：伊丽丝：「有看守在？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1131')
+#res：约翰：「嗯，虽然这里不能确认，但肯定有不会错的」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0148')
+#res：伊丽丝：「……为什么那样断言？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1132')
+#res：约翰：「那是因为，我的直觉对越糟糕的事就越准」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0149')
+#res：伊丽丝：「那就是了」>
+pause
+cls
+#res：公主殿下马上就相信我了。肯定这家伙和我一样吧。>
+pause
+cls
+#res：而且不仅仅是直觉。>
+pause
+cls
+#res：战后不久的这个国家的话，应该还会驻守一定的士兵在那里。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1133')
+#res：约翰：「话说在前， 别想着把对方干掉什么的啊」>
+pause
+cls
+#res：首先要制止边上的公主殿下。>
+pause
+cls
+#res：这家伙到现在所杀的，都只是回乡的士兵。还是从背后偷袭才得手的。>
+pause
+cls
+#res：但现在是正规军。>
+pause
+cls
+#res：就算我能跟几名山贼佣兵之类的战斗，但跟军队根本没得打。>
+pause
+cls
+#res：……被发现了的话，不会轻易了事的。肯定不会有错，会用长弓硬弩招呼我们吧。>
+pause
+cls
+#res：而且即使躲过箭雨，他们会同时派出骑士过来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3018b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yohanp_1134')
+#res：约翰：「听好了， 从这里开始藏身之处就没几个地方了」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0150')
+#res：伊丽丝：「那怎么办？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1135')
+#res：约翰：「只能趁着夜色跑过去」>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：…………>
+pause
+cls
+#res：二人等待着天黑，总算在太阳完全下山时，>
+pause
+cls
+call<$13d4a7f9, 0>
+call<$a4eb1e4c, 0> ('3105c', 1200)
+call<$5f271e74, 0>
+#res：我们在岩石地表上奔跑过。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0004', -100101)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('sen03-bgm_demo01')
+call<$812afdf0, 0> ('yohanp_1136')
+#res：约翰：「喂，把身体压低点跑」>
+pause
+cls
+#res：一边前进一边不时的给她下指示。这里跟山中不同，可以隐蔽的地方很少。>
+pause
+cls
+#res：因此需要跑一小段就躲起来，并不断重复。>
+pause
+cls
+#res：我的记忆没错的话，夜间的监视肯定有的。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1137')
+#res：约翰：「这里的距离很长，月亮被遮住的时候一口气跑过去」>
+pause
+cls
+call<$a4eb1e4c, 0> ('3105c', 1200)
+call<$5f271e74, 0>
+#res：两人都背靠着岩石，等候着下次跑出去的时机。>
+pause
+cls
+#res：……如果是我一人的话，就不必做这样危险的事了……>
+pause
+cls
+#res：突然想到。>
+pause
+cls
+#res：我又没有被这个国家追捕。>
+pause
+cls
+#res：只是个在先前的战争结束后，没了利用价值的佣兵而已。>
+pause
+cls
+#res：因为前几天的祭司他们都被我全杀光了，也没有从那里被发现这件事的机会。>
+pause
+cls
+#res：可以给出钱银，从正面过关，说是商队的护卫混过去也没问题。>
+pause
+cls
+#res：但是，她就不行。通缉令肯定已经送到那里呢。>
+pause
+cls
+#res：……果然要抛弃她了吗……>
+pause
+cls
+#res：这种想法再次出现在脑海。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_3106b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0194')
+#res：伊丽丝：「……怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1138')
+#res：约翰：「不，没什么……」>
+pause
+cls
+#res：这时……月色被云遮挡了。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1139')
+#res：约翰：「喂，跑起来」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0004', 1200)
+call<$5f271e74, 0>
+#res：我们再次飞奔出去。>
+pause
+cls
+#res：毫无遮挡的地方就全力飞奔过去，跑到各处有岩石的地方时，就在那里整理好呼吸。>
+pause
+cls
+#res：这样重复着，直到城寨那边看不见我们之前，只能想尽办法前进了。>
+pause
+cls
+#res：不久，快到中间位置的时候，云遮挡的月亮，又出来了>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1139_1')
+#res：★☆约翰：「快点，月光出来了」>
+pause
+cls
+#res：就像滑过去一样，跑进了眼前的岩石后。>
+pause
+cls
+#res：这时，>
+pause
+cls
+call<$6137cc81, 0> ('white', 2)
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n3iri_0153')
+#res：伊丽丝：「好痛……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_20', 1500)
+call<$5f271e74, 0>
+#res：这家伙跑得太急，扭到脚了。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1140')
+#res：约翰：「给我看看……」>
+pause
+cls
+#res：我跑到她跟前，试着触摸那个脚。>
+pause
+cls
+#res：……看起来不是骨折，但是很严重的扭伤……>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1142')
+#res：约翰：「……能走吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0154')
+#res：伊丽丝：「……应该能」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1143')
+#res：约翰：「那，能跑吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0155')
+#res：伊丽丝：「那个……我想不行」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1144')
+#res：约翰：「……这样啊」>
+pause
+cls
+#res：……怎么办呢……至少天明前要离开这里。>
+pause
+cls
+#res：要是太阳出来了，别说躲起来了，马上就会被在关卡上的看守找到了吧。>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0156')
+#res：伊丽丝：「呐，可以等我一下吗？」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1145')
+#res：约翰：「不行」>
+pause
+cls
+#res：果断回答。离城寨看不见的地方，还有近一半路程。>
+pause
+cls
+#res：在这里磨磨蹭蹭的话，就会在黎明的时候被发现。>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1146')
+#res：约翰：「抱歉，我要先走了」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0161')
+#res：伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1147')
+#res：约翰：「我之前就说过了，要寻找合适的死法，我可不想在这种地方被许多人围着死去」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0157')
+#res：伊丽丝：「是么……」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1148')
+#res：约翰：「还是说我帮不了你，对我有怨恨？」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0158')
+#res：伊丽丝：「……不会，那也是没办法的」>
+pause
+cls
+call<$812afdf0, 0> ('yohanp_1149')
+#res：约翰：「嗯，果然理解得很快啊……」>
+pause
+cls
+#res：再见了公主殿下，轻轻挥了挥手，把她留了下来，自己一个人继续前进。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0011', 1200)
+call<$5f271e74, 0>
+#res：……对。这也是没办法。>
+pause
+cls
+#res：最初就打算，如果她变成累赘，无论什么时候都会置之不理。>
+pause
+cls
+#res：恐怕那家伙被捉回去处刑的时候，我已经到了其他国家了吧。>
+pause
+cls
+#res：并且，这个冬天结束的时候，就会把她的事全部忘记了……>
+pause
+cls
+#res：……只是，这样罢了……>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$2b7b2134, 0>
+call<$bc417f7b, 0>
+exit (0)

@@ -1,0 +1,937 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('sora_yu')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car3')
+#res：当晴朗的天空开始转暗的时候。>
+pause
+cls
+call<$d334ba75, 0> ('3_12')
+call<$a4eb1e4c, 0> ('joku_kosoku_yu')
+call<$5f271e74, 0>
+#res：银色的酷派依然在高速公路上飞驰着。>
+pause
+cls
+#res：很快就会抵达桂川休息区了。我们一直保持着每前进一段就歇息一下的节奏。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi01b')
+call<$5f271e74, 0>
+#res：「呐，在下个休息区也休息一下吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv280')
+#res：「啊，哦、嗯…」>
+pause
+cls
+#res：「…你怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('nv281')
+#res：「只是有点累了…」>
+pause
+cls
+#res：「是吗…」>
+pause
+cls
+#res：这也难怪。>
+pause
+cls
+#res：她刚才一直都那么兴奋，何况，我们还不是普通的病人。>
+pause
+cls
+#res：「那么，我去给你买点吃的吧」>
+pause
+cls
+call<$812afdf0, 0> ('new_324')
+#res：「…嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yu')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('open')
+#res：「稍等一下，我很快就回来」>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+#res：啪噔>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我快步走向一家杂货店，买回了一些与便利店食品差不多的东西。>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yu')
+call<$5f271e74, 0>
+#res：「给你，运动饮料和饭团，还有马铃薯」>
+pause
+cls
+call<$812afdf0, 0> ('nv283b')
+#res：「哦，嗯…」>
+pause
+cls
+#res：尽管她开口回应了我，但却始终不肯张开嘴吃那些食物。>
+pause
+cls
+#res：记得她平时总会抢着吃马铃薯的…>
+pause
+cls
+#res：「…没事吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「……………」>
+pause
+cls
+#res：「莫非…你身体不舒服吗…」>
+pause
+cls
+call<$812afdf0, 0> ('n284')
+#res：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('nv285')
+#res：「…只是…药被吃光了」>
+pause
+cls
+#res：「…是吗…」>
+pause
+cls
+#res：…药被吃光了。这是我曾经担心过的事情。>
+pause
+cls
+#res：不，从逃出医院的那一刻开始，这一切就早已在预料之中了。>
+pause
+cls
+#res：当然了，我并不是故意要忽略掉这件事。>
+pause
+cls
+#res：只是至今为止都没去考虑过它…也没想要去考虑它。>
+pause
+cls
+#res：「是什么时候吃光的？」>
+pause
+cls
+call<$812afdf0, 0> ('nv286')
+#res：「…昨晚」>
+pause
+cls
+#res：「那就是说，已经整整一天了…」>
+pause
+cls
+#res：医生说过，我不吃药的话最多只能坚持２天。恐怕她的情况也与我差不多吧。>
+pause
+cls
+#res：从逃出医院那天算起，已经８天过去了。>
+pause
+cls
+#res：仅凭我们随身带走的那些药物，早晚都会有这一天的。>
+pause
+cls
+#res：…现在，我究竟该怎么办才好呢…>
+pause
+cls
+call<$812afdf0, 0> ('nv287b')
+#res：「呐…」>
+pause
+cls
+call<$812afdf0, 0> ('nv288b')
+#res：「…我可不喜欢７楼哦」>
+pause
+cls
+#res：「嗯，我明白，你也不喜欢家吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv289')
+#res：「嗯…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_start')
+#res：银色的酷派再次开动了。>
+pause
+cls
+#res：我最终选择由下一个出口离开了高速公路。>
+pause
+cls
+#res：尽管心中仍是一团乱麻，但继续留在高速公路上，是不会有什么解决办法的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('soukou_machi_yu')
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('e02')
+#res：通过偏僻的高速公路出口后，我径直驶入了市区。>
+pause
+cls
+#res：沿途细心寻找着规模较大的医院。准确地说，是寻找着位于大医院附近的药店。>
+pause
+cls
+#res：或许到医院就诊才是最好的办法。>
+pause
+#res：假如这是一般疾病的话，我也会毫不犹豫地那样做。>
+pause
+cls
+#res：…但我们是７楼的居民。卷在手腕上的塑料手环是白色的。>
+pause
+cls
+#res：而且，我们逃出了７楼。>
+pause
+cls
+#res：我一边思索着这些，一边握着方向盘东张西望。>
+pause
+cls
+#res：…在大医院附近的药店里，药品一定是比较齐全的。>
+pause
+cls
+#res：「找到了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我在大道一侧找到了一家大学医院。周围竖立着２、３块药店的广告。>
+pause
+cls
+#res：因为无法在路边停车，我将车停放在了一处空地。>
+pause
+cls
+syscall<$f62e3ca7> ('car_s3')
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yu')
+call<$5f271e74, 0>
+#res：「喂，把装药的袋子给我」>
+pause
+cls
+call<$812afdf0, 0> ('nv290b')
+#res：「啊，嗯…」>
+pause
+cls
+#res：她有些不解地将药袋递给了我。>
+pause
+cls
+#res：我接过那病房用的药袋，从里边取出了药品的服用说明。>
+pause
+cls
+#res：…带着这个去就可以了吧。>
+pause
+cls
+#res：「你在这里稍微等一下」>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我将她留在车内，走向了对面的药店。>
+pause
+cls
+syscall<$f62e3ca7> ('autodoor')
+#res：喀─…>
+pause
+cls
+call<$a4eb1e4c, 0> ('yakkyoku')
+call<$5f271e74, 0>
+#res：我穿过开闭缓慢的自动门，来到店里，径直走向了柜台。>
+pause
+cls
+#res：售货员「欢迎光临」>
+pause
+cls
+#res：打招呼的是一位中年大叔。他穿着一身白衣，一眼便能看出是一位药剂师。>
+pause
+cls
+#res：「麻烦您帮我找一下这种药吧」>
+pause
+cls
+#res：售货员「哎，哦，请稍等一下…」>
+pause
+cls
+#res：说完，他拿着那张服用说明，走进了存药库。>
+pause
+cls
+#res：…与普通的药店相比，大概这里也会同时贩卖医院专用的药物吧。>
+pause
+cls
+#res：记得以前去医院就诊的时候，我也曾经在类似的药店里取过药。>
+pause
+cls
+#res：这所药店明显建在大医院的附近，所以药品也一定比较齐全的。>
+pause
+cls
+#res：售货员「让您久等了。这是您需要的药物」>
+pause
+cls
+#res：很快，大叔便走了出来。>
+pause
+cls
+#res：手中拿着2捆胶囊状的药物。 就像是拿着两束绑起来的药板>
+pause
+cls
+#res：…有这些就足够了。看上去至少也可以维持１个星期了。>
+pause
+cls
+#res：正当我打算从口袋中取出钱包的时候…>
+pause
+cls
+#res：售货员「啊，可以先出示一下药笺吗？」>
+pause
+cls
+#res：「…药笺？」>
+pause
+cls
+#res：售货员「嗯，也就是处方笺。 因为这是临床药物嘛」>
+pause
+cls
+#res：「…………」>
+pause
+cls
+#res：售货员「医生肯定给您开过吧？」>
+pause
+cls
+#res：…我没有预料到这一点。>
+pause
+cls
+#res：冷静分析一下的话，这根本不是常用药物，也不可能轻易就买到的。>
+pause
+cls
+#res：售货员「…您怎么了？」>
+pause
+cls
+#res：「啊，不，那个…」>
+pause
+cls
+#res：看到我支支吾吾的，穿白衣的大叔感到有些奇怪。>
+pause
+cls
+#res：售货员「咦…那是…？」>
+pause
+cls
+#res：这时，他注意到我手上的白色手环，紧紧盯住了上边的文字…>
+pause
+cls
+#res：我的姓名，血型…>
+pause
+cls
+#res：…以及医院的名字。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+#res：哒>
+pause
+cls
+#res：售货员「啊」>
+pause
+cls
+#res：我反射性地一把抓起了玻璃柜台上的药物。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：售货员「喂，站住」>
+pause
+cls
+#res：售货员在柜台的另一侧大声喊叫着。但声音是从背后传来的，我已经拔开腿逃跑了。>
+pause
+cls
+#res：距离药店的出口还有５米。>
+pause
+cls
+#res：尽管双腿不停颤抖，但我还是拼命地跑着。>
+pause
+cls
+syscall<$f62e3ca7> ('autodoor')
+#res：我正打算穿过开闭缓慢的自动门，冲出店外…>
+pause
+cls
+#res：这时，>
+pause
+cls
+syscall<$f62e3ca7> ('g_crash2')
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：咣，咣啷──>
+pause
+cls
+#res：「唔…」>
+pause
+cls
+#res：眼前一片煞白。>
+pause
+cls
+#res：我的头撞在自动门的一角上，连玻璃也在剧烈的撞击中被震碎了。>
+pause
+cls
+#res：我摇了摇昏沉沉的头，用手强行拉开停止运转的自动门。>
+pause
+cls
+#res：随后，拔腿逃离了药店。怀里依然紧紧抱着那袋药物。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora06')
+call<$5f271e74, 0>
+#res：「呼呼，呼」>
+pause
+cls
+#res：我喘着粗气奔跑着。距离车子不到十几米的路程，对我来说是如此地漫长。>
+pause
+cls
+#res：似乎没有人追过来，而我也根本没有余力去回头确认。>
+pause
+cls
+#res：…万一，我被抓住的话…>
+pause
+cls
+#res：她会怎么样呢…>
+pause
+cls
+#res：她会一个人待在车里，一直等着我回来吗…>
+pause
+cls
+#res：我一边胡思乱想，一边拼命地奔跑着。>
+pause
+cls
+#res：全身颤抖，气喘吁吁，我为自己的体力感到可悲。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('close')
+#res：啪噔>
+pause
+cls
+syscall<$f62e3ca7> ('car_s4')
+#res：「呼呼，呼…」>
+pause
+cls
+#res：我一屁股倒在座席上，迅速发动了引擎。>
+pause
+cls
+call<$a4eb1e4c, 0> ('soukou_machi_yoru')
+call<$5f271e74, 0>
+#res：和逃离赌场的那一天相比，我的体力更差了。>
+pause
+cls
+#res：看了看后视镜，额头被玻璃割伤，流了一点血。>
+pause
+cls
+#res：…出血并不严重，大概很快就会止住的吧。我一边驾驶，一边用纸巾按住了伤口。>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_michi_yoru')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv294')
+#res：「…没事吧？」>
+pause
+cls
+#res：「嗯，没事」>
+pause
+cls
+call<$812afdf0, 0> ('nv295b')
+#res：「出血了啊…」>
+pause
+cls
+#res：「…不用担心，没事的」>
+pause
+cls
+#res：看到她似乎有些担心，我便故作轻松地向她挥了挥手。>
+pause
+cls
+#res：然后，将紧握在左手中的那包药物递给了她。>
+pause
+cls
+#res：「给你，快点吃吧」>
+pause
+cls
+call<$812afdf0, 0> ('nv296')
+#res：「啊，嗯…」>
+pause
+cls
+#res：这样一来，暂时就不必担心了。至少也可以坚持１个星期。>
+pause
+cls
+#res：但是…>
+pause
+cls
+#res：当这些药也被吃光之后，我又该怎么办呢？>
+pause
+cls
+#res：今天只是运气比较好而已，我的体力也显然一日不如一日了。>
+pause
+cls
+#res：…我们原本既没有目的也没有去处。>
+pause
+#res：假如没有追求的东西，自然也不会惧怕失去什么。>
+pause
+cls
+#res：但是，现在已经不同了。>
+pause
+cls
+#res：我们拥有了目的，同时也拥有了对「丧失」的恐惧感…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('cat06', 1600)
+call<$5f271e74, 0>
+call<$13059346, 0> (800)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car3')
+call<$a4eb1e4c, 0> ('sora01', 1600)
+call<$5f271e74, 0>
+#res：晴朗的一天。天空映射着冬日特有的蔚蓝色。>
+pause
+cls
+call<$d334ba75, 0> ('sen02')
+call<$a4eb1e4c, 0> ('joku_kosoku')
+call<$5f271e74, 0>
+#res：我们再次开上了高速公路。>
+pause
+cls
+#res：这次是从吹田交流道驶进了中国公路。>
+pause
+cls
+#res：「呐，接下来该怎么走？」>
+pause
+cls
+call<$812afdf0, 0> ('nv297b')
+#res：「转入神户道…」>
+pause
+cls
+#res：「明白了，之后进入山阳高速吧？」>
+pause
+cls
+call<$812afdf0, 0> ('nv298c')
+#res：「嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_michi01', 1600)
+call<$5f271e74, 0>
+#res：银色的酷派在她的指引下行驶着。>
+pause
+cls
+#res：来到这里路边的标识上>
+pause
+cls
+#res：已经偶尔能看到「淡路岛」的字样了。>
+pause
+cls
+#res：自从我们逃出７楼以来，里程表的计数已经转过了９００ｋｍ。>
+pause
+#res：尽管这一切在当初看来简直就像是天方夜谭…>
+pause
+cls
+#res：但现在，我们已经渐渐接近目的地了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：很快，一座大桥出现在了我们的面前。>
+pause
+cls
+call<$812afdf0, 0> ('n044')
+#res：「这就是明石海峡大桥吧…真壮观啊」>
+pause
+cls
+#res：「…嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我们不由得同时发出了感叹。大桥似乎在海面上空，无尽地延伸着。>
+pause
+cls
+#res：在大桥上行驶了片刻后。>
+pause
+cls
+#res：途中，我们发现桥上有很多人都把车停在路边。>
+pause
+cls
+#res：他们全都走下车来，拍摄纪念照片，大概都是来这里观光的游客吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_naname_michi01')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv299b')
+#res：我也像他们那样，将车停靠在了路边。>
+pause
+cls
+#res：「…这里禁止停车的」>
+pause
+cls
+#res：「稍微停一下，没事的」>
+pause
+cls
+#res：何况，旁边还停着好几辆车。>
+pause
+cls
+call<$812afdf0, 0> ('n300')
+#res：「呐，咱们到外边去看看吧」>
+pause
+cls
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('new_343')
+#res：「景色一定很壮观哦」>
+pause
+cls
+#res：「好吧…」>
+pause
+cls
+syscall<$f62e3ca7> ('close')
+call<$a4eb1e4c, 0> ('hashigeta')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('kaze3_2')
+#res：尽管有些不情愿，但她还是随我一同走下了车。>
+pause
+cls
+#res：呼───>
+pause
+cls
+#res：强烈冰冷的海风在桥面上呼啸而过。>
+pause
+cls
+call<$812afdf0, 0> ('new_344')
+#res：「这里可真冷啊…」>
+pause
+cls
+#res：「…嗯」>
+pause
+cls
+#res：因为平时很少走下车，对我们来说更是增添了一份寒冷。>
+pause
+cls
+#res：与我们相反，一对情侣正在对面嬉戏着。>
+pause
+cls
+#res：大概是正在拍摄纪念照吧。从这里也能听到他们的谈笑声。>
+pause
+cls
+#res：仔细看看周围，还有很多正在拍照的家族和旅行团。>
+pause
+cls
+#res：…纪念照片吗。来到这样的地方，的确是应该留下一张才对的。>
+pause
+cls
+call<$812afdf0, 0> ('n248')
+#res：「对了…」>
+pause
+cls
+#res：「…怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('nv303')
+#res：「啊，你稍等一下」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_naname_michi01')
+call<$5f271e74, 0>
+#res：「啊，嗯…」>
+pause
+cls
+#res：记得车里有一台照相机的。>
+pause
+cls
+#res：我想起了最初清点车内物品时发现的那台一次性相机。>
+pause
+cls
+#res：那时候我瞥过一眼，如果没记错的话，里边还剩有几张胶卷…>
+pause
+cls
+#res：我翻出照相机，检查了一下胶卷。>
+pause
+cls
+call<$a4eb1e4c, 0> ('hashigeta')
+call<$5f271e74, 0>
+#res：「太好了，还剩下２张呢…」>
+pause
+cls
+call<$812afdf0, 0> ('new_347')
+#res：「让你久等了。来，我给你拍一张」>
+pause
+cls
+#res：「哎…」>
+pause
+cls
+call<$812afdf0, 0> ('nv305')
+#res：「给你拍照片啊，难得来到这里一次嘛」>
+pause
+cls
+#res：「……不拍」>
+pause
+cls
+#res：「别这么说嘛。　快摆个造型吧」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：说着，我向她举起了相机。>
+pause
+cls
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n306')
+#res：「来，笑一笑嘛」>
+pause
+cls
+#res：但她大概是害羞吧，好不容易将脸转了过来，却是一幅生硬的表情。>
+pause
+cls
+#res：…不过…>
+pause
+cls
+#res：这对她来说，或许已经是很尽力地在笑了。>
+pause
+cls
+#res：正当我一边这样想着，一边取景的时候，>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：男子「对不起，能帮我们拍张照片吗？」>
+pause
+cls
+#res：「啊，嗯，好的…」>
+pause
+cls
+#res：一对情侣拿着相机走到了我们的身边。>
+pause
+cls
+#res：「我要拍了，你们准备好了吗？」>
+pause
+cls
+#res：两人「嗯，麻烦你了」>
+pause
+cls
+#res：他们高兴地相拥在一起微笑着。>
+pause
+cls
+#res：我取好景后，按下了快门。>
+pause
+cls
+syscall<$f62e3ca7> ('camera')
+#res：咔嚓、>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：男子「谢谢你了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('hashigeta')
+call<$5f271e74, 0>
+#res：女子「我们也帮你们来拍一张吧」>
+pause
+cls
+#res：「啊，不，我们…」>
+pause
+cls
+#res：男子「用这个相机就可以了吧？」>
+pause
+cls
+#res：还没等我回答，男子就从我的手中接过了…>
+pause
+#res：不，应该说是抢走了相机。>
+pause
+cls
+#res：大概是想答谢我们吧。他不顾我们的一脸迷茫，举起了相机。>
+pause
+cls
+#res：男子「你们俩再靠近点嘛」>
+pause
+cls
+#res：我只好照着吩咐向她靠近了一步。>
+pause
+cls
+#res：尽管依旧面无表情，她也小心地向我靠近了一步。>
+pause
+cls
+#res：男子「那个，你们俩最好摆个什么姿势吧」>
+pause
+cls
+#res：男子仍然不断地提出新的要求。他的女朋友也正哭笑不得地看着我们。>
+pause
+cls
+#res：我在心中叹了口气…>
+pause
+cls
+#res：慢慢地搂住了她的肩膀。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('nv307')
+#res：「…啊……」>
+pause
+cls
+#res：…第一次，触摸到了她的身体。>
+pause
+cls
+#res：前几天买来的那件幼稚的服装，与齐腰长发的感触。>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「……………」>
+pause
+cls
+#res：因为注视着正面的相机，所以我看不到她的表情…>
+pause
+cls
+#res：不过…>
+pause
+cls
+#res：或许，她现在正摆着那副偶尔才能看到的，好似害羞又好似倔强的表情吧…>
+pause
+cls
+#res：男性「我要拍了」>
+pause
+cls
+syscall<$f62e3ca7> ('camera')
+#res：咔嚓>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：满意地拍完照片后，那对情侣返回了车子。>
+pause
+cls
+#res：我们也向自己的车子走去。>
+pause
+cls
+syscall<$f62e3ca7> ('open')
+call<$a4eb1e4c, 0> ('car_naname_michi01')
+call<$5f271e74, 0>
+#res：「女朋友…吗」>
+pause
+cls
+#res：「好像被他们误会了呐」>
+pause
+cls
+call<$812afdf0, 0> ('n308')
+#res：「……………」>
+pause
+cls
+#res：「莫非，　我们看起来真的很像情侣吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「……………」>
+pause
+cls
+#res：我有些半开玩笑地说道。>
+pause
+cls
+#res：因为感到很开心，便继续这样说了下去。>
+pause
+cls
+#res：「呐，你认为…啊，不…」>
+pause
+cls
+#res：「呐？　濑津美，你认为呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n308')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('nv309')
+#res：「…什么嘛…你明明比我年纪小…」>
+pause
+cls
+#res：但她没有搭理我的话，还是在静静地凝视着窗外。>
+pause
+cls
+#res：丝毫也没有转头看我一眼的意思。>
+pause
+cls
+#res：但是…>
+pause
+cls
+#res：我想，她并不是在眺望着远方，而是在遮掩着自己的害羞。>
+pause
+cls
+call<$a4eb1e4c, 0> ('cat07', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (700)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$708b0256> ('car1')
+call<$a4eb1e4c, 0> ('sora01', 1600)
+call<$5f271e74, 0>
+#res：正午。盯着一望无际的冬日晴空。>
+pause
+cls
+#res：驶出明石海峡大桥后，我们很快进入了洲本交流道。然后，再次转入了普通公路。>
+pause
+cls
+#res：「终于来到这里了…」>
+pause
+cls
+call<$812afdf0, 0> ('nv310')
+#res：「…嗯」>
+pause
+cls
+#res：自从逃出７楼的那一天以来，里程表的计数已经转过了900km。>
+pause
+cls
+#res：最初的一切仅仅是出于偶然，但现在，我们真的来到了这里。>
+pause
+cls
+#res：「那么，接下来该怎么走呢？」>
+pause
+cls
+call<$812afdf0, 0> ('nv311b')
+#res：「向南…」>
+pause
+cls
+#res：「向南吗…明白了」>
+pause
+cls
+#res：我按照她的指示前进着。>
+pause
+cls
+#res：其实，到达这里以后，我自己也能分辨出路线了。因为周围竖立着很多作观光指南用的看板。>
+pause
+cls
+#res：但是，我依然遵循着她的指示。>
+pause
+cls
+#res：我认为自己必须这样做。为了她，我愿意这样做…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+exit (0)

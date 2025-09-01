@@ -1,0 +1,3973 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b3', 1200)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (4)
+call<$a4eb1e4c, 0> ('sin_e03c', 1500)
+call<$5f271e74, 0>
+#res：－千寻－>
+pause
+cls
+call<$d334ba75, 0> ('2eb021')
+#res：教堂。\n今天我也待在这里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('tobira_omoi')
+#res：———轧轧…>
+pause
+cls
+#res：入口处的门打开，回响起厚重的声音。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1048')
+#res：姫子「千寻，我回来了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_e08b', 1200)
+call<$5f271e74, 0>
+#res：站在那里的 \n是从和濑津美的最后兜风中归来的姐姐。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1049')
+#res：姫子：「我把公路之星（注：是马自达公司在2005年发布的一款车辆）停在路边了，移到车库去吧」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1002')
+#res：千寻：「啊，嗯，知道了…」>
+pause
+cls
+#res：说着我接过了车钥匙。>
+pause
+cls
+#res：……明明以前都是由濑津美转交，\n是避免与我直接见面的…？>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1050')
+#res：姫子「那么，就是这样，到好久没去过的车站附近去逛逛吧…」>
+pause
+cls
+#res：…车站附近？\n太突然了，无法理解她在说什么。>
+pause
+cls
+call<$a4eb1e4c, 0> ('kyoukai2', -100101)
+call<$5f271e74, 0>
+#res：但是，完全没有在意我的反应，\n姐姐迅速准备要离开教会了。>
+pause
+cls
+#res：然后，在手碰到沉重的大门时，>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1051')
+#res：姫子「千寻，你在干嘛？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1003')
+#res：千寻：「哎…干嘛？是指…」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1052')
+#res：姫子「还用问吗？一起去啦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 10)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+#res：―烈日仍高挂在天空。\n繁华的车站前响彻着知了的叫声。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1053')
+#res：姫子「对了，千寻，你要什么味道的？ 和平时一样的柠檬？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1004')
+#res：千寻：「啊，嗯，\n我想要果子露冰激凌…姐姐要香草味的？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1054')
+#res：姫子「嗯…不，偶尔我也换换口味吧」>
+pause
+cls
+syscall<$926c13e5> (1200)
+call<$a4eb1e4c, 0> ('bg_1020', -100101)
+call<$5f271e74, 0>
+#res：两人一手拿着冰激凌在站前闲逛。>
+pause
+cls
+#res：流淌下的汗水，以及嘈杂的蝉鸣声。\n时而为些许小事传出笑声的我们。>
+pause
+cls
+#res：这种感觉很久没有过了。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1055')
+#res：姫子「哎呀？ 这件衣服，真可爱啊」>
+pause
+cls
+#res：我们的脚步停在了一家杂货店前。>
+pause
+cls
+#res：姐姐拿起摆放在店前的几件衣服，\n如此说道。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1056')
+#res：姫子「怎么样千寻？ 这件不错吧？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1005')
+#res：千寻：「嗯…但总觉得有点孩子气啊…」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1057')
+#res：姫子「真是的，这点不是挺好的吗。那么可爱」>
+pause
+cls
+#res：那是一件很有夏天味道的，\n白底带黄色向日葵图案的连衣裙。>
+pause
+cls
+#res：对。\n很早以前，姐姐就非常喜欢这种款式的裙子。>
+pause
+cls
+#res：但是，自己并不会穿，>
+pause
+cls
+#res：这种衣服买来后实际被迫穿上的，\n通常是我和优花。>
+pause
+cls
+#res：……也许优花的少女情结？也是姐姐造成的。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1058')
+#res：姫子「那，我去买下来吧」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1006')
+#res：千寻：「啊，等等，姐姐…」>
+pause
+cls
+#res：无视了我的制止声，姐姐快步走向收银台，\n然后笑嘻嘻地拿着刚买的衣服回来了。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1007')
+#res：千寻：「（……又会变成给我们穿的了吧？）」>
+pause
+cls
+#res：高兴当然是很高兴，也许还是有些害羞…>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1059')
+#res：姫子：「别害怕，不会说让你或者优花穿的」>
+pause
+cls
+#res：……不让我们？\n姐姐的话出乎我的意料。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1008')
+#res：千寻：「难道说姐姐，打算自己穿？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1060')
+#res：姫子「怎么会，我可没那么有少女情怀」>
+pause
+cls
+#res：那么到底，是打算要怎么样呢……>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1061')
+#res：姫子「啊，抱歉。果然还是稍微更正一下」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1009')
+#res：千寻：「……更正？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1062')
+#res：姫子「嗯，说不定……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1063')
+#res：姫子「千寻……你可能会穿上这衣服……」>
+pause
+cls
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sora02')
+call<$5f271e74, 0>
+#res：―灼热的阳光。高悬的烈日。>
+pause
+cls
+#res：落在脚边的漆黑影子。\n暑假仅剩几天，前往泳池的孩子们的身影映入眼帘。>
+pause
+cls
+#res：那是，知了还在鸣叫的时候的事情……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+syscall<$926c13e5> (1200)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('tuika_haikei71', 1500)
+call<$5f271e74, 0>
+#res：―　优　花　―>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0002')
+#res：千寻：「―久违地去一趟？」>
+pause
+cls
+call<$d334ba75, 0> ('2o01')
+call<$812afdf0, 0> ('c77yuka_0003')
+#res：千寻：「吹起的风渐凉的时节，\n手机里如此突然收到的邀请让我吃了一惊」>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('car_run22', 100)
+call<$a4eb1e4c, 0> ('car_run2', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77hime_0004')
+#res：姫子「喂优花，你离合器抬太快了啦！」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0004')
+#res：优花：「吵，吵死了，别对新手（原文是paper，日式英语paperdrive的缩写，英文一般说drive on paper only，即拿着驾照没开过车，似乎视国内区域不同有多种叫法，故作此说明）要求那么高啦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77yuka_0005')
+#res：千寻：「－通向那片海的道路上。\n红色敞篷车有些不可靠地行驶着」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0006')
+#res：千寻：「和那时不同的是，姬子坐在了副驾驶」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0007')
+#res：千寻：「然后，握着方向盘的，是我」>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai01')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77hime_0005')
+#res：姫子「喂！你为什么要给那辆莲花seven让道啊！」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0008')
+#res：优花：「所以说，吵死了啦！那边的\n 再说我自驾校毕业以来，还是第一次碰手动挡的车子」>
+pause
+cls
+syscall<$f62e3ca7> ('anami2')
+call<$a4eb1e4c, 0> ('umimiti', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77yuka_0009')
+#res：千寻：「和老样子的姬子一起，穿行在曾经走过的道路上」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0010')
+#res：千寻：「一直延续下去的，长长的海岸线」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0011')
+#res：千寻：「吹拂在肌肤上的风，已稍显寒冷，\n蝉鸣声也早已消失…」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0012')
+#res：千寻：「但无论是刺鼻的海风，还是高耸的海枣，\n都还和那天一样…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('close')
+#res：— 嘎—— \n咔嚓>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1041')
+#res：千寻：「姬子，到了哦」>
+pause
+cls
+syscall<$f62e3ca7> ('umi13b')
+call<$812afdf0, 0> ('himenp_1066')
+#res：姫子「嗯……那么赶紧的，我要奶茶~~」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1042')
+#res：千寻：「好，好，马上去买」>
+pause
+cls
+#res：随后，两人捧着罐装饮料，下到了海滩。>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibe', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77hime_0007')
+#res：姫子「咕噜咕噜，呼，真好喝…」>
+pause
+cls
+#res：当然，我们互相都没有忘记，我们曾手叉着腰喝着饮料…>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibe', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('anami2')
+call<$812afdf0, 0> ('himenp_1067')
+#res：姫子「这里真漂亮呢……什么都没变啊……」>
+pause
+cls
+#res：望着远方某处的姬子说道，\n我默默地点头回应。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1068')
+#res：姫子「我说优花……\n 以前虽然有探病的禁令……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1069')
+#res：姫子「那玩意，果然还是取消了吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1043')
+#res：千寻：「……取消？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1070')
+#res：姫子「嗯，因为我追加了规则……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1044')
+#res：千寻：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1045')
+#res：千寻：「虽然不清楚怎么回事……\n总之就是可以探病了？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1071')
+#res：姫子「嗯……全勤奖之类的，还有其他的，尽管争取吧…」>
+pause
+cls
+#res：这么说着，她看了看我。>
+pause
+cls
+#res：她认真的视线让我不知如何应答。>
+pause
+cls
+syscall<$f62e3ca7> ('anami2')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77yuka_0033')
+#res：千寻：「至今为止已经共处了多年，\n明明即使聊到天亮也不会怕没有话题的……」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0034')
+#res：千寻：「明明已经想着不会再见了，\n明明已经可以像这样再次相聚了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibe')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1046')
+#res：千寻：「事，事到如今，甜瓜这种奖品我才不要呢」>
+pause
+cls
+#res：然而，终于说出口的话语却是这样的。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1072')
+#res：姫子「那么，那个怎么样？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1047')
+#res：千寻：「诶……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1073')
+#res：姫子「只要偶尔坐坐就好……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_chu1', 1000)
+call<$5f271e74, 0>
+#res：说着，姬子指了指自己的车。>
+pause
+cls
+#res：那是曾经，我所拒绝过一次的提案。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1074')
+#res：姫子「嘛，其实是一直没有人继承，\n我还挺困扰的呢」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1048')
+#res：千寻：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1049')
+#res：千寻：「唉，我明白了啦……」>
+pause
+cls
+#res：我大大叹了口气，回答道。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1050')
+#res：千寻：「反正也不会有，其他来拿全勤奖的人……\n我就接受了吧」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1075')
+#res：姫子「啊哈哈，不愧是挚友」>
+pause
+cls
+syscall<$926c13e5> (800)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：―就这样…\n我继承了她的爱车。>
+pause
+cls
+#res：还是初秋的时候。>
+pause
+cls
+#res：自那天开始，医院的停车场里，\n有了作为全勤奖品的红色敞篷车的身影。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('sora03', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+#res：【   十 月   】>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1051')
+#res：千寻：「嘿咻，嘿咻」>
+pause
+cls
+call<$d334ba75, 0> ('2mi02')
+#res：我喘着粗气。\n站立骑着自行车，向着车站全力冲刺中。>
+pause
+cls
+#res：现在的时间是8点44分，\n公司的上班时间是9点30分。>
+pause
+cls
+#res：为了赶上时间，我必须乘上8点51分的快速电车。>
+pause
+cls
+#res：……虽然往常的话，都是坐的上一班车…\n顺便一提，家里到车站是步行10分钟的距离。>
+pause
+cls
+#res：所以通常都是走着去车站的。>
+pause
+cls
+#res：像今天这样不小心睡过了头的时候，\n为了缩短哪怕一点点时间就会用自行车冲刺。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1052')
+#res：千寻：「…有寄放自行车的地方吧…」>
+pause
+cls
+#res：不留心的话可是会被没收的。>
+pause
+cls
+#res：一边担心着这样无所谓的事，一边加快了自行车的速度。>
+pause
+cls
+#res：以最近的我的立场，要尽量避免迟到。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1053')
+#res：千寻：「早上好！」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020', -100101)
+call<$5f271e74, 0>
+#res：我打开办公室的门，精神满满地打着招呼。>
+pause
+cls
+#res：然后在走向自己的办公桌之前，\n先在咖啡机前准备15人份的咖啡。>
+pause
+cls
+#res：这个数量，是这个科的总人数。\n每天早上泡咖啡，也是我的工作。>
+pause
+cls
+#res：―我所供职的，是被称作所谓证券公司的地方。>
+pause
+cls
+#res：虽然已经就职1年半了，\n但还是不变的像新人那样干着杂活。>
+pause
+cls
+#res：现在或许我成了个茶水·咖啡OL…>
+pause
+cls
+#res：他们也不可能把重要的工作，\n交给没有突出的才能，迟钝的不擅长与人交往的自己。>
+pause
+cls
+#res：现在同为女员工的前辈们，\n正和其他人一样干脆利落地处理着工作。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1054')
+#res：千寻：「（……算了，直截了当地说，\n我不怎么机灵吧…）」>
+pause
+cls
+#res：原本，大学毕业时选择这家公司的理由，\n就只是报酬不错加上休息日比较多而已。>
+pause
+cls
+#res：最初就不是经过深思熟虑而决定的工作。>
+pause
+cls
+#res：正因如此对于现在的状况也不打算发什么牢骚……>
+pause
+cls
+#res：但是最近我的立场变得有些微妙。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcm2_005')
+#res：课长：「昭岛，能来一下吗？」>
+pause
+cls
+#res：叫我名字的，是科长。>
+pause
+cls
+#res：作为这个办公室的最高领导，\n这个人叫我的话只会有两件事。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1055')
+#res：千寻：「啊，好的，是咖啡要续杯吗？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_006')
+#res：课长：「不，不是这个，这周要开始进入结算报告的准备了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1056')
+#res：千寻：「嗯，嗯嗯……是这样的…」>
+pause
+cls
+#res：我暧昧地含糊了回答。>
+pause
+cls
+#res：简单来说，科长的话就是『给我加班！』的意思。>
+pause
+cls
+#res：确实这只是一个15人的小部门，\n真忙起来的话就算是我的协助也是需要的。>
+pause
+cls
+#res：……但是真正的理由不是这个。>
+pause
+cls
+#res：是想要展示全体员工的士气吧。>
+pause
+cls
+#res：在其他人都加班加点甚至休息日都出勤拼搏的情况下…>
+pause
+cls
+#res：像我这样的新人每天整点定时下班，\n在气氛上也肯定不会有好的影响。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1057')
+#res：千寻：「不好意思科长，今天有点…」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_007')
+#res：课长：「是吗，其他人也很辛苦的，你自己也注意点啊」>
+pause
+cls
+#res：说着科长露出轻快的笑脸。\n但是眼神却没有在笑。>
+pause
+cls
+#res：从附近办公桌似乎竖起耳朵探听的某人处，\n听到了『啧』的咂舌声。>
+pause
+cls
+#res：暂且是跟课长说过，\n是为了要去朋友那里探病。>
+pause
+cls
+#res：但这能说得过去的也只是几天的程度。>
+pause
+cls
+#res：要是连续数周，数月的话，\n即便是表面表示理解，但内心肯定也不能接受应该也是人之常情也说不一定。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……这种时候，如果是姬子的话…>
+pause
+cls
+#res：会更好地把自己想说的话说清楚吧。>
+pause
+cls
+#res：就算是到时候闹到打起来，\n不如说感觉这之后互相之间会变成清楚明朗的关系。>
+pause
+cls
+#res：明明明白这个道理，但始终说不出强硬话语的我……>
+pause
+cls
+#res：果然还是不得要领吧。>
+pause
+cls
+#res：……大概还挺意外的，\n原本我的性格就不是强硬的那种。>
+pause
+cls
+#res：即便如此至今为止都能像普通人一样生活……>
+pause
+cls
+#res：不可否认是因为有姬子在吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01yb', 1500)
+call<$5f271e74, 0>
+#res：―17：30>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1058')
+#res：千寻：「大家辛苦了，我先走一步了」>
+pause
+cls
+#res：平时更低地埋着头，我离开了办公室。>
+pause
+cls
+#res：明明已经是全公司的下班时间，\n走廊上和电梯厅里却只有零星几个人。>
+pause
+cls
+#res：但我并没有这样直接走出公司，\n而是走向了其他楼层的厕所。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：为的是把现在的职业套装换成轻飘飘的洋装。>
+pause
+cls
+#res：虽然本来应该是在更衣室换的…>
+pause
+cls
+#res：但考虑到自己现在的状况，\n这样轻飘飘的洋装打扮还是尽量别被看到为好。>
+pause
+cls
+#res：……穿成这样去探望别人实在是没有说服力。\n反而会被怀疑。>
+pause
+cls
+#res：再说，\n我当然也想避免现在这种打扮。>
+pause
+cls
+#res：虽然这么想，但这样能让姬子开心。\n让她安心。>
+pause
+cls
+#res：所以，我选择了“伪装”成平时的自己。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora03b', 1000)
+call<$5f271e74, 0>
+#res：坐上快速电车，\n到达车站时已经是日暮时分。>
+pause
+cls
+#res：我再次骑上自行车冲刺。\n所朝向的目的地，是路线全然熟悉的医院。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b04', 1000)
+call<$5f271e74, 0>
+#res：那里，是实现我的全勤奖目标的所在地。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：咚咚。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1076')
+#res：姫子「请进……」>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+#res：门的那边，传来了熟悉的声音，\n但和以前相比有些虚弱。>
+pause
+cls
+#res：但是，我还是像往常一样。>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_open_04')
+call<$812afdf0, 0> ('yukanp_1059')
+#res：千寻：「哟，很精神嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e001', 1200)
+call<$5f271e74, 0>
+#res：说着，我举起一只手爽朗地打招呼。\n也没忘记扬起轻飘飘的裙子。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1060')
+#res：千寻：「身体感觉怎么样？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1077')
+#res：姫子「嗯，一般般吧……」>
+pause
+cls
+#res：从床上撑起身子的姬子回应道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002c', -100101)
+call<$5f271e74, 0>
+#res：还是老样子摊着地图，床边的柜子上，\n放着盛满了刚削好的苹果的盘子。>
+pause
+cls
+#res：看这样子，应该是想削成小兔状样子吧。\n因为刚削好没多久，颜色还是雪白的。>
+pause
+cls
+#res：……我想这一定不用明说……>
+pause
+cls
+#res：是算好我来的时间，\n姬子特意准备的。>
+pause
+cls
+#res：小兔的样子稍微有些走样，\n我也知道最近姬子的手指已经变得不灵活了。>
+pause
+cls
+#res：一想到行动不便的姬子，以姬子的方式努力为我做的，\n我的心中不禁悲伤。>
+pause
+cls
+#res：正因为如此我表现了和平常一样的样子。\n我觉得非得表现得和平常一样不可。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1061')
+#res：千寻：「哇！很好吃的样子啊，让我吃一块吧~」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002b', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1078')
+#res：姫子「喂！优花，谁让你那么不客气地从头开始吃的啊。\n 削成小兔的话应该是有吃法的吧？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1062')
+#res：千寻：「嗯？ 这削的是小兔的吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002d', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1079')
+#res：姫子：「真没礼貌啊。怎么看都是小兔子吧，\n再说苹果削成兔子也算是常识了吧」>
+pause
+cls
+#res：然后，稍微闹别扭似地，姬子也吃了一块。>
+pause
+cls
+#res：而我也同样往嘴里放了第二块。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1080')
+#res：姫子「还有啊优花，\n 要好好先洗手再吃哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1063')
+#res：千寻：「没关系的啦，偶尔的话无所谓的」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1081')
+#res：姫子：「不行哦，你不知道病从口入吗（原文：杂菌是万病之源）……\n不过，这种话从病人的我嘴里说出来好像没啥说服力啊，啊哈哈」>
+pause
+cls
+#res：说着姬子发出爽朗的笑声。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+#res：窗外太阳已完全落山，街上亮起了路灯。>
+pause
+cls
+#res：那15cm宽的夜景，映照出姬子那一如既往的表情……>
+pause
+cls
+#res：她以那比以前更消瘦的身体，\n以那比以前更加微弱的声音笑着……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：―星期天。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1000)
+call<$5f271e74, 0>
+#res：今天休假，我一早就出发去了医院。>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('car_run2')
+call<$5f271e74, 0>
+#res：虽然从家里过去的话骑自行车去就行了，\n但最近我都是开车去的。>
+pause
+cls
+#res：惯常地驾着那辆依诺斯。>
+pause
+cls
+#res：虽然还没习惯手动挡，但总有一天会熟练的。>
+pause
+cls
+#res：……不，已经变得熟练了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：咚咚。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003c', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1064')
+#res：千寻：「哟！今天也很精神嘛」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1082')
+#res：姫子「是啊，托你的福」>
+pause
+cls
+syscall<$f62e3ca7> ('isu2b')
+#res：和往常一样打完招呼后，\n我立刻开始准备轮椅。>
+pause
+cls
+#res：虽然晚上不太出去，\n但白天在医院里瞎逛却是惯例。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1083')
+#res：姫子「快点啊，优花你可是引擎哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1065')
+#res：千寻：「知道了啦，\n我正在固定点滴稍微等一下嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05', -100101)
+call<$5f271e74, 0>
+#res：姬子搭着我的肩从病床移向轮椅。>
+pause
+cls
+#res：手里还拿着装薯片的袋子和塑料罐，\n像是去郊游一般。>
+pause
+cls
+#res：已经不会对每次都这样子感到惊讶了，\n但一开始看到要坐轮椅还是吃了一惊。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：―姬子，明明两周前还能自己走路的。>
+pause
+cls
+#res：那天我们也和往常一样走在中庭，\n突然说『太累了，就坐这个吧』。>
+pause
+cls
+#res：姬子就这样坐上了走廊上排列着的轮椅。>
+pause
+cls
+#res：然后就催促着我帮她推行，刚推了没几步，\n她就大喊『太好玩了，太好玩了！』>
+pause
+cls
+#res：结果那天，竟然从站前推到了商店街…>
+pause
+cls
+#res：结局，那天因为擅自离开医院，\n连我也被医生和护士骂了一顿―>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1066')
+#res：千寻：「那么姬子，去哪里？ 食堂吗？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1084')
+#res：姫子「嗯…总之去中庭吧，天气那么好」>
+pause
+cls
+#res：以行动代替回答，\n我打开病房的门推着轮椅走了出去。>
+pause
+cls
+#res：在到达电梯的途中，\n向谈话室和护士站的人们一一打了招呼。>
+pause
+cls
+#res：现在脸熟的医生和护士越来越多了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：―来到了中庭。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06')
+call<$5f271e74, 0>
+#res：已是10月中旬的现在，\n相应的空气也开始让人感到有些寒冷。>
+pause
+cls
+#res：虽然这么说，但是由于四周都是建筑物，所以也没有风。>
+pause
+cls
+#res：来到中庭后，我们首先走向了花坛……>
+pause
+cls
+#res：确切的说是走向了花坛的外围。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0001', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1085')
+#res：姫子「那么优花，把水管给我吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1067')
+#res：千寻：「嗯，拿好咯」>
+pause
+cls
+#res：花坛的外面有个水龙头。>
+pause
+cls
+#res：在那上面，\n装了一根差不多20米长的软管。>
+pause
+cls
+#res：在这前面停下轮椅。\n我把软管的一头递给了姬子。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1068')
+#res：千寻：「姬子，那么，我开水了哦」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1086')
+#res：姫子「嗯，随时都可以开哦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('shaw2b')
+#res：哗―>
+pause
+cls
+#res：与此同时，水从软管里喷涌而出。>
+pause
+cls
+#res：向着沿着中庭的小径建造的\n宽广的花坛撒去。>
+pause
+cls
+#res：在太阳的照射下，雾状的水滴折射出的彩虹，\n从轮椅上姬子的手中延伸出去。>
+pause
+cls
+syscall<$926c13e5> (1500)
+#res：我缓缓地推着，\n这被小小彩虹缠绕着的轮椅前行。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1087')
+#res：姫子「那个，优花，稍微再推地慢一点」>
+pause
+cls
+#res：时而，姬子发出速度上的指示。>
+pause
+cls
+#res：因为小径旁有好几个花坛，\n太快的话有的地方可能撒不到水。>
+pause
+cls
+#res：就这样，\n姬子想要尽可能亲自帮这里浇水。>
+pause
+cls
+#res：……到底她拘泥于什么呢？\n要亲自浇水…>
+pause
+cls
+#res：这个疑问以前也曾有过，也询问过一次。>
+pause
+cls
+#res：那时她只是一如既往地笑着回答\n『嗯，没什么特别的理由吧』。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1088')
+#res：姫子「啊，稍微停一下，这里要浇得仔细些」>
+pause
+cls
+#res：让我停下来的地方，\n长着些不知名的青草。>
+pause
+cls
+#res：在这夏天的花已完全消失，\n秋天的花也应该都凋谢了的时期竟然还是青草状态不由让我感到稀奇。>
+pause
+cls
+syscall<$f62e3ca7> ('shaw2b')
+call<$a4eb1e4c, 0> ('sin_b06c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1069')
+#res：千寻：「虽然还没有长花蕾，但这应该也是某种花吧？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1089')
+#res：姫子「啊啊，这是水仙哦，水仙。\n你应该也听说过吧？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1070')
+#res：千寻：「啊，嗯。水仙的话还是知道的」>
+pause
+cls
+#res：我暧昧的回答道，其实我只见过它开花的样子。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1090')
+#res：姫子「因为这是冬天的花，所以最早也要到12月才开花」>
+pause
+cls
+#res：如此说着，\n姬子专注地为这些青草浇着水。>
+pause
+cls
+#res：我也在一旁专注地看着。>
+pause
+cls
+syscall<$926c13e5> (1500)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……要是能快点开花就好了…>
+pause
+cls
+#res：明明是理所当然的话，却在我口中犹豫不前。>
+pause
+cls
+#res：到了12月的话…到12月…\n听说姬子是撑不到那个时候的。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0001', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1091')
+#res：姫子「果然啊……别看我这样，还是有许多事放不下心啊」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1071')
+#res：千寻：「诶？」>
+pause
+cls
+#res：突然。姬子这样说道。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1092')
+#res：姫子「千寻呢，倒还好，可以放心」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1072')
+#res：千寻：「是吗？ 不担心千寻啊」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1093')
+#res：姫子「不，虽然不是完全放心，\n别看千寻那样，可是很坚强的孩子哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1073')
+#res：千寻：「那你是担心谁呢？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1094')
+#res：姫子「嗯…果然还是濑津美吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1074')
+#res：千寻：「……濑津美？」>
+pause
+cls
+#res：第一次听到这个名字。>
+pause
+cls
+#res：和姬子也是老朋友了，\n互相的朋友应该都认识的……>
+pause
+cls
+#res：那么应该是没有和姬子见面的，\n这几个月里认识的吧。>
+pause
+cls
+#res：想到这里，\n一个人影在我脑中一闪而过。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1075')
+#res：千寻：「难道说……是上次在海边碰到的那个孩子？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1095')
+#res：姫子「对，虽然才只有15岁，\n算是忘年之交吧」>
+pause
+cls
+#res：关于这个叫濑津美的女孩子，\n除了见过一面以外，其他什么都不知道。>
+pause
+cls
+#res：只是，她既然让姬子那么不放心……>
+pause
+cls
+#res：那么对于姬子来说，一定有着什么重要的意义吧。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1076')
+#res：千寻：「那个，姬子，要是有什么我可以帮忙的你尽管说」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1096')
+#res：姫子「嗯？ 濑津美的事情？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1077')
+#res：千寻：「对，\n 你也不想留下挂念吧」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1097')
+#res：姫子「嗯，也对呢……」>
+pause
+cls
+#res：姬子考虑了许久。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1098')
+#res：姫子「要是看到那孩子穿着连衣裙……\n就带她去兜风吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1078')
+#res：千寻：「哈？ 连衣裙？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1099')
+#res：姫子「但是，要是穿着睡衣的话……\n那就别去管她吧…」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1100')
+#res：姫子「因为要是穿着睡衣的话，\n那就表示还没给出回答吧」>
+pause
+cls
+#res：完全不知道是什么意思。>
+pause
+cls
+#res：不对，字面上的意思我理解，但不知道她的意图是什么。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1079')
+#res：千寻：「知道了，不，说实话不是很清楚，\n总之我知道了」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1101')
+#res：姫子「……不好意思啊，优花」>
+pause
+cls
+#res：之后帮所有的花坛都浇完水。\n我们离开了中庭。>
+pause
+cls
+#res：姬子突然转过头来对我说道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1102')
+#res：姫子「但是啊优花……我最放心不下的其实是你哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1080')
+#res：千寻：「……我？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1103')
+#res：姫子「嗯嗯，所以至少有在为你祈祷哦……\n虽然只是普通的信徒，还达不到魔法的程度」>
+pause
+cls
+#res：然后静静地闭上了眼……>
+pause
+cls
+call<$812afdf0, 0> ('c77hime_0023')
+#res：姫子「…愿主的恩惠与祝福降临于你…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0001c', 2000)
+call<$5f271e74, 0>
+#res：阳光洒在泛着水汽的花坛上，折射出几道彩虹。>
+pause
+cls
+#res：正在祈祷的姬子，坐在被这彩虹围绕着的轮椅之上。>
+pause
+cls
+#res：这身影，让人感到十分美丽，十分梦幻。>
+pause
+cls
+#res：明明是共处了多年，\n互相无所不知的挚友……>
+pause
+cls
+#res：为何现在却感觉到她离我如此遥远，十分难过。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('sora01y2', 1500)
+call<$5f271e74, 0>
+#res：―几天后。>
+pause
+cls
+#res：结束一天的工作，\n开始期待下班的17点。>
+pause
+cls
+call<$d334ba75, 0> ('2mi02')
+call<$a4eb1e4c, 0> ('bg_2020b', -100101)
+call<$5f271e74, 0>
+#res：虽然今天是周四，\n办公室却比平时更忙。>
+pause
+cls
+#res：……虽然感到很对不起其他人…>
+pause
+cls
+#res：一边考虑着这些，我一边开始收拾准备下班。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_008')
+#res：课长：「昭岛，今天可以加班吗？」>
+pause
+cls
+#res：突然传来了科长的声音。>
+pause
+cls
+#res：和以前不同，\n直截了当地说出了加班这个词。>
+pause
+cls
+#res：而且这话一说，周围都静了下来。>
+pause
+cls
+#res：不用说其他人都竖起了耳朵，在等着我的回答吧。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1081')
+#res：千寻：「这，那个，实在是很抱歉……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_009')
+#res：课长：「也不是要你加到晚上十点、十一点，\n2个小时就可以了」>
+pause
+cls
+#res：虽然用词和语气还算平和，\n但明显比以前显得愠怒。>
+pause
+cls
+#res：因为最近一直是一到时间我就急匆匆溜号，所以更会如此吧……>
+pause
+cls
+#res：但是今天，\n千寻说有关于姬子的事要跟我谈。>
+pause
+cls
+#res：所以对我来说，无论如何都想要快点回去。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1082')
+#res：千寻：「对不起科长，可以的话果然还是……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_010')
+#res：课长：「是吗？果然还是不行吗？」>
+pause
+cls
+#res：这次的语气，任谁都听得出来带有厌恶的意味。>
+pause
+cls
+#res：附近桌子上的人小声嘟囔着『所以说没用的啦』。>
+pause
+cls
+#res：事到如今已不单单是加班和职场士气的问题，\n而是关系到办公室领导面子的问题了。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_011')
+#res：课长：「……记得你是说要去探望朋友吧？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1083')
+#res：千寻：「啊，嗯，是这样的……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_012')
+#res：课长：「我也不是不明白你的心情，\n因为是重要的朋友更加如此吧」>
+pause
+cls
+#res：然后科长叹了一口气。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_013')
+#res：课长：「那个，昭岛，这话虽然很难说出口……\n公司只规定至亲的丧事可以请一周」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_014')
+#res：课长：「关于手术和探望\n 没有特别的规定」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1084')
+#res：千寻：「…………………」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_015')
+#res：课长：「所以，希望你明白，这也算常识」>
+pause
+cls
+#res：虽然是委婉的说法，\n但他想要说什么我已经十分明白了。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_016')
+#res：课长：「那么，我要说的就这些了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1085')
+#res：千寻：「……对不起」>
+pause
+cls
+#res：我深深地低下了头。>
+pause
+cls
+#res：想不出其它要说的话。\n即使想得出也不是说得出口的性格。>
+pause
+cls
+#res：从远处能听到『科长，别把女孩子惹哭唷』，\n这样的起哄声让我又悲又悔。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：终于到了17点30的下班时间，\n我如同逃跑一般地离开了办公室。>
+pause
+cls
+#res：当然换衣服也比平时更快地完成了。>
+pause
+cls
+#res：……千寻，\n虽然不知道她要说什么但还是快点吧…>
+pause
+cls
+#res：一边这么想着，\n正要离开一楼大厅的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b07b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcw4_108')
+#res：女子社员１：「啊？ 昭岛？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1086')
+#res：千寻：「诶？啊……前辈们…」>
+pause
+cls
+#res：恐怕是因为加班而去便利店买东西正回来吧。>
+pause
+cls
+#res：时机不巧，正好碰上了一群OL前辈。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e002', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcw4_109')
+#res：女子社员１：「呼~每天的定时下班冲刺辛苦了」>
+pause
+cls
+#res：看着我一身轻飘飘的衣服说着，\n浮现出轻佻的笑脸，明显充满了厌恶。>
+pause
+cls
+call<$812afdf0, 0> ('npetcw2_144')
+#res：女子社员２：「像我们这种人，只好啃着便利店的饭团，\n加班到坐末班车回家呢~」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1087')
+#res：千寻：「……对不起，再过一小段时间就好了……\n所以现在…」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_105')
+#res：女子社员３：「那我问你，一小段时间到底是多久？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1088')
+#res：千寻：「诶，这个……」>
+pause
+cls
+#res：回答不上来。>
+pause
+#res：不，也不是回答不出。>
+pause
+cls
+#res：从千寻那里，听说了可能还有一个月左右。>
+pause
+cls
+#res：虽然没有明说，\n姬子自己也表达过类似微妙的话语。>
+pause
+cls
+#res：但是，\n这个期限要我说出口时我犹豫了。>
+pause
+cls
+#res：……从我嘴里说出来的话，\n就仿佛承认了姬子的死期一样可怕。>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_106')
+#res：女子社员３：「昭岛，你怎么不回答了？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_110')
+#res：女子社员１：「再说，你说是探望朋友，\n你这身打扮是想怎么个探望法呀」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw2_145')
+#res：女子社员２：「笨蛋，这不摆明了是去找男人的吗」>
+pause
+cls
+call<$812afdf0, 0> ('npetcw4_107')
+#res：女子社员３：「果然是吧，一从科长那里尝到了甜头就嚣张起来了，\n现在的年轻人不教育一下不行啊」>
+pause
+cls
+#res：接下来都是充斥着嘲笑和中伤的言语。>
+pause
+cls
+#res：我只好一声不吭地听着。>
+pause
+cls
+#res：即使想要解释，我也不认为\n凭我的口才能说清楚。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1089')
+#res：千寻：「对不起，先失陪了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：只说了这一句，\n挤过前辈所组成的人墙，全力飞奔了出去。>
+pause
+cls
+#res：完全不顾身后传来的『喂，站住！』的喊声\n全力飞奔。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_yoru01', 1200)
+call<$5f271e74, 0>
+#res：……明天上班的时候肯定会更难堪吧…>
+pause
+cls
+#res：想着这些，\n天色已稍显昏暗，我快步向着逐渐变得昏暗的车站走去。>
+pause
+cls
+#res：心中充满了莫名的悲伤。\n现在立刻就想去到姬子的身边。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('sin_b08', 1500)
+call<$a4eb1e4c, 0> ('sin_b08b', 1500)
+call<$5f271e74, 0>
+#res：－千 寻－>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1010')
+#res：千寻：「来，姐姐，我把晚餐的盘子拿来了哦」>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$a4eb1e4c, 0> ('n2e_0002c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1104')
+#res：姫子「谢谢……千寻你今天也带自己的便当来了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1011')
+#res：千寻：「嗯，想和姐姐一起吃」>
+pause
+cls
+#res：说着，我在柜子上打开了便当。\n因为想分一点给姐姐所以稍稍多做了一些。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1012')
+#res：千寻：「今天做了你以前点名想吃的可乐饼哦」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1105')
+#res：姫子「谢谢，不知怎么就突然想吃了呢」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1013')
+#res：千寻：「那个…圆形的是蔬菜馅的，\n椭圆形的是蟹肉奶油馅的」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1106')
+#res：姫子「那么，我就吃一个蟹肉奶油馅的吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：从床上起身的姐姐，把筷子伸向柜子上的便当盒。>
+pause
+cls
+#res：我也同样夹了一块，两个人一同吃起了可乐饼。>
+pause
+cls
+#res：……以前兴起就会跑去食堂，\n随意吃想吃的东西的姐姐。>
+pause
+cls
+#res：但是，也没有这样的事了。>
+pause
+cls
+#res：即使姐姐不说，\n因为我也负责过几次7F的病人，所以我明白。>
+pause
+cls
+#res：这其实不是不想吃而是不能吃。\n事实上能吃的东西已经相当有限了。>
+pause
+cls
+#res：即便想吃，如果不是柔软的流质的食物，\n对她而言难以下咽……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b05b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1107')
+#res：姫子「对了千寻，那个，快了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1014')
+#res：千寻：「什么？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1108')
+#res：姫子「那个，点滴啦点滴」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1015')
+#res：千寻：「嗯，这个大概还要吊一小时吧」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1109')
+#res：姫子「不是指这个啦……是更换点滴的事」>
+pause
+cls
+#res：我不由得打了个冷颤。>
+pause
+cls
+#res：这并不是指现在的点滴吊完，\n单纯地换成下一瓶这件事。>
+pause
+cls
+#res：而是一个令人心情沉重的，\n也是这几天里不得不决定的重要决定。>
+pause
+cls
+#res：……今天正好想跟优花商量的，\n没想到姐姐自己先提起了。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1110')
+#res：姫子：「千寻，你瞒着我是没用的，\n无论如何我的经历(指7F的 helper)可比你长哦」>
+pause
+cls
+#res：我决定放弃隐瞒实话实说了。>
+pause
+cls
+#res：恐怕想要委婉一点也没用，\n迟早是不得不说的。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1016')
+#res：千寻：「……嗯，我想周末医生就会来找你谈话的」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1111')
+#res：姫子「啊，比我想的还要早啊……\n因为是我才特别关照的吧？」>
+pause
+cls
+#res：更换点滴的意思。>
+pause
+cls
+#res：很遗憾止痛用的吗啡是有安全用量的，\n用量再怎么增加也是有界限的。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1017')
+#res：千寻：「那么你打算怎么办，姐姐？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1112')
+#res：姫子「是啊，嗯…怎么办呢」>
+pause
+cls
+#res：姐姐手托着头，做出苦恼的样子。>
+pause
+cls
+#res：这“最后”的点滴并非强制，\n而是可以根据病人自己的想法决定。>
+pause
+cls
+#res：不知别的医院是怎么样的，\n但至少这个医院是采用这个方法。>
+pause
+cls
+#res：……通常应该是在更晚期的时候才告知病人的。>
+pause
+cls
+#res：恐怕正如姐姐所说，\n因为是熟人所以才会更早来征取意见的吧。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1018')
+#res：千寻：「难道说姐姐，你打算接受？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1113')
+#res：姫子「嗯，我接受打点滴了，\n 也算是医生的一片厚意吧」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1019')
+#res：千寻：「但，但是，姐姐……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1114')
+#res：姫子「没关系。\n 我自己也不想太疼痛的」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：姐姐一边说着，露出了笑脸。>
+pause
+cls
+#res：……但其实不是这样。>
+pause
+cls
+#res：姐姐不会因为这个理由就接受打点滴的，\n这点我是知道的。>
+pause
+cls
+#res：一定是不想让我和父母，\n还有朋友看到自己痛苦的样子。>
+pause
+cls
+#res：特别是优花，绝对不想让她看到那样子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1115')
+#res：姫子「那个，千寻，\n你是一个比自己想象得还要坚强的孩子哦」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1020')
+#res：千寻：「哎…」>
+pause
+cls
+#res：话题突然转到我的身上让我吃了一惊。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1116')
+#res：姫子「不是吗？ 每天大学下课后都来七楼，\n休息天还要去辅读学校做志愿者」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1117')
+#res：姫子「而且教会的善工活动也从不缺席……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1118')
+#res：姫子「如果有神存在的话，一定会让你去天堂的」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1021')
+#res：千寻：「……姐姐…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002c')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1119')
+#res：姫子「所以什么也别说了，\n我死后你就暂时别做helper了」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1120')
+#res：姫子「以后即使再想当的话也要去别的医院当」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1022')
+#res：千寻：「……那么，不能再来这个医院了吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1121')
+#res：姫子：「那时的话……也要等你完全恢复过来再说哦」>
+pause
+cls
+#res：和平时不同，姐姐口吻平静地说道。>
+pause
+cls
+#res：虽然还不十分理解，但还是默默点了点头。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002c')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1122')
+#res：姫子：「这可是对你施的魔法哦」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1023')
+#res：千寻：「……魔法？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1123')
+#res：姫子：「对，不过以我的等级效果可能无法期待……\n啊，说起来有件事要拜托你」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说着她从床底下取出了纸箱。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1124')
+#res：姫子：「不知哪天，濑津美可能会来拜访你」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1024')
+#res：千寻：「濑津美？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1125')
+#res：姫子：「然后那时，要是拿着衣服来的话就帮我把这个交给她」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1025')
+#res：千寻：「难道说……这是对濑津美施的魔法？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1126')
+#res：姫子：「嗯，算是剩下的一半吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora06', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sin_b09', 100)
+call<$a4eb1e4c, 0> ('sin_b09b', 1500)
+call<$a4eb1e4c, 0> ('sin_b09c', 1000)
+call<$5f271e74, 0>
+#res：【   优 花 ― 全 勤 奖   】>
+pause
+cls
+#res：白昼逐渐变短的10月的天空下。>
+pause
+cls
+#res：天色渐暗之时，我走向熟悉的场所。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：咚咚，咔嚓。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1090')
+#res：千寻：「哟，依旧很精神嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_00032', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1127')
+#res：姫子：「欢迎，优花」>
+pause
+cls
+syscall<$f62e3ca7> ('isu2b')
+#res：和往常一样坐上折叠椅，开始今天的聊天。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1128')
+#res：姫子：「对了优花，关于全勤奖……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1091')
+#res：千寻：「什么嘛，\n 我可是一次都没落下哦」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1129')
+#res：姫子：「不是说这个……到这周周末就OK了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1092')
+#res：千寻：「诶……」>
+pause
+cls
+#res：……难道说就这样……瞬间闪过不好的预感。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1130')
+#res：姫子：「不是，\n 离死可能还要有一段时间……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1093')
+#res：千寻：「什么啊，你别吓我啊」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1131')
+#res：姫子：「……但是啊，因为马上要换点滴了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1094')
+#res：千寻：「点滴？ 不懂什么意思」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1132')
+#res：姫子：「那个呢，优花，只要一开始使用这种点滴……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1133')
+#res：姫子：「到底是清醒着还是睡着，\n连自己都会分辨不清楚哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1095')
+#res：千寻：「…………………」>
+pause
+cls
+#res：事发突然，让人无言以对。>
+pause
+cls
+#res：事实上，\n是完全想不到该说什么好。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1134')
+#res：姫子：「所以，打了这种点滴之后，\n我就不是原来的我了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1096')
+#res：千寻：「但，但是，即使你这么说……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1135')
+#res：姫子：「不行哦，\n 我也不想让你看到我的这种样子」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1097')
+#res：千寻：「…………………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：之后持续了一段问答式的交谈，\n我离开了病房。>
+pause
+cls
+#res：随后为了了解详细的情况，我开始寻找她的身影。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1098')
+#res：千寻：「千寻，来一下好吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('tihinp_1026')
+#res：千寻：「啊，优花……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1099')
+#res：千寻：「那个，关于点滴的事，是真的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1027')
+#res：千寻：「嗯…本来的话，\n应该是等症状进一步恶化时再使用的……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1100')
+#res：千寻：「使用了这个之后，\n真的会连睡着还是醒着都分不出吗？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1028')
+#res：千寻：「嗯嗯，但因人而异，有清醒期比较长的，\n也有一直长眠不醒的」>
+pause
+cls
+#res：……是真的啊。>
+pause
+cls
+#res：并不是怀疑姬子所说，\n只是太过唐突心情无法平静。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1101')
+#res：千寻：「那是什么时候开始？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1029')
+#res：千寻：「恐怕是从周六的早上开始」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1102')
+#res：千寻：「周六……那不是后天吗」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1030')
+#res：千寻：「不，不是后天，按明天就是最后一天来考虑会比较好」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1103')
+#res：千寻：「诶？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1031')
+#res：千寻：「肯定当天早上不仅医生们，\n还有教会的神父们也会过来…」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1032')
+#res：千寻：「我想实质上能和我们见面的可能只有明天了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1104')
+#res：千寻：「怎，怎么会，明天就是最后了……这也太突然了…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+#res：―翌日>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora03', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1105')
+#res：千寻：「嘿咻 嘿咻」>
+pause
+cls
+call<$d334ba75, 0> ('2sou01')
+#res：不由得喘起了气，\n保持着站起状态骑着自行车，向车站全力冲刺中。>
+pause
+cls
+#res：现在才7点50分。>
+pause
+cls
+#res：虽然远比平时要早，\n但我还是骑着自行车向公司前进。>
+pause
+cls
+#res：……因为发生了昨天的事所以早点去……>
+pause
+cls
+#res：当然也有这种想法，\n但满身大汗的程度远不止于此。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1106')
+#res：千寻：「早上好！咖啡来了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020', -100101)
+call<$5f271e74, 0>
+#res：和往常一样，伴随着亲切的笑脸，\n为办公室的大家端上咖啡。>
+pause
+cls
+#res：昨天晚上衣服的事情，应该已经传开了吧。>
+pause
+cls
+#res：我递过去咖啡，\n有的人明显表现出顾虑的反应。>
+pause
+cls
+#res：和往常一样今天的工作依然忙得不可开交。>
+pause
+cls
+#res：不断接听着客户电话的人，\n在股票报表前讨论的人们。>
+pause
+cls
+#res：急促的键盘敲击声也在不断回响。>
+pause
+cls
+#res：而我的桌子上，\n是堆积如山的显然是不必要的估价书核对单。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……可是，我的心却不在这里。>
+pause
+cls
+#res：看了看时钟，才是上午……不，已经是上午了。>
+pause
+cls
+#res：今天是和姬子见面的最后的一天了。>
+pause
+cls
+#res：已经共同度过了多少年，\n无论做什么都在一起的……>
+pause
+cls
+#res：我再也无法忍耐，站起身来。>
+pause
+cls
+syscall<$f62e3ca7> ('isu1')
+call<$a4eb1e4c, 0> ('bg_2020')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1107')
+#res：千寻：「对不起，科长……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_017')
+#res：课长：「怎么了，昭岛？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1108')
+#res：千寻：「今天，请让我早退」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_018')
+#res：课长：「啊！ 早退？」>
+pause
+cls
+#res：不是发怒的语气。\n不，应该说是惊呆了吧。>
+pause
+cls
+#res：但这结合我以往的表现和昨天的事情来看也是当然的。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_019')
+#res：课长：「你，搞得清现在的状况吗？ 在最忙的时候早退？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1109')
+#res：千寻：「嗯，对，虽然很抱歉但……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_020')
+#res：课长：「我也不是想生气……\n你认为朋友和工作，到底哪个重要？」>
+pause
+cls
+#res：虽然说得很平静，\n但却其实是透着『炒你鱿鱼』的味道。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1110')
+#res：千寻：「这个……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_021')
+#res：课长：「你也不是小孩子了，做好觉悟回答我！」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1111')
+#res：千寻：「…………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……其实真想直截了当地回答朋友更重要…>
+pause
+cls
+#res：但是我真的很为难。>
+pause
+cls
+#res：比起被公司炒鱿鱼，\n更害怕被人所厌恶。>
+pause
+cls
+#res：不禁开始搜寻能摆脱现在的状况，\n可以脱离这个场面的说辞……>
+pause
+cls
+#res：但先别说找不找得到合适的话，\n就连能巧妙说出这些话的勇气我都没有。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1112')
+#res：千寻：「对，对不起，总之请允许我早退」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_022')
+#res：课长：「喂，喂，昭岛……」>
+pause
+cls
+#res：连考勤卡也没打，就这样奔向走廊，\n我飞奔出公司。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$5f271e74, 0>
+#res：……为什么就不能挺起胸膛，\n去到姬子身边呢……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora03')
+call<$5f271e74, 0>
+#res：艳阳高照。\n在回程的高速电车的摇晃中，我一直考虑着这个问题。>
+pause
+cls
+#res：倒不是生公司里人的气。>
+pause
+cls
+#res：反倒是觉得自己给他们带来了麻烦，\n愧疚不已。>
+pause
+cls
+#res：但是，更感觉愧对姬子……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_1020')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1113')
+#res：千寻：「即使是本末倒置，\n让公司的人生自己的气也不好……」>
+pause
+cls
+#res：明明很清楚什么才是对我来说最重要的，\n想要守护的到底是什么。>
+pause
+cls
+#res：对于这样无法率直地去做的自己，感到丢脸>
+pause
+cls
+#res：……对自己的软弱感到悔恨。\n对姬子感到愧疚。想快点见到她。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a005', -100101)
+call<$5f271e74, 0>
+#res：到了医院后，我立即快步走向电梯。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：按下最上层的7F按钮，\n电梯运行的30秒令我感觉无比漫长。>
+pause
+cls
+syscall<$f62e3ca7> ('ele2')
+#res：―叮。>
+pause
+cls
+syscall<$708b0256> ('autodoor')
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+#res：电梯门缓缓打开也让我焦急万分，\n我不由地快步向病房小步跑去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：咚咚，咔嚓。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1114')
+#res：千寻：「哈、哈、 姬、姬子，我来了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1136')
+#res：姫子：「怎么了优花，上气不接下气的」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1115')
+#res：千寻：「稍，稍微跑了一下，所以有点，哈，哈，」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003c', 200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1137')
+#res：姫子：「真是的，拿你没办法，医院里可不能奔跑哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1116')
+#res：千寻：「啊，抱歉抱歉……」>
+pause
+cls
+syscall<$f62e3ca7> ('isu2b')
+#res：坐上折叠椅，先调整了一下呼吸。>
+pause
+cls
+#res：虽然想尽量普通地，\n和往常一样的面对姬子…>
+pause
+cls
+#res：可今天的我却没什么自信。>
+pause
+cls
+#res：但是，正因为是这个时候……\n我才更要伪装成平时的我。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1138')
+#res：姫子：「说起来你今天不是要上班吗？ 现在还是上午吧？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1117')
+#res：千寻：「嗯，啊啊，今天很闲所以就早退了」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1139')
+#res：姫子：「你的公司，明明是工作日的周五却很闲？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1118')
+#res：千寻：「算是吧，现在哪儿都不景气。\n再这样的话年终奖没了都不奇怪」>
+pause
+cls
+#res：说着尝试露出轻松的笑容。>
+pause
+cls
+#res：……绝不能被察觉。\n本来姬子就比较敏锐。>
+pause
+cls
+#res：现在无论是多细微的细节，\n都不想让给她留下心理负担>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1140')
+#res：姫子：「对了优花，难得那么上午就来了，\n带我去中庭吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1119')
+#res：千寻：「诶？啊，啊啊。嗯……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('shaw2b')
+#res：―哗…>
+pause
+cls
+#res：软管里的水向花坛撒去。>
+pause
+cls
+#res：日光折射成的小小的彩虹，今天同样也围绕着姬子。>
+pause
+cls
+syscall<$926c13e5> (1200)
+call<$812afdf0, 0> ('himenp_1141')
+#res：姫子：「不过啊优花，偶尔穿成这样也不错啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0001d', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1120')
+#res：千寻：「诶？」>
+pause
+cls
+#res：―糟了。>
+pause
+cls
+#res：说了我才发现，今天还穿着套装。>
+pause
+cls
+#res：连去一楼厕所换衣服都忘了，\n就这样奔了出来。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1121')
+#res：千寻：「啊，啊啊。\n今天有点冷，还穿得轻飘飘的就……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1142')
+#res：姫子：「嗯？虽然不是很明白……\n不过挺适合你的」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1122')
+#res：千寻：「诶？真，真的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1143')
+#res：姫子：「是啊，看起来不是很出色的样子嘛，\n即便是又软弱又不可靠的你…」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1123')
+#res：千寻：「等下，你，你说谁软弱……」>
+pause
+cls
+#res：刚想反驳，立刻停了下来。>
+pause
+cls
+#res：长期交往的姬子，\n早把我的性格看透了。>
+pause
+cls
+#res：继续动摇的话，很难再保持现在平静的状态了吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1144')
+#res：姫子：「啊，等一下！这里是重点洒水的地方」>
+pause
+cls
+#res：停下轮椅，所指的地方还是以前的那片青草区域。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1124')
+#res：千寻：「那个，好像是水仙吧？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1145')
+#res：姫子：「对对，虽然长得很高了\n 但距离结花蕾还早」>
+pause
+cls
+#res：以前听说是这花最早也要12月开。>
+pause
+cls
+#res：与之相对的现在才10月末。\n而且明天，姬子就决定要接受那点滴了。>
+pause
+cls
+#res：虽说是在意料之内，\n姬子想看到这花的愿望是实现不了了吧……>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1125')
+#res：千寻：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1146')
+#res：姫子：「嗯？ 干嘛耷拉着脸啊」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1126')
+#res：千寻：「啊，抱，抱歉……」>
+pause
+cls
+#res：尽管我尽量不想表现出这样的态度，\n可还是无意间露出了这表情。>
+pause
+cls
+#res：……现在我绝不能表现出异样。>
+pause
+cls
+#res：必须和平时一样。\n直到最后，都绝不可露出悲伤的表情。>
+pause
+cls
+#res：对明天即将消失的姬子，\n绝不能让她抱有一丝的不安。>
+pause
+cls
+#res：―这是把全勤奖作为目标的人，为自己施加的一条规则。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1147')
+#res：姫子：「那么，接下来移动到郁金香的花坛」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1127')
+#res：千寻：「好好，现在马上推你过去」>
+pause
+cls
+#res：……但是…>
+pause
+#res：…现在这样真的好吗…>
+pause
+cls
+#res：明天的这个时候可是已经不能再见了啊……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：终于帮所有的花坛都浇完了水…>
+pause
+cls
+#res：正要回病房时。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1148')
+#res：姫子：「呐，优花，现在几点？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1128')
+#res：千寻：「嗯，下午一点左右吧」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1149')
+#res：姫子：「那么，再过几小时也没关系吧……」>
+pause
+cls
+#res：正想着她到底要说什么，\n姬子指向了下一个移动方向。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1129')
+#res：千寻：「诶？难道说？」>
+pause
+cls
+#res：手的地方是门诊接待对面的……停车场。>
+pause
+cls
+#res：当然，那里也通向医院后门。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1150')
+#res：姫子：「呐，有个想去的地方，能带我去吗？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1130')
+#res：千寻：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1151')
+#res：姫子：「记得没错的话，你应该是把公路之星停在停车场的吧？」>
+pause
+cls
+#res：我默默点了点头，然后静静说道。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1131')
+#res：千寻：「……现在出去？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1152')
+#res：姫子：「对，只有现在了吧。\n因为明天的这个时候，我已经不是我了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1132')
+#res：千寻：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1153')
+#res：姫子：「啊，顺便一提，\n被医院的人看到就糟了，所以难度很高哦」>
+pause
+cls
+#res：……该如何回答，一时踌躇不已。>
+pause
+cls
+#res：按照常识考虑的话这种事是绝不允许的，\n可能还会被问责也说不定。>
+pause
+cls
+#res：毕竟这是对医生们一片好意的背叛也说不定。>
+pause
+cls
+#res：当然，以现在这种状况，\n也没人会批准我带她出去…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：但是……我不一样。>
+pause
+cls
+#res：哪怕是全世界都会拒绝的要求…>
+pause
+cls
+#res：我也…>
+pause
+#res：…因为是“挚友”。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1133')
+#res：千寻：「……明白了」>
+pause
+cls
+#res：简短的回答后，\n我把轮椅推向正面的进出口。>
+pause
+cls
+#res：比起急救用的和入退院用的出入口，\n这边比较不引人注目。>
+pause
+cls
+#res：到达停车场之后\n一边警觉地东张西望，一边向车子推去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_chu', -100101)
+call<$5f271e74, 0>
+#res：停车场的一角，\n静静停放着一辆红色敞篷车。>
+pause
+cls
+#res：这是作为全勤奖的奖品，\n即将归我所有的车子。>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('yukanp_1134')
+#res：千寻：「嘿咻……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1154')
+#res：姫子：「不好意思啊，我太重了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1135')
+#res：千寻：「没关系，就这点程度的话」>
+pause
+cls
+#res：将车子的现任主人\n从轮椅搬上副驾驶座。>
+pause
+cls
+#res：然后升起车篷，将点滴固定在副驾驶位上，\n轻轻为姬子系好安全带。>
+pause
+cls
+#res：就连那么柔弱的我也能抱得动，\n姬子身体的衰弱程度可想而知。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1136')
+#res：千寻：「那么出发了哦……」>
+pause
+cls
+syscall<$f62e3ca7> ('car_start')
+#res：只说了这句我便发动了引擎，\n驶出停车场向门口的十字路口开去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora02', 1000)
+call<$5f271e74, 0>
+#res：还是没有熟悉离合的控制，\n车身咔哒咔哒的震动着向前开去。>
+pause
+cls
+#res：透过挡风玻璃仰视着10月的天空。>
+pause
+cls
+#res：不知为何令人生畏的蔚蓝澄清…>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：― 埼玉县某地 ―14：00（午后2点）>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('car_run22', 10)
+call<$a4eb1e4c, 0> ('car_run2', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('e02')
+#res：驰骋在不知名道路上的公路之星，\n火红的车身上倒映着天空。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1155')
+#res：姫子：「优花，下一个路口，右转」>
+pause
+cls
+#res：正好离开医院大概2小时。>
+pause
+cls
+#res：时不时，\n听从着姬子的指示，现在正奔驰在某条宽阔的国道上。>
+pause
+cls
+#res：本来就不太开车的我，\n现在已经完全不知道是在哪里了。>
+pause
+cls
+#res：更不知道我们究竟是要去哪里。>
+pause
+cls
+#res：但姬子似乎很清楚，\n不断在重要的路口发出着指示。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai03', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1156')
+#res：姫子：「穿过荒川哦……」>
+pause
+cls
+#res：眼前出现的是，“东京都欢迎你”的招牌。\n看来似乎已经进入板桥区了。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1137')
+#res：千寻：「呐，姬子，到底是要去哪里啊？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1157')
+#res：姫子：「嗯…再等一下，马上就到了」>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sora01yb', 1200)
+call<$5f271e74, 0>
+#res：然后暂且直行着，\n又拐过好几个大大的十字路口时，>
+pause
+cls
+#res：在白昼渐短的日子里，夕阳开始染红天际的时候…>
+pause
+cls
+#res：突然出现在眼前的是再熟悉不过的场所。>
+pause
+cls
+syscall<$f62e3ca7> ('car_stop2')
+call<$a4eb1e4c, 0> ('sin_b11', -100101)
+call<$5f271e74, 0>
+#res：……这是每天去公司时下车的车站…>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1138')
+#res：千寻：「姬子……难道说？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1158')
+#res：姫子：「对，就是难道说」>
+pause
+cls
+#res：不想被察觉的。>
+pause
+cls
+#res：公司的事一点儿都没向别人提起过。\n不要说姬子，就连千寻也没有过。>
+pause
+cls
+#res：况且也没带谁来过公司，\n说到底没理由会知道过来的路啊。>
+pause
+cls
+#res：这车子也没有导航系统，\n到底是怎么知道的……>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1139')
+#res：千寻：「……为什么会知道这个地方？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1159')
+#res：姫子：「嗯？ 只要知道地址的话总有办法的哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1140')
+#res：千寻：「…………………」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1160')
+#res：姫子：「哼哼，不要小看姬子我哦……\n记住全日本的地图可不是吹牛哦」>
+pause
+cls
+#res：然后立起躺在椅子上的身体。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1161')
+#res：姫子：「那么，带我去吧」>
+pause
+cls
+#res：说着向外伸出了手。\n当然这里并没有轮椅。>
+pause
+cls
+#res：本来敞篷车就没放轮椅的空间，\n而且也没想到还要下车。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1141')
+#res：千寻：「但，但是，姬子……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1162')
+#res：姫子：「没关系，不用那么紧张，\n只是想去和公司的人稍微打下招呼而已」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1142')
+#res：千寻：「…………………」>
+pause
+cls
+#res：……姬子到底已经察觉到了什么程度啊？>
+pause
+cls
+#res：的确我给公司增添了不少麻烦，这我也知道。>
+pause
+cls
+#res：可如果，姬子要是对此感觉是自己的责任的话……>
+pause
+cls
+#res：因此想要代替我去道歉的话，\n这种事绝对不可以。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1163')
+#res：姫子：「优花，你别搞错，\n我可一点都没有去道歉的意思」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1143')
+#res：千寻：「诶？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1164')
+#res：姫子：「而且也不是为了你……而是为了我哦」>
+pause
+cls
+#res：只说了这些，\n姬子就准备自己下车。>
+pause
+cls
+#res：我连忙跑去副驾驶席边接住她。>
+pause
+cls
+#res：……其实对我来说…>
+pause
+cls
+#res：也并不害怕被辞退。\n这点我还是明白的……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1144')
+#res：千寻：「嘿咻……」>
+pause
+cls
+#res：姬子穿着睡衣，手里拿着点滴的瓶子。>
+pause
+cls
+#res：看着就这样抱着姬子走向大厅的我，\n门卫瞪圆了眼睛。>
+pause
+cls
+#res：不，不仅是门卫，\n路过的同事都不明所以，浮现出惊诧的表情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b07b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1165')
+#res：姫子：「优花，重吗？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1145')
+#res：千寻：「没，没有，没关系……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1146')
+#res：姫子：「是吗。那就更昂首挺胸一点」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：终于乘上了好几台电梯中的一台，按下了3F的按钮。>
+pause
+cls
+#res：那里是熟悉的，我上班的办公室。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：―咚咚，咔嚓。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1147')
+#res：千寻：「打，打扰了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_2020b', -100101)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2na')
+#res：看到早上逃跑般早退的我，\n整个办公室都安静了下来。>
+pause
+cls
+#res：意识到我抱着姬子，\n同事们都围拢过来看怎么回事。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_023')
+#res：课长：「啊，昭岛，这位到底是……\n还有，你今天不是早退了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1148')
+#res：千寻：「那个，科长……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1166')
+#res：姫子：「优花，放我下来吧。\n自己站着的话我还是行的……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1149')
+#res：千寻：「啊……嗯……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：依照打断我的姬子所说，我慢慢把姬子放了下来。>
+pause
+cls
+#res：既然已经到了这里，\n也许按姬子想的来做会比较好。>
+pause
+cls
+#res：这之后，就算要追究我的责任也没办法。>
+pause
+cls
+#res：……如果我的道歉能消除姬子的悔恨的话，\n道歉多少次我都愿意…>
+pause
+cls
+#res：但是，唯独不想让姬子低下头颅。>
+pause
+cls
+#res：想让姬子无论何时，\n永远都堂堂正正昂首挺胸。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_e08', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1167')
+#res：姫子：「初次见面，您就是科长吗？\n我叫做姬子」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_024')
+#res：课长：「嗯…你难道就是……\n那位住院的，昭岛的朋友？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1168')
+#res：姫子：「是的，\n 因为马上就要死了，所以想来打个招呼」>
+pause
+cls
+#res：『死』这个词，瞬间激起了办公室一阵骚动。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1169')
+#res：姫子：「啊，话先说在前头，\n 我说我就要死了，并不是为了博取同情，也不是想要以此为资本威胁谁」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_025')
+#res：课长：「……不是很明白你的意思，你还是快回医院去吧」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1170')
+#res：姫子：「嗯嗯，事情完了马上就会回去的，但是……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_026')
+#res：课长：「招呼的话已经打过了，姬子小姐。喂，快叫救护车！」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1171')
+#res：姫子：「等等，还有事……」>
+pause
+cls
+#res：说着搭着我的肩，将我推上前来。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1172')
+#res：姫子：「不是我……\n 优花也说想要打招呼哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1150')
+#res：千寻：「诶？姬子？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：…预料之外。>
+pause
+cls
+#res：不过想一想，这确实是姬子会做出的言行。>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_027')
+#res：课长：「啊？ 你们究竟是想要说什么？\n我们现在可是中断工作来接待你们的啊」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_028')
+#res：课长：「昭岛，你也真是的，这种情况把她带出来，\n未免也太缺乏常识了吧」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_029')
+#res：课长：「除此之外，\n 你根本就是一直在给科里添麻烦嘛」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1151')
+#res：千寻：「啊，是……对不起……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('hirate2')
+call<$e9d62d7b, 0> (2)
+#res：―啪！>
+pause
+cls
+#res：“对不起”的话音刚落，一声干脆的声音响彻办公室。>
+pause
+cls
+#res：一瞬间，没能反应过来发生了什么。>
+pause
+cls
+#res：终于麻痹的感觉在脸上扩散开来……>
+pause
+cls
+#res：明白过来，是被姬子狠狠抽了一巴掌。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0004', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1152')
+#res：千寻：「姬，姬子……？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1173')
+#res：姫子：「优花，不要道歉」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1153')
+#res：千寻：「诶……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1174')
+#res：姫子：「你没有道歉的必要，\n反倒是有什么怨气的话，就说出来吧」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_030')
+#res：课长：「喂，你们！再这样我可要叫保安了！」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1175')
+#res：姫子：「吵死了，\n 你这讨厌的中年科长，给我安静点」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_031')
+#res：课长：「什，什么？\n因为你是病人才对你这么客气的……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1176')
+#res：姫子：「来吧优花，你也说点什么吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1154')
+#res：千寻：「但，但是……我…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 10)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('hirate2')
+call<$e9d62d7b, 0> (2)
+#res：―啪！\n清脆的声音第二次响起。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_00042', 1200)
+call<$5f271e74, 0>
+#res：姬子毫不客气打了我第二下，摇摇晃晃地抓着我肩膀。>
+pause
+cls
+#res：虽然至今每天都会有小吵小闹，\n但从来没被这样打过……>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('himenp_1177')
+#res：姫子：「说啊，优花！」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1155')
+#res：千寻：「呜，呜嗯，呜……」>
+pause
+cls
+#res：泪水不禁夺眶而出。>
+pause
+cls
+#res：并不是被打的脸颊感到痛……>
+pause
+cls
+#res：而是\n不知哪里疼痛不已。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：我保持着姬子靠在肩上的状态向前跨出了一步。>
+pause
+cls
+#res：然后张大嘴说道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0004c', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1156')
+#res：千寻：「科，科长，你以前问过我，\n朋友和工作，到底哪个重要……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1157')
+#res：千寻：「呜…这，这当然是，工作比较重要，呜……」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm2_032')
+#res：课长：「不是，昭岛，那件事已经无所谓了……\n感快把她扶起来吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1158')
+#res：千寻：「呜，但，但是，挚友和工作的话……那当然是挚友比较重要」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1178')
+#res：姫子：「很好优花，就是这样，再多说一点」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 2500)
+call<$5f271e74, 0>
+#res：―这，这有错吗……混，混蛋！！！>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e004', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1160')
+#res：千寻：「（……我终于明白了…）」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1161')
+#res：千寻：「（姬子的行动，并不是对公司的人有什么意见…）」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1162')
+#res：千寻：「（大概，\n也不是为了今后我能更轻松的待在公司里）」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1163')
+#res：千寻：「（而是更为根本的问题）」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0004d3', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1164')
+#res：千寻：「（是对于这个软弱的，不可靠的我的……）」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1165')
+#res：千寻：「（是明天即将消逝的姬子……\n对于独自一人留下来的我的…）」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1166')
+#res：千寻：「（『更加振作一点！』的声援…）」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2000)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sin_b09b', 1500)
+call<$5f271e74, 0>
+#res：―回程的车中。\n白昼渐短的秋日，才下午5点天空已经开始暗了下来。>
+pause
+cls
+#res：躺在副驾位上的姬子和握着方向盘的我。>
+pause
+cls
+#res：互相保持着沉默，行驶在归程途中。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai07')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1179')
+#res：姫子：「呐，优花……」>
+pause
+cls
+#res：首先打破沉默的是姬子。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1180')
+#res：姫子：「之后跟那科长说声抱歉吧……\n稍微利用了他一下」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1167')
+#res：千寻：「啊，嗯……」>
+pause
+cls
+#res：暂且先口头上答应了，\n但我还是不太明白。>
+pause
+cls
+#res：感觉事到如今公司的那些事已经是些无所谓的小事了，\n因为已经得到了更加珍贵的东西。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1168')
+#res：千寻：「对了姬子……你怎么会知道的？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1181')
+#res：姫子：「嗯？ 你公司的事？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1169')
+#res：千寻：「对啊，我应该对谁都没提起啊」>
+pause
+cls
+#res：至少从去年春天，\n从姬子开始住院起，我不记得有提起过工作的话题。>
+pause
+cls
+#res：当然，也不记得对千寻说过。\n不如说，经常还有意避开这个话题。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1182')
+#res：姫子：「……昭岛优花，23岁，11月25日生的射手座，O型血」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1183')
+#res：姫子：「兴趣是收集可爱的小物品和看动画片。\n喜欢轻飘飘的衣服，性格是不坦率的傲娇系……」>
+pause
+cls
+#res：突然说起了我的事。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1184')
+#res：姫子：「但这都只是表面上的，在家里一直爱穿套衫，\n性格其实是软弱而又腼腆……」>
+pause
+cls
+#res：都是别人谁都不知道，\n除了我以外只有姬子知道的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0004e', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1185')
+#res：姫子：「总之，\n 想瞒我你还早了十年呢」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1170')
+#res：千寻：「是啊，的确是这样……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1186')
+#res：姫子：「还用说吗？\n 多年的挚友可不是徒有虚名的」>
+pause
+cls
+#res：说着，姬子露出了笑脸。>
+pause
+cls
+#res：所谓“挚友”所指的不是别人，正是我。\n对此我感到十分高兴。>
+pause
+cls
+#res：无论对谁都能挺起胸膛，说这样的我是姬子的挚友，\n对此我感到无比荣耀。>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('sora07', 1200)
+call<$5f271e74, 0>
+#res：昏暗的天空之下，公路之星在行驶着。>
+pause
+cls
+#res：眼前不断出现熟悉的景物，\n毫无疑问距离医院已越来越近了。>
+pause
+cls
+#res：……回到了医院。\n明天起点滴就会改变。>
+pause
+cls
+#res：即是说和姬子分别的时刻也快到了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：―翌日。>
+pause
+cls
+#res：一早就来到了7F。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006')
+call<$5f271e74, 0>
+#res：今天的谈话室\n是平时难见的摩肩接踵的状态。>
+pause
+cls
+#res：有医生和脸熟的护士们，\n不只是姬子的双亲、还有些大概是亲戚的人…>
+pause
+cls
+#res：教会的神父和\n修女们也都聚集在这里。>
+pause
+cls
+#res：我和平时一样走向了姬子的病房。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcw2_146')
+#res：修女：「不能进去」>
+pause
+cls
+#res：这么说着制止我的，\n并不是护士也不是医生，而是修女。>
+pause
+cls
+#res：修女站在门前堵住了门。>
+pause
+cls
+#res：……为什么不行？\n明明我们还有很多话想说？>
+pause
+cls
+#res：但现在并不是反驳的时候。\n这里有一种奇特的氛围。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('tihinp_1033')
+#res：千寻：「优花，早上好」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1171')
+#res：千寻：「啊，千寻……」>
+pause
+cls
+#res：回头一看，并不是平时那穿着围裙的千寻，\n而是身着正装的千寻。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1172')
+#res：千寻：「那，那个……已经不能再见姬子了吗？」>
+pause
+cls
+#res：我不假思索有些焦急地询问道。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1034')
+#res：千寻：「不是，\n现在神父正在听取姬子的忏悔…」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1035')
+#res：千寻：「我想之后会一个接一个逐一叫进去告别的」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1173')
+#res：千寻：「那，还能见面咯？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1036')
+#res：千寻：「嗯，优花的话一定会叫你的，\n稍微等一下吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说完千寻又走向谈话室。>
+pause
+cls
+#res：平时就很稳重的千寻，\n今天比以往更平静。>
+pause
+cls
+#res：差点忘了她是天主教徒，而姬子也是虔诚的天主教徒。>
+pause
+cls
+#res：对于生死之事，至少相比起作为普通人的我们，\n想必早已有着坦然接受的觉悟吧。>
+pause
+cls
+#res：过了不久，谈话室的人们\n被逐一叫去了病房。>
+pause
+cls
+#res：亲戚，双亲，和姬子要好的护士和教堂的孩子们……>
+pause
+cls
+#res：每隔十分钟左右会叫进去一人，\n然后再从房间出来。>
+pause
+cls
+#res：终于被千寻叫到的时候……>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('tihinp_1037')
+#res：千寻：「优花，姐姐叫你……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1174')
+#res：千寻：「嗯，知道了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：咚咚。>
+pause
+cls
+#res：带着些许紧张的神色，我敲了敲门。\n这样见面今天也是最后一次了。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1187')
+#res：姫子：「请进……」>
+pause
+cls
+#res：门对面传来微弱的声音。>
+pause
+cls
+#res：忽然我如此思考。>
+pause
+cls
+#res：就算在这种时候，也该采取同平常一样的态度吗？>
+pause
+cls
+#res：还是说今天的话，即使哭出来也是能被允许的吗……>
+pause
+cls
+#res：一瞬间的犹豫后，\n我决定要以平常的态度来面对。>
+pause
+cls
+#res：握住口袋里的车钥匙，\n告诉自己全勤奖还没有结束。>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_open_04')
+#res：―咔嚓>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2p_0002', 1000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1175')
+#res：千寻：「哟，今天很精神嘛」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1188')
+#res：姫子：「嗯，托你的福」>
+pause
+cls
+#res：相互和平时一样俏皮的打着招呼。>
+pause
+cls
+#res：在这个地方已经不知重复了多少次的对话。>
+pause
+cls
+#res：和以往不同的是，房间一角的桌子上铺着白布，\n上面放着十字架和两根点着的蜡烛。>
+pause
+cls
+#res：以及盛着麦饼的奇形怪状玻璃器皿。>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e005', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1189')
+#res：姫子：「啊，这些都是枕边装饰哦，\n我点滴前的准备也基本完成了」>
+pause
+cls
+#res：说着张开双手给我看，\n说是涂的圣香油。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2p_0002', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1190')
+#res：姫子：「没关系，慢慢说吧。你是最后一个了，时间有的是」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1176')
+#res：千寻：「嗯，知道了」>
+pause
+cls
+syscall<$f62e3ca7> ('isu2b')
+#res：嘿咻一声的同时。\n我照旧坐上了小小的折叠椅。>
+pause
+cls
+#res：以前我拿来的，印有小猫图案的靠枕。\n今天似乎也被各种各样的人们使用过了。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1177')
+#res：千寻：「那么姬子，忏悔已经结束了？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1191')
+#res：姫子：「嗯，原以为会很多的，结果出人意料的少，\n大概因为我是个善人吧」>
+pause
+cls
+#res：然后开玩笑似地吐了吐舌头。>
+pause
+cls
+#res：虽然说不出口，\n但我认为姬子毫无疑问是个善人。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1178')
+#res：千寻：「（……如果有神明存在，有天堂存在的话，\n姬子一定能上天堂…）」>
+pause
+cls
+#res：沉默不语的话就会不断浮现这样的想法，\n忍不住快要哭出来了。>
+pause
+cls
+#res：所以说什么我都一定要把话接下去。\n毕竟能这样对话的时间，也已所剩不多了。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1179')
+#res：千寻：「说起来昨天，你打我打得真狠啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e005', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1192')
+#res：姫子：「啊啊，难道很疼吗？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1180')
+#res：姫子：「那当然了，而且是毫不客气打了两下啊」>
+pause
+cls
+#res：其实已经不怎么痛了，\n也并不是想说这种事情。>
+pause
+cls
+#res：只是，虽然想要说一声感谢，\n可在姬子面前，不坦率的我才是平时的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2p_0002', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1193')
+#res：姫子：「但是啊优花，所谓挚友，\n 偶尔也是会互殴的吧？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1181')
+#res：千寻：「这，这都什么鬼……哪部漫画的台词吗」>
+pause
+cls
+#res：无意中说出的挚友一词讲到了我的心坎里，\n我高兴极了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1182')
+#res：千寻：「（……咕…抽泣…）」>
+pause
+cls
+#res：但还不能哭出来。\n全勤奖还没有完成。>
+pause
+cls
+#res：我给自己定下过规定…\n在此之前我必须是往常的我。>
+pause
+cls
+#res：然而，不仅仅是高兴，还真切地感受到了无以复加的寂寞……>
+pause
+cls
+#res：涌现出了难以言表的情感…>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+syscall<$f62e3ca7> ('hirate2')
+call<$a4eb1e4c, 0> ('w', 1)
+call<$a4eb1e4c, 0> ('sin_e01', 1200)
+call<$5f271e74, 0>
+#res：－啪！>
+pause
+cls
+syscall<$708b0256> ('isu1c')
+call<$812afdf0, 0> ('himenp_1194')
+#res：姫子：「不准哭，优花……」>
+pause
+cls
+#res：勉强忍住的眼泪，\n正要夺眶而出之时。>
+pause
+cls
+#res：在这狭小的病房里，\n再次响起了昨天我被打脸的声音与姬子的声音。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1195')
+#res：姫子：「不可以为这点小事哭哦」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1183')
+#res：千寻：「呜，可，可是。\n 就算你这样说，呜……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1196')
+#res：姫子：「那么，\n 你就把被打的疼痛当做继续哭泣的理由吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：说着，姬子轻抚着我稍稍变红的脸颊。>
+pause
+cls
+#res：从床上探出身子，\n抚摸着我脸颊的手让我感到无比温暖。>
+pause
+cls
+#res：……比挨打的我更疼痛数倍的是姬子才对………姬子一定比被打的我更加痛苦吧…>
+pause
+cls
+#res：所以即使再勉强我也要忍住眼泪。>
+pause
+cls
+#res：明天姬子就不在了，\n我将变得孤独一人。>
+pause
+cls
+#res：不只是为了姬子，为了自己我也不可以在这里哭泣。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1184')
+#res：千寻：「并，并不是很痛所以没关系的……」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1197')
+#res：姫子：「是吗，那就好……\n 不知为何总是想不出要对你施展的魔法该怎么说好」>
+pause
+cls
+#res：然后深深叹了口气。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003e', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1198')
+#res：姫子：「但是呢……总之，这种衣服以后还是不要再穿了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1185')
+#res：千寻：「诶，这种衣服？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003d', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1199')
+#res：姫子：「这种轻飘飘的衣服，实在是容易招引男人……\n你也老大不小了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1186')
+#res：千寻：「招引……这跟年纪没关系的吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003e', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1200')
+#res：姫子：「但是真可惜啊，如果我是男人的话，一定会娶你的」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1187')
+#res：千寻：「喂，你，你在说什么啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+#res：……就这样…>
+pause
+cls
+#res：加上昨天总共被打了3巴掌的，\n好不容易没哭出来的我。>
+pause
+cls
+#res：收到了虽然来自同性，\n但也是出生以来第一次的求婚？>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0002e', 1500)
+call<$5f271e74, 0>
+#res：姬子的点滴换了……>
+pause
+cls
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：一周后。>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1188')
+#res：千寻：「……千寻，她现在怎么样？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1038')
+#res：千寻：「啊，优花」>
+pause
+cls
+#res：谈话室前。>
+pause
+cls
+#res：一见到千寻我便开口询问到。>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1039')
+#res：千寻：「嗯…直到刚才一直都睡着，而且……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1189')
+#res：千寻：「……而且？」>
+pause
+cls
+call<$812afdf0, 0> ('tihinp_1040')
+#res：千寻：「血压很低，\n今天恐怕是不会醒了……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1190')
+#res：千寻：「是吗，总之我去看看吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：从谈话室走向病房。>
+pause
+cls
+#res：虽然姬子说过已经不用来了，\n 但我还是会照常过来。>
+pause
+cls
+#res：然后走到了病房门口，站在那里小声说道。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1191')
+#res：千寻：「进来了哦……」>
+pause
+cls
+#res：我知道姬子即使醒着也不能回答我。>
+pause
+cls
+#res：而且现在，\n就算想要敲门，门也一直敞开着，只拦着布帘。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003f', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1192')
+#res：千寻：「嘿咻」>
+pause
+cls
+syscall<$f62e3ca7> ('isu2b')
+#res：发出细微的声音，坐上了小小的折叠椅。>
+pause
+cls
+#res：床上躺着带着氧气面罩静静沉睡的身影。>
+pause
+cls
+#res：我开始对这样的姬子报告今天发生的事情。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1193')
+#res：千寻：「说到公司，\n本想辞职的，但还是做下去了……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1194')
+#res：千寻：「真是不可思议呢，\n自从那以后我周围的视线都好像变了」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1195')
+#res：千寻：「啊，不……改变的，大概是我吧」>
+pause
+cls
+#res：如同自言自语般地说着。>
+pause
+cls
+#res：这样的行为并没有任何意义，\n也没有什么意图。>
+pause
+cls
+#res：即使是姬子偶尔清醒时候的对话，\n能发出“…嗯”的回答已经很好了。>
+pause
+cls
+#res：基本和睡着的时候没有太大的差别。>
+pause
+cls
+#res：据说有时也可能出现意识十分清醒的时候，\n但我也并不是很期待这种时候。>
+pause
+cls
+#res：……自己也不太明白…>
+pause
+cls
+#res：这是最合适的表达。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1200)
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$a4eb1e4c, 0> ('tuika_haikei74', 1500)
+call<$5f271e74, 0>
+#res：－两周后。>
+pause
+cls
+call<$d334ba75, 0> ('2na_f')
+#res：10月即将结束，\n今天我依然在这熟悉的地方度过。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003f', 1200)
+call<$5f271e74, 0>
+#res：在床上一直沉睡的姬子。>
+pause
+cls
+#res：如果没有旁边不断刷新的心电图屏幕，\n几乎要让人怀疑是不是已经去世般地静静沉眠。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1196')
+#res：千寻：「那个，姬子，刚刚在千寻那里听说了，\n说是还有一周左右」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1197')
+#res：千寻：「还有，关于全勤奖，我把期间延长了…」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1198')
+#res：千寻：「这虽是我擅自改变的规则，我觉得也不坏吧」>
+pause
+cls
+#res：独自坐在窄窄的折叠椅上说个不停。>
+pause
+cls
+#res：握住她从毯子里伸出的手，\n非常温暖。>
+pause
+cls
+#res：虽然那天被打的疼痛已经消失，\n但那抚摸过我脸颊的手还是那么温暖。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1199')
+#res：千寻：「说起来……」>
+pause
+cls
+#res：忽然想起了之前被打的事。>
+pause
+cls
+#res：虽说过挚友之间也会互殴这样的话，\n但我们之间只是我一味被打。>
+pause
+cls
+#res：想到了这里的我，我慢慢伸出手去…>
+pause
+cls
+#res：温柔地拍了拍姬子的脸颊。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：啪……>
+pause
+cls
+#res：轻轻的一声。>
+pause
+cls
+#res：虽说是拍，该说是抚摸吧，但这已经足够了。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1200')
+#res：千寻：「果然，我们是挚友啊……」>
+pause
+cls
+#res：随后准备结束今天的会面。\n我从折叠椅上站起身来。>
+pause
+cls
+#res：就在这时…>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1800)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1201')
+#res：姫子：「……优花，做得好…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003g', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('isu1')
+call<$812afdf0, 0> ('yukanp_1201')
+#res：千寻：「姬，姬子。你意识清楚吗？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1202')
+#res：姫子：「……声音，好吵…真是的…」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1202')
+#res：千寻：「啊，啊啊，对不起。我还以为你不会再醒了」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1203')
+#res：姫子：「其实，就算是现在这种状态，一天还是会清醒一次左右的……」>
+pause
+cls
+#res：……真是，开心极了。>
+pause
+cls
+#res：都没有期待过，\n还以为再也不能说话了……>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1204')
+#res：姫子：「但是优花，你怎么又来了啊…\n不是说过不用再来了吗」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1203')
+#res：千寻：「啊，嗯，那个……」>
+pause
+cls
+#res：虽然有些一时语塞但没关系。\n我早已准备好了回答。>
+pause
+cls
+#res：这是我数日来，自己思考得出的答案。>
+pause
+cls
+#res：考虑到有个万一的情况，\n已经无数次模拟想象过，练习过了。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1204')
+#res：千寻：「姬子，并不是我自己想要来，才来的哦」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1205')
+#res：姫子：「哈？ 那是为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1205')
+#res：千寻：「想着你一个人可能会寂寞，\n所以过来了，感谢我吧」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1206')
+#res：姫子：「…………………」>
+pause
+cls
+#res：练习果然是有意义的，\n我流畅地一口气说了出来。>
+pause
+cls
+#res：但是姬子相对我的这种态度，缓缓开口说道。>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1207')
+#res：姫子：「呼，你果然是笨蛋啊……\n我已经是要消失的人了，赶快忘记吧」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1206')
+#res：千寻：「做不到呢」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1208')
+#res：姫子：「那我让一下步，偶尔能想起来就可以了……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1207')
+#res：千寻：「……嗯，那还可以试试」>
+pause
+cls
+#res：我尽量开朗地回答道。>
+pause
+cls
+#res：不知道姬子的意识到底是清楚到什么程度。>
+pause
+cls
+#res：但应该不会太久吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$a4eb1e4c, 0> ('2sin_e006', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yukanp_1208')
+#res：千寻：「（……我，表现得足够开朗和振作吗？）」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1209')
+#res：千寻：「（…能让姬子没有挂念，\n安下心来吗……）」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1209')
+#res：姫子：「那个，优花，关于魔法的咒语……」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1210')
+#res：千寻：「祈祷的话上次已经接受了哦」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1210')
+#res：姫子：「不，不是那个……\n是只对你有效的，特别的魔法」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1211')
+#res：千寻：「……只对我的？」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1211')
+#res：姫子：「嗯嗯，是只对你施展的（咒语)，\n但我迟迟找不到合适的…」>
+pause
+cls
+call<$812afdf0, 0> ('himenp_1212')
+#res：姫子：「但在这些日子里思考过后，\n 终于被我找到了」>
+pause
+cls
+#res：然后一个深呼吸后，\n姬子直直地注视着我……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003g2', 1800)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1213')
+#res：姫子：「谢谢」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1212')
+#res：千寻：「诶…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e007', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1214')
+#res：姫子：「……能成为你的挚友是我的荣幸…」>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1213')
+#res：千寻：「姬，姬子……」>
+pause
+cls
+#res：中途眼泪就夺眶而出。>
+pause
+cls
+#res：虽然考虑了各种情况，\n进行了无数次的模拟对话……>
+pause
+cls
+#res：明明是这么简单的话语……\n实际上听到了这样的话之后，我所做的一切模拟都不适用了。>
+pause
+cls
+call<$812afdf0, 0> ('yukanp_1214')
+#res：千寻：「呜呜，在，在最后关头说这话太犯规了……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('2sin_e008', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himenp_1215')
+#res：姫子：「好了啦，最后就哭一哭吧……\n只会互殴的话就不是挚友了嘛」>
+pause
+cls
+#res：说着露出了笑容。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n2e_0003h', 2000)
+call<$5f271e74, 0>
+#res：————就这样我的挚友进入了永远的长眠。>
+pause
+cls
+#res：口袋里放着车钥匙，\n作为全勤奖的奖品，成了我的所有物。>
+pause
+cls
+call<$a4eb1e4c, 0> ('e_setu02', 1500)
+call<$5f271e74, 0>
+#res：忽然望见，中庭花坛种植的那植物开始长出了花蕾。>
+pause
+cls
+#res：水仙。\n学名narcissus。开花期是11月至3月。>
+pause
+cls
+#res：开始结出了小小的，白黄相间的花蕾…>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b3', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('w3', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sin_e07', 1500)
+call<$a4eb1e4c, 0> ('sin_e07b', 1000)
+call<$5f271e74, 0>
+call<$35395c9f, 0> (8)
+#res：【 结 局  魔法】>
+pause
+cls
+call<$d334ba75, 0> ('narh_short')
+call<$a4eb1e4c, 0> ('sin_e07b', 1000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77setu_0009')
+#res：濑津美：「－夏。\n　在嘈杂的蝉鸣声中，今天也走在去医院的路上」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0010')
+#res：濑津美：「明明还只是早上，\n脚下漆黑的影子反衬着强烈的阳光」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0011')
+#res：濑津美：「看来今天也会很热…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b4', 300)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car01')
+#res：嘎——>
+pause
+cls
+#res：突然，\n眼前停下一辆车，一辆红色敞篷车。>
+pause
+cls
+#res：好像在哪里见过。>
+pause
+cls
+syscall<$f62e3ca7> ('car_close')
+#res：啪嗒>
+pause
+cls
+#res：车门打开后下来了一位身材娇小的姐姐。\n径直向我走了过来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_e02', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77yuka_0044')
+#res：千寻：「喂，你」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0012')
+#res：濑津美：「…诶？」>
+pause
+cls
+#res：……这个人似乎是以前在海边遇到过的那个。>
+pause
+cls
+#res：只是，以前遇见她时给人轻飘飘的可爱的印象，\n今天却穿着笔挺的职业套装。>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0045')
+#res：千寻：「嗯，你……叫你濑津美，可以吧？」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0013')
+#res：濑津美：「……找我什么事？」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0046')
+#res：千寻：「啊，以防万一先确认一下…你穿着的，是睡衣吧？」>
+pause
+cls
+#res：看着我的衣服……\n一件粉红色的睡衣如此问道。>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0014')
+#res：濑津美：「……那又如何？」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0047')
+#res：千寻：「不，没什么，那么再见了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b4')
+call<$5f271e74, 0>
+#res：只说了这些的姐姐，又回到了车上。>
+pause
+cls
+#res：然后，\n发动了引擎，正在我以为她要开走时……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_e02')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77yuka_0048')
+#res：千寻：「啊，对了对了，差点忘了」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0049')
+#res：千寻：「喂，最后再给你一个忠告」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0015')
+#res：濑津美：「……忠告？」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0050')
+#res：千寻：「嗯。那个魔法……意外的很管用哦」>
+pause
+cls
+call<$812afdf0, 0> ('c77yuka_0051')
+#res：千寻：「再见了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b4')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_close')
+#res：啪嗒>
+pause
+cls
+syscall<$f62e3ca7> ('car_start')
+call<$812afdf0, 0> ('c77setu_0016')
+#res：濑津美：「——说完之后，红色的敞篷车飞驰而去」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w3', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('sin_e07', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('c77setu_0017')
+#res：濑津美：「抬头能看到湛蓝的天空与白云，听到夏蝉发出嘈杂的鸣叫声」>
+pause
+cls
+call<$812afdf0, 0> ('c77setu_0018')
+#res：濑津美：「看来酷暑的日子还要继续下去呢……」>
+pause
+cls
+#res：－Ｔｏ　ｂｅ　Ｎａｒｃｉｓｓｕ１>
+pause
+cls
+syscall<$926c13e5> (1500)
+syscall<$2e861c51> (2000)
+call<$a4eb1e4c, 0> ('b3', 1500)
+call<$5f271e74, 0>
+exit (0)

@@ -1,0 +1,1086 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (6)
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n200')
+#res：「『我喜欢看地图…』」>
+pause
+cls
+call<$d334ba75, 0> ('o02')
+#res：看不到尽头的１号公路，陌生的土地。我喜欢那些能够把我带到任何地方去的车辆。>
+pause
+cls
+call<$a4eb1e4c, 0> ('image01', 1600)
+call<$5f271e74, 0>
+#res：但是，无论我积累了多少信息…>
+pause
+cls
+#res：这些依然只是假想。只会使『真实感』与『内心』越来越脆弱。>
+pause
+cls
+#res：我有泳装，也有地图。但是，我却没有未来。>
+pause
+cls
+#res：世界的的确确就存在于窗外。但却找不到能够切身体会的『现实』。>
+pause
+cls
+#res：尽管闭上双眼，我就能置身于虚构的世界中。但是，这并不意味着现实的世界会就此消失。>
+pause
+cls
+#res：我心里很清楚这一切。>
+pause
+cls
+#res：我明白，空想中的世界将伴随着自己度过余生。>
+pause
+cls
+#res：即使如此…>
+pause
+#res：我还是不断地想象着那些『假如』，不断地期待着幻想着，但到头来…>
+pause
+cls
+#res：它们终究只不过是憧憬而已，无论是比基尼泳装，还是翡翠色的大海…>
+pause
+cls
+#res：…心口上那条长长的伤痕，时刻告诫着我放弃这些念头。>
+pause
+cls
+call<$a4eb1e4c, 0> ('setsumi_kaisou', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n201')
+#res：「但是…」>
+pause
+cls
+#res：我在医院中走过了大半的人生，也在空想的世界里度过了大半的人生…>
+pause
+cls
+#res：最终也只能从７楼和自己的家中选择其一，这让我感觉到悲哀。>
+pause
+cls
+#res：没有人给我选择的余地…>
+pause
+cls
+#res：但是，我却又为无法为自己选择去处感到可怜。>
+pause
+cls
+call<$49ea5b57, 0> (85)
+#res：…即使这样，我也已经活了２２年…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n202')
+call<$49ea5b57, 0> (85)
+#res：「为什么…就不能让我自由地选择一次呢…」>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：在低吟的瞬间，本应冰冻的时间似乎在颤动。>
+pause
+cls
+call<$49ea5b57, 0> (75)
+#res：在早已冰冻的内心中，我感到了一丝痛苦…>
+pause
+cls
+call<$a4eb1e4c, 0> ('cat02', 1600)
+call<$5f271e74, 0>
+call<$0a4e49ab, 0>
+syscall<$f62e3ca7> ('car3')
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('sora01', 1600)
+call<$5f271e74, 0>
+#res：飞驰着的银色的酷派车身，倒映出了冬日晴朗的天空。>
+pause
+cls
+#res：尽管我们依然没有目的地，但至少暂时不必为汽油和食物担心了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi04')
+call<$5f271e74, 0>
+#res：前方是一处大型十字路口。>
+pause
+cls
+#res：尽管昨晚她并没有赞同我的决定，但我还是凭着感觉尽量向西行进。>
+pause
+cls
+#res：只是，我完全不熟悉周围的地理，仅靠手中的钱，又实在是交不起高速公路的路费。>
+pause
+cls
+#res：我这样思考着，车子已经行驶到了十字路口。>
+pause
+cls
+#res：正当我毫无顾虑地打算向前开的时候…>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n205')
+#res：「向左拐…」>
+pause
+cls
+#res：「哎？」>
+pause
+cls
+call<$812afdf0, 0> ('n206')
+#res：「从这里向左拐」>
+pause
+cls
+#res：她忽然向我发出了指示。>
+pause
+cls
+#res：尽管有些莫名其妙，但我还是按照她的指示，将车开上了通往左侧的大道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_michi')
+call<$5f271e74, 0>
+#res：「你怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('n207')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n208')
+#res：「这是１号公路…暂时直行下去就可以了…」>
+pause
+cls
+#res：「啊…」>
+pause
+cls
+#res：我对她突如其来的指示感到很惊讶。>
+pause
+cls
+#res：至今为止在一起的行动，的确让我知道了她的知识很丰富，>
+pause
+cls
+#res：但像这样主动地向我发出指示，还是头一次。>
+pause
+cls
+#res：「…莫非你想去了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n209')
+#res：「……………」>
+pause
+cls
+#res：「啊，我是说…你想到那个淡路岛去了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n210')
+call<$49ea5b57, 0> (90)
+#res：「……不可以吗？」>
+pause
+cls
+#res：「啊，我倒不是这个意思…」>
+pause
+cls
+#res：毫无目标地前进着的我们。>
+pause
+cls
+#res：我为了寻求目标而徘徊着，她则总是注视着远方，让我猜不透心思。>
+pause
+cls
+#res：所以，她的话使我感到非常意外。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n211')
+#res：「…我并没有期待那些」>
+pause
+cls
+#res：「哎？」>
+pause
+cls
+call<$812afdf0, 0> ('n212')
+#res：「我并没有期待什么泳装…」>
+pause
+cls
+#res：「…你在说什么啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n213')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n214')
+#res：「…没什么」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('cat03')
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (800)
+call<$a4eb1e4c, 0> ('sora03', 1600)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('a01')
+#res：冬日的晴空下，银色的酷派反射着阳光不断前行。>
+pause
+cls
+#res：离开了四处都是陡坡与急转弯的箱根后，现在的路况已经变得十分平坦了。>
+pause
+cls
+#res：「呐，这里是什么地方啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n215')
+#res：「是爱知县，很快就会进入名古屋市区了…」>
+pause
+cls
+#res：考虑到金钱的问题，我们没有使用高速公路。>
+pause
+cls
+#res：如果只凭我一个人的话，肯定会辨不清东南西北的。但现在，有她在为我指路。>
+pause
+cls
+#res：她的指示可能比导航系统更精确。>
+pause
+cls
+#res：尽管我不知道她为什么会了解这些，但我相信她所指的路是正确的。>
+pause
+cls
+call<$812afdf0, 0> ('n216')
+#res：「从下一个路口…进入２２号公路」>
+pause
+cls
+#res：「明白了」>
+pause
+cls
+#res：我按照她的指示改变车道，扭转了方向盘。>
+pause
+cls
+call<$a4eb1e4c, 0> ('soukou_machi')
+call<$5f271e74, 0>
+#res：景色在窗外流动着。在陌生的热闹市区中，我们径直向北驶去。>
+pause
+cls
+#res：就这样，在不知不觉中，喧闹的景色渐渐宁静了下来…>
+pause
+cls
+#res：「呐，咱们到那里怎么样？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_machi')
+call<$5f271e74, 0>
+#res：国道的一侧，有一个家庭餐厅。>
+pause
+cls
+#res：我一边开车，一边指着那里说道。>
+pause
+cls
+#res：「你看，我们一直都在吃便利店的东西吧？」>
+pause
+cls
+#res：我当然不太喜欢便利店的食物。>
+pause
+cls
+#res：但考虑到财政问题，那个时候也没有别的选择了。>
+pause
+cls
+#res：但现在，我们的手里多少有了点钱。所以我这样提议道>
+pause
+cls
+#res：「呐，就去吃一次餐厅的东西吧」>
+pause
+cls
+call<$812afdf0, 0> ('n218')
+#res：「…我吃便利店的东西就行了…」>
+pause
+cls
+#res：说着，她微微地低下了头。似乎是在注视着自己的衣服。>
+pause
+cls
+#res：啊…我这才想起来，她身上还穿着那套宽大的衣服…>
+pause
+cls
+#res：「好吧，那咱们就先到那里去吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n219')
+#res：「…那里？」>
+pause
+cls
+#res：「就在那边，有一家洋装店」>
+pause
+cls
+#res：那是一家在国道边随处可见的，贩卖牛仔服和休闲装一类衣物的量贩店。>
+pause
+cls
+#res：「像这种店里的衣服，　一般都不会太贵的」>
+pause
+cls
+call<$812afdf0, 0> ('n220')
+#res：「……………」>
+pause
+cls
+#res：「那咱们就过去吧？ 就这么说定了」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「………………」>
+pause
+cls
+#res：她没有回答。但也没有反对。>
+pause
+cls
+#res：或许…>
+pause
+cls
+#res：对于她的回答，只要不是反对，就可以当作是赞成来看待吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我们走进了店里。>
+pause
+cls
+#res：她好奇地在两层楼的柜台前来回走动着。>
+pause
+cls
+#res：尽管依然是默不作声，与平时似乎没有什么不同。>
+pause
+cls
+#res：但是，与看着无聊电视节目的时候相比，从她身上可以感到一种略为不同的气息。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：她一次次地拿起各种服装，一次次地查看着标价牌。>
+pause
+cls
+#res：每一次试穿后，都会跑到我的身边来…>
+pause
+cls
+call<$812afdf0, 0> ('n222')
+#res：「…怎么样？」>
+pause
+cls
+#res：「很合身的嘛」>
+pause
+cls
+call<$812afdf0, 0> ('n223')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n224')
+#res：「…看上去不奇怪吗？」>
+pause
+cls
+#res：「嗯，感觉挺好的」>
+pause
+cls
+#res：每次试穿后，我们都会重复一次这样的对话。>
+pause
+cls
+#res：尽管她没有笑，也绝对不会将心情显露在脸上，但看得出来，她一定是很兴奋的。>
+pause
+cls
+#res：「怎么样，决定了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n225')
+#res：「…嗯，我要买这一套。」>
+pause
+cls
+#res：说着，她向我展示了一下最后试穿的那套可爱的上衣和短裙。>
+pause
+cls
+#res：看上去就好像是初中生或高中生们喜欢的服饰。>
+pause
+cls
+#res：记得她以前说过自己的年龄要比我大…>
+pause
+cls
+#res：但无论怎么看，这身衣服都似乎是为她量身定做的，这让我不由得露出了满意的微笑。>
+pause
+cls
+#res：「不过，　我觉得裙子还是算了比较好吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n226')
+#res：「唉…？」>
+pause
+cls
+#res：「啊，倒并不是说不合适」>
+pause
+cls
+call<$812afdf0, 0> ('n227')
+#res：「……………」>
+pause
+cls
+#res：「现在天气很冷吧？　恐怕不适合穿这身衣服啊」>
+pause
+cls
+call<$812afdf0, 0> ('n228')
+#res：「…没、没事的…我忍得住」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+call<$49ea5b57, 0> (100)
+#res：她开口的那一刻…>
+pause
+cls
+#res：尽管平时绝不会将心情显露在表情上，但现在，她的脸却似乎有些红润了…>
+pause
+cls
+#res：…或许，她在害羞吧。>
+pause
+cls
+#res：我第一次见到了她这样的表情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora03')
+call<$5f271e74, 0>
+#res：我们继续驱车飞驰着。>
+pause
+cls
+#res：在冬日晴空下，酷派带着扰人的排气声奔跑着。>
+pause
+cls
+call<$812afdf0, 0> ('n230')
+#res：「从下一个路口进入２１号公路…」>
+pause
+cls
+#res：「明白了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi01')
+call<$5f271e74, 0>
+#res：我依然在她的指示下驾驶着汽车。回过神来，就已经来到了岐阜县。>
+pause
+cls
+#res：往常非必要的时候，她总是会静静地注视着窗外。>
+pause
+cls
+#res：但今天，她却一次又一次，高兴地注视着自己在后视镜中的身影。>
+pause
+cls
+#res：时而也会偷偷地观察我的目光。>
+pause
+cls
+#res：「…………」>
+pause
+cls
+call<$812afdf0, 0> ('n231')
+#res：「…怎么了？」>
+pause
+cls
+#res：「没什么，你看上去好像很喜欢这身衣服啊」>
+pause
+cls
+call<$812afdf0, 0> ('n232')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n233')
+#res：「不…没有的事啦」>
+pause
+cls
+#res：说完，她将视线从后视镜上移开了。>
+pause
+cls
+#res：但没过多久，她便再次开始偷偷地照起了镜子。>
+pause
+cls
+#res：…原来，她也有可爱的一面啊…>
+pause
+cls
+#res：尽管是微不足道的小事，普普通通，但依然使我感受到了她的可爱。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('sora07')
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('n05')
+#res：当太阳完全落山的时候。>
+pause
+cls
+#res：在路边。我们今天依然吃着从便利店买来的食物。>
+pause
+cls
+call<$a4eb1e4c, 0> ('chusha_michi2_yoru')
+call<$5f271e74, 0>
+#res：「呐，你觉得医院那边现在会是怎样一幅情景呢…」>
+pause
+cls
+#res：白色的塑料手环仍旧卷在我的手腕上。>
+pause
+cls
+#res：我看着这记载了姓名和血型的医院标识低声说道。>
+pause
+cls
+#res：「是不是已经闹翻天了呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n234')
+#res：「…大概吧」>
+pause
+cls
+#res：「是啊…」>
+pause
+cls
+#res：父母、朋友、以及医院的医生们…>
+pause
+cls
+#res：尽管他们只会出于义务而为我担心，但我还是感到有些过意不去。>
+pause
+cls
+#res：抱歉了…父亲、大家…>
+pause
+#res：都怪我太任性了…>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yoru')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n235')
+#res：「呐,我说你…」>
+pause
+cls
+#res：「嗯？　什么事？」>
+pause
+cls
+call<$812afdf0, 0> ('n236')
+#res：「第一次…听说自己会死的时候……你哭了吗？」>
+pause
+cls
+#res：「……………」>
+pause
+cls
+#res：她突然的提问使我觉得有些惊讶。面对这沉重的问题，我仔细地思考了一下。>
+pause
+cls
+#res：「…记得…我没有哭」>
+pause
+cls
+call<$812afdf0, 0> ('n237')
+#res：「那么…你是否诅咒过对自己如此不公的命运呢？」>
+pause
+cls
+#res：「这个…我记不清了」>
+pause
+cls
+#res：开始时，我并没有体会到这件事的真实感。因此，那时我也无法将它当作真实的事情来思考。>
+pause
+cls
+#res：不过…或许我也多多少少诅咒过自己的命运吧。>
+pause
+cls
+#res：一起去过驾校的朋友买了新车，还得意地炫耀着３６次的分期付款是多么地不易。>
+pause
+cls
+#res：朋友中，有的人找到了工作，有的人不得不留级。有的人有了孩子。还有的人被女朋友甩掉了。>
+pause
+cls
+#res：而我…>
+pause
+#res：却失去了未来。>
+pause
+cls
+#res：所以…我想我的确埋怨过命运对自己的不公。>
+pause
+cls
+#res：即使一次次地告诫自己这就是命运，但心中却依然难以放弃一切。>
+pause
+cls
+#res：「那么…你又怎么样呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n238')
+#res：「…我？」>
+pause
+cls
+#res：「嗯，你哭过吗？　诅咒过自己的命运吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n239')
+#res：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n240')
+#res：「…我平静地接受了一切。」>
+pause
+cls
+#res：「…为什么？」>
+pause
+cls
+call<$812afdf0, 0> ('n241')
+#res：「…因为我从一开始，就从没有抱过任何希望…」>
+pause
+cls
+syscall<$cf35f0e3> (500)
+call<$812afdf0, 0> ('n242')
+#res：「…因为我放弃了一切」>
+pause
+cls
+#res：「是吗…」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：假如从一开始就放弃了希望，自然也不会有任何的失望。消极的人生的确不会快乐，但同样也不会痛苦。>
+pause
+cls
+#res：但是，我感到这种想法本身就非常地悲哀。>
+pause
+cls
+#res：还是说，对她而言…>
+pause
+#res：已经没有其他的选择余地了吗…>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_byoin_chusyajo_yoru')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n243')
+#res：「从前看过的一部电影中说过…」>
+pause
+cls
+call<$812afdf0, 0> ('n244')
+#res：「…狼只能活３年」>
+pause
+cls
+#res：「啊？　狼？」>
+pause
+cls
+#res：她忽然开口说起了听不懂的话。>
+pause
+cls
+call<$812afdf0, 0> ('n245')
+#res：「但是…驴却可以活９年」>
+pause
+cls
+#res：「你在说什么啊？…什么狼3年驴9年的？」>
+pause
+cls
+call<$812afdf0, 0> ('n246')
+#res：「…听说…驴之所以会活得更久」>
+pause
+cls
+call<$812afdf0, 0> ('n247')
+#res：「是因为人们需要它…」>
+pause
+cls
+#res：她寂寞地注视着窗外，静静地说道。>
+pause
+cls
+#res：这就是她…为了让自己接受一切，为了让自己放弃一切…　而编织出来的理由吗…>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car3')
+call<$a4eb1e4c, 0> ('yukizora')
+call<$5f271e74, 0>
+#res：寒冬的天空渐渐昏暗下来。我们在２１号公路上笔直地行驶着。>
+pause
+cls
+#res：白色的结晶，星星点点地飘舞在昏暗的天空中。片刻后，便化成纷纷扬扬的雪花。>
+pause
+cls
+call<$812afdf0, 0> ('n248')
+#res：「…怎么了？」>
+pause
+cls
+#res：「开始下雪了呐…」>
+pause
+cls
+#res：很快，道路的两边已经积起了一层白雪。>
+pause
+cls
+call<$a4eb1e4c, 0> ('naname_yuki')
+call<$5f271e74, 0>
+#res：不知不觉间，我们进入了积雪地带。四周都被染成了一片银白。>
+pause
+cls
+#res：…或许有些不妙。>
+pause
+cls
+#res：刚才检查了一下，这辆车的轮胎似乎不是防滑式的。>
+pause
+cls
+#res：万一前方的雪下得更大的话，我们或许会遇到麻烦。>
+pause
+cls
+#res：「呐，这一带是多雪地带吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n249')
+#res：「欸…」>
+pause
+cls
+#res：「万一前边的雪下得更大的话，会很麻烦的」>
+pause
+cls
+call<$812afdf0, 0> ('n250')
+#res：「……………」>
+pause
+cls
+#res：即使路面没有积雪，也很可能会有冰冻。>
+pause
+cls
+#res：这样想来，或许应该按照驾校教材上的知识，给轮胎装上防滑链才行。>
+pause
+cls
+#res：「怎么样，你知道吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n251')
+#res：「这前边…是关原」>
+pause
+cls
+#res：「这个你刚才已经说过了，　我是想知道那里会经常下雪吗。」>
+pause
+cls
+syscall<$cf35f0e3> (500)
+call<$812afdf0, 0> ('n060')
+call<$49ea5b57, 0> (90)
+#res：「…不知道…」>
+pause
+cls
+#res：不知为何，她有些寂寞地答道。>
+pause
+#res：从她的样子我似乎感到了一丝违和感。>
+pause
+cls
+#res：她对道路如此熟悉，之前对这辆车更加熟悉…>
+pause
+cls
+#res：比起这些来，气候的事情应该更就不在话下才对。>
+pause
+cls
+#res：「明白了，我小心一点开」>
+pause
+cls
+call<$812afdf0, 0> ('n253')
+#res：「…嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$d334ba75, 0> ('o012')
+syscall<$f62e3ca7> ('nami3')
+call<$a4eb1e4c, 0> ('yukizora')
+call<$a4eb1e4c, 0> ('yuki_kohan', 1600)
+call<$5f271e74, 0>
+#res：岸边。我们走出车子，眺望着湖面。>
+pause
+cls
+#res：在强风的吹动下，积雪渐渐地将冰冻的湖面染成白色。>
+pause
+cls
+#res：与此同时，她缓慢地向大海一样的湖边走去。>
+pause
+cls
+#res：…我以前也曾目睹过这幅景象。>
+pause
+cls
+call<$812afdf0, 0> ('n254')
+#res：「…呐，你认为会怎么样呢？」>
+pause
+cls
+#res：「你是指假如这样走进去的话，会没有痛苦轻松地死掉吗」>
+pause
+cls
+call<$812afdf0, 0> ('n255')
+#res：「嗯，我想一定会比在大海里更轻松的…」>
+pause
+cls
+#res：「你这根据是从哪里来的啊…」>
+pause
+cls
+call<$812afdf0, 0> ('n256')
+#res：「因为海水是咸的，身体就会浮起来了嘛…」>
+pause
+cls
+#res：「…好高明的推理啊」>
+pause
+cls
+#res：在冰冷的北风与白雪中，我们进行着不知是认真还是玩笑的对话。>
+pause
+cls
+#res：这时，她再次向着湖边迈出了脚步。>
+pause
+cls
+call<$812afdf0, 0> ('n257')
+#res：「…你还是不拉住我吗？」>
+pause
+cls
+#res：「因为你今天还不打算死吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n259')
+#res：「…嗯…或许吧」>
+pause
+cls
+#res：…距离那个淡路岛，究竟还有多远的距离呢…>
+pause
+cls
+#res：尽管我并不是很想到那里去，也并非是有什么事情想在那里做。>
+pause
+cls
+#res：但是漫无目地徘徊中，我们已拥有了属于自己的目的地。>
+pause
+cls
+#res：尽管我没有拉住她，她还是在靠近岸边一步的位置上停下了脚步。>
+pause
+cls
+#res：…我想，她一定也与我有着同样的想法吧。>
+pause
+cls
+call<$a4eb1e4c, 0> ('cat05', 1600)
+call<$5f271e74, 0>
+syscall<$cf35f0e3> (600)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car3')
+call<$a4eb1e4c, 0> ('hiki_kosoku2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n260')
+#res：「从这里返回１号公路…」>
+pause
+cls
+#res：「明白了」>
+pause
+cls
+#res：我们从８号公路再次转回了１号公路。>
+pause
+cls
+#res：我在她的指引下，向草津驶去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi01', 1600)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n261')
+#res：「呐，现在剩下的钱还够吗？」>
+pause
+cls
+#res：「哦，还剩下３万日元左右」>
+pause
+cls
+#res：除了买衣服外，我们都只是在便利店购买食物。>
+pause
+cls
+#res：「怎么了？」>
+pause
+cls
+call<$812afdf0, 0> ('n262')
+#res：「…那么，开上高速公路吧？」>
+pause
+cls
+#res：「高速公路？　只走普通公路的话去不了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n264')
+#res：「确实可以开到距离那很近的地方…」>
+pause
+cls
+syscall<$cf35f0e3> (500)
+call<$812afdf0, 0> ('n265')
+#res：「但最后，肯定还是要驶上收费公路的…」>
+pause
+cls
+#res：「是这样啊，毕竟是淡路岛嘛」>
+pause
+cls
+#res：尽管不是很了解，但我还是知道，前往淡路岛是必须通过濑户大桥之类的桥梁的。>
+pause
+cls
+call<$812afdf0, 0> ('n266')
+#res：「那么，就从草津进入匝道吧」>
+pause
+cls
+#res：「明白了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我按照她的指示，经瀬田交流道口进入了名神高速公路。>
+pause
+cls
+syscall<$f62e3ca7> ('car3')
+call<$a4eb1e4c, 0> ('joku_kosoku')
+call<$5f271e74, 0>
+#res：与普通公路相比，这里的路面要宽阔平坦得多。>
+pause
+cls
+#res：尽管头一次在高速公路上驾驶，但没有红绿灯和视野宽阔的路面使我感到十分的轻松。>
+pause
+cls
+#res：只是在右侧的高速车道行驶时，从后边飞速驶来的车辆会让我感到有些恐怖。>
+pause
+cls
+syscall<$f62e3ca7> ('car3')
+#res：尽管最初不太明白车辆间互相亮起尾灯与转向灯的意义，但习惯这些以后，高速公路上的驾驶便变得有趣了起来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai_michi01')
+call<$5f271e74, 0>
+#res：「那辆车好快啊…」>
+pause
+cls
+#res：一辆车从后边呼啸而过。悠闲行驶中的我们不由地对视了一眼。>
+pause
+cls
+#res：在助手席上，她也显得与往常有些不同。>
+pause
+cls
+#res：平时，她总是静静地凝视着窗外远方的景色。而今天，却罕见地注视着来来往往的车辆。>
+pause
+cls
+#res：…这时，我想起她对车的知识也很了解。>
+pause
+cls
+#res：我指了指刚才那辆飞速驶过的车。>
+pause
+cls
+#res：「呐，刚才那辆是什么车啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n268')
+#res：「……………」>
+pause
+cls
+#res：「说说看，就当作是猜谜游戏好了」>
+pause
+cls
+call<$812afdf0, 0> ('n269')
+#res：「…丰田赛利卡、ＯＶＥＲＶＩＥＷ」>
+pause
+cls
+#res：「那现在超过去的那辆呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n270')
+#res：「雪铁龙，塞纳…」>
+pause
+cls
+#res：「哎~，你知道得真清楚啊」>
+pause
+cls
+#res：说实话，我并不知道她的答案是否正确。>
+pause
+cls
+#res：但看到平时极少开口的她能够一个接一个地回答我的问题，我感到非常高兴…>
+pause
+cls
+#res：所以，我也接二连三地问了下去。>
+pause
+cls
+call<$812afdf0, 0> ('n271')
+#res：「蓝色的是依诺斯，红色的是阿尔法·罗密欧…」>
+pause
+cls
+#res：她一口气回答出了２台飞驰而过的车辆的名字。>
+pause
+cls
+#res：「不过，那一台你肯定不知道了吧？」>
+pause
+cls
+#res：说着，我指向了一辆和普通轿车完全不同的卡车。>
+pause
+cls
+#res：平时很少有机会见到她的表情，因此，我想趁机看一看她为难的样子。>
+pause
+cls
+call<$812afdf0, 0> ('n272')
+#res：「…………」>
+pause
+cls
+#res：「果然换成卡车就答不出了吧」>
+pause
+cls
+call<$812afdf0, 0> ('n273')
+#res：「…日产阿特拉斯１０型」>
+pause
+cls
+#res：「天啊，你可真厉害啊」>
+pause
+cls
+#res：我本来想为难她一下，没想到她居然会对卡车都如此了解。>
+pause
+cls
+#res：「居然知道这么多，你完全可以引以为豪了？」>
+pause
+cls
+call<$812afdf0, 0> ('n274')
+#res：「…是吗？」>
+pause
+cls
+#res：「是啊，这可不是简单的事啊」>
+pause
+cls
+call<$812afdf0, 0> ('n055')
+#res：「……………」>
+pause
+cls
+#res：她没有回答我。只是看起来显得有些害羞。>
+pause
+cls
+#res：她一定很喜欢车吧…>
+pause
+cls
+#res：「那么，到了淡路岛后，你也试着开一下车吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n249')
+#res：「哎…」>
+pause
+cls
+call<$812afdf0, 0> ('n277')
+#res：「可是，我没有驾照…」>
+pause
+cls
+#res：「没事的，　在海滨开车一定会很有趣哦」>
+pause
+cls
+#res：到了淡路岛以后，没人的地方一定会很好找吧。>
+pause
+cls
+#res：而且这辆车是手动变速的，习惯后一定会感到很有趣。>
+pause
+cls
+#res：「到时候，我可以教你的」>
+pause
+cls
+call<$812afdf0, 0> ('n278')
+#res：「……………」>
+pause
+cls
+#res：「啊，不过我的驾车经验也少得可怜呢」>
+pause
+cls
+call<$812afdf0, 0> ('nv319')
+#res：「…嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1600)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+exit (0)

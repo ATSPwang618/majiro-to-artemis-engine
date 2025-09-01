@@ -1,0 +1,1157 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (8)
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$a4eb1e4c, 0> ('243')
+call<$5f271e74, 0>
+#res：我们去的，是附近的一家咖啡店。是家我熟悉的，经常去的店。>
+pause
+cls
+#res：……虽然叫它咖啡店，实际上或许稍有不同。>
+pause
+cls
+#res：但对我来说，在翘课的时候常有的行动模式，便是去熟悉的店铺……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('123go')
+#res：站在门口，便能从那里听到些稍微从店内传出来的音乐。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0044')
+#res：女主角★：「…………………」>
+pause
+cls
+#res：对这样的场景，日下不由得露出胆怯的表情……>
+pause
+cls
+#res：我没有在意，就那样打开了门。>
+pause
+cls
+syscall<$f62e3ca7> ('doorbel')
+call<$a4eb1e4c, 0> ('n4bg_008a', -100101)
+call<$5f271e74, 0>
+#res：日下被店里的气氛压倒？了，我带着她，来到平常的座位上坐下。>
+pause
+cls
+#res：而在我的对面，一起进来的日下正紧张得惹人发笑。>
+pause
+cls
+syscall<$f62e3ca7> ('cafe2')
+syscall<$4f6367b3> (500, 3000)
+call<$812afdf0, 0> ('n4yoko_0079')
+#res：女主角★：「那个……　我有种非常强烈与周围气氛不符的感觉……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0080')
+#res：女主角★：「话说回来，这里面，全是一些不良分子吧？」>
+pause
+cls
+#res：主人公★：「嗯，客观的来看也是如此」>
+pause
+cls
+#res：一边回答着，我一边朝着周围看去。>
+pause
+cls
+#res：这个店，作为一处被称为不良分子的人们的徘徊场所也是很有名的。>
+pause
+cls
+#res：在那里，聚集着很多就算是往好的方面看，也相当不得了的家伙们。>
+pause
+cls
+#res：当然对我来说，和大部分人都是相识的关系，但是对日下来说，惊吓的感觉似乎要更强烈。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0081')
+#res：女主角★：「……这样下去的话，我也会变成不良的人的」>
+pause
+cls
+#res：主人公★：「虽然无所谓，但是“不良的人”从日语语法来说是不是说错了？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0082')
+#res：女主角★：「呜呜，有点想早点回家啊……」>
+pause
+cls
+#res：虽然也很在意这是抱持着什么样的偏见，但一般来说大致也会那样认为的吧。>
+pause
+cls
+#res：话说回来，这家伙，似乎连普通的咖啡店都没有进去过的样子。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0083')
+#res：女主角★：「那么，差不多，我也该告辞了」>
+pause
+cls
+#res：主人公★：「喂喂，为什么那么着急啊」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0084')
+#res：女主角★：「必，必须早点回去，还有我的宠物金鱼在等着呐」>
+pause
+cls
+#res：刚这么说完，用手拿起咖啡杯。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0085')
+#res：女主角★：「咕咕咕……」>
+pause
+cls
+call<$e9d62d7b, 0> (3)
+call<$812afdf0, 0> ('n4yoko_0086')
+#res：女主角★：「啊，烫烫烫，而且苦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0087')
+#res：女主角★：「呼……喝了这么多的咖啡，说不定今天都睡不着了」>
+pause
+cls
+#res：似乎眼角都泛起了些许泪花，真的是有趣的家伙啊。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+#res：随后，过了一段时间……>
+pause
+cls
+#res：似乎终于镇定下来，我们开始正常地对话。>
+pause
+cls
+syscall<$f62e3ca7> ('cafe2')
+call<$d334ba75, 0> ('bol_03b')
+call<$a4eb1e4c, 0> ('n4bg_008a', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0088')
+#res：女主角★：「那个，莳绘君也是这里的常客吧？」>
+pause
+cls
+#res：主人公★：「嗯，除了在家，一般就在这里吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0089')
+#res：女主角★：「唔，果然莳绘君也是不良分子啊……」>
+pause
+cls
+#res：虽然不太清楚，但明显地被误会了啊……嗯，从小流连在这样的店里被误会也是当然的吧。>
+pause
+cls
+#res：主人公★：「我说啊，话说在前头，我是因为咖啡和料理都很美味才来这里的」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0090')
+#res：女主角★：「诶……？」>
+pause
+cls
+#res：主人公★：「而且这里的店主也是在我小时候便认识了，从以前开始我就一直承蒙他的关爱」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0091')
+#res：女主角★：「那难道是说，是亲戚什么的人？」>
+pause
+cls
+#res：主人公★：「啊，不，虽然也不是那样啦……」>
+pause
+cls
+#res：嗯……怎么说好呢……>
+pause
+cls
+#res：虽然稍微感觉有点麻烦，但也不喜欢一直被误解着，所以我做了简单的说明。>
+pause
+cls
+#res：主人公★：「你看，我家的工作是那个对吧？　所以在这个城市里有很多熟人哟」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0092')
+#res：女主角★：「这样啊……说起来也许是这样……」>
+pause
+cls
+#res：就这个店来说，之前店主也曾将自己的爷爷托付给我们养老院，是以此为契机与我们家相识的。>
+pause
+cls
+#res：因当时的缘分，直到现在店主与我们一家关系都很好。>
+pause
+cls
+#res：当然除了这里之外，其他熟络的店家和人还有很多。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0093')
+#res：女主角★：「诶嘿嘿，似乎有点安心了」>
+pause
+cls
+#res：主人公★：「安心是什么啊，安心」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0094')
+#res：女主角★：「因，因为，我还以为莳绘君说不定是不良分子，吓了一跳」>
+pause
+cls
+#res：主人公★：「这是什么偏见啊……」>
+pause
+cls
+#res：不过也算了，奇怪的猜测也搞清楚了就好。>
+pause
+cls
+#res：话说回来，难道班级里的伙伴们躲避我的原因，也许是因为这个。>
+pause
+cls
+#res：主人公★：「那么接下来也是时候出去了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0095')
+#res：女主角★：「啊，嗯」>
+pause
+cls
+#res：这样说着，日下再次喝下一口咖啡。>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n4yoko_0096')
+#res：女主角★：「烫，烫，而且苦啊……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0097')
+#res：女主角★：「呜呜，今晚，睡不着怎么办啊……」>
+pause
+cls
+#res：真是没有学习能力的家伙。话说，是有多怕烫啊？>
+pause
+cls
+#res：而且因为区区咖啡就睡不着，这是小孩子吗……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$13059346, 0> (800)
+call<$a4eb1e4c, 0> ('sora01')
+call<$5f271e74, 0>
+#res：之后我们出了咖啡店。>
+pause
+cls
+#res：也没有特意去什么地方，我们就直接向着旁边的大海走去。>
+pause
+cls
+syscall<$f62e3ca7> ('nami3')
+syscall<$708b0256> ('umitori')
+call<$a4eb1e4c, 0> ('n4bg_014a')
+call<$5f271e74, 0>
+#res：太阳依旧高照，在温暖阳光的照射下，波浪间闪闪发光。>
+pause
+cls
+#res：在那片沙滩之上，有她那欢快地跃动着的身姿。>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$a4eb1e4c, 0> ('n4ev_002', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0098')
+#res：女主角★：「这里的海风好舒服啊」>
+pause
+cls
+#res：日下边说着边脱下鞋子，在波浪中漫步。她长长的头发，在海风中飘扬。>
+pause
+cls
+#res：主人公★：「喂，小心一点啊。偶尔会有很大的海浪打来的」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0099')
+#res：女主角★：「真是的，没问题的啦，我有好好留意着啦」>
+pause
+cls
+#res：然而这次，虽然用着稍稍有些执拗的表情来争论，但是那话语却让人难以轻信。>
+pause
+cls
+#res：……从前几天开始观察这家伙，我搞清楚了几件事情。>
+pause
+cls
+#res：与那外表不符的，是骨子里相当的笨拙，与其说是天真烂漫，不如说是孩子气。>
+pause
+cls
+#res：虽说最初还给人以稳重的，或者说不显眼的印象呢……>
+pause
+cls
+#res：不，说是稳重，不如说是笨笨的感觉？>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0100')
+#res：女主角★：「总觉得……你在考虑什么奇怪的事情吧？」>
+pause
+cls
+#res：主人公★：「不，没有啊……」>
+pause
+cls
+#res：为什么，偏偏在这种无关紧要的地方特别敏锐。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0101')
+#res：女主角★：「但是今天，稍微有点高兴……」>
+pause
+cls
+#res：主人公★：「怎么了？突然」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0102')
+#res：女主角★：「那个，你看，知道了好多，以前不知道的莳绘君的事情呢……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0103')
+#res：女主角★：「而且……想到说不定，只有我一个人知道的话，就稍微有些开心」>
+pause
+cls
+#res：主人公★：「但是啊……　如果那样说的话，我也差不多哦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0104')
+#res：女主角★：「诶……」>
+pause
+cls
+#res：主人公★：「最初，相识的时候，还在想是位多么阴暗的家伙呢」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0105')
+#res：女主角★：「呜……这可有点，过分啊」>
+pause
+cls
+#res：这样说着，日下又对我露出往常像是生气一般，又像害羞一般的表情。>
+pause
+cls
+#res：……像这样说着话的时候，明明是很普通的呐。>
+pause
+cls
+#res：突然，回想起了前几天放学时候的事情。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0106')
+#res：女主角★：「但是，或许就像莳绘君说的那样」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0107')
+#res：女主角★：「我这个人，总是很怕生，不擅长与人交往……」>
+pause
+cls
+#res：主人公★：「现在可不是那样哦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0108')
+#res：女主角★：「那，那是因为，周围没有人在……」>
+pause
+cls
+#res：然后在这时，对我露出了稍稍有些寂寞的表情。>
+pause
+cls
+#res：说起来虽然今天不是那个样子，但是前几天放学的时候的确是那样。>
+pause
+cls
+#res：恐怕性格方面的原因也占一部分……总的来讲，她比较笨拙吧……>
+pause
+cls
+#res：我自己也是，不怎么自来熟的类型，能够理解她的心情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_014a', -100101)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('nami3')
+syscall<$708b0256> ('umitori')
+#res：从面前传来潮水的响声和海鸟的鸣叫声。>
+pause
+cls
+#res：我们一起坐在沙滩上，眺望着大海。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0109')
+#res：女主角★：「但是真好啊，莳绘君家里，做着很出色的工作……」>
+pause
+cls
+#res：主人公★：「没到很出色的程度吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0110')
+#res：女主角★：「不会啊，如果我在莳绘君的立场的话……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0111')
+#res：女主角★：「果然觉得就算是休学，也要先优先家里的事情」>
+pause
+cls
+#res：主人公★：「不是，我也没到那种觉悟啦……」>
+pause
+cls
+#res：……事实上也并不是那样。>
+pause
+cls
+#res：虽有些说不出口，其实对我来说，也觉得这是很有意义的很出色的工作。>
+pause
+cls
+#res：父亲总会说一些很严厉的事情，但一定不只是那样。>
+pause
+cls
+#res：能使养老院里的大家开心，那也很令人感到快乐。>
+pause
+cls
+#res：当然，现在还在摸索阶段……和前几天，在电视上面看到的美国的专业设施比起来的话还远远不够……>
+pause
+cls
+#res：至少，比起将精力浪费在学校里的无聊课程和升学上面来说，这件事情对我来说更加有价值。>
+pause
+cls
+#res：主人公★：「不过啊，日下的话，又有什么想做的工作呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0112')
+#res：女主角★：「我？」>
+pause
+cls
+#res：主人公★：「是啊，你也有什么想要做的工作吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0113')
+#res：女主角★：「嗯——，有是有的啦，那个……」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$812afdf0, 0> ('n4yoko_0114')
+#res：女主角★：「……不会笑话我吗？」>
+pause
+cls
+#res：主人公★：「大概」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0115')
+#res：女主角★：「真是的，你好好做个约定啊……」>
+pause
+cls
+#res：主人公★：「明白了明白了，不会笑话你的，说说看嘛」>
+pause
+cls
+#res：随后一番扭捏之后，慢慢地说出口。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0116')
+#res：女主角★：「那个啊，想要成为医生呢……」>
+pause
+cls
+#res：主人公★：「……………」>
+pause
+cls
+#res：并不是想要嘲笑她。>
+pause
+cls
+#res：不过，那是不可能的事情吧。>
+pause
+cls
+#res：主人公★：「我记得你……成绩并不是那么好吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0117')
+#res：女主角★：「嗯。不如说比较差……」>
+pause
+cls
+#res：主人公★：「那么家里很有钱吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0118')
+#res：女主角★：「不。普通的工薪家庭」>
+pause
+cls
+#res：主人公★：「喂喂，这不是毫无希望吗？」>
+pause
+cls
+#res：因为家里工作的原因，认识几个当医生的熟人，因此或多或少了解这个职业。>
+pause
+cls
+#res：听说那种职业，若非成绩优秀，家里也很富裕的话，是当不了的。>
+pause
+cls
+#res：而且是女医生，我到现在都没见过，就连老爸大概也是如此吧。>
+pause
+cls
+#res：主人公★：「呐日下，虽然不会嘲笑你……但那是不可能的吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0119')
+#res：女主角★：「真是的，我知道啊……我也只是，不知怎么地随便想想罢了……」>
+pause
+cls
+#res：主人公★：「说起来，又是为什么偏偏想要做医生呢？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0120')
+#res：女主角★：「啊，那是，那是因为……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0121')
+#res：女主角★：「……………」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0122')
+#res：女主角★：「……我自己，身体不怎么好……」>
+pause
+cls
+syscall<$f62e3ca7> ('nami3')
+#res：那样说着，稍微变得寂寞的日下。>
+pause
+cls
+#res：……不知为何，我似乎也体会到了她的感受。>
+pause
+cls
+#res：因为家里工作的关系，至今为止无数次感受到自己的无力。>
+pause
+cls
+#res：每次有谁因为病症而倒下……又有谁离开了养老院……>
+pause
+cls
+#res：就会想到如果这里有医生在的话。至少在精神上，应该会成为巨大的支撑吧。>
+pause
+cls
+#res：……但是，每次都因为撞到了现实的南墙而放弃了。>
+pause
+cls
+#res：呼～，我轻吐一口气。>
+pause
+cls
+#res：然后，尽我所能的用积极的声音说道，>
+pause
+cls
+#res：主人公★：「嘛，加油哟」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0123')
+#res：女主角★：「诶……」>
+pause
+cls
+#res：主人公★：「说“办不到”很简单，可不做出行动的话任何事情都不会有起色的呀……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0123_01')
+#res：女主角★：「……莳绘君……」>
+pause
+cls
+#res：因为我的话，日下的眼泪在眼眶里咕噜咕噜打转。>
+pause
+cls
+#res：好像说了有些不符合身份的帅气的话，但这并不是谎言或者玩笑。>
+pause
+cls
+#res：虽不是很清楚，但如果扎扎实实地去学习去努力的话，可能性应该也不是零吧。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0124')
+#res：女主角★：「那么那个……莳绘君也，不要逃学了一起来吧」>
+pause
+cls
+#res：主人公★：「哈？　和我没关系吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0125')
+#res：女主角★：「诶～，但是，只有我自己的话有些……」>
+pause
+cls
+#res：主人公★：「嗯——，就算你那样说也……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0126')
+#res：女主角★：「呐，拜托了」>
+pause
+cls
+#res：边说着，边“呯”的双手合十。>
+pause
+cls
+#res：但说到底，连我自己现在都只是不得已地、无可奈何地的在上学啊。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0127')
+#res：女主角★：「……不行吗？」>
+pause
+cls
+#res：主人公★：「哎ー，明白了啦，明白了啦，别用那样的表情看着我啊」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0128')
+#res：女主角★：「真的吗」>
+pause
+cls
+#res：主人公★：「啊，尽我所能，能去的时候就去啦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0129')
+#res：女主角★：「呜，再逃课的话可不行哦，约好了啊」>
+pause
+cls
+syscall<$708b0256> ('umitori')
+call<$a4eb1e4c, 0> ('n4ev_002b', 1500)
+call<$5f271e74, 0>
+#res：那一天……>
+pause
+#res：我们交换了好几个约定。>
+pause
+cls
+#res：叫做协定也好，叫做规则也罢。>
+pause
+cls
+#res：……彼此都是游离于班级之外的存在的我们俩。>
+pause
+cls
+#res：身体不是很好，经常休学的她。还有，因为家业的关系经常翘课的我。>
+pause
+cls
+#res：这样的我们俩，做出了约定，如果有一方不来学校的时候，要互相分享笔记。>
+pause
+cls
+#res：当然于我而言，老实说学校也好，学习也罢，都无所谓。>
+pause
+cls
+#res：但是，看着虽然笨拙却又拼命努力的她……>
+pause
+cls
+#res：不知为何，变得想要去支持她了。>
+pause
+cls
+syscall<$15eedeaa> (2500)
+syscall<$926c13e5> (300)
+syscall<$2e861c51> (300)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (800)
+#res：―第二天。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+#res：五月的晴空下，洒下热乎乎的阳气。>
+pause
+cls
+#res：与其说是温暖，不如说让人觉得夏天提前了。>
+pause
+cls
+call<$d334ba75, 0> ('bol_03b')
+call<$a4eb1e4c, 0> ('n4bg_003a')
+call<$5f271e74, 0>
+#res：主人公★：「呼哇，有些困啊……」>
+pause
+cls
+#res：一边打着哈欠，一边麻利的替换着衣服……因为昨天睡得迟，还有少许困意。>
+pause
+cls
+#res：当然这次，不是因为熬了不必要的夜。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_004a', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('np4imo_1014')
+#res：妹★：「阿勒？　哥哥要去学校了？」>
+pause
+cls
+#res：主人公★：「嗯……算是吧」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1015')
+#res：妹★：「但是，昨天值过夜班，没有睡觉吧？」>
+pause
+cls
+#res：说着，妹妹向我露出了稍显不可思议的表情。>
+pause
+cls
+#res：嗯，说起来这也是理所当然的反应。>
+pause
+cls
+#res：至今为止，这种情况下，好些的时候中午才去，大部分的时候基本翘掉了。>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1016')
+#res：妹★：「难道是发生了什么吗？」>
+pause
+cls
+#res：主人公★：「也不是有什么事情。喂，走了哦」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1017')
+#res：妹★：「啊，嗯」>
+pause
+cls
+#res：我一边催促着妹妹，一边快速地出了门。>
+pause
+cls
+#res：……怎么可能，会说出是因为和那家伙做了约定什么的。>
+pause
+cls
+#res：如果那样说的话，都不知道会被如何嘲笑。>
+pause
+cls
+#res：虽然以前也不是这样的，博美那家伙，自从成了初中生，就一天比一天早熟……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_002a', -100101)
+call<$5f271e74, 0>
+#res：边想着，走到养老院的中庭的时候……>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1018')
+#res：妹★：「啊……」>
+pause
+cls
+#res：主人公★：「怎么了博美，想起了什么忘拿的东西吗？」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1019')
+#res：妹★：「呜，嗯，不小心忘记拿了，嘿嘿」>
+pause
+cls
+#res：主人公★：「那快点去取回来哟， 我在这里等你啦」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1020')
+#res：妹★：「不了，哥哥先走吧」>
+pause
+cls
+#res：这样说着，妹妹再次折回家去。>
+pause
+cls
+#res：在正要分别的时候，>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1021')
+#res：妹★：「那么，加油了哟」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……加油？想着到底是在说什么事情，忽然看到养老院的入口。>
+pause
+cls
+#res：那里有一个熟悉的身影。>
+pause
+cls
+call<$d334ba75, 0> ('n_sen04')
+call<$a4eb1e4c, 0> ('n4ime_002_01', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0130')
+#res：女主角★：「早，早上好，莳绘君……」>
+pause
+cls
+#res：主人公★：「啊，是日下啊……」>
+pause
+cls
+#res：还以为是什么事呢……>
+pause
+cls
+#res：不过，博美那家伙也是，在奇怪的地方瞎操心。>
+pause
+cls
+#res：主人公★：「那么，怎么了？　在这种地方」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0131')
+#res：女主角★：「那个，想着去学校来着，正好路过……」>
+pause
+cls
+#res：一边说着，日下露出了一如既往的羞赧的表情。>
+pause
+cls
+#res：主人公★：「嘛，算了，谢了啊，来迎接我」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0132')
+#res：女主角★：「………」>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$a4eb1e4c, 0> ('b', 100)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0133')
+#res：女主角★：「啊啊、话，话说在前头，并不是想要一起上学，不是那种事情哦」>
+pause
+cls
+#res：主人公★：「……哈？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0134')
+#res：女主角★：「那，那个，我是来确认你有没有好好去上学的，真的，是真的哦，哈呼」>
+pause
+cls
+#res：一口气说完。该说这家伙有趣呢，还是容易懂呢……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+#res：五月温和的阳光照耀着，天空高远而清澈，日下害羞地低着头走路。>
+pause
+cls
+#res：明明是自己发出邀请的，今天却也像往常一样没有走在身边，而是磨磨蹭蹭地跟在我后边。>
+pause
+cls
+#res：大概，到了上学的时候，就又变成另一回事了。>
+pause
+cls
+#res：前几天放学后一起回家的时候，和去海边的时候明明都不是这副样子的……>
+pause
+cls
+#res：……嘛，因为和放学时不同，早上上学的时候就更加如此。>
+pause
+cls
+#res：只是被看到一起上学，便会在班级里产生谣言，确实有些不好意思。>
+pause
+cls
+#res：所以和以前一样，最初日下还在旁边并排着走着，渐渐地却拉开了距离。>
+pause
+cls
+#res：……虽说如此，这样一来特地前来迎接的意义也没有了。>
+pause
+cls
+#res：我时不时地停下回头叫她。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_003', -100101)
+call<$5f271e74, 0>
+#res：主人公★：「喂，日下……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0135')
+#res：女主角★：「诶……啊，叫我来着？」>
+pause
+cls
+#res：主人公★：「……再靠近一点走啊。这样的话，不是聊天都聊不了了？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0136')
+#res：女主角★：「呜呜，但是……」>
+pause
+cls
+#res：偷偷摸摸地看着周围。>
+pause
+cls
+#res：然后，虽然还是很害羞，总算是并排着走到了我旁边……>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0137')
+#res：女主角★：「那，那个，那个……」>
+pause
+cls
+#res：主人公★：「嘿，不那么紧张也可以的啦、普通的边聊天边走吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0138')
+#res：女主角★：「………」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0139')
+#res：女主角★：「今，今天，是个好日子……」>
+pause
+cls
+#res：主人公★：「错了错了，不用那么客套」>
+pause
+cls
+#res：真是，有趣的家伙啊。>
+pause
+cls
+#res：她就如此这般，磕磕绊绊地勉勉强强跟在我旁边。>
+pause
+cls
+#res：当然，对话也不是十分热烈……>
+pause
+cls
+#res：不，不仅聊不起来，甚至一如既往地沉默着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……要是有什么话题就好了啊……>
+pause
+cls
+#res：正想着这种事情的时候，突然看到了人行横道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_005_02', -100101)
+call<$5f271e74, 0>
+#res：……人行横道啊……>
+pause
+cls
+#res：不知怎么想到的我，一边发出号子声一边，>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+#res：主人公★：「嘿……」>
+pause
+cls
+#res：轻轻地跳了一下，只踩着斑马线的白条部分前进。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0140')
+#res：女主角★：「那个，这到底是……」>
+pause
+cls
+#res：主人公★：「小时候经常这样干吧？　这个白色的部分是安全地带」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0141')
+#res：女主角★：「……安全地带？」>
+pause
+cls
+#res：主人公★：「是的，顺带一提黑色的部分是岩浆，脚不能踩上去……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0142')
+#res：女主角★：「哎，啊啊，说起来是常常这么说……」>
+pause
+cls
+#res：似乎日下她也回想起来了。>
+pause
+cls
+#res：那么就好说明了。>
+pause
+cls
+#res：我朝着后边扭捏着的日下……>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+#res：主人公★：「喂，日下，你的脚，你的脚踩岩浆了」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0143')
+#res：女主角★：「诶？　诶诶？　什么？」>
+pause
+cls
+#res：主人公★：「快，快，快到安全地带啊，要被烧着了」>
+pause
+cls
+#res：对我说的这些话，好像稍稍沉思了一下……>
+pause
+cls
+#res：就这样，一副困惑的表情之后……>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0144')
+#res：女主角★：「哇，哇，糟糕，烫烫」>
+pause
+cls
+#res：像这样，日下敏捷地跳了下到了斑马线的白色部分。>
+pause
+cls
+#res：……意外地很起劲。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$5f271e74, 0>
+#res：……从这开始，我一有机会就指着路旁……>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+#res：主人公★：「那里！那里有食人鱼群！」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0145')
+#res：女主角★：「好痛好痛，要被吃掉了」>
+pause
+cls
+#res：说着，就像这样，日下好像也乐在其中，很起劲地配合着我。>
+pause
+cls
+#res：最后……>
+pause
+#res：她不知什么时候就变成走在我身边了。>
+pause
+cls
+#res：看到校门的时候……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_003_01', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0146')
+#res：女主角★：「欸，莳绘君也有那张唱片啊」>
+pause
+cls
+#res：主人公★：「你才是，想不到也有，那个挺贵的吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0147')
+#res：女主角★：「诶嘿嘿，把所有零花钱都花掉买下来了」>
+pause
+cls
+#res：到之前为止的紧张的样子也缓和了不少，我们在不知不觉间一起普通地边聊边走。>
+pause
+cls
+#res：……嘛，刚才的那个虽然有些小孩子气……因为这种程度的事情就能够放松下来也是很值得了。>
+pause
+cls
+#res：而且，之前就一直在想了……>
+pause
+cls
+#res：确实她是怕生而容易害羞的。也比起其他人稍稍有些笨拙。>
+pause
+cls
+#res：但是事实上……>
+pause
+cls
+#res：也能感受到开朗，能自然地笑出来的性格。>
+pause
+cls
+#res：主人公★：「哎日下……你注意到了吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0148')
+#res：女主角★：「什么？」>
+pause
+cls
+#res：主人公★：「现在……你，在正常地和我对话哦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_003_01b', 200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0149')
+#res：女主角★：「诶……」>
+pause
+cls
+#res：主人公★：「而且从刚才开始，就一直在我身边」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0033', 200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0150')
+#res：女主角★：「…………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：在我的话里，她的脚步固定了。>
+pause
+cls
+#res：然后，我朝着再次试图拉开与我的距离的她……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_005_01a', -100101)
+call<$5f271e74, 0>
+#res：主人公★：「嘿，不准离开的」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0151')
+#res：女主角★：「但，但是，果然还是……」>
+pause
+cls
+#res：主人公★：「反正，必须一直保持这样的距离」>
+pause
+cls
+#res：我轻轻地用手比给她看，距离大约是一米。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0152')
+#res：女主角★：「……那个，要是离开了的话？」>
+pause
+cls
+#res：主人公★：「……………」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$e9d62d7b, 0> (3)
+#res：主人公★：「啊，那个地方有岩浆」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0153')
+#res：女主角★：「诶？」>
+pause
+cls
+#res：主人公★：「嘿日下，不快点来这边的话会烧着的！」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0154')
+#res：女主角★：「啊、那、那个…………哇、哇啊、好烫好烫」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_003_01d', 1500)
+call<$5f271e74, 0>
+#res：一边说着……>
+pause
+#res：日下再次来到了我的身旁。>
+pause
+cls
+#res：主人公★：「看，很简单吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0155')
+#res：女主角★：「……………」>
+pause
+cls
+#res：主人公★：「那么从今往后，就当这里以外全都是岩浆……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('243', 1500)
+call<$5f271e74, 0>
+#res：五月温和的阳光照耀着，天空高远而清澈。>
+pause
+cls
+#res：雨后潮湿的沥青路面散发出石灰的味道。>
+pause
+cls
+#res：路面的水洼中倒映着蔚蓝色的天空，其中散发出的气味似乎让人不觉想起了夏天。>
+pause
+cls
+#res：在这通往学校的路上，与一如往常害羞的她一起走着……>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0157')
+#res：女主角★：「那个……谢谢你……」>
+pause
+cls
+#res：突然之间，小声嘟囔的她。我一声不响地，轻轻地敲了一下她的脑袋。>
+pause
+cls
+#res：……我想我一定，是害羞了。>
+pause
+cls
+#res：做着这些不合身份的事情，就连自己也察觉到了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_007a', -100101)
+call<$5f271e74, 0>
+#res：这之后我们也并排进入了教室，而班里的同学们偷偷地看着我们的情况。>
+pause
+cls
+#res：虽不知为何将我当成了不良，却也一直没有特别嘲弄我……>
+pause
+cls
+#res：和往常一样，害羞地坐在教室角落的她。>
+pause
+cls
+#res：对着这样的日下，我一次又一次地，说着岩浆啦食人鱼啦之类的……>
+pause
+cls
+#res：而且每次这样做的时候，>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n4yoko_0158')
+#res：女主角★：「哇啊，痛，要被吃掉了」>
+pause
+cls
+#res：这样说着，配合着我的日下。>
+pause
+cls
+#res：当然班级里的人们对着这样的行为展露出了不可思议的表情……我却毫不在意地继续下去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1200)
+call<$5f271e74, 0>
+#res：……一次又一次地，重复着这样的事情……>
+pause
+cls
+#res：大约被岩浆烧了一百次，被食人鱼也咬了五十次……>
+pause
+cls
+#res：不知从什么时候，即使什么都不说，她也会待在我的身边了。保持在我周围一米的安全地带之内，成为了理所应当的事情。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_013c', 1500)
+call<$5f271e74, 0>
+#res：……一直都在身边……>
+pause
+#res：成了理所应当的事情……>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+exit (0)

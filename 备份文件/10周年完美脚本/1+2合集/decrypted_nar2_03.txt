@@ -1,0 +1,1076 @@
+
+#function $49ea5b57
+op836[#00]
+op829[#00]
+push 0
+push op802[#60008e0e7cc6feff]
+op148
+jmp82e @1
+push op802[#60008e0e7cc6feff]
+push syscall<$e5c70196>
+op100
+push 50
+op108
+op1b0[#6000872e7ebd0000]
+op82f
+text_control_73 (op802[#6000872e7ebd0000])
+
+  @1
+exit (0)
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('h007', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (500)
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_kaze_05c2')
+call<$35395c9f, 0> (6)
+call<$812afdf0, 0> ('himeko-0133')
+#res：「回过神来，树也已被染成红色...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0134')
+#res：「而我也已经习惯了医院的生活的时候...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0135')
+#res：「几乎已经没有会来看望我的人，　唯独我依然在这里」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0136')
+#res：「今天那两个人...也来到这里」>
+pause
+cls
+call<$d334ba75, 0> ('2o01')
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('byousitu2', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0050')
+#res：「给，姐姐，今天附赠有布丁喔...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0137')
+#res：「这样啊...不过现在不想吃」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0138')
+#res：「千寻，你吃吧，你不是喜欢布丁吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0051')
+#res：「这是姐姐的午餐，　不自己吃的话不行」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0139')
+#res：「那，吃了这个后可以帮我去买个肉包吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0052')
+#res：「真是的，不要讲这种奇怪的条件啦」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_knock_02b')
+#res：叩叩，咔嚓。>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0091')
+#res：「哟，看起来精神很好呢」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0053')
+#res：「啊，优花来了...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0092')
+#res：「怎么了？　今天又因为挑食在耍孩子气了？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0054')
+#res：「是啊，姐姐真是的，真拿她没办法」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0093')
+#res：「真是的」>
+pause
+cls
+#res：叩>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0140')
+#res：「哎呀」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0094')
+#res：「不要让千寻困恼啦」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0095')
+#res：「真是的，只有对你实在没办法呢」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0141')
+#res：「呜，那也没必要用盘子敲我吧...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0096')
+#res：「快吃快吃，　不然直接塞到你嘴里喔」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0142')
+#res：「知，知道了啦」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0143')
+#res：「刚刚也只是开玩笑说的...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0097')
+#res：「嗯？这张嘴还想说什么是吗」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0144')
+#res：「啊，哇，别捏了」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0055')
+#res：「诶嘿嘿」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$812afdf0, 0> ('chihiro-0056')
+#res：「那么，姐姐...我差不多也该走了...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0145')
+#res：「嗯，也帮我和医生问个好」>
+pause
+cls
+call<$d334ba75, 0> ('2mi02')
+syscall<$f62e3ca7> ('03_door_close_02')
+#res：咔嚓，碰>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0098')
+#res：「...千寻，现在还在做啊？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0146')
+#res：「是啊，现在担任照顾７楼病患的工作所以很辛苦...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0099')
+#res：「这样啊...记得那边是安宁病房吧」>
+pause
+cls
+#res：对于这句话我稍微点了个头。>
+pause
+cls
+#res：然后，决定坦白地说出，从以前就在心底考虑的一件事情。>
+pause
+cls
+#res：正因为是她，我才想最先告诉...>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0147b')
+#res：「那个，优花...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0148b')
+#res：「假如说，我是说假如...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0149b')
+#res：「如果有一天，我也住进７楼的话...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0100')
+#res：「唉...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0101')
+#res：「等等，怎么突然说这种不着边际的话」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0150b')
+#res：「...听我说...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0102')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0151b')
+#res：「如果我住进７楼的时候...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0152b')
+#res：「就...不要再来看我了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：优花听到这话低下了头。就算是我，也不想看到她难过的样子。>
+pause
+cls
+#res：但是，如果真的住进７楼的话...>
+pause
+cls
+#res：一定会让她更加难过。光是看到难过的优花我大概就已经受不了了。>
+pause
+cls
+syscall<$f62e3ca7> ('isu1c')
+call<$a4eb1e4c, 0> ('byousitu2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0103')
+#res：「笨，笨蛋，你在说什么啊」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0104')
+#res：「我每天都会来的，拿全勤奖」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0105')
+#res：「当，当然是空手来，　慰问品什么的，绝对不会带来的。」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0106b')
+#res：「所，所以...不要说这种话啊...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0153')
+#res：「...优花...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0107')
+#res：「呜呜...」>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：...在这狭小的病房，回响着她的哭声。>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：认识这么多年了...>
+pause
+#res：...>
+call<$49ea5b57, 0> (80)
+#res：就算通宵聊天，我们也从没有找不到话题过...>
+pause
+cls
+call<$49ea5b57, 0> (80)
+#res：但是现在，我却不知该和她说什么。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('h008')
+call<$5f271e74, 0>
+call<$13059346, 0> (500)
+call<$a4eb1e4c, 0> ('sora07', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('n04')
+call<$812afdf0, 0> ('himeko-0154')
+#res：「在风从凉爽变得有些冷的时候」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0155')
+#res：「像平常一样，来到这里看望我的二个人」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0156')
+#res：「不过...从某天开始，有些东西变了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('sara03')
+call<$812afdf0, 0> ('himeko-0157')
+#res：「我吃饱了...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2y')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0057')
+#res：「啊，连花椰菜都吃完了呢」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0158')
+#res：「是啊，虽然真的很讨厌...」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0058')
+#res：「那个，还有什么想要的东西吗？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0159')
+#res：「嗯...想要商店里卖的冰淇淋」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0160')
+#res：「还有也想要肉包」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0059b')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0060b')
+#res：「我知道了，我马上去买」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0161')
+#res：「嗯...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_door_close_02')
+#res：咔嚓，碰>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0162')
+#res：「...明明只是打算开玩笑的...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0163')
+#res：「明明以前到现在...怎么拜托都不行...」>
+pause
+cls
+syscall<$f62e3ca7> ('03_door_close_02')
+call<$a4eb1e4c, 0> ('byousitu2y')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0061b')
+#res：「呼，呼，我，我回来了」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0062b')
+#res：「给，用跑的买回来了喔」>
+pause
+cls
+call<$812afdf0, 0> ('hime2_0187')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0063b')
+#res：「你看，还很暖和，很好吃喔」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0064b')
+#res：「冰淇淋我先写上名字放到冰箱」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0165')
+#res：「好的，谢谢...」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0065c')
+#res：「嗯，还有什么想要的东西就说吧」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0066b')
+#res：「然后，快一点好起来...」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0067c')
+#res：「再...一起去教堂吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0164')
+call<$49ea5b57, 0> (90)
+#res：「.....................」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0166')
+#res：「千寻...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0167')
+#res：「你的语气变得像陪护一样了喔」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0068b')
+#res：「唉...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0168')
+#res：「也是啊，看来似乎是这样了」>
+pause
+cls
+syscall<$f62e3ca7> ('isu1')
+call<$812afdf0, 0> ('chihiro-0069')
+#res：「啊，那个，不是那样...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0169')
+call<$49ea5b57, 0> (80)
+#res：「不用隐瞒也没关系，　我这半年也不是白过的」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0070')
+call<$49ea5b57, 0> (90)
+#res：「姐姐...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0170')
+call<$49ea5b57, 0> (80)
+#res：「反正，毕竟都住了半年多的院，　我也觉得差不多是时候了」>
+pause
+cls
+syscall<$f62e3ca7> ('karakara')
+call<$a4eb1e4c, 0> ('sora06', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (700)
+call<$812afdf0, 0> ('himeko-0171')
+#res：「...惊讶，悲哀，气愤，抑郁，寂寞...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0172')
+#res：「如果用一句话来表达现在的心情的话...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0173b')
+#res：「...实在搞不懂，这句最接近吧...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('kyoukai1l', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0174')
+#res：「人啊，在遇到难以接受的事实的时候...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0175')
+#res：「也许连自己本身的事情，都能客观的来看待也说不一定...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+call<$a4eb1e4c, 0> ('h009', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (500)
+syscall<$f62e3ca7> ('03_kaze_05c2')
+call<$a4eb1e4c, 0> ('sora06')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0176')
+#res：「冬天的寒风阵阵吹来，　电视也传来圣诞歌的时候」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0177')
+#res：「在这种时候也一直陪在我身边的两个人...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0178')
+#res：「虽然还没有被告知...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0179')
+#res：「前往7楼的日子，大概也不远了吧...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0108')
+#res：「圣诞节快乐！」>
+pause
+cls
+syscall<$708b0256> ('kura')
+#res：噼啪>
+pause
+cls
+call<$d334ba75, 0> ('o02')
+call<$a4eb1e4c, 0> ('byousitu2y')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0180')
+#res：「好了好了，圣诞节快乐」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0071')
+#res：「姐姐，你看，蛋糕买来了喔」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0109')
+#res：「看起来很好吃呢」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0110')
+#res：「嗯嗯嗯...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0181')
+#res：「我说啊，不要突然就吃起来了啊」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0111')
+#res：「有什么关系，明明还有很多」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0182')
+#res：「喂，不要若无其事地把草莓拿走啦」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0072b')
+#res：「等，等一下啦，优花，先让我切好放到盘子上」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0112')
+#res：「知道了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$a4eb1e4c, 0> ('byousitu2y', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('chihiro-0073')
+#res：「呼，真好吃呢」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0183')
+#res：「是啊，虽然几乎都是优花一个人吃完的」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0113')
+#res：「什么啊，今天这样的日子我都来了，　多吃点也没关系的吧。」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0114')
+#res：「唉，原本应该正过着愉快的平安夜的时候...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0184')
+#res：「老是说谎，明明连个对象都没有」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0115')
+#res：「嗯...虽然很不甘心，不过没办法反驳」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0074')
+#res：「还有，姐姐...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0185')
+#res：「嗯？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0075')
+#res：「圣诞节礼物...我试着织了一条围巾哦」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0186')
+#res：「............」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0076')
+#res：「那个，虽然可能不是织的很好...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0187')
+#res：「不会的，谢谢你，千寻...」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0077')
+#res：「嗯...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0116')
+#res：「真是的，对姬子来说多浪费啊，这么能干的妹妹～」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0188')
+#res：「真烦啊，　还是老样子空手来的你在说什么啊」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0078')
+#res：「二个人都不要再吵了啦...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：...一如往常的斗嘴。>
+pause
+cls
+#res：温柔的妹妹和吵死人的挚友。一边说些无聊的话一边笑着，好几年我们都是这么过来的。>
+pause
+cls
+#res：不同的是，今年的圣诞节，在医院的5楼。>
+pause
+cls
+#res：然后...再过不久就要搬到7楼了>
+pause
+cls
+call<$a4eb1e4c, 0> ('byousitu2y')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('isu1')
+call<$812afdf0, 0> ('himeko-0189')
+call<$49ea5b57, 0> (90)
+#res：「那个，千寻...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0190')
+#res：「顺便还有一件想做的事情...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0191')
+#res：「...可以吗？」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0079')
+#res：「啊，嗯？　什么？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0192')
+call<$49ea5b57, 0> (90)
+#res：「...依诺斯，帮我开过来...」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0080')
+call<$49ea5b57, 0> (80)
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0193')
+call<$49ea5b57, 0> (80)
+#res：「应该还停在车库里...」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0081')
+call<$49ea5b57, 0> (75)
+#res：「可，可是，姐姐...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0194b')
+call<$49ea5b57, 0> (75)
+#res：「抱歉...不管怎么样都想坐一坐...」>
+pause
+cls
+syscall<$f62e3ca7> ('katen')
+syscall<$708b0256> ('karakara')
+#res：喀拉喀拉，>
+pause
+cls
+call<$a4eb1e4c, 0> ('yakei01', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('kaze3bb')
+#res：打开窗户，从5楼窗户往下眺望的街道的夜景。>
+pause
+cls
+#res：在这清澈的冬夜，连月亮都能看得清清楚楚。>
+pause
+cls
+#res：然后，再过不久，就会到更高的地方去眺望这景色了吧。>
+pause
+cls
+#res：从只能拉开15厘米的窗户，眺望吧...>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0102')
+call<$49ea5b57, 0> (90)
+#res：「..................」>
+pause
+cls
+syscall<$f62e3ca7> ('isu1')
+call<$812afdf0, 0> ('yuka-0117b')
+#res：「可以喔，我帮你开过来」>
+pause
+cls
+call<$812afdf0, 0> ('chihiro-0082')
+#res：「...优花？」>
+pause
+cls
+call<$13059346, 0> (700)
+call<$812afdf0, 0> ('himeko-0195d')
+call<$49ea5b57, 0> (80)
+#res：「...真不愧是挚友...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0102')
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0118')
+#res：「......哼」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0119')
+#res：「只是觉得连圣诞节都空手来很抱歉而已」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_close')
+#res：碰，>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_chu_y4')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_03')
+call<$812afdf0, 0> ('himeko-0196')
+call<$49ea5b57, 0> (80)
+#res：「那么，出发了喔...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_chu_y5')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0120b')
+call<$49ea5b57, 0> (80)
+#res：「嗯...」>
+pause
+cls
+call<$d334ba75, 0> ('2na_fb')
+call<$a4eb1e4c, 0> ('h010', 1)
+call<$a4eb1e4c, 0> ('h010b')
+call<$a4eb1e4c, 0> ('h010c', 1)
+call<$a4eb1e4c, 0> ('h010d')
+call<$a4eb1e4c, 0> ('h010f2', 1)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0197')
+#res：「那个，不冷吗？」>
+pause
+cls
+syscall<$708b0256> ('03_kaze_05c2')
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$812afdf0, 0> ('yuka-0121b2')
+#res：「...冷死了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('car_run_y2b', 1)
+call<$a4eb1e4c, 0> ('car_run_y2', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('kei05')
+call<$812afdf0, 0> ('himeko-0198')
+#res：「这样啊...果然，还是不太适合在这季节开呢...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0122b')
+#res：「笨蛋，在开之前早点发现啊」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0199')
+#res：「哈哈，也是啊...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('shanai1y')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0200')
+#res：「优花...我想去之前去过的那个地方...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0123b')
+#res：「那个海边？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0201')
+#res：「嗯，不过没什么自信...导航系统和地图都没有」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0124b')
+#res：「没事...照着自己的感觉开吧」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0125c')
+#res：「因为圣诞节的夜晚...可是特别长的啊」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0202')
+#res：「嗯，我知道了...」>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('car_run_y1', 1500)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('himeko-0203')
+#res：...在连名字都不知道的道路上行驶的Road Ster...>
+pause
+cls
+syscall<$90d5298a> ('himeko-0204')
+#res：昏暗的天空慢慢变亮的时候，前往那个海边...>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora_a03c', 2000)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('himeko-0205')
+#res：...为什么，我会想做这种事呢...>
+pause
+cls
+syscall<$90d5298a> ('himeko-0206')
+#res：详细的原因...连我自己也不知道...>
+pause
+cls
+syscall<$f62e3ca7> ('car_thru_lr')
+call<$a4eb1e4c, 0> ('car_run_y52', 1500)
+call<$5f271e74, 0>
+#res：耳边传来的海浪声。和春天那次一样还是很高的海枣树。>
+pause
+cls
+#res：昏暗的天空完全转变成黎明的时候...>
+pause
+cls
+#res：回过神来的时候，我们已经到了那个地方。>
+pause
+cls
+syscall<$f62e3ca7> ('car_stop2')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_close')
+#res：咔嚓，碰。>
+pause
+cls
+syscall<$f62e3ca7> ('umi13b')
+call<$812afdf0, 0> ('yuka-0126b')
+#res：「到了啊...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0207')
+#res：「嗯...」>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibey2', 1500)
+call<$5f271e74, 0>
+syscall<$708b0256> ('umitori')
+call<$812afdf0, 0> ('yuka-0127b')
+#res：「还真的，真亏你能安稳开到这里呢」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0208')
+#res：「如何？还不错吧？我的驾驶技术，还有我的车。」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0128b')
+#res：「还行吧，除了真的冷这件事外」>
+pause
+cls
+syscall<$cf35f0e3> (1500)
+call<$812afdf0, 0> ('yuka-0129b')
+#res：「对了，我去买饮料给你」>
+pause
+cls
+syscall<$708b0256> ('jihan1')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：喀叮喀叮。>
+pause
+cls
+syscall<$f62e3ca7> ('jihan2')
+#res：扑通。>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0130b3')
+#res：「啊，好烫，真是好烫，这个售货机」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0131b2')
+#res：「姬子～，我记得你喝咖啡没问题吧？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0209')
+#res：「不用了」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0132b2')
+#res：「那，奶茶呢？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0210')
+#res：「不用了...」>
+pause
+cls
+syscall<$f62e3ca7> ('asi02')
+call<$a4eb1e4c, 0> ('umibey2')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0133')
+#res：「真是的，快点决定啦」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0134b')
+#res：「虽然说是１２０日元，不过我可是很少请客的啊」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0211')
+#res：「..................」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0135b')
+#res：「那个，不管是什么都行，说想要的吧」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0212')
+#res：「...什么都行？」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0002b')
+#res：「嗯」>
+pause
+cls
+syscall<$f62e3ca7> ('umi13b')
+call<$812afdf0, 0> ('hime2_0187')
+#res：「...............」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0213b')
+#res：「那么......想要地图...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0136b')
+#res：「...地图？是说用来看的那个地图？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0214')
+#res：「嗯，依诺斯就当做回礼给你了」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0137b')
+#res：「唉？」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0215')
+#res：「...要好好珍惜」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0138b')
+#res：「...............」>
+pause
+cls
+syscall<$708b0256> ('umitori')
+call<$a4eb1e4c, 0> ('sora_a03c', 3000)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('yuka-0139b')
+#res：「呜呜...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0140b')
+#res：「笨，笨蛋，不要突然说出这么悲伤的事情啊！」>
+pause
+cls
+syscall<$f62e3ca7> ('umi13b')
+call<$812afdf0, 0> ('himeko-0216')
+#res：「那个，看来我,似乎要去７楼了...，」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0217')
+#res：「说不定...这就是“报应”吧...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0218b')
+#res：「所以...可以的话能请你收下吗？　依诺斯...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0141')
+#res：「做、做不到的...我没有办法收下的」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0219')
+#res：「还有，优花...以前也说过的...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0220')
+#res：「希望你不要再来看我了...」>
+pause
+cls
+call<$812afdf0, 0> ('yuka-0142')
+#res：「呜呜...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0221c')
+#res：「因为看到你这样，我也会很痛苦啊...」>
+pause
+cls
+syscall<$f62e3ca7> ('umi12')
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (3000)
+syscall<$708b0256> ('kane02d')
+call<$a4eb1e4c, 0> ('kyoukai1l2', 1500)
+call<$5f271e74, 0>
+syscall<$90d5298a> ('himeko-0001')
+call<$49ea5b57, 0> (80)
+#res：...钟声响彻着...>
+pause
+cls
+call<$d334ba75, 0> ('2na')
+call<$a4eb1e4c, 0> ('h011')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('03_torib')
+call<$812afdf0, 0> ('himeko-0223')
+call<$49ea5b57, 0> (80)
+#res：「教堂里满是前往日曜学校的人们，」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0224')
+call<$49ea5b57, 0> (80)
+#res：「正值寒冷的冬天，」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0225')
+call<$49ea5b57, 0> (80)
+#res：「我手腕上的手环...从蓝色变成白色」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0226b')
+call<$49ea5b57, 0> (80)
+#res：「虽然，最后她还是没收下依诺斯...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0227b')
+call<$49ea5b57, 0> (80)
+#res：「不过隔天...我收到了地图」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('pera')
+call<$a4eb1e4c, 0> ('tizu01b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0228b')
+call<$49ea5b57, 0> (80)
+#res：「...为什么会想要这东西呢...」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0229')
+call<$49ea5b57, 0> (80)
+#res：「果然详细的原因，我自己也不清楚...」>
+pause
+cls
+syscall<$f62e3ca7> ('pera')
+call<$a4eb1e4c, 0> ('tizu01e', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('himeko-0230d')
+call<$49ea5b57, 0> (90)
+#res：「只是...在这之后...我就再也没见到她了」>
+pause
+cls
+call<$812afdf0, 0> ('himeko-0231d')
+#res：「她的全勤奖...在此结束了...」>
+pause
+cls
+syscall<$f62e3ca7> ('03_kami2')
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+exit (0)

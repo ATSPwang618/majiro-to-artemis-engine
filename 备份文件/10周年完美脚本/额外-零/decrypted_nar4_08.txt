@@ -1,0 +1,830 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (8)
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0093')
+#res：●●阳子：「我知道……」>
+pause
+cls
+call<$d334ba75, 0> ('2ka012')
+call<$a4eb1e4c, 0> ('n4ev_0084', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0094')
+#res：●●阳子：「人，从出生的瞬间开始，就是不平等的…………」>
+pause
+cls
+#res：碰巧，我身体似乎很虚弱。>
+pause
+cls
+#res：有能够克服那种状况的人，也有没法克服的人。并不是谁的错。>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0095')
+#res：●●阳子：「但最大的问题……并不是我自身」>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0096')
+#res：●●阳子：「一定是，将我围绕起来的，身边的人吧」>
+pause
+cls
+#res：……重担。负担。并不像说起来这么简单。>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0097')
+#res：●●阳子：「假如真的有神明的话，希望现在马上治好我……」>
+pause
+cls
+#res：如果没办法做到的话，希望能杀了我。>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0098')
+#res：●●阳子：「但是，神哪个都没有选……」>
+pause
+cls
+#res：所以，只能自己抉择。选项只有两个。>
+pause
+cls
+#res：而对他，我能说的话……>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0099')
+#res：●●阳子：「……谢谢……」>
+pause
+cls
+#res：还有……>
+pause
+#res：……对不起。>
+pause
+cls
+call<$a4eb1e4c, 0> ('nar4_tel06', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42c')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：７月。性急的知了的声音响起，梅雨期过了的天空。>
+pause
+cls
+call<$812afdf0, 0> ('etcm1_1006')
+#res：友達：「那么莳绘，明天见」>
+pause
+cls
+#res：主人公：「啊，那就这样」>
+pause
+cls
+#res：和几个熟人打过招呼后，走出了大学。>
+pause
+cls
+#res：……那之后过了三个月。也到了习惯了大学，适应了这里生活的时候。>
+pause
+cls
+#res：一切都恰如其分地顺利进行着。>
+pause
+cls
+#res：一开始各方面觉得令人惊讶的东京生活，现在我也觉得已经习惯了。>
+pause
+cls
+#res：只是，我心中的担忧也日益增长了。>
+pause
+cls
+#res：主人公：「……今天那家伙，来了吗……」>
+pause
+cls
+syscall<$926c13e5> (500)
+#res：边想着那些事，我给家里打了电话。>
+pause
+cls
+syscall<$f62e3ca7> ('denwa_callr', 1)
+#res：嘟噜噜噜噜……>
+pause
+cls
+syscall<$f62e3ca7> ('tell_on')
+call<$812afdf0, 0> ('np4imo_1097e')
+#res：妹：「你好，是莳绘家……」>
+pause
+cls
+#res：主人公：「博美吗……是我呀，是博史」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1098e')
+#res：妹：「啊，哥哥」>
+pause
+cls
+#res：听筒那边是妹妹。这几天，我同每天一样这样打电话。>
+pause
+cls
+#res：主人公：「然后呢，怎么样了？」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1099e')
+#res：妹：「唔。今天也没有来呢……」>
+pause
+cls
+#res：主人公：「这样啊……那家伙，怎么了啊……」>
+pause
+cls
+#res：这里说的那家伙，当然是日下。>
+pause
+cls
+#res：我刚刚到东京的时候，她偶尔还会在家里露脸……>
+pause
+cls
+#res：这一个星期里，变得完全没人影了。>
+pause
+cls
+#res：当然，没有来自她那儿的联络，那家伙家里的电话也打不通。>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1100e')
+#res：妹：「唔……之后，　虽然也去过阳子的家里……」>
+pause
+cls
+#res：主人公：「……家里？　然后怎么样？」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1101e')
+#res：妹：「嗯。谁都没在。　不仅是阳子，叔叔和阿姨也……」>
+pause
+cls
+#res：……难道说……住院了吗？>
+pause
+cls
+#res：是非常可能的事。>
+pause
+cls
+#res：从去年夏天开始，学校也常常请假，最重要的是，那家伙本来就不是那么身强体壮的人。>
+pause
+cls
+#res：如果是住院的话，那家伙家里的电话联系不上也能想通。>
+pause
+cls
+#res：主人公：「明白了，周末我也回去」>
+pause
+cls
+syscall<$f62e3ca7> ('kurodenwa_tin')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：结束和妹妹的通话，我变得越来越担心了。>
+pause
+cls
+#res：……尽管如此也联系一下啊……>
+pause
+cls
+#res：明明本来就在意之前在车站分别的时候的事。>
+pause
+cls
+#res：对。在这个时刻，我还没想到那么严重。>
+pause
+cls
+#res：但是……>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora06', 1500)
+call<$5f271e74, 0>
+#res：第二天。>
+pause
+cls
+#res：天完全黑的时候，我像平时一样完成大学的事情，回到自己房间。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0053b', -100101)
+call<$5f271e74, 0>
+#res：……嗯？　什么……>
+pause
+cls
+#res：在玄关前，看到信箱里送来了一个包裹。>
+pause
+cls
+#res：在思考起到底是谁寄出之前……>
+pause
+#res：……觉得很紧张。不知什么原因只是觉得害怕。>
+pause
+cls
+#res：收件人地址上是看惯了的圆圆的字体。用不着细看就知道是日下寄来的。>
+pause
+cls
+#res：我那颤抖着的手，战战兢兢地打开包装……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：那是好几本笔记本，还有交换日记也在里面。从一开始的英语笔记数过来，足有２０本以上。>
+pause
+cls
+#res：明明曾说很丢脸所以要扔掉，她却一直很认真地保管了。>
+pause
+cls
+#res：主人公：「……这是什么意思……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005d', -100101)
+call<$5f271e74, 0>
+#res：然后，那好几本笔记的最后一页。>
+pause
+cls
+#res：页面下的空白处，平常写阳子备忘录的地方，用那早已看惯的圆圆的字体写下了……>
+pause
+cls
+#res：……不要找……>
+pause
+#res：写着这样一行字。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('faan1_b')
+#res：第二天早上。我跳上早上第一班的始发车。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_026', -100101)
+call<$5f271e74, 0>
+#res：再次被摇摇晃晃的电车，匆匆地送回老家。>
+pause
+cls
+#res：不，这次不是我家。是赶往日下的身边。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0052a', -100101)
+call<$5f271e74, 0>
+#res：抵达车站的同时，便拔腿开始赶路。没有闲工夫注意人行横道的岩浆。>
+pause
+cls
+syscall<$926c13e5> (1000)
+call<$a4eb1e4c, 0> ('n4bg_022a', -100101)
+call<$5f271e74, 0>
+#res：主人公：「哈啊呼～，到了……」>
+pause
+cls
+#res：曾好几次来往的日下家。我轻轻地调整了呼吸，按了门铃。>
+pause
+cls
+syscall<$f62e3ca7> ('n3a_chime')
+#res：叮咚、>
+pause
+cls
+#res：………………>
+pause
+cls
+#res：但是，等了一会儿也没有回应。首先是没有人的迹象。>
+pause
+cls
+#res：仔细一看，防雨窗也紧闭着，门口的姓名牌也拆走了。>
+pause
+cls
+#res：主人公：「这是……搬家了吗……」>
+pause
+cls
+#res：或许是住院了也有可能，但是……>
+pause
+cls
+#res：不，即便是搬家了她也不可能会对我默不作声。>
+pause
+cls
+#res：这简直就像是想从我身边逃走，整个人都消失了一样不是吗……>
+pause
+cls
+#res：不由得在原地始终站着。除了始终站着这个表达，无法比喻这种行为。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……终于……>
+pause
+cls
+#res：为什么？的这种心情一点点地转化为恼怒……>
+pause
+cls
+#res：接着，化为气愤、寂寞、悲伤……最后变成了害怕。>
+pause
+cls
+#res：……这难道是……再也不会和那家伙见面了吗？>
+pause
+cls
+#res：那样恐怖的事情逐渐从脑海里浮现。>
+pause
+cls
+#res：我已不知道该如何判断了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_001a', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('np4imo_1102')
+#res：妹：「啊，哥哥……」>
+pause
+cls
+#res：无力地回到了家，博美跑了过来。我把刚才的情况和妹妹也说了。>
+pause
+cls
+#res：主人公：「日下多半是搬家了吧……」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1103')
+#res：妹：「搬家，去哪里啊？」>
+pause
+cls
+#res：主人公：「呃……不知道啊……」>
+pause
+cls
+#res：由于太过突然的变故，我的脑子也一片混乱。>
+pause
+cls
+#res：即便理解了已经发生的事态，但那和放在脑袋里去真正理解是两码事。关于失联的理由，甚至无法想象。>
+pause
+cls
+#res：……虽然不清楚到底发生了什么，但是未免太过突然。>
+pause
+cls
+#res：不管怎样，我们不是约好了互相没有隐瞒的吗……>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1104')
+#res：妹：「啊……但是搬去的地方，很快就能知道了」>
+pause
+cls
+#res：主人公：「诶……真的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1105')
+#res：妹：「嗯。确实，因为市政厅应该可以查到」>
+pause
+cls
+#res：听到妹妹的提案，我抬起头。>
+pause
+cls
+#res：说起来我记得曾经听说过。如果提出了搬迁申请，也许会有办法查到。>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1106')
+#res：妹：「那稍微等一下，这就去查查看」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：说完妹妹奔向自行车。>
+pause
+cls
+#res：我看着她的背影，松了一口气。>
+pause
+cls
+#res：难道就这样不知那家伙的去向，再也无法见面了吗，一想到这个就觉得害怕。>
+pause
+cls
+#res：还能够再见到的。想到这个，就感觉快要哭出来了。>
+pause
+cls
+#res：虽然不知道为什么突然搬家……简直就像，要从我身边逃走一般的消失……>
+pause
+cls
+#res：……什么叫“不要找”啊……>
+pause
+cls
+#res：这样想着的时候，>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_001a', -100101)
+call<$5f271e74, 0>
+#res：主人公：「……等等，博美」>
+pause
+cls
+#res：我叫住了妹妹。>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1107')
+#res：妹：「怎么了？　查的话很快就能知道了」>
+pause
+cls
+#res：主人公：「也许是这样……但还是不要查比较好」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1108')
+#res：妹：「但是这样的话，就不知道阳子的去处了」>
+pause
+cls
+#res：主人公：「啊啊……那样也没关系……」>
+pause
+cls
+#res：是的。搬家的事不是问题。>
+pause
+cls
+#res：比起那个，更重要的是为何默默地从我眼前消失了。>
+pause
+cls
+#res：对我来说，好想现在就见到她。见面之后，再狠狠训斥她一顿。>
+pause
+cls
+#res：对我有事相瞒也好，把日记托付我一个人也好……想因为她违反了好几条规则而狠狠训斥她。>
+pause
+cls
+#res：……但是在最后，想要原谅她……>
+pause
+cls
+#res：会说到「真拿你没办法呢」，然后去拥抱她。希望她再次像以前一样，一直待在我身边……>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42c')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：……但是，那是办不到的。>
+pause
+cls
+#res：我想，就算是那家伙一直像是一副不可靠的样子……也是她按她的考虑做出的决定。>
+pause
+cls
+#res：没有其他人。最清楚那家伙的人就是我……>
+pause
+cls
+#res：决定默默地从我身边消失，一定是有什么理由的。>
+pause
+cls
+#res：应该不希望我去寻找的……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+syscall<$15eedeaa> (2500)
+call<$13059346, 0> (1500)
+#res：―２周后。再次回到东京。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0053', -100101)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('pl36inst')
+#res：我把从她那儿接过的日记的今天的部分写好。>
+pause
+cls
+#res：―不用再还给我也没关系的―>
+pause
+cls
+#res：那时候，她这样对我说，但是我到现在还，偶尔，会记这本日记。>
+pause
+cls
+#res：主人公：「……算起来，已经休息两天了……」>
+pause
+cls
+#res：一边嘟囔着，我一边用自动铅笔笔走龙蛇。以前，似乎也定过这条规定。>
+pause
+cls
+#res：……那之后已经过了两周。>
+pause
+cls
+#res：这期间，也想过会不会再有什么联络。也想过会不会也可能突然间露面。>
+pause
+cls
+#res：但是，并没有那种事情。>
+pause
+cls
+#res：尽管对妹妹说了还是不要调查那家伙的去向比较好，事实上，我有好几次想要委托私人侦探所，试图认真寻找。>
+pause
+cls
+#res：然而每次，一想到从我面前消失，对她来说一定有自己的意义，就放弃了那种想法。>
+pause
+cls
+#res：……只是，为什么那时候的我……>
+pause
+cls
+#res：主人公：「我爱你，请一直陪伴在我身边……　说不出这样的话呢……」>
+pause
+cls
+#res：明明知道即便怀抱再多想法，有时候必须用言语表达出来……>
+pause
+cls
+#res：如果我爱你，就说我爱你。如果不想离开你，就说我不想离开你。>
+pause
+cls
+#res：为什么，没能说出来呢……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005', 1500)
+call<$5f271e74, 0>
+#res：打开笔记本。是那家伙留下来的日记。>
+pause
+cls
+#res：从她写过的最后一页开始，已经写了多少页了呢？>
+pause
+cls
+#res：已经变得只剩我的文字了。感到非常寂寞。>
+pause
+cls
+#res：……无法知晓那家伙离去的理由。>
+pause
+cls
+#res：当然，即使知道了也许我也不知道应该怎么办吧……>
+pause
+cls
+#res：主人公：「……现在，以成为医生为目标吧……」>
+pause
+cls
+#res：我一边写下今天份的日记一边嘟囔着。>
+pause
+cls
+#res：……就算现在无法见面也总有一天会再相见的。如果这样，那么现在，我能做到的事就是成为一名医生。>
+pause
+cls
+#res：那家伙也一定这样希望的吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2000)
+call<$5f271e74, 0>
+call<$13059346, 0> (2500)
+call<$a4eb1e4c, 0> ('n4ev_007', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4setu_031')
+#res：濑津美：「……就这样，成为了医生？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_060')
+#res：４主人公：「是的吧……」>
+pause
+cls
+#res：结束了长长的对话，他轻轻叹了一口气。>
+pause
+cls
+#res：……这到底，是多少年前的事了啊？明明是非常遥远的过去，他的侧脸看上去十分寂寥。>
+pause
+cls
+#res：莫非，还有后续吗？>
+pause
+cls
+#res：忽然想到这个，我继续提问。>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_032')
+#res：濑津美：「比起那个……和她，就这样结束了？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_061')
+#res：４主人公：「……在意吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_033')
+#res：濑津美：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_034')
+#res：濑津美：「不要用问题回答问题……」>
+pause
+cls
+#res：在和这个人之间，事情稍稍乱了起来。>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_035')
+#res：濑津美：「……但是，不去寻找什么的，真是薄情呢」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_062')
+#res：４主人公：「别这么说啊……　那时候，就认为那样是正确的……」>
+pause
+cls
+#res：说完，下一秒又轻轻一笑。>
+pause
+cls
+#res：然后，又慢慢开口继续说道……>
+pause
+cls
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('nar4_tel07', 1200)
+call<$5f271e74, 0>
+#res：春。东京。>
+pause
+cls
+call<$d334ba75, 0> ('2mi02')
+call<$a4eb1e4c, 0> ('sora01', 1200)
+call<$5f271e74, 0>
+#res：大学毕业后，现在我已经成为一名实习医生。>
+pause
+cls
+#res：最初，我曾考虑过马上回故乡，但到现在还是留在了东京。>
+pause
+cls
+#res：虽然并不是义务，但在大学的推荐下，我决定接受临床培训。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0054', -100101)
+call<$5f271e74, 0>
+#res：培训的地方是同一所大学的附属医院。就那样自动进级了。>
+pause
+cls
+#res：虽然我自己也不是很清楚，但这……就是所谓的精英路线吧。>
+pause
+cls
+#res：当然，也是受到了教授的帮助，并不是因为成绩出类拔萃。>
+pause
+cls
+#res：只是，不管经过如何，现在站在了能实际与患者接触的立场上。>
+pause
+cls
+#res：……勉勉强强，这也算是医师里的小字辈了吧。>
+pause
+cls
+#res：成为了曾经在心中多次描绘的存在。成为了那家伙希望的样子……>
+pause
+cls
+#res：至少，想让她看看我现在的样子……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('n4bg_0053b', -100101)
+call<$5f271e74, 0>
+#res：今天回到房间，我又翻开那本笔记本。>
+pause
+cls
+#res：虽然并不是每天都能写日记，但现在偶尔还是会记上一笔。这也是曾经的规定。>
+pause
+cls
+#res：主人公：「现在，她在哪里，在做什么呢……」>
+pause
+cls
+#res：从以前开始身体就很弱。也知道她性格怕生。>
+pause
+cls
+#res：是在什么地方遇到困难了吗……>
+pause
+cls
+#res：……到现在，我终于才明白。以医生为目标，在成为医生后的现在才能明白的一些事情。>
+pause
+cls
+#res：曾经在养老院体会到的无力感，一直希望能做些什么的孩提时代。>
+pause
+cls
+#res：但是，即便如此，我也不是为了养老院才当上医生的吧。>
+pause
+cls
+#res：一开始，是为了成为那家伙的梦想而被拜托成为了医生……那也是刚开始的1年。>
+pause
+cls
+#res：经过2年、3年的岁月，渐渐明白了。>
+pause
+cls
+#res：一定，是因为和她的“联系”。和到现在还在继续写的日记一样。>
+pause
+cls
+#res：如果把这些弄丢了，那家伙就好像会从我心中消失……>
+pause
+cls
+#res：不是从其他人，而是从我心中消失的那种害怕。>
+pause
+cls
+#res：……就好像，否定那家伙的存在本身的事，对我来说也许无法做到……>
+pause
+cls
+syscall<$f62e3ca7> ('n3a_chime')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：叮咚、>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1109_e2')
+#res：妹：「哥哥，在吗？」>
+pause
+cls
+#res：主人公：「啊，博美吗……门开着」>
+pause
+cls
+syscall<$f62e3ca7> ('n4dooropen')
+call<$a4eb1e4c, 0> ('n4bg_0053b', -100101)
+call<$5f271e74, 0>
+#res：来访的是妹妹博美。>
+pause
+cls
+#res：现在，妹妹为了实现自己的梦想，在东京一家有名的美容院工作。>
+pause
+cls
+#res：所以，经常会像这样来我的住处看我。>
+pause
+cls
+#res：当然彼此都很关心家里的事情，但现在还只是半吊子。我打算等到能独当一面的时候再回老家。>
+pause
+cls
+#res：主人公：「怎么了？　有什么事吗」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1110')
+#res：妹：「不。因为刚到这附近就顺便过来了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('np4imo_1111')
+#res：妹：「诶，那本是……」>
+pause
+cls
+#res：说着她指向那本日记。我正好在写着。>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1112')
+#res：妹：「这样啊。果然到现在，还在意着阳子的事情呢」>
+pause
+cls
+#res：我微微点头，停住手中的笔。虽说被别人看见了，但也并不会觉得害羞或是难为情。>
+pause
+cls
+#res：虽然并不是每天都写，但这样偶尔写写日记的事情妹妹也知道。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0053b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('np4imo_1113')
+#res：妹：「呐哥哥，我想找阳子」>
+pause
+cls
+#res：主人公：「诶……」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1114')
+#res：妹：「虽然以前要我不要去找了，但我觉得应该好好见一面啊」>
+pause
+cls
+#res：主人公：「……………………」>
+pause
+cls
+#res：说着说着妹妹话语中便带起了哭腔，我无言以对。>
+pause
+cls
+#res：……的确，我想正如妹妹所说。>
+pause
+cls
+#res：虽然我也想，但这样做真的好吗……？>
+pause
+cls
+#res：这个想法从以前开始就没有改变。我也没有一天不想和她见面。>
+pause
+cls
+#res：在这几年里，说不定哪天她会突然到来也曾做过这样的梦。>
+pause
+cls
+#res：……只是，那家伙从我面前消失，一定有她自己的理由……>
+pause
+cls
+#res：不管怎样，对于当初没能好好挽留的我……>
+pause
+cls
+#res：对于没能说出我爱你的我，还有无视她的意愿去见面的权力吗……>
+pause
+cls
+#res：当然，到底是不是像现在这样不见面为好，我也不知道。>
+pause
+cls
+#res：只是一次又一次重复着同样的自问自答，直到现在。>
+pause
+cls
+#res：终于，在我不停地思考着这件事情时，>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('np4imo_1115')
+#res：妹：「呜，嘤嘤嘤，呜……」>
+pause
+cls
+#res：主人公：「……博美？」>
+pause
+cls
+#res：妹妹突然哭起来。从以前起就以开朗为长处一般的妹妹，第一次看到她那样哭泣。>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1116')
+#res：妹：「可、可是那本日记……　只、只有哥哥一个人在写了不是吗……」>
+pause
+cls
+call<$812afdf0, 0> ('np4imo_1117')
+#res：妹：「事、事实上，明明是交换日记……」>
+pause
+cls
+#res：主人公：「………………」>
+pause
+cls
+#res：……全都如妹妹所说。>
+pause
+cls
+#res：最开始的几页有那家伙的字迹……那之后，一直都是我一个人接着在写。>
+pause
+cls
+#res：简直就像是一种毫无成果的行为，妹妹哭泣的声音中带着几分寂寞。>
+pause
+cls
+#res：主人公：「是啊……　也许是该好好见一面呢……」>
+pause
+cls
+#res：我轻轻拍打着她还在抽泣着的后背。不管有什么样的理由，不见面就不会开始。>
+pause
+cls
+#res：然后，给她看看我成为医生以后的样子吧。>
+pause
+cls
+#res：至少，我想把这本日记交给她……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+exit (0)

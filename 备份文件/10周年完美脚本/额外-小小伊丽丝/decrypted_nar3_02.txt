@@ -1,0 +1,801 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (4)
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$a4eb1e4c, 0> ('na03_c_03', 1200)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$84779a85, 0> (syscall<$924ee3eb>(53, 37, 7), syscall<$924ee3eb>(255, 227, 200), 220)
+#res：发生那件事的数天后……>
+pause
+cls
+#res：在这个狭窄的牢房之中，依然可以看见我拿着剑的身影。>
+pause
+cls
+call<$d334ba75, 0> ('sen03-bgm_demo01')
+call<$a4eb1e4c, 0> ('na03_06', 1200)
+call<$5f271e74, 0>
+#res：跟那个自称是看守的卫兵，相互持剑对峙着。>
+pause
+cls
+#res：当然，我在接受的内容并没到可以称为“指导”的程度。>
+pause
+cls
+#res：本来就是完全没有经验，直到前几天为止，就连剑都没拿过。>
+pause
+cls
+#res：但是，连最起码的剑法都不会使用的话，就别想在这里继续活下去，我被这样告知。>
+pause
+cls
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('white', 2)
+call<$a4eb1e4c, 0> ('b', 100)
+call<$5f271e74, 0>
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n3kiri_0108')
+#res：小伊丽丝：「好痛……」>
+pause
+cls
+#res：沉重的剑和不习惯的皮手套。单单只是把剑拿起我就几乎要用尽全力。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3011c', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3hei_0053')
+#res：卫兵：「喂，我说过，剑不能离手吧……」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0109')
+#res：小伊丽丝：「嗯，嗯……对不起」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0054')
+#res：卫兵：「不必道歉， 要是战斗中的话就是死，仅此而已」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0110')
+#res：小伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0055')
+#res：卫兵：「不想死的话就绝对不要放开剑。你就当手和剑粘在一起了」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0111')
+#res：小伊丽丝：「嗯，我知道了……」>
+pause
+cls
+#res：我再次拿着剑站起来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_06')
+call<$5f271e74, 0>
+#res：他说，像以前一样对方是一个人来的话，他就可以对来者出手。>
+pause
+cls
+#res：只要在我跟对方对峙的时候，他从背后偷袭就行了。>
+pause
+cls
+#res：重要的是，只要杀死了就不会留下证据。>
+pause
+cls
+#res：再怎么说，一个大人被像我这样的小姑娘杀死，是很难公开说出来的事。>
+pause
+cls
+#res：但是，如果对方不是一个人来的话，就另当别论了。>
+pause
+cls
+#res：因为卫兵不好出手，只能别无选择的由我把对方打倒。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3011c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3hei_0056')
+#res：卫兵：「虽然听起来很愚蠢，但他们也算是有自尊的……」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0057')
+#res：卫兵：「如果一个小女孩对他们做出一对一的挑战，他们是不得不接受的」>
+pause
+cls
+#res：而且，那简直就像是场闹剧，是伪善……卫兵接着说道。>
+pause
+cls
+#res：的确如卫兵所说。即使我拿起剑来战斗也没任何意义。>
+pause
+cls
+#res：但事实上，多亏了这种闹剧，我才看到了一丝生路。>
+pause
+cls
+#res：当然，如果失败的话，就意味着死。>
+pause
+cls
+#res：但反过来说，只要把对方打败，就意味着可以活下去。>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0058')
+#res：卫兵：「为了今后，我教你这里的常识。赌上自己的性命，就跟死了一样」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0112')
+#res：小伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0059')
+#res：卫兵：「因此，自己的命要靠自己来保护……」>
+pause
+cls
+#res：然后便开始在石制地板上涂抹着什么东西。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3hei_0060')
+#res：卫兵：「喂，这个位置要好好的记住」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0113')
+#res：小伊丽丝：「……那是？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0061')
+#res：卫兵：「这里涂了熬干了的松脂。旁边涂抹的是反方向滑的润滑油」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0114')
+#res：小伊丽丝：「为什么要这样做？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0062')
+#res：卫兵：「不管是什么对手， 在什么都不知道的情况下靠近你的话绝对都会滑倒」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0063')
+#res：卫兵：「你就趁这个间隙向头刺去。脸也可以。反正是要给他致命的一击」>
+pause
+cls
+#res：卫兵一边说着，一边做了个突刺的姿势给我看。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3011c', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0115')
+#res：小伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0064')
+#res：卫兵：「……想说这很卑鄙吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0116')
+#res：小伊丽丝：「不，不是的……」>
+pause
+cls
+#res：因为要是普通去战斗的话，根本没有胜算。这点我也知道。>
+pause
+cls
+#res：不过，要是搞错位置的话，反而会自己滑倒变得处于劣势。>
+pause
+cls
+#res：对于连公平的战斗都没胜算的我来说，再加上陷入劣势的话就等同于死了。>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0065')
+#res：卫兵：「你，想生存下去吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0117')
+#res：小伊丽丝：「……嗯」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0066')
+#res：卫兵：「那么就拼死给我把位置记好了。没有其它什么方法让你活下去了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：………………>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_03', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3iri_0027')
+#res：伊丽丝：「『……还是年幼的时候』」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0028')
+#res：伊丽丝：「『通向死亡的道路有无数条……』」>
+pause
+cls
+call<$812afdf0, 0> ('n3iri_0029')
+#res：伊丽丝：「『……但是，活下去的道路就只有仅此一条』」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 100)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42r')
+call<$a4eb1e4c, 0> ('bg_0005', 1200)
+call<$5f271e74, 0>
+#res：知了知了……>
+pause
+cls
+#res：蝉声嘈杂。>
+pause
+cls
+#res：漫长的冬天结束了……春天到来，继而到来是，炎热的夏天。>
+pause
+cls
+#res：不知不觉来到这里已经6个月了，看来战争还在继续着。>
+pause
+cls
+#res：今天在这里，我正和不知名的谁在对峙着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('na03_05', 1200)
+call<$5f271e74, 0>
+#res：对方冷笑着，步步逼近。看服饰，恐怕是个年轻的见习骑士。>
+pause
+cls
+#res：从牢房外面，看着我们两人的，是那个卫兵和像是骑士的随从的人。>
+pause
+cls
+#res：像这种有带随从的时候，就只有我自己打倒他了。>
+pause
+cls
+#res：当然，和我对峙着的这个人，即使是给了我一把剑，也没有一点害怕的样子。>
+pause
+cls
+#res：而且全身包裹着护甲像骑士一样的，只是没有戴头盔。让我看到他的脸。>
+pause
+cls
+#res：似乎是觉得对我这样的小女孩，没有那个必要吧……>
+pause
+cls
+#res：露出面容也说不定，是对过去的公主最低限度的礼仪。>
+pause
+cls
+#res：只是，和一脸从容慢慢靠近我的骑士相反，我却站在原地一动不动。>
+pause
+cls
+#res：老师告诉我。>
+pause
+cls
+#res：要尽量摆出弱小的姿势，胆怯的表情等对方过来。>
+pause
+cls
+#res：恐怕是为了让对方轻敌吧，不过就算没下指示，我也自然而然也会流露出来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcm36_001')
+#res：年轻的见习骑士：「公主殿下，抱歉了，受死吧……」>
+pause
+cls
+#res：一边说着，对方轻率地靠近，>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('npetcm36_002')
+#res：年轻的见习骑士：「！？」>
+pause
+cls
+#res：对方突然感到脚下的异常，滑倒了……>
+pause
+#res：这时，>
+pause
+cls
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru02')
+#res：我向他的脸上刺了过去。因为他身体露出来的其他部位很少。>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('npetcm36_003')
+#res：年轻的见习骑士：「哇~」>
+pause
+cls
+#res：转眼间，传出了浑浊的声音，脸上流着血，蹲在那里的年轻的见习骑士。>
+pause
+cls
+#res：因为事发突然，他用手捂着面，蹲在地板上，已是完全失去了防备的样子。>
+pause
+cls
+#res：……这全部都像老师的预想一样。>
+pause
+cls
+#res：我按着教导的那样，站在他背后，对着毫无防备的脖子挥出剑。>
+pause
+cls
+#res：然后……>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0121')
+#res：小伊丽丝：「嗯……」>
+pause
+cls
+syscall<$f62e3ca7> ('kiru01_1')
+call<$6137cc81, 0> ('red', 2)
+#res：一用力，把剑向正下方压下去。与此同时，那不能说是黑色也不能说是红色的血液猛喷出来。>
+pause
+cls
+#res：在石制地板上形成那黑色水潭的人，只是手脚稍微动了动，就立刻沉默了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3010c')
+call<$5f271e74, 0>
+#res：……不久，一直在旁边看的他的卫兵，向对方的随从说。>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0067')
+#res：卫兵：「这样的话，请您退回吧」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm35_015')
+#res：士兵大叔B：「真不敢相信，居然被这种小孩子打败了……」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0068')
+#res：卫兵：「那样的话，不如下次换你来挑战？」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm35_016')
+#res：士兵大叔B：「不，我只是个随从，不想用剑指向小女孩」>
+pause
+cls
+#res：说完，那个随从就离开了这里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：与离开的随从交错，进来了几个下人，把那个不知名的骑士的尸体抬走了。>
+pause
+cls
+#res：……这也是司空见惯的场景了。>
+pause
+cls
+#res：恐怕，那位骑士会被说成是病死之类的吧。>
+pause
+cls
+#res：如果像老师曾说过的那样，无论是现在还是以后，绝对不会闹出大骚动的。>
+pause
+cls
+#res：不久，下人离开了，这里又变成只有我和老师两个人。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3010b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0122')
+#res：小伊丽丝：「呐，老师……」>
+pause
+cls
+#res：我对卫兵说。>
+pause
+cls
+#res：不知什么时候开始，我称呼他为老师。当然只是在没有其他人的时候。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0123')
+#res：小伊丽丝：「不会从尸体上发现下毒的痕迹吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0069')
+#res：卫兵：「不要紧， 因为现在城里正流行着疫病……」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0070')
+#res：卫兵：「尸体会马上被焚烧或掩埋」>
+pause
+cls
+#res：然后卫兵加了句，“在被发现前就会被处理掉”。>
+pause
+cls
+#res：现在不仅仅是地板上的松脂和润滑剂，这边的刀刃上，也涂抹了毒液。>
+pause
+cls
+#res：那个是就算只轻轻划破皮肤，也可以让对方麻痹迟钝的毒。>
+pause
+cls
+#res：当然这是卑鄙的手法，但一个不满十岁的孩子要想活下去，已经没有其他方法了。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0124')
+#res：小伊丽丝：「……这已经是第4个人了？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0071')
+#res：卫兵：「嗯， 在这场战争结束之前，还会不断有人来吧……」>
+pause
+cls
+#res：从杀了第一个来这里的人到现在，已经过了6个月。>
+pause
+cls
+#res：反过来说，为了我能多活这半年，死的人数，也有四人了。>
+pause
+cls
+#res：死了的四条人命，和我多苟延残喘半年。>
+pause
+cls
+#res：比起来，我并不知道孰轻孰重。>
+pause
+cls
+#res：……只是，听说，这场战争好像还要打很长的时间。>
+pause
+cls
+#res：我并不认为我能过几年这种生活。>
+pause
+cls
+#res：也不认为可以活到几年后。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3hei_0072')
+#res：卫兵：「喂，把这个涂上」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0125')
+#res：小伊丽丝：「这是什么？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0073')
+#res：卫兵：「是泥，有治疗跌打损伤和扭伤部位降温的功效」>
+pause
+cls
+#res：说着，从皮口袋取出了泥。应该是，刚才我的脚撞到墙被他看到了吧。>
+pause
+cls
+#res：……确实这种日子我觉得不会长久。>
+pause
+cls
+#res：但是，像这样有老师的帮助，实际上我已经多活了半年了。>
+pause
+cls
+#res：……那么，虽然只有一点点可能性，或许……>
+pause
+cls
+#res：偶然，会考虑那样的事，>
+pause
+cls
+call<$a4eb1e4c, 0> ('3010b', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3hei_0074')
+#res：卫兵：「我说你啊……」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0075')
+#res：卫兵：「不要因为叫了我老师……就轻易地相信我」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0127')
+#res：小伊丽丝：「欸……」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0076')
+#res：卫兵：「不对，不止是我，不要相信任何人」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0128')
+#res：小伊丽丝：「……连老师也？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0077')
+#res：卫兵：「嗯，没有例外」>
+pause
+cls
+#res：然后，面上露出了有点寂寞的面容，继续说着。>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0078')
+#res：卫兵：「我的任务， 只是让你别死而已」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0129')
+#res：小伊丽丝：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0079')
+#res：卫兵：「当我没能保护好你的时候，我也会被杀死」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0130')
+#res：小伊丽丝：「原来……是这样……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：一边点头，一边很小声地嘟哝着。>
+pause
+cls
+#res：……我，再一次，对自己说着。>
+pause
+cls
+#res：老师的目的并不是帮助我。只不过是为了自己罢了。>
+pause
+cls
+syscall<$15eedeaa> (3000)
+#res：………………>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_0011', 1200)
+call<$5f271e74, 0>
+#res：那之后的数个月后。>
+pause
+cls
+#res：跨过秋冬，已经是春天过了快一半的时候了。>
+pause
+cls
+#res：今天在这个地方，也有某人和我对峙的身影。>
+pause
+cls
+call<$d334ba75, 0> ('ebi_ori01')
+call<$a4eb1e4c, 0> ('na03_05', 1200)
+call<$5f271e74, 0>
+#res：像平时来这里的人一样，浮现出了冷笑。同样也并不知道名字。>
+pause
+cls
+#res：牢房的前方，老师和，另一个那个某人的随从在看着这边。>
+pause
+cls
+#res：……从那天开始，已经扼杀了十个人的性命了。>
+pause
+cls
+#res：心想，已经死了那么多人了，应该会流出什么奇怪的传言，然后谁都不敢来了吧。不过事情却没什么改变。>
+pause
+cls
+#res：看起来每2~3个月就会有一个人来的样子。>
+pause
+cls
+#res：一开始大多数是衣冠端正的骑士般的人居多，现在似乎那种人渐渐减少了。>
+pause
+cls
+#res：最近，像是战败后丢盔弃甲的人来得却很多。>
+pause
+cls
+#res：即使那样，对手的性质并没有改变。他们只是数字而已。不管是谁，都必须全部杀掉。不杀死他们我就会被杀。>
+pause
+cls
+#res：……干脆让谁都不能进来这牢房不就好了？>
+pause
+cls
+#res：虽然我向老师说了不知多少次，但那似乎是办不到的。>
+pause
+cls
+#res：虽然我不懂国家啊，政治这些事，但似乎如果他们想来这里的话，这里就必须允许进入才行。>
+pause
+cls
+#res：而且，我并不是怀疑老师所说的话，但是骑士这类人真是奇怪。>
+pause
+cls
+#res：明知那单挑决胜可以说是场闹剧，却绝对没人会反对这个条件。>
+pause
+cls
+#res：我并不知道是形式上还是自尊心上的问题……似乎他们不能把手无寸铁的……而且是小女孩的人当对手。>
+pause
+cls
+#res：当然，骑士里也有些人并不介意那样的事。>
+pause
+cls
+#res：但是，以前被我打倒的人……开始说话时，都会让我拿上剑。>
+pause
+cls
+#res：……就算这是场闹剧，但他们一定也有着自己的想法吧。>
+pause
+cls
+#res：伊丽丝：「（……还是说，我又被什么其他的东西利用着呢……）」>
+pause
+cls
+#res：是因为这种杂念充满着我的内心吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n3kiri_0131')
+#res：小伊丽丝：「啊……」>
+pause
+cls
+#res：……糟糕了。>
+pause
+cls
+#res：我不小心踩到了涂了油的地面上。>
+pause
+cls
+#res：瞬间脚步不稳，架势乱掉了。在这瞬间，仅仅只是试着把剑向前，摆出架势就已经精疲力尽了。>
+pause
+cls
+#res：对方当然不会错过这种机会。>
+pause
+cls
+#res：一瞬就对方就拉近了距离，我一边在涂了油的地板上打滑，一边举起手中的利剑。>
+pause
+cls
+#res：已经躲不开了，快要被砍到了……就在不经意的闭上眼睛时，>
+pause
+cls
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru02')
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('npetcm36_020')
+#res：大叔C：「咕……」>
+pause
+cls
+#res：再次张开眼睛，只见对方倒在那里。>
+pause
+cls
+#res：在地板上蜷伏着的那背部插着一把剑，鲜血从那里立刻喷了出来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3010c', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0132')
+#res：小伊丽丝：「……老师？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0080')
+#res：卫兵：「切，真没办法……」>
+pause
+cls
+#res：一开始还不知道发生什么事，不久便知道刺中对方的正是老师的剑。>
+pause
+cls
+#res：他是为了帮助陷入危机的我，而把剑掷了进来的吧>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0133')
+#res：小伊丽丝：「但是这样的话……」>
+pause
+cls
+#res：没错。对手只是一个人的话是没问题的。>
+pause
+cls
+#res：平常都是我跟对手对峙的时候，老师从背后偷袭的。>
+pause
+cls
+#res：但是今天，有随从在。即使是现在也始终在旁边看着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('npetcm36_021')
+#res：大叔D：「喂，难道守门人你……是她的同伙？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0081')
+#res：卫兵：「………………」>
+pause
+cls
+call<$812afdf0, 0> ('npetcm36_022')
+#res：大叔D：「……原来如此。 难怪谁也敌不过这个小女孩……」>
+pause
+cls
+#res：说完这句话，打算离开的随从。>
+pause
+cls
+#res：是因突发的事态而动摇了吗，老师一直没动。>
+pause
+cls
+#res：我禁不住冲了出去。并没有什么理由，是本能让身体动了起来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w')
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3kiri_0134')
+#res：小伊丽丝：「（……不能让这家伙逃跑……）」>
+pause
+cls
+#res：一瞬间这样想到。>
+pause
+cls
+#res：因此，开着铁门，朝向打算出去的随从的背后……>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0135')
+#res：小伊丽丝：「嗯」>
+pause
+cls
+call<$09990fae, 0> (1)
+call<$6137cc81, 0> ('red', 2)
+syscall<$f62e3ca7> ('kiru02')
+call<$812afdf0, 0> ('npetcm36_023')
+#res：大叔D：「唔哇」>
+pause
+cls
+#res：猛跑中把剑向对方后背投了过去。>
+pause
+cls
+#res：继而跑过去，抓住那个倒下去了，还想逃出去的随从的脚，拖了回来。>
+pause
+cls
+#res：……剑上是涂了毒的。>
+pause
+cls
+#res：我明明知道，但还是对着手忙脚乱地抵抗着的随从刺去，拼命地向他刺去。>
+pause
+cls
+call<$e9d62d7b, 0> (4)
+syscall<$f62e3ca7> ('kiru01_1')
+call<$6137cc81, 0> ('red', 4)
+syscall<$ed84e320> ('kiru02')
+syscall<$884949e0> ('kiru01_1')
+#res：不久，那个谁在门前躺着完全不动了。>
+pause
+cls
+#res：确认他已经死了之后，我又回到了牢房。>
+pause
+cls
+call<$a4eb1e4c, 0> ('3011d', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n3hei_0082')
+#res：卫兵：「……你……」>
+pause
+cls
+#res：老师对着我开口说话了。只是发呆地看着到这里为止的情况。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0136')
+#res：小伊丽丝：「……就当他挑战了我吧」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0083')
+#res：卫兵：「呃……」>
+pause
+cls
+#res：看着稍微有点吃惊的老师，我继续说着。>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0137')
+#res：小伊丽丝：「老师……就当成这个人也， 当作是向我挑战的吧」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0084')
+#res：卫兵：「……………………」>
+pause
+cls
+call<$812afdf0, 0> ('n3kiri_0138')
+#res：小伊丽丝：「……这样就好了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n3hei_0085')
+#res：卫兵：「啊，啊……我知道了……」>
+pause
+cls
+#res：我催促着有些呆然的老师，让他把下人们叫来。尸体不清理的话，会没睡的地方。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……血的气味占据着这个发暗的地方。>
+pause
+cls
+#res：听得见的，只有冷冷清清的风声。看得见的，已是不会说话的两具尸体。>
+pause
+cls
+#res：看着这些，突然想到。>
+pause
+cls
+#res：……不杀死他的话，我就会被杀的……>
+pause
+#res：所以把他们给杀了。>
+pause
+cls
+#res：当然并不是因为喜欢杀人而去杀的。只是没有其他方法而已。>
+pause
+cls
+#res：只能想这是没办法的事情了。>
+pause
+cls
+#res：自己开导着自己，这是我为了活下去“必须学会的”……>
+pause
+cls
+syscall<$15eedeaa> (3000)
+call<$bc417f7b, 0>
+exit (0)

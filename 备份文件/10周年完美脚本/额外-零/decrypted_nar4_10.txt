@@ -1,0 +1,1557 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$35395c9f, 0> (8)
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('car_thru_rl')
+#res：―几天后。>
+pause
+cls
+call<$d334ba75, 0> ('o012')
+#res：我带着她去驾车兜风。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_024a', 1)
+call<$a4eb1e4c, 0> ('n4bg_024', 1500)
+call<$5f271e74, 0>
+#res：绿色跑车迎风奔驰。沐浴初夏的阳光，在国道上笔直地前进着。>
+pause
+cls
+#res：主人公：「很凉爽，很舒服吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0482')
+#res：女主角：「嗯，而且车很酷呢」>
+pause
+cls
+#res：不时地，我朝坐在旁边座席的她搭话。目的地，是以前经常去的那片海边。>
+pause
+cls
+#res：因为从金泽这里出发，要花几个小时，于是我向同事借了车。>
+pause
+cls
+#res：……从那以后，我考虑了很多。>
+pause
+cls
+#res：对于这家伙，我能做些什么吗？什么都行，有什么可以给她带来快乐吗？>
+pause
+cls
+#res：剩下的半年能做些什么呢……>
+pause
+cls
+#res：如果……我是万能的神明的话，现在立刻就让她好起来。如果……我是万能的医生的话，现在立刻就让她好起来。>
+pause
+cls
+#res：……然后，对更广阔的未来许下约定。>
+pause
+cls
+#res：但我哪个都不是……但是，是超越那些的人。>
+pause
+cls
+#res：所以，即使这样我也竭尽全力了……已没有其他能做到的事了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('anami2')
+call<$812afdf0, 0> ('n4yoko_0483')
+#res：女主角：「哇，冷冷的很舒服呢」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_002c', 1)
+call<$a4eb1e4c, 0> ('n4ev_002b', 1500)
+call<$5f271e74, 0>
+#res：就如同那一天一样，日下站在岸边。>
+pause
+cls
+#res：吹着海风，让长发随风飘动……每当浪潮拍岸就会露出一副开心的样子。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0484')
+#res：女主角：「呐，莳绘君不一起来吗？」>
+pause
+cls
+#res：主人公：「说什么啊，再摔一跤我可不管哦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0485')
+#res：女主角：「真是的，又说那么失礼的话」>
+pause
+cls
+syscall<$f62e3ca7> ('anami2')
+#res：太阳当空。面前传来波涛的声音，传来潮水的气味。>
+pause
+cls
+#res：……像这样两个人再次来这里，到底隔了多少年呢？>
+pause
+cls
+#res：那个时候我们几乎每天都会经过海边，然后并排坐着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('umibe', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0486')
+#res：女主角：「这里，也稍微有点改变了呢……」>
+pause
+cls
+#res：主人公：「是啊……已经变了呢……」>
+pause
+cls
+#res：两个人感慨地细语，眺望着海。>
+pause
+cls
+#res：远远的海面上，可以能看到从前没有的护堤水泥四脚砌块。再往前是延伸到远处的防波堤。>
+pause
+cls
+#res：这片沙滩只有这一部分，勉勉强强地，和那一天一样未曾改变保留了下来。>
+pause
+cls
+#res：未来有一天，这里也会变成填海造出的地吧。>
+pause
+cls
+#res：此刻，眼前展现的，这美丽又怀念的景色，又会变成别的东西了吧……>
+pause
+cls
+#res：……但是，改变是自然的安排。曾经存在的东西，会坏掉，会改变，总有一天会消失。>
+pause
+cls
+#res：任何人、任何事物，也许都无法逃离，也无法避免……>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0487')
+#res：女主角：「偶尔啊……会忽然想到」>
+pause
+cls
+#res：沉默地望着大海的日下，断断续续地开口说道。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0488')
+#res：女主角：「就算是这样的我，　是否也有诞生在这个世界的价值呢」>
+pause
+cls
+#res：主人公：「喂……不要突然说凄凉的话哦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0489')
+#res：女主角：「不。可我现在觉得是有的哦」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0490b')
+#res：女主角：「因为只要莳绘君成为了，这样出色的医生就足够了」>
+pause
+cls
+#res：主人公：「……日下……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0491')
+#res：女主角：「现在的我，可能已经连炸甜甜圈这种事，都做不到了……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0492')
+#res：女主角：「……如果，还有什么可以做的事的话请告诉我哦」>
+pause
+cls
+#res：说着，又朝我露出往常的笑容。在这怀念的地方，她露出怀念的表情，说道。>
+pause
+cls
+#res：……在这个，我们之间的第一个规则诞生的地方……如那一天一般，对我笑着……>
+pause
+cls
+syscall<$f62e3ca7> ('anami2')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：就算，改变是自然的安排……就算，总有一天会消失是世界的真理……>
+pause
+cls
+#res：……也想，留下什么证明。>
+pause
+cls
+#res：或许，这只是我一个人的自私，但是那样也没关系。>
+pause
+cls
+#res：日下，对我来说无可替代的人，曾经存在过……我想留下那样的证明。>
+pause
+cls
+#res：转瞬而逝的时间里，这重复着诞生、消亡的世界上……>
+pause
+cls
+#res：……想留下确实存在过的证明……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：―第二天。再次回到医院。>
+pause
+cls
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n4yoko_0493')
+#res：女主角：「咳、咳咳」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_008', -100101)
+call<$5f271e74, 0>
+#res：主人公：「你还好吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0082')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0494')
+#res：女主角：「嗯……话说，我今天写好了」>
+pause
+cls
+#res：说着，把那本日记递了过来。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005', -100101)
+call<$5f271e74, 0>
+#res：时隔几年再次开始了，我们之间的交换日记。>
+pause
+cls
+#res：今天的早饭加了不喜欢的西兰花呀，昨天晚上的电视很有趣呀……>
+pause
+cls
+#res：一如既往，日下开心地写下这些鸡毛蒜皮的事情。>
+pause
+cls
+#res：而且，因为一直在一起，这些都是用不着报告，我也都知道的事情。>
+pause
+cls
+#res：……而页面下方。是用圆圆的小字填满的，余下的部分。>
+pause
+cls
+#res：在那里，一连列举了好几个行，被称为新阳子备忘录。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0082', -100101)
+call<$5f271e74, 0>
+#res：主人公：「这样啊……窗户不要打开比较好……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0495')
+#res：女主角：「嗯，胆小的时候，会变得非常不安」>
+pause
+cls
+#res：日下提出，病房的窗户还是不要开比较好。在备忘录上也记了其他各种各样的事情。>
+pause
+cls
+#res：一定，是我们这些医生……不，凡是普通生活着的人们都一定都不会注意到的细小的事。>
+pause
+cls
+#res：本来，日下从在养老院开始，就比别人加倍擅长考虑这类事情……>
+pause
+cls
+#res：像每天那样，她把页面写满了备忘，总觉得很高兴的样子。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005', 1200)
+call<$5f271e74, 0>
+#res：主人公：「”―就这样，阳子备忘录现在仍在继续―”」>
+pause
+cls
+#res：主人公：「”与那天不同的是，我们已经不是在养老院帮忙的学生了……”」>
+pause
+cls
+#res：主人公：「”……我是医生，日下是在这里住院的患者……”」>
+pause
+cls
+#res：……如果，可以更为有效地活用这些笔记的话……>
+pause
+cls
+#res：应该，可以成为那家伙的活过的证明……>
+pause
+cls
+#res：只是，我还没有……>
+pause
+#res：……那个具体的办法。那种无力感让人很悲伤……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('nar4_tel12')
+call<$5f271e74, 0>
+#res：―１个月后。>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('z42c')
+call<$a4eb1e4c, 0> ('sora02', 1500)
+call<$5f271e74, 0>
+#res：今天蝉鸣声也格外响亮。月历上的数字从７变成了８，真正的夏天到来了。>
+pause
+cls
+#res：……一直认为最长还有半年时间的那家伙，那以后已经走过了一个月的时间。>
+pause
+cls
+#res：为了那家伙可以做些什么……>
+pause
+cls
+#res：虽然我一直在思考着，却并没能找到答案，只有时间在慢慢流逝。>
+pause
+cls
+#res：然后，这期间也一直在持续着的新阳子备忘录。>
+pause
+cls
+#res：就好像，和她剩余的时间成反比似的，那圆圆的小小的文字一直在增加。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('2na')
+#res：在这样的某一天里……>
+pause
+cls
+#res：那是手里拿着刚在小卖部买的冰激凌，准备回到那家伙的病房时发生的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('234', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('etcm1_1013')
+#res：同僚：「在你面前，说这样的话题不知道合不合适……」>
+pause
+cls
+#res：虽然说不上挖苦，我的一位医生同事突然以那种口吻开口说道。>
+pause
+cls
+#res：是位平时就和我关系很好的外科医生。>
+pause
+cls
+#res：当问他到底在说什么的时候……>
+pause
+cls
+#res：主人公：「……临终关怀？　是指那个终末期医疗吗？」>
+pause
+cls
+call<$812afdf0, 0> ('etcm1_1014')
+#res：同僚：「嗯，在欧美那边，已经在开展了。」>
+pause
+cls
+#res：从他的话语中得知，开展临终关怀服务的医院最近开始诞生了。>
+pause
+cls
+#res：……临终关怀，终末期医疗。在我还是医科大学的学生时曾学到过，但并不了解详细情况。>
+pause
+cls
+#res：觉得至少在日本，开展终末期医疗应该是很久以后的事情……>
+pause
+cls
+#res：恐怕……不，这一定是国内的首次尝试吧。>
+pause
+cls
+#res：主人公：「喂，引入那个的医院，是我们的体系医院吗？」>
+pause
+cls
+call<$812afdf0, 0> ('etcm1_1015')
+#res：同僚：「啊……听说基本上是以教会的支援为基础的……」>
+pause
+cls
+call<$812afdf0, 0> ('etcm1_1016')
+#res：同僚：「现在，似乎正在招募评论员和志愿工作者……」>
+pause
+cls
+#res：……招募评论员和工作人员？>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('etcm1_1017')
+#res：同僚：「喂，你去哪儿莳绘」>
+pause
+cls
+#res：草草结束和他的对话，我跑了出去。>
+pause
+cls
+#res：既然听到这里了，我应该做的事情只有一件。>
+pause
+cls
+syscall<$f62e3ca7> ('faan1_b')
+call<$a4eb1e4c, 0> ('n4bg_025', 1200)
+call<$5f271e74, 0>
+#res：前往东京。曾经工作过的大学附属医院的事务局。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_026', -100101)
+call<$5f271e74, 0>
+#res：目的当然是，做那个临终关怀的志愿工作者。>
+pause
+cls
+#res：……为了那家伙做些什么……>
+pause
+cls
+#res：对于无论怎么思考也想不到具体办法的我来说，是求之不得的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0055', -100101)
+call<$5f271e74, 0>
+#res：考虑到那家伙剩下的时间，这是最初也是最后的机会……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('etcm2_1014')
+#res：医局长：「……这可不是像你这样的新手医生能多嘴的问题。」>
+pause
+cls
+call<$a4eb1e4c, 0> ('233', -100101)
+call<$5f271e74, 0>
+#res：这是医疗部长的第一句话。在一旁听着的教授也是类似的反应。>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1015')
+#res：教授：「莳绘君，终末期医疗是多么敏感的问题你能够理解吧？」>
+pause
+cls
+#res：主人公：「嗯，我明白」>
+pause
+cls
+#res：―自己也是想要成为开设临终关怀服务的工作者―>
+pause
+cls
+#res：我单刀直入地表达了想要做临终关怀工作者的意愿，对方既不是特别生气，也不是过于吃惊的样子。>
+pause
+cls
+#res：不愧是，希望尽早致力于终末期医疗的人们才有的事情。即便对于像我这样的年轻人，他们也郑重地回应了。>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1016')
+#res：医局长：「老实说，作为我们，也只能从现在开始摸索」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1017')
+#res：教授：「虽然我知道你成绩很优秀……」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1018')
+#res：教授：「只有这次打算给欧美国家的有经验者的人，和国内经验丰富的医师团体来组织。」>
+pause
+cls
+#res：这应该是最合适的考虑。如果我站在医疗部长或教授的立场的话，也会讲同样的话吧。>
+pause
+cls
+#res：不管怎样，现在不仅是患者连医生这边，能理解关于临终关怀的人都很少。>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1019')
+#res：医局长：「关于那个对于患者的提案，我们再积极探讨吧」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1020')
+#res：医局长：「但是，新手医生是不行的。　正因为是摸索，交给更有实际成果的人更合适」>
+pause
+cls
+#res：……两个人的主张是正确的。虽然能够理解，但不能就此退缩。>
+pause
+cls
+#res：主人公：「确实，我作为医生是新手……」>
+pause
+cls
+#res：主人公：「但是，一定也有很多能帮上忙的事」>
+pause
+cls
+#res：对。从记事起就到了养老院，这段经历一定不会没有用的。>
+pause
+cls
+#res：……曾经，在那个不是医院也不是家，而被叫做等候室的地方，如果是一直照看着那里的我和那个家伙的话……>
+pause
+cls
+#res：还是新手医生，却感到有很多和曾经从事家业时经验重叠的地方。>
+pause
+cls
+#res：虽然如此……>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1021')
+#res：教授：「确实，　你老家是经营养老院的吧……」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1022')
+#res：教授：「终末期护理是医疗行为……这方面和民间看护是不一样的」>
+pause
+cls
+#res：主人公：「………………」>
+pause
+cls
+#res：然后，教授断然否定了我那样的想法。>
+pause
+cls
+#res：从父亲那儿反复听过的，养老院不是实施医疗行为的场所的观点，在此刻也被重复着。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：……我确实认同养老院并不是医院。>
+pause
+cls
+#res：但是，终末期医疗也并不能等同于医院吧……>
+pause
+cls
+#res：正是因为曾经在养老院体会过的无力感，才会更想让它成长为力量……>
+pause
+cls
+#res：为了留下那家伙的证明，我觉得这是最好的机会……>
+pause
+cls
+#res：主人公：「那么至少……请看一下这个」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005c', 1200)
+call<$5f271e74, 0>
+#res：说着，我把那本笔记本……>
+pause
+cls
+#res：把她一直写了好几年的，阳子备忘录递了过去。>
+pause
+cls
+#res：主人公：「这里，应该会有很多值得学习的内容」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1023')
+#res：教授：「……这个，是什么？」>
+pause
+cls
+#res：主人公：「是我……不，两个人一直在写的日志」>
+pause
+cls
+#res：说完，我离开了那里。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_0054', -100101)
+call<$5f271e74, 0>
+#res：一边轻声叹气，回到走廊。>
+pause
+cls
+#res：时隔几年来到附属医院，人满为患的门诊接待处给人留下了深刻的印象。>
+pause
+cls
+#res：是的。从一开始就知道根本不行，但还是前来应募工作人员了。>
+pause
+cls
+#res：就算有从记事开始在养老院的工作经验，客观来讲，我还是一位新手医生。>
+pause
+cls
+#res：所以，就算我们不能参加的话……>
+pause
+cls
+#res：……但至少，哪怕是一点点，能将她的日记有效利用起来的话，那就满足了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('sora01', 1500)
+call<$5f271e74, 0>
+#res：―几天后。>
+pause
+cls
+#res：再次回到金泽后，突然，被事务局长叫去了。>
+pause
+cls
+#res：到底是什么事呢，我来到那里，>
+pause
+cls
+call<$a4eb1e4c, 0> ('234', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('etcm2_1024')
+#res：事务局长：「恭喜啊莳绘君」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1025')
+#res：事务局长：「之前那个项目来联系了，说希望你也能来哦」>
+pause
+cls
+#res：主人公：「诶……真的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1026')
+#res：事务局长：「而且，意思是希望在你的主导下行动」>
+pause
+cls
+#res：主人公：「我来主导……」>
+pause
+cls
+#res：不由自主地复述出来，还一时间无法相信。>
+pause
+cls
+#res：还以为最多会当个观察员之类的……>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1027')
+#res：事务局长：「哎呀，这个年纪就当首席领导，不愧是东京的精英呢」>
+pause
+cls
+#res：主人公：「………………」>
+pause
+cls
+#res：主人公：「不……和精英没关系哦」>
+pause
+cls
+#res：考虑到临终关怀本身还是在摸索状态下开始的……也可能会出现这种有挑战性的人事任命的情况。>
+pause
+cls
+#res：也包含了那位医疗部长和教授的一番决心吧。也许还有作为先驱者的智慧。>
+pause
+cls
+#res：……但是这全都是她的笔记……那本阳子备忘录的功劳。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我立刻，奔往她的身旁。>
+pause
+cls
+#res：只有我是办不到的，这正是我们两人，从还是孩子的时候就开始考虑的事。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_008', -100101)
+call<$5f271e74, 0>
+#res：主人公：「日下……　这次，我将要协助成立临终关怀院（Hospice）了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0082', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0496')
+#res：女主角：「……Hospice？」>
+pause
+cls
+#res：主人公：「嗯，也被称为终末期护理……」>
+pause
+cls
+#res：我解释道。>
+pause
+cls
+#res：……那，既是医院，同时又不是医院。当然也不是像养老院那样的地方。>
+pause
+cls
+#res：有医疗设施，但同时又不是以治愈和延长寿命为优先……>
+pause
+cls
+#res：那意味着，比起死亡的事，重点考虑的是……在去世之前如何活着。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0497')
+#res：女主角：「这个，难道说是……　以前我们说过的……」>
+pause
+cls
+#res：主人公：「对。　与我们以前，在养老院讨论过的东西类似」>
+pause
+cls
+call<$13059346, 0> (500)
+#res：主人公：「虽说如此，还处在摸索的阶段……希望得到你的协助」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0498')
+#res：女主角：「……我？　我的？」>
+pause
+cls
+#res：面对这句疑问，我重重地点头。不是其他人，必须是日下。>
+pause
+cls
+#res：……而且如果是她的话，一定能理解的。>
+pause
+cls
+#res：如果是，曾经像每天那样为养老院的事热心地考虑……持续不断地写下无数本阳子备忘录的她的话……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_008', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0499')
+#res：女主角：「………………」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0082', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0500')
+#res：女主角：「知道了……如果我能做到的话……」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$d334ba75, 0> ('sen02_20')
+call<$a4eb1e4c, 0> ('a005', -100101)
+call<$5f271e74, 0>
+#res：来到的地方是，刚刚建好的医院。>
+pause
+cls
+#res：据说是得到了教会的支援，确实是座很大的综合医院。>
+pause
+cls
+#res：主人公：「日下，这里就是那个医院……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0494_2')
+#res：女主角：「……嗯」>
+pause
+cls
+call<$a4eb1e4c, 0> ('a006', -100101)
+call<$5f271e74, 0>
+#res：似乎已经开始行使医院的功能，能见到零零星星像是前来就诊的人。>
+pause
+cls
+#res：只是，单从施工中的停车场来看，应该还处在正式营业之前吧。>
+pause
+cls
+#res：……不仅是临终关怀院，从今开始也会作为医院开设吧。>
+pause
+cls
+#res：一边想着，我推着日下的轮椅朝里面走去。>
+pause
+cls
+call<$a4eb1e4c, 0> ('232', -100101)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('etcm2_1028')
+#res：医局长：「你来了啊，莳绘君」>
+pause
+cls
+#res：主人公：「久疏问候了」>
+pause
+cls
+#res：跑到面前的是前些天的医疗部长。>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1029')
+#res：医局长：「现在门诊和普通病房已经开始运作了，　那个临终关怀院，会在此后不久诞生」>
+pause
+cls
+#res：主人公：「我……不，我们该做什么比较好呢？」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1030')
+#res：医局长：「全部。　还请把它当作一张白纸」>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1031')
+#res：医局长：「目前决定的，仅仅是使用最上层的７楼整个楼层」>
+pause
+cls
+#res：主人公：「……这么大的医院的一整个楼层……」>
+pause
+cls
+#res：远远比我想象中大。我以为最多也就是一间四个床位的病房。>
+pause
+cls
+#res：如果是这样的规模，毫无疑问会是国内最大的。>
+pause
+cls
+#res：而且，并不是小小的私人医院，作为综合医院考虑的话……>
+pause
+cls
+#res：这里，也是国内最初的举措吧。能看出这次他们也是认真的。>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1032')
+#res：医局长：「总之，不管有什么事都请提出意见」>
+pause
+cls
+#res：主人公：「明白了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：……国内最初的，最大的。>
+pause
+cls
+#res：不仅如此，了解有关终末期医疗的人还很少。>
+pause
+cls
+#res：就算是医生，能清楚理解的人也不多，至于普通人则完全一无所知。>
+pause
+cls
+#res：……因为如此，在这里形成的模式，会有极大的可能成为今后临终关怀制度的标准。>
+pause
+cls
+#res：和以前在养老院的时候一样，正因为还是摸索阶段才更加如此。>
+pause
+cls
+#res：我理解了从现在开始要做的事情的重要性。>
+pause
+cls
+syscall<$f62e3ca7> ('ele2')
+call<$a4eb1e4c, 0> ('n4bg_020a', -100101)
+call<$5f271e74, 0>
+#res：推着轮椅，上到７楼。>
+pause
+cls
+#res：这里的地板还是临时瓷砖，墙壁也是油漆前的状态。>
+pause
+cls
+#res：主人公：「呐，日下……你怎么想的？」>
+pause
+cls
+#res：说着，我指向还停留在混凝土浇筑完后的内墙。>
+pause
+cls
+#res：主人公：「虽然马上打算进入内部装修……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0501')
+#res：女主角：「我可能更喜欢白色的墙壁和天花板。」>
+pause
+cls
+#res：主人公：「可是那样不会煞风景吗？　完全就是在医院的感觉……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0502')
+#res：女主角：「但是，太华丽的话就不安心了……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0503')
+#res：女主角：「相应的，有很多绘画和花做装饰会比较好……」>
+pause
+cls
+#res：主人公：「原来如此……知道了」>
+pause
+cls
+#res：我回应着，记在笔记上。>
+pause
+cls
+#res：然后，无论多么细小的事情都会向她过问。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_021a', -100101)
+call<$5f271e74, 0>
+#res：接下来要安排的，是片什么都没有的宽敞空间。>
+pause
+cls
+#res：从诊室的位置关系考虑，等候室……>
+pause
+cls
+#res：不，这种场合下，应该是被称为谈话室的地方吧。>
+pause
+cls
+#res：主人公：「这里，你怎么想？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0504')
+#res：女主角：「这里的谈话室，大概需要电视……」>
+pause
+cls
+#res：主人公：「啊。在养老院也是聚集人最多的地方呢」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0505')
+#res：女主角：「也要多放些桌子和椅子比较好」>
+pause
+cls
+#res：这大概会成为与亲人相聚的地方，她补充道。>
+pause
+cls
+#res：确实以收容晚期患者为前提的话，需要尽可能多的椅子。>
+pause
+cls
+#res：也有可能，匆忙赶来的亲人会需要在这里过夜。>
+pause
+cls
+#res：如果是远方的亲戚和朋友的话便更是如此。>
+pause
+cls
+#res：……因为，这也与以前养老院的情况类似，因为我和日下有过痛苦的回忆，更加觉得必要。>
+pause
+cls
+#res：主人公：「有其他注意到的地方的话，请全都说出来」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0506')
+#res：女主角：「啊，嗯，这样的话……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：就这样，我们一点一滴地构筑起基础平台。>
+pause
+cls
+#res：其他关于医院就餐和普通一样，基本上吃什么都能自由选择。>
+pause
+cls
+#res：还有探视时间也是，希望这里２４小时都没问题。>
+pause
+cls
+#res：当然，日下不知道医疗中的专业知识。作为新手医生的我也没强多少。>
+pause
+cls
+#res：……但是，因为这里并不是以医疗为主要目的，也是一处精神关怀的场所……>
+pause
+cls
+#res：以那种……理想的”等候室”为目标的话，我们能做的事也能有一大堆。>
+pause
+cls
+syscall<$f62e3ca7> ('z42c')
+call<$a4eb1e4c, 0> ('sin_b06b', 1200)
+call<$5f271e74, 0>
+#res：接下来是中庭。>
+pause
+cls
+#res：除了在里边有一处小小的教会礼拜堂，这里其余什么都没有。>
+pause
+cls
+#res：……听说事务局的考虑是，想把这个地方扩张一下作为停车场……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_011b2', -100101)
+call<$5f271e74, 0>
+#res：主人公：「果然这里还是建个花坛吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0507')
+#res：女主角：「嗯……就像在养老院的时候，能够养狗养猫呀，会很开心」>
+pause
+cls
+#res：主人公：「宠物吗……」>
+pause
+cls
+#res：看来日下除了有建花坛的想法，还提出了养宠物的方案。>
+pause
+cls
+#res：确实养老院也放养了宠物，也得到了养老院的人们的好评……>
+pause
+cls
+#res：但是，那个想法可能有点困难。>
+pause
+cls
+#res：不管怎么说，这里是医疗设施。不仅要注意细菌传播，还必须经常清洁。>
+pause
+cls
+#res：……当然，在美国的论文里也提出了此举的效果，我和医疗部长也都知道。>
+pause
+cls
+#res：即便如此，把宠物带到医院里饲养什么的，可能会是很久以后的未来的事吧……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('ele2')
+call<$a4eb1e4c, 0> ('n4bg_020a', -100101)
+call<$5f271e74, 0>
+#res：再次回到７楼。最上层。>
+pause
+cls
+#res：这里房间的具体分配还没决定……>
+pause
+cls
+#res：不管怎么说，考虑到这一层楼全部要用来做临终关怀院，不让无关人员进入会比较好吧？>
+pause
+cls
+#res：……护理站，可以在这里。还是说应该设置在电梯前比较好呢。>
+pause
+cls
+#res：虽然并不能说是监视处，但因为走错而误来这儿的探望的客人也会很多吧。>
+pause
+cls
+#res：只是粗略地想了一下，要做的事情便还有很多。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', -100101)
+call<$5f271e74, 0>
+#res：主人公：「嗨哟……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4bg_013a', -100101)
+call<$5f271e74, 0>
+#res：我喘口气，把她从轮椅上抱起，移动到床上。>
+pause
+cls
+#res：现在，在这个７楼具有作为完整病房样貌的房间，只有这里。>
+pause
+cls
+#res：而且，收容的患者只有日下一个人。>
+pause
+cls
+#res：当然比起作为患者，目前所处的立场更像测试者或者建议者……>
+pause
+cls
+#res：这是医疗部长、我和日下本人都明白的事。>
+pause
+cls
+#res：……将普通的设备全部备齐，开始运作，还是很久以后的事吧。>
+pause
+cls
+#res：只是，等到这里真正地登上舞台的时候……>
+pause
+cls
+#res：日下就已经不在了吧……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('sora07', 1200)
+call<$a4eb1e4c, 0> ('nar4_tel15', 1200)
+call<$5f271e74, 0>
+#res：―三个月后。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora07', 1200)
+call<$5f271e74, 0>
+#res：那样漫长的夏天结束了，>
+pause
+cls
+#res：吹拂的风从凉爽逐渐变得寒冷的时候。日历，仅仅只剩下最后一页的时候……>
+pause
+cls
+#res：今天，我们也在这个７楼的房间度过。>
+pause
+cls
+call<$d334ba75, 0> ('2ka012')
+call<$e9d62d7b, 0> (2)
+call<$812afdf0, 0> ('n4yoko_0510')
+#res：女主角：「咳、咳咳、咳」>
+pause
+cls
+#res：主人公：「没事吧」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0511')
+#res：女主角：「嗯……应该还没事……」>
+pause
+cls
+#res：然后朝我手里的笔记本伸出手……>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0512')
+#res：女主角：「能给我看看吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0083b', 1200)
+call<$5f271e74, 0>
+#res：在那之后一直在记录的日记……阳子备忘录。>
+pause
+cls
+#res：在那里，和我的字搀在一起的，她那早已见惯的、圆圆的字，写遍了不知多少页。>
+pause
+cls
+#res：……从那之中，她有多少提案被采用了我也不知道。>
+pause
+cls
+#res：但是，应该是相当多的意见被理解了。>
+pause
+cls
+#res：而且……今后在这个地方……不，说不定，不仅是这个７楼。>
+pause
+cls
+#res：也许会成为终末期医疗的蓝本，连接着未来。>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0513')
+#res：女主角：「呼，连我自己都觉得，写得很多呢……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0514')
+#res：女主角：「应该能起到，一点点作用吧？」>
+pause
+cls
+#res：主人公：「嗯，当然了……正因为有你的力量」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0515')
+#res：女主角：「这样啊……　明明只有做甜甜圈这种程度的长处……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0516')
+#res：女主角：「不知怎么的，感觉有点开心呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+#res：说着，日下朝我露出些许害羞的表情。>
+pause
+cls
+#res：昏暗的房间内，并没有什么话语，两个人面对面，只有时间在流逝。>
+pause
+cls
+#res：没多久，忽然表情变阴沉了……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0083', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0508b')
+#res：女主角：「……我好担心……」>
+pause
+cls
+#res：主人公：「……突然间说什么啊？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0509_1')
+#res：女主角：「如果光顾着看我的人生的话……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0509_2')
+#res：女主角：「莳绘君的人生就结束了……」>
+pause
+cls
+#res：一脸寂寞地，只断断续续嘟囔了那些。>
+pause
+cls
+#res：……如果，光顾着看你的人生，我的人生就结束的话……>
+pause
+cls
+#res：主人公：「……那么，这就是我的人生吧……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1200)
+call<$5f271e74, 0>
+#res：……从第一次见面的，夏天那个日子开始……>
+pause
+cls
+#res：回过头来，已经过了１０年以上的岁月。还有那段岁月中诞生的，只属于我们两个人的约定……规则。>
+pause
+cls
+#res：如果是无关紧要的故事，即使通宵聊个不停话题也不会穷尽。>
+pause
+cls
+#res：但是已经……连那些闲聊的时间，过不了多久也要穷尽了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_kai03', 1200)
+call<$5f271e74, 0>
+#res：……那一天。日下，一个人寂寞地坐在游泳池畔。>
+pause
+cls
+#res：面对打招呼的我，露出有点困惑的表情。那时候连彼此的名字都还不知道……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_kai02', 1200)
+call<$5f271e74, 0>
+#res：……第一次并肩走路。>
+pause
+cls
+#res：害羞地保持着距离……却在人行横道处轻快地跳到了我身边。>
+pause
+cls
+#res：被岩浆烧了差不多一百次，也被食人鱼吃了差不多五十次……>
+pause
+cls
+#res：不知不觉，理所当然地走在了身边……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_kai01', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0234')
+#res：女主角★：「喂喂，博史君～」>
+pause
+cls
+#res：主人公★：「敲」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0235')
+#res：女主角★：「啊好痛」>
+pause
+cls
+#res：主人公★：「称呼你的话用日下就足够了。　要是再叫我博史的话，还会，敲你的」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0236')
+#res：女主角★：「呜呜，真害羞啊，博史君」>
+pause
+cls
+#res：主人公★：「我敲」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0237')
+#res：女主角★：「啊痛死啦，对不起，我再也不会说了啦」>
+pause
+cls
+#res：然后，一有机会就想叫我名字……真是不能有一点疏忽大意的家伙……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_005e', 1500)
+call<$5f271e74, 0>
+#res：……穿过樱花拱门的入学式、甜甜圈、交换日记、只属于两人的规定、有点脱线的谋士、我爱你……>
+pause
+cls
+#res：那牵着的手……>
+pause
+#res：……多么温暖啊……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$a4eb1e4c, 0> ('n4st_00_01', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0079')
+#res：●●阳子：「人只有在意识到自己的死亡时，才会体会到活着的感觉吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('n4st_01', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0080')
+#res：●●阳子：「虽然只是一句老套话……但如今，我切身体会到了这一点」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('n4st_02', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0081')
+#res：●●阳子：「那个时候，我想留给人的选择一定已所剩无几……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('n4st_03', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0082')
+#res：●●阳子：「想要不被任何人察觉，不留下任何痕迹地，悄悄地离去……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('n4st_05', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0083')
+#res：●●阳子：「又或是，想要留下曾经活着的证明」>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0084')
+#res：●●阳子：「一定是从这两者中选其一吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('n4st_04', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0085')
+#res：●●阳子：「我选择了后者」>
+pause
+cls
+#res：不，准确来说最开始是前者。但逐渐转变成了后者。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1000)
+call<$a4eb1e4c, 0> ('n4ime_007', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('2n4yoko_0086')
+#res：●●阳子：「如果，像我这样的人，也能够留下活着的证明的话……」>
+pause
+cls
+call<$812afdf0, 0> ('2n4yoko_0087')
+#res：●●阳子：「这样……能够帮助到谁的话……」>
+pause
+cls
+call<$13059346, 0> (500)
+call<$812afdf0, 0> ('2n4yoko_0088')
+#res：●●阳子：「我的一生，就不会化为虚无……」>
+pause
+cls
+call<$13059346, 0> (500)
+call<$812afdf0, 0> ('2n4yoko_0089')
+#res：●●阳子：「这种想法，只要能继续传达……」>
+pause
+cls
+call<$13059346, 0> (500)
+call<$812afdf0, 0> ('2n4yoko_0090')
+#res：●●阳子：「我，就能继续活着吧……」>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (2000)
+call<$a4eb1e4c, 0> ('n4tel_01', 1200)
+call<$a4eb1e4c, 0> ('n4tel_01b', 1200)
+call<$5f271e74, 0>
+#res：―寒冷的冬天，当凛冽寒风吹拂的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b08', 1500)
+call<$5f271e74, 0>
+call<$d334ba75, 0> ('sen04-bgm')
+#res：街角传来圣诞歌的时候……>
+pause
+cls
+#res：阳子备忘录，今天也被记录了下来。>
+pause
+cls
+#res：……但，不久以后这也将要完结了。>
+pause
+cls
+call<$812afdf0, 0> ('etcm2_1033')
+#res：医局长：「莳绘君……慢慢地她的姿态也要……」>
+pause
+cls
+#res：主人公：「嗯，我知道」>
+pause
+cls
+#res：虽说是新手，我勉强也是一名医生。>
+pause
+cls
+#res：而且，如果是那家伙的事情……我比世界上任何人都要清楚……>
+pause
+cls
+#res：主人公：「最后……让我们两人说说话吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+#res：她眼睛半睁着。我从折叠椅上站起来，温柔地抱起她。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_010', 1500)
+call<$5f271e74, 0>
+#res：主人公：「呐日下……看来已经……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0517')
+#res：女主角：「嗯。我自己也明白的……」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$812afdf0, 0> ('n4yoko_0518')
+#res：女主角：「虽然是按顺序等待……但并不按排队的顺序来呢」>
+pause
+cls
+#res：主人公：「什么……有什么想说的吗？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0519_1')
+#res：女主角：「不，没什么……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_010c')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0519_2')
+#res：女主角：「……博史君……」>
+pause
+cls
+#res：主人公：「………………」>
+pause
+cls
+#res：主人公：「……竟然这种时候说……」>
+pause
+cls
+#res：主人公：「……你果然是，谋士哦……>
+pause
+#res：……阳子……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_010', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0520')
+#res：女主角：「……再说一遍……博史君」>
+pause
+cls
+#res：主人公：「啊，说多少遍都行，阳子……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_010c', 300)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0521')
+#res：女主角：「用、用那种语气说的话，　不、不就连我都快要哭出来了嘛……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0522')
+#res：女主角：「那、那么，只有一件事，拜托你可以吗……」>
+pause
+cls
+#res：主人公：「啊，好的，无论什么事都请说……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0523')
+#res：女主角：「请你……请你传达给将来到这儿来的人」>
+pause
+cls
+#res：主人公：「……将来到这儿来的人？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005e', 1500)
+call<$5f271e74, 0>
+#res：……那天……我们……>
+pause
+cls
+#res：将最后的约定……>
+pause
+#res：……规则作出了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ime_005f', 1200)
+call<$a4eb1e4c, 0> ('sora07', 2500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4yoko_0526')
+#res：女主角：「总觉得，好像稍微有点冷呢……」>
+pause
+cls
+#res：主人公：「嗯，是呢……」>
+pause
+cls
+#res：边回答着，边握起她的手。>
+pause
+cls
+#res：主人公：「这样……就不冷了吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0527')
+#res：女主角：「嗯……很温暖呢」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0528')
+#res：女主角：「那么……谢谢你……」>
+pause
+cls
+call<$812afdf0, 0> ('n4yoko_0529')
+#res：女主角：「最后……我爱你……」>
+pause
+cls
+#res：主人公：「嗯，我也爱你……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+#res：就这样她……阳子离开了７楼。>
+pause
+cls
+#res：留下了无数的、无数的回忆……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_0132', 1500)
+call<$5f271e74, 0>
+#res：从这个世界，先一步地……>
+pause
+#res：……告别了……>
+pause
+cls
+syscall<$15eedeaa> (2500)
+call<$a4eb1e4c, 0> ('b', 2500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1500)
+call<$812afdf0, 0> ('n4setu_039')
+#res：濑津美：「……呐，就问一个问题可以吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora012b', 1500)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('4syuji_067')
+#res：４主人公：「嗯，只有一个的话……」>
+pause
+cls
+call<$d334ba75, 0> ('nar_op2')
+call<$a4eb1e4c, 0> ('n4ev_007', 1200)
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('n4setu_040')
+#res：濑津美：「她最后……想传达什么呢？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_068')
+#res：４主人公：「这个……」>
+pause
+cls
+call<$13059346, 0> (500)
+call<$812afdf0, 0> ('4syuji_069')
+#res：４主人公：「……我想你已经知道了呢……」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_041')
+#res：濑津美：「诶……」>
+pause
+cls
+syscall<$f62e3ca7> ('n4_alarm')
+call<$812afdf0, 0> ('4syuji_070')
+#res：４主人公：「哎，已经是这个时候了……」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_042')
+#res：濑津美：「看来，像是没有空了呢……」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_071')
+#res：４主人公：「啊，很可惜呢……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sin_b06', -100101)
+call<$5f271e74, 0>
+#res：说着从长椅上站起来。>
+pause
+cls
+#res：然后又朝我回过头，>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_072')
+#res：４主人公：「作为陪我听到这儿的回礼，什么时候我会过来取的」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_043')
+#res：濑津美：「……过来取？」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_073')
+#res：４主人公：「是那个」>
+pause
+cls
+#res：手指向的是，放在膝盖上的地图和图鉴之类的东西。>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_074')
+#res：４主人公：「那些大概是，你继承的东西吧？」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_044')
+#res：濑津美：「………………」>
+pause
+cls
+call<$13059346, 0> (300)
+call<$812afdf0, 0> ('n4setu_045')
+#res：濑津美：「不是。只是收到的……」>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_075')
+#res：４主人公：「怎么都好……你没有必要让它们停在那里，也不必一个人去承担。」>
+pause
+cls
+call<$13059346, 0> (500)
+call<$812afdf0, 0> ('4syuji_076')
+#res：４主人公：「但是，你自身是你自己选择的」>
+pause
+cls
+call<$812afdf0, 0> ('n4setu_046')
+#res：濑津美：「……我自身？」>
+pause
+cls
+#res：从刚才开始这个人到底在讲什么啊……>
+pause
+cls
+call<$812afdf0, 0> ('4syuji_077')
+#res：４主人公：「那么，就这么约定了……下次再见……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('sora012b', 1200)
+call<$5f271e74, 0>
+#res：说完这句话就走掉了。>
+pause
+cls
+#res：虽然并不是很懂，那个人说的选择……>
+pause
+cls
+#res：该不会，说的是作为人的证明的意思吧？难道也打算继承别人的证明吗？……>
+pause
+cls
+#res：……那样的话我也……>
+pause
+cls
+#res：……想把自己的证明，寄托给自己选择的人……>
+pause
+cls
+call<$a4eb1e4c, 0> ('n4ev_006b', 1200)
+call<$5f271e74, 0>
+#res：一边嘟哝着这些，一边再次向花坛洒水。>
+pause
+cls
+#res：零零星星开始绽放的白色水仙花。>
+pause
+cls
+#res：和花儿一样颜色的，白色的手环。７楼的证明。>
+pause
+cls
+#res：……当这些花儿盛开的时候…………我……>
+pause
+#res：……还能看到吗……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$f62e3ca7> ('car_thru_rl')
+call<$a4eb1e4c, 0> ('w', 1500)
+call<$5f271e74, 0>
+exit (0)

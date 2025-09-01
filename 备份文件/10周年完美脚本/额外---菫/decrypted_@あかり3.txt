@@ -1,0 +1,1481 @@
+
+#entrypoint $1d128f30
+op836[]
+op829[]
+call<$a9f1a825, 0> (62, 59, 87)
+call<$35395c9f, 0> (4)
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：主人公：「这里是……？」>
+pause
+cls
+#res：昏暗之中，缓缓地起了身。>
+pause
+cls
+call<$d334ba75, 0> ('shim02')
+syscall<$e7b90df5> (750)
+call<$a4eb1e4c, 0> ('ev_a006', 1200)
+call<$5f271e74, 0>
+#res：主人公：「难道说……是最初的那个房间？」>
+pause
+cls
+#res：眼睛适应了黑暗，稍微观察了下四周。>
+pause
+cls
+#res：是之前有印象见过的房间，手所碰到的，床的触感也有印象。>
+pause
+cls
+#res：主人公：「但是，我应该被电车碾死了才对……」>
+pause
+cls
+#res：那时的场景我现在都还记得。被那家伙从站台上推下去，被特快列车轧到。>
+pause
+cls
+#res：主人公：「真是个过分的家伙……」>
+pause
+cls
+#res：就在如此发着牢骚，我的脚要踩到地面的时候……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$b69673e4, 0> ('s_akar_a_a@04')
+call<$812afdf0, 0> ('2koa_0231')
+#res：女主角：「从床上下来可不行……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_akari_0003', -100101)
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_a_a@04')
+call<$5f271e74, 0>
+#res：主人公：「你又要……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@02')
+call<$812afdf0, 0> ('2koa_0232')
+#res：女主角：「不是给你说过了么？ 从那上面下来的话，就会死的」>
+pause
+cls
+#res：主人公：「欸，啊……」>
+pause
+cls
+#res：说起来，似乎是一开始就说过的。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@11')
+call<$812afdf0, 0> ('2koa_0233')
+#res：女主角：「宿主死亡之后，就会回到这里……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@05', -100610)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@05')
+call<$812afdf0, 0> ('2koa_0234')
+#res：女主角：「这是基础哦。别忘了」>
+pause
+cls
+#res：主人公：「……原来如此」>
+pause
+cls
+#res：我还在想，突然从站台上把我推下去是为了啥姑且，也有为了让我学习到这一点的意思吧。>
+pause
+cls
+#res：主人公：「可是刚才做的太过了吧？ 怎么说也不用杀也……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@12')
+call<$812afdf0, 0> ('2koa_0235')
+#res：女主角：「不是杀掉哦」>
+pause
+cls
+#res：主人公：「不是，事实上我不是被杀了么？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_b@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_b@05')
+call<$812afdf0, 0> ('2koa_0236')
+#res：女主角：「只是让他睡着了而已，永远的」>
+pause
+cls
+#res：冷淡地回答的她。明明就是已经杀了一个人，却什么感慨都没有。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@14')
+call<$5f271e74, 0>
+#res：一副毫不在意的样子，从便利店的袋子里拿出三明治和饭团。>
+pause
+cls
+#res：主人公：「呐，能给我一个么？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@08', -100610)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@08')
+call<$812afdf0, 0> ('2koa_0237')
+#res：女主角：「才不要呢。反正只要你在待在那儿也不会死」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@06')
+call<$812afdf0, 0> ('2koa_0238')
+#res：女主角：「不过醒着的时候，肚子也会饿，年龄也会增长」>
+pause
+cls
+#res：也就是说，只是指不会死而已。>
+pause
+cls
+#res：主人公：「那么，我怎么办才好？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@04')
+call<$812afdf0, 0> ('2koa_0239')
+#res：女主角：「赶紧睡觉就行」>
+pause
+cls
+call<$df76bd93, 0> ('', -1)
+call<$5f271e74, 0>
+#res：主人公：「啊，喂，你要去哪儿啊」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@06')
+call<$812afdf0, 0> ('2koa_0240')
+#res：女主角：「明天，我会给你随便带个人过来……」>
+pause
+cls
+call<$df76bd93, 0> ('', -1)
+call<$5f271e74, 0>
+#res：主人公：「搞什么嘛，那家伙……」>
+pause
+cls
+#res：虽说之前开始就很冷淡，但已经到了让我思考到底是她没有感情，还是真的讨厌我的程度>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：第二天……会如此认为的时候。>
+pause
+cls
+#res：一直在这里的话，就会失去对日期的感觉。因为厚重的窗帘隔着，为了隔绝外界的信息。>
+pause
+cls
+#res：只能凭借缝隙间漏出的光线强弱，勉强地区分白天黑夜而已。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_akari_0003', -100101)
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('s_akar_a_a@01')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@01')
+call<$812afdf0, 0> ('2koa_0241')
+#res：女主角：「久等了……」>
+pause
+cls
+#res：循声望去，一如既往面无表情的那家伙。>
+pause
+cls
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('mama_a_a@21')
+call<$5f271e74, 0>
+#res：在她旁边，有个不认识的年轻女性。>
+pause
+cls
+#res：干练的西服再有着，长长的卷发。看着感觉有点强势的女性。>
+pause
+cls
+#res：……而且看上去，还是半睡半醒的状态？>
+pause
+cls
+#res：摇摇晃晃的。看上去只有一半清醒一样。>
+pause
+cls
+#res：估计和之前一样，对她使用了什么药物，使其打瞌睡的时候，带到这里的吧。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@03')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@03')
+call<$812afdf0, 0> ('2koa_0242')
+#res：女主角：「那，快点附体上去」>
+pause
+cls
+#res：主人公：「知道了」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：盯着晃晃悠悠的女性，我专注地想着。>
+pause
+cls
+syscall<$f62e3ca7> ('sinpi01')
+call<$a4eb1e4c, 0> ('4w')
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$b69673e4, 0> ('s_akar_a_a@08')
+call<$812afdf0, 0> ('2koa_0243')
+#res：女主角：「那么，要走了哦」>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('01bg0010', -100101)
+call<$5f271e74, 0>
+#res：主人公：「好刺眼……」>
+pause
+cls
+#res：今天也是有着广阔蔚蓝的夏日天空的6月天。>
+pause
+cls
+call<$d334ba75, 0> ('oa_03')
+syscall<$e7b90df5> (750)
+#res：从昏暗的地方，突然走到外面眼睛花了点时间适应。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_maku_0002')
+call<$5f271e74, 0>
+#res：主人公：「然后呢，继续找其他人附体吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@01')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@01')
+call<$812afdf0, 0> ('2koa_0244')
+#res：女主角：「嗯，那样比较稳妥」>
+pause
+cls
+#res：边说着边环视四周。因为天气很好，时间也还早，附近的人很多。>
+pause
+cls
+#res：主人公：「我说，那边睡午觉的，小朋友怎么样？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@11')
+call<$812afdf0, 0> ('2koa_0245')
+#res：女主角：「虽说不论是谁都行……最好还是选大人吧」>
+pause
+cls
+#res：主人公：「为什么？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@06', -100610)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@06')
+call<$812afdf0, 0> ('2koa_0246')
+#res：女主角：「如果要杀了他，也不会太内疚对吧？」>
+pause
+cls
+#res：“杀人”一词，表情都可以毫无变化的说出的她。恐怕就是真心话吧。>
+pause
+cls
+#res：根据至今对她的认知，我不认为她杀死附身对象时会有所犹豫。>
+pause
+cls
+#res：主人公：「话说回来啊，昨天晚上的事情来着……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@07')
+call<$812afdf0, 0> ('2koa_0247')
+#res：女主角：「什么？」>
+pause
+cls
+#res：主人公：「再怎么说，杀掉还是做太过了吧？」>
+pause
+cls
+#res：想起了那时候的事。>
+pause
+cls
+#res：那是，和来搭讪的人吵起了架，看上去只是，因为不顺她的心就给杀掉了的样子。>
+pause
+cls
+#res：主人公：「只是多少有点生气的程度，不杀掉也可以吧……」>
+pause
+cls
+#res：这是我最坦率的想法了。>
+pause
+cls
+#res：而且灵魂附体这个行为本身，也比想象的更费事，好不容易到手的宿主，就因为那点事而放弃就毫无意义了。>
+pause
+cls
+#res：主人公：「尽量，不杀掉不是更好吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@18')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@18')
+call<$812afdf0, 0> ('2koa_0248')
+#res：女主角：「……那些都是给我说的吗？」>
+pause
+cls
+#res：主人公：「诶……？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@11')
+call<$812afdf0, 0> ('2koa_0249')
+#res：女主角：「嘛算了，那你自己试试如何？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_b@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_b@08')
+call<$812afdf0, 0> ('2koa_0250')
+#res：女主角：「我不会再多嘴了」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_b@08', -100507)
+call<$5f271e74, 0>
+#res：主人公：「话说，啊，喂，等下啊」>
+pause
+cls
+#res：无视了我制止的声音，不知跑到哪里去了。>
+pause
+cls
+#res：主人公：「嘛也好，又不是非要和她一起……」>
+pause
+cls
+#res：再加上，那家伙的阴沉？都也已经厌烦了。那种不明所以的神秘感也很讨厌。>
+pause
+cls
+#res：倒不如说比起跟着随随便便就能杀人的，那家伙一起，自己一个人去附身的话，还不会给对方造成伤害。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：………………>
+pause
+cls
+#res：……从那之后的一段时间，独自行动的我。>
+pause
+cls
+#res：打算一个个地依次附体试试。因为想要更舒服、更开心地使用这个能力。>
+pause
+cls
+#res：在这个阳光充足的时间点，只要天气好的话，公园里以及电车上少不了打瞌睡的人。>
+pause
+cls
+#res：毕竟是好不容易才到手的能力，根据想到的（用法）不同应该是个很棒的能力。>
+pause
+cls
+#res：这么想着，试着实际一个一个地依次附体……>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+#res：……结果，惨不忍睹。虽然附体了3个人，都很不顺利。>
+pause
+cls
+#res：虽然前几天也有过这种感觉……>
+pause
+cls
+#res：在这个现代里，几乎不存在跟社会没有“联系”的人。尤其是在首都圈呀城市中之类就更是如此。>
+pause
+cls
+#res：就算是年轻男性，突然行踪不明，满2天就是极限了的样子。马上就会引起家人和朋友们的骚动。>
+pause
+cls
+#res：小孩呀女性的话1天就是极限。换做年纪大的人，这次就会变成是家里的子女开始着急。>
+pause
+cls
+#res：主人公：「……从什么时候开始这个社会，变得这么爱操心了？」>
+pause
+cls
+#res：这样的感想不禁脱口而出。>
+pause
+cls
+#res：虽说如此，恐怕只是见不到本人的话，还不至于变成大问题。>
+pause
+cls
+#res：总觉得，肯定和手机的存在也有关系。>
+pause
+cls
+#res：谁都拿着，随时・随地都可以联系的道具，突然，打不通了的时候，肯定会加重担心吧。>
+pause
+cls
+#res：主人公：「算了，把这些也无视掉， 能够享受附身的生活就好了……」>
+pause
+cls
+#res：我才不会像那家伙一样，变成坏人。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@11')
+call<$812afdf0, 0> ('2koa_0251')
+#res：女主角：「……喂，还在搞吗？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_hina003', -100101)
+call<$df76bd93, 0> ('s_akar_a_a@11')
+call<$5f271e74, 0>
+#res：循声望去，是那家伙的身影。什么时候在那儿的？>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@05')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@05')
+call<$812afdf0, 0> ('2koa_0252')
+#res：女主角：「差不多，放弃也好了吧？」>
+pause
+cls
+#res：主人公：「不行，我还要再试一下」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@11')
+call<$812afdf0, 0> ('2koa_0253')
+#res：女主角：「是吗。那随便你了」>
+pause
+cls
+#res：以一种看傻瓜似得，没救了的语气说到。>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+#res：－又过了2天。>
+pause
+cls
+#res：主人公：「累死了……」>
+pause
+cls
+#res：我下意识地瘫坐在公园的椅子上。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_h_0011', -100101)
+call<$5f271e74, 0>
+#res：主人公：「之前的那个大叔，他说的累了指的就是这个吧……」>
+pause
+cls
+#res：只要附体在谁的身上，既不会死也不会老。>
+pause
+cls
+#res：但是，每天都要这样找人，太辛苦了。>
+pause
+cls
+#res：小孩呀女性的时候，有时半天都用不了。搞不好的话，还会有人根据手机的GPS追过来。>
+pause
+cls
+#res：刚开始还有些有意思，不觉得那么辛苦……>
+pause
+cls
+#res：感觉同一个身体用2天的话，就会向警察提出搜索申请，不知为何听到巡逻车的声音就会吓一跳。>
+pause
+cls
+#res：稍微有些，变成了逃犯的心态了。>
+pause
+cls
+#res：主人公：「不对，倒不如说是因为当作借宿来考虑所以才行不通的？」>
+pause
+cls
+#res：比起以几天为单位，不停地换来换去，就找定一个人附身的话说不定会更轻松。>
+pause
+cls
+#res：在某种程度上，把那个人的人生，整个取代掉会更好。>
+pause
+cls
+#res：当然那种事，我也不知道能否被原谅……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_d@02')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_d@02')
+call<$812afdf0, 0> ('2koa_0254')
+#res：女主角：「差不多，开始累了的样子呢」>
+pause
+cls
+#res：主人公：「欸，啊啊，是你啊……」>
+pause
+cls
+#res：又突然地，出现在我眼前的这家伙。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@06')
+call<$812afdf0, 0> ('2koa_0255')
+#res：女主角：「干脆放弃了吧？」>
+pause
+cls
+#res：主人公：「放弃，指什么？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@11')
+call<$812afdf0, 0> ('2koa_0256')
+#res：女主角：「各种东西哦。自从睡到那个床上开始，就再也无法逃离了」>
+pause
+cls
+#res：还是老样子说着根本搞不懂的话……>
+pause
+cls
+#res：主人公：「没那种事。就在刚才，我想到了个好主意」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@08')
+call<$812afdf0, 0> ('2koa_0257')
+#res：女主角：「不是借宿，而是打算，完全替代某人吧？」>
+pause
+cls
+#res：主人公：「就算是那样，又如何？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@11')
+call<$812afdf0, 0> ('2koa_0258')
+#res：女主角：「这和我让其睡去，有什么区别呢……」>
+pause
+cls
+#res：主人公：「………………」>
+pause
+cls
+#res：突然，说这么意味深长的话，我一时语塞。>
+pause
+cls
+#res：差点忘了，这家伙虽然看起来是小孩子但实际上并非如此。让我重新认识到了她是那个在床上睡着的，成年女性>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@07')
+call<$5f271e74, 0>
+#res：主人公：「……算了，我会用我自己的方法，去尝试一下的」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：又不是，把对方的人生全部夺走，只是借个几年而已。>
+pause
+cls
+#res：至少比起现在这样，每天寻找宿主要更有建设性吧。>
+pause
+cls
+#res：我无视了她，离开了那里。>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+#res：首先，开始寻找和自己年纪差不多的男性。>
+pause
+cls
+call<$d334ba75, 0> ('n_gin')
+syscall<$e7b90df5> (750)
+#res：如果不是按几天，而是以年为单位来考虑的话，即是同性，年龄又相近的人会更容易上手。>
+pause
+cls
+#res：主人公：「那个人怎么样呢……」>
+pause
+cls
+#res：在某个医院的等候室里。我注意到了一个正在打瞌睡的年轻男性。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：确认了周围没人注意，悄悄靠了过去。>
+pause
+cls
+#res：然后，盯着他，专注地想着。>
+pause
+cls
+syscall<$f62e3ca7> ('sinpi01')
+call<$a4eb1e4c, 0> ('4w', 1500)
+call<$a4eb1e4c, 0> ('bg_a0052')
+call<$df76bd93, 0> ('doct_b_a@02@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_a@02@m')
+#res：主人公：「看起来，应该是附体成功了吧……」>
+pause
+cls
+#res：精神的白衣配上，熨烫过的领带。散发着精英的气质，很显眼的是有点神经质的眼镜。>
+pause
+cls
+#res：之后，只要变为这个人生活就好了。>
+pause
+cls
+#res：当然最开始的时候，应该会有各种麻烦吧，但这次，可不会再舍弃这个宿主了。>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_f@09@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_f@09@m')
+#res：主人公：「嘛，眼下就装作失忆或者太累了好了……」>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0001')
+#res：女护士Ｄ：「诶呀，望月医生，您在这里干什么？」>
+pause
+cls
+#res：突然，不认识的女性向我搭话。当然我是不认识的，应该是个什么熟人吧。>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_a@17@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_a@17@m')
+#res：主人公：「欸，啊……那个……」>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0002')
+#res：女护士Ｄ：「说起来今天，不是去大学的日子吗？」>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_f@10@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_f@10@m')
+#res：主人公：「不好意思。感觉身体不太舒服的样子……」>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0003')
+#res：女护士Ｄ：「这可不行，还请多多保重身体啊」>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_f@07@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_f@07@m')
+#res：主人公：「现在就这样糊弄过去……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：在这之后，周围的人们投来的问题也是。假装身体不舒服呀健忘之类，顺利敷衍了过去。>
+pause
+cls
+#res：看来这个人的家人朋友中，好人很多的样子连投来异样的眼光的事情都没有。>
+pause
+cls
+#res：主人公：「……照这个样子，大概马上就能混熟……」>
+pause
+cls
+#res：环境也不错。>
+pause
+cls
+#res：虽然有了想要一直作为这个人生活下去的想法，但总觉得那样太不可原谅了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0040')
+call<$5f271e74, 0>
+#res：－2天后的晚上。>
+pause
+cls
+#res：正在房间里悠哉打发时间的时候。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0009', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('s_akar_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@07')
+call<$812afdf0, 0> ('2koa_0271')
+#res：女主角：「………………」>
+pause
+cls
+#res：主人公：「谁，是你啊……别吓我啊」>
+pause
+cls
+#res：又突然的，出现在我眼前。这家伙老是这样，突然出现吓我一跳。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@08', -100610)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@08')
+call<$812afdf0, 0> ('2koa_0259')
+#res：女主角：「差不多了，换一个比较好哦」>
+pause
+cls
+#res：主人公：「换一个？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@11')
+call<$812afdf0, 0> ('2koa_0260')
+#res：女主角：「从那个房间出来，马上就第5天了」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@17')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@17')
+call<$812afdf0, 0> ('2koa_0261')
+#res：女主角：「最长也就一周，不回一趟那个房间可不行」>
+pause
+cls
+#res：主人公：「不行说的是？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@19')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@19')
+call<$812afdf0, 0> ('2koa_0262')
+#res：女主角：「会死掉」>
+pause
+cls
+#res：主人公：「算什么嘛那是？」>
+pause
+cls
+#res：虽说是不死，但净是缺点完全派不上用处。而且不仅如此，费心费力的事情还不少……>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@08')
+call<$812afdf0, 0> ('2koa_0263')
+#res：女主角：「又不是我规定的……」>
+pause
+cls
+#res：然后，不知为何一脸不爽的如此回答的她。>
+pause
+cls
+#res：嘛，确实是把这种事，对她说应该也不会有什么办法……>
+pause
+cls
+#res：主人公：「离一周时间还有2天，在那之前我会回去的」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@07')
+call<$812afdf0, 0> ('2koa_0271')
+#res：女主角：「………………」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@10')
+call<$812afdf0, 0> ('2koa_0264')
+#res：女主角：「算了，不勉强自己回来，也没什么关系就是…」>
+pause
+cls
+call<$df76bd93, 0> ('', -1)
+call<$5f271e74, 0>
+#res：边说着这句话，走出了房间的她。>
+pause
+cls
+#res：主人公：「那家伙说的话，太拐弯抹角了让人喜欢不起来……」>
+pause
+cls
+#res：明明本来也是，说的为了教会我灵魂附体能力，现在就一起行动的……>
+pause
+cls
+#res：实际上，只是任由我随心所欲的行动，时不时突然出现，说些什么之后就走掉了。>
+pause
+cls
+#res：主人公：「那家伙，到底，有什么目的呢……」>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+#res：－第二天早上。>
+pause
+cls
+call<$d334ba75, 0> ('sen03_ruf')
+syscall<$e7b90df5> (750)
+#res：工位的电脑前，正端详着看不明白的数据时。>
+pause
+cls
+#res：突然，一阵睡意似的感觉袭来。明明才刚起来一会儿没多久，却抵挡不住的睡意。>
+pause
+cls
+#res：不一会，意识开始渐渐模糊时……>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_a0005', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('doct_b_f@08@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_f@08@m')
+#res：主人公：「……这里是？」>
+pause
+cls
+#res：我不自觉的说出了这句话。不，正确来说不是我，而是这个身体本人说的。>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0004')
+#res：女护士Ｄ：「是？ 有什么事吗？」>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_c@03@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_c@03@m')
+#res：主人公：「你好像是……武藤小姐？」>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0005')
+#res：女护士Ｄ：「嗯，虽说是的……」>
+pause
+cls
+#res：我说着与自己的意识完全没关系的话。简直如同在梦中一般，旁观着2人的对话。>
+pause
+cls
+#res：……难道说是，本体的意识在觉醒了吗？>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_a@09@m')
+call<$5f271e74, 0>
+#res：我用力甩了甩头，将睡意赶走。不这样做的话就好像自己的意识要消失了。>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0006')
+#res：女护士Ｄ：「那个，请问有什么事吗？」>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_b@03@m')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('doct_b_b@03@m')
+#res：主人公：「不好意思，没什么……请别在意」>
+pause
+cls
+#res：勉强的如此回答了一下。>
+pause
+cls
+#res：说起来之前好像说过，附体的期限因人而异……>
+pause
+cls
+call<$df76bd93, 0> ('doct_b_f@07@m')
+call<$5f271e74, 0>
+#res：……这样下去可不妙。虽然不知道原因，但必须要赶紧找到别的身体。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：我向眼前的正门玄关跑去。>
+pause
+cls
+call<$812afdf0, 0> ('kanD_0007')
+#res：女护士Ｄ：「啊，医生，你要去哪儿？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_hina003', -100101)
+call<$5f271e74, 0>
+#res：无视她的声音，跑到了外面的路上。>
+pause
+cls
+#res：然后经过了2个红绿灯，刚跑进了眼前的公园……>
+pause
+cls
+call<$a4eb1e4c, 0> ('4w', 1500)
+call<$5f271e74, 0>
+#res：我的意识，变为了一片空白。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：主人公：「……这里是……」>
+pause
+cls
+#res：漆黑的房间。缓缓起身的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a006', 1200)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+#res：主人公：「被宿主赶出来的时候，也会回到这里么……」>
+pause
+cls
+#res：看起来，和死的时候是一样的。>
+pause
+cls
+#res：被厚厚窗帘包裹这的房间。昏昏暗暗，几乎什么也看不见。>
+pause
+cls
+#res：然后，正想要打开窗帘时，我突然发觉到。>
+pause
+cls
+#res：主人公：「不能从床上下来……」>
+pause
+cls
+#res：不是说物理上的下不了床。只是就这样把脚放下来就可以了。>
+pause
+cls
+#res：然而，从床上下来就会死掉。不仅这么是这么被告知的，事实上最初遇到的大叔也死了。>
+pause
+cls
+#res：主人公：「那，现在只能等着有人来了？」>
+pause
+cls
+#res：当然，还是会饿的但听说貌似不会因为这个就死掉。>
+pause
+cls
+#res：但是，我并不认为会有谁会到这里来。>
+pause
+cls
+#res：这样一来，除了等那家伙来也没有别的办法了。好像醒着的话不仅肚子会饿，年龄还会增长的样子。>
+pause
+cls
+#res：主人公：「也就是说，只能睡了吗……」>
+pause
+cls
+#res：我嘟囔着，瞥到了旁边的床。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a007e', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+#res：在那黑暗之中，隐约能看到一个年轻的女性。看上去年纪估计和我差不多。>
+pause
+cls
+#res：……这，应该是她的本体吧。>
+pause
+cls
+#res：鼻息平稳，持续熟睡着。>
+pause
+cls
+#res：一直凝望着那个身影。也没有其他事可做。也做不了什么。>
+pause
+cls
+#res：不一会，也看腻了……我也一样闭上了眼睛，继续睡觉了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 2000)
+call<$a4eb1e4c, 0> ('01bg0040')
+call<$5f271e74, 0>
+#res：－1周后差不多这么久我觉得。>
+pause
+cls
+#res：没有手表而且还一直在睡觉，不知道准确的时间。对时间也没感觉了。>
+pause
+cls
+#res：我依然，还在这个昏暗的房间里。时不时地，醒来之后，也只是看着旁边的她这样的一周。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_akari_0003', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_a_a@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@08')
+call<$812afdf0, 0> ('2koa_0265')
+#res：女主角：「……多少理解了吗？」>
+pause
+cls
+#res：这么说着，突然出现了的她。>
+pause
+cls
+#res：主人公：「算是吧……」>
+pause
+cls
+#res：大概附体很简单，从中脱离也很简单。>
+pause
+cls
+#res：但是，一直在同一个人里留着很难。根据前几天的感受，几天内意识的控制力就会之间削弱。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@10')
+call<$812afdf0, 0> ('2koa_0266')
+#res：女主角：「当然了，也存在个体差异」>
+pause
+cls
+#res：主人公：「是之前也说过的，因人而异吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@02', -100610)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@02')
+call<$812afdf0, 0> ('2koa_0267')
+#res：女主角：「对的。意志力强的对象，就不能久居」>
+pause
+cls
+#res：主人公：「具体说呢？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@06')
+call<$812afdf0, 0> ('2koa_0268')
+#res：女主角：「名人、大公司老板之类的，一天也撑不下去。 搞不好的话只能几个小时」>
+pause
+cls
+#res：主人公：「原来如此……确实是比较合理的」>
+pause
+cls
+#res：说到底，只有在对方睡着的状态下， 才能附体上去的吧。>
+pause
+cls
+#res：主人公：「那反过来说，就是看起来肤浅的人因为意志力比较弱， 就可以长时间附体吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@10')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@10')
+call<$812afdf0, 0> ('2koa_0269')
+#res：女主角：「算是吧。那再见了……」>
+pause
+cls
+call<$df76bd93, 0> ('', -1)
+call<$5f271e74, 0>
+#res：主人公：「啊，喂，等一下，能带个人过来吗？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@08')
+call<$812afdf0, 0> ('2koa_0270')
+#res：女主角：「如果我乐意的话。不是还没睡够吗？」>
+pause
+cls
+#res：主人公：「………………」>
+pause
+cls
+#res：直截了当地说了出来的她。还是在已经把我放在这里一周之上说的话。>
+pause
+cls
+#res：在那样的她身边的，是现在也还继续睡着的她的本体。那这一周来，一直凝视的人。>
+pause
+cls
+#res：主人公：「呐，我只有一个问题……你，到底是什么人？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@07')
+call<$812afdf0, 0> ('2koa_0271')
+#res：女主角：「………………」>
+pause
+cls
+#res：没有得到回答。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：只是，就那样走到了墙边……突然就打开了窗户。>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a014', 1500)
+call<$5f271e74, 0>
+syscall<$f62e3ca7> ('kaze13')
+call<$f4a07eef, 0> (3)
+call<$b69673e4, 0> ('s_akar_a_a@08')
+call<$812afdf0, 0> ('2koa_0272')
+#res：女主角：「如果……」>
+pause
+cls
+call<$812afdf0, 0> ('2koa_0273')
+#res：女主角：「如果我，从这里跳下去的话……你觉得会怎么样？」>
+pause
+cls
+#res：主人公：「那样会死吧」>
+pause
+cls
+#res：从7楼跳下去还没事的人，几乎是没有的。>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_a_a@07')
+call<$812afdf0, 0> ('2koa_0274')
+#res：女主角：「是啊，会死呢……」>
+pause
+cls
+#res：一边说着，一边看着我旁边的床。正确地说是看着那之上睡着的，她的本体。>
+pause
+cls
+#res：……原来如此。我知道她想说什么了。>
+pause
+cls
+#res：如果现在，她从这个窗户跳下去，会死掉。>
+pause
+cls
+#res：然后死了的话，旁边床上的她的本体就会醒过来。>
+pause
+cls
+#res：……也就是说，那意味着会变成2个人都在这里不能行动。>
+pause
+cls
+#res：在其他的谁都，不会想到进来的这里，永远的。只能在这狭窄的床上。死也死不掉。>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_a_a@10')
+call<$812afdf0, 0> ('2koa_0275')
+#res：女主角：「也就是说，就-是-那-种-事情哦」>
+pause
+cls
+#res：说完这些之后，她就离开了房间。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+#res：主人公：「她到底是谁，真面目也完全搞不明白……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('ev_a006', 800)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$13059346, 0> (500)
+#res：考虑到被送回到这张床的时候，就会觉得独自一人的话很危险。倘若有个万一的时候也是。>
+pause
+cls
+#res：但是，不光对我来说如此，对她来说也是一样的。>
+pause
+cls
+#res：主人公：「虽然不知道是不是同伴，但至少不是敌人……」>
+pause
+cls
+#res：想起来最开始对着那个死掉的大叔，说道“别就这么随便死掉啊”的她。>
+pause
+cls
+#res：总觉得多少能理解那句话的意思了。>
+pause
+cls
+call<$9468cb12, 0>
+call<$a4eb1e4c, 0> ('01bg0020')
+call<$5f271e74, 0>
+#res：－又过去了1周之后。>
+pause
+cls
+#res：也没有了对时间的概念，苟且着，感觉过了这么长时间时。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_akari_0003', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+call<$f4a07eef, 0> (3)
+call<$df76bd93, 0> ('s_akar_a_a@07')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@07')
+call<$812afdf0, 0> ('2koa_0271')
+#res：女主角：「………………」>
+pause
+cls
+#res：看过去在那边的，还是一如既往面无表情的那家伙。>
+pause
+cls
+call<$df76bd93, 0> ('mama_a_a@24')
+call<$5f271e74, 0>
+#res：在她旁边，有一个不认识的年轻女性。>
+pause
+cls
+#res：看上去摇摇晃晃的，估计是还在打瞌睡的时候，被带过来的吧。>
+pause
+cls
+#res：笔挺的西装配上，长长的卷发。看起来有些倔强的女性。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_c@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_c@08')
+call<$812afdf0, 0> ('2koa_0276')
+#res：女主角：「这次就吸取教训，可别再胡来了……」>
+pause
+cls
+#res：主人公：「嗯，我知道了嘛」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+#res：一边回答着，盯着要附身对象的我。然后专注地想着。>
+pause
+cls
+syscall<$f62e3ca7> ('sinpi01')
+call<$a4eb1e4c, 0> ('4w', 1500)
+call<$5f271e74, 0>
+call<$13059346, 0> (1000)
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+#res：非常晴朗的天空。6月的天空今天也是那么晴朗。>
+pause
+cls
+#res：有点晃眼睛。想来已经有2周没出来外面了。>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_maku_0002', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('s_akar_a_a@06')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@06')
+call<$812afdf0, 0> ('1koa_0025')
+#res：女主角：「肚子饿了」>
+pause
+cls
+#res：主人公：「又来吗……」>
+pause
+cls
+#res：这家伙，给人一种总是肚子饿的印象。到底能有多饿啊。>
+pause
+cls
+#res：倒是我2周都没吃东西了。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_b@03')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_b@03')
+call<$812afdf0, 0> ('1koa_0026')
+#res：女主角：「去买点什么来呗」>
+pause
+cls
+#res：主人公：「就算你这么说，这人，没带什么钱啊」>
+pause
+cls
+#res：从口袋里掏出钱包这么回答到。还是老样子全是卡，几乎没有现金。>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@11')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@11')
+call<$812afdf0, 0> ('2koa_0277')
+#res：女主角：「那样的话，就快找个人去……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@07')
+call<$5f271e74, 0>
+#res：说到这里她不说话了。>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_a@02')
+call<$812afdf0, 0> ('kanA_0071')
+#res：女护士Ａ：「啊，你是……」>
+pause
+cls
+call<$d334ba75, 0> ('ma_01')
+syscall<$e7b90df5> (750)
+call<$a4eb1e4c, 0> ('bg_maku_0002', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('mama_b_a@03')
+call<$5f271e74, 0>
+#res：循声望去是一个不认识的女性。>
+pause
+cls
+#res：纯白的护士服和，长长的卷过的头发。看起来有些强势的女性。>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_a_a@08')
+call<$812afdf0, 0> ('2koa_0278')
+#res：女主角：「……该逃走咯」>
+pause
+cls
+#res：主人公：「蛤？」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('mama_b_e@02')
+call<$812afdf0, 0> ('kanA_0072')
+#res：女护士Ａ：「站住，才不会让你逃掉」>
+pause
+cls
+#res：转眼就跑了出去的她。我也全力地跟了上去。>
+pause
+cls
+#res：……究竟发生了什么？>
+pause
+cls
+call<$a4eb1e4c, 0> ('01bg0010')
+call<$5f271e74, 0>
+call<$812afdf0, 0> ('kanC_0032')
+#res：女护士Ｃ：「喂ー，不会让你跑到外面的」>
+pause
+cls
+#res：好像还有其他的女性也追了过来。>
+pause
+cls
+#res：主人公：「呐，我说，喂，这是什么情况？」>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_a_a@12')
+call<$812afdf0, 0> ('2koa_0279')
+#res：女主角：「哈，哈，现，现在先闭嘴，赶紧逃吧」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_h_0014', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+#res：那之后又跑了一会，终于停下了脚步的她。也不知道之前的那些人都甩掉了没，在某个路边喘口气。>
+pause
+cls
+#res：……话说，那些人是什么人啊？>
+pause
+cls
+#res：就算是被人追，因为我们是暂住其中的状态，应该没人知道我们的真面目。>
+pause
+cls
+#res：不知道是不是错觉，总觉得哪些人好像不是在追我，是在追这家伙。>
+pause
+cls
+#res：主人公：「难道说，是这孩子的……你暂住者的监护人？」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_a@12')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_a@12')
+call<$812afdf0, 0> ('2koa_0280')
+#res：女主角：「不是的。是敌人」>
+pause
+cls
+#res：主人公：「敌人？  搞什么嘛？」>
+pause
+cls
+#res：……甚至还有那种东西的吗？>
+pause
+cls
+#res：主人公：「就算是没这些都是个不方便的能力了，净是缺点啊……」>
+pause
+cls
+call<$df76bd93, 0> ('s_akar_a_e@08')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('s_akar_a_e@08')
+call<$812afdf0, 0> ('2koa_0248')
+#res：女主角：「……那是在跟我说吗？」>
+pause
+cls
+#res：主人公：「不，也不是那个意思……」>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@04')
+call<$812afdf0, 0> ('hima_0070')
+#res：佐佐木：「啊啦，原来躲在这种地方啊」>
+pause
+cls
+call<$a4eb1e4c, 0> ('bg_h_0014', -100101)
+call<$7e8dee67, 0>
+call<$df76bd93, 0> ('hmama_a_a@02')
+call<$5f271e74, 0>
+#res：又出现了，不知道哪里来的女性。>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_c@19')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_c@19')
+call<$812afdf0, 0> ('hima_0071')
+#res：佐佐木：「真是的，让我好找啊。别让人担心啊」>
+pause
+cls
+#res：作出微笑，以柔和的语气说道。只是，那眼神没有在笑。>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_d@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_d@04')
+call<$812afdf0, 0> ('hima_0072')
+#res：佐佐木：「那么，就简单了」>
+pause
+cls
+#res：那么说到后，不知道为何向我逼近了过来。感到了种无法形容的恐怖。>
+pause
+cls
+#res：主人公：「呐，怎么办？」>
+pause
+cls
+call<$b69673e4, 0> ('s_akar_a_a@20')
+call<$812afdf0, 0> ('2koa_0281')
+#res：女主角：「小心一点。眼睛会射出激光的」>
+pause
+cls
+#res：主人公：「蛤？ 激光？」>
+pause
+cls
+#res：然后，回头向她看去时……>
+pause
+cls
+call<$a4eb1e4c, 0> ('b')
+call<$a4eb1e4c, 0> ('bg_h_0014', -100101)
+call<$7e8dee67, 0>
+call<$5f271e74, 0>
+#res：不见了？什么时候？>
+pause
+cls
+#res：就像是，烟雾一般消失掉了。>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_b@04')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_b@04')
+call<$812afdf0, 0> ('hima_0073')
+#res：佐佐木：「没事的哦。只会有点点刺痛而已」>
+pause
+cls
+#res：……逃跑么？虽然也有奋起抵抗的选项但没有那个自信。>
+pause
+cls
+#res：现在的我，是女性的身体。就算全力反抗，也不知道能不能赢。>
+pause
+cls
+#res：如此想过后，正打算逃跑的我……>
+pause
+cls
+call<$df76bd93, 0> ('hmama_a_d@19')
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_d@19')
+call<$812afdf0, 0> ('hima_0074')
+#res：佐佐木：「好孩子，别给人添麻烦了」>
+pause
+cls
+call<$6137cc81, 0> ('white', 3)
+#res：主人公：「好痛……」>
+pause
+cls
+#res：那一瞬间，从手腕传来一阵莫名的刺痛。下意识扭动身体想要反抗的我。>
+pause
+cls
+call<$a4eb1e4c, 0> ('b', 1200)
+call<$5f271e74, 0>
+call<$b69673e4, 0> ('hmama_a_a@07')
+call<$812afdf0, 0> ('hima_0075')
+#res：佐佐木：「不行哦。不给我老实一点的话」>
+pause
+cls
+call<$6137cc81, 0> ('white', 3)
+#res：一边说着，不停执著的用什么东西，刺着我的手腕。>
+pause
+cls
+#res：主人公：「住，住手，大妈，和我有什么仇…」>
+pause
+cls
+call<$b69673e4, 0> ('hmama_a_a@14')
+call<$812afdf0, 0> ('hima_0076')
+#res：佐佐木：「……大妈？」>
+pause
+cls
+call<$b69673e4, 0> ('hmama_a_a@13')
+call<$812afdf0, 0> ('hima_0077')
+#res：佐佐木：「谁是大妈啊， 真是的，明明我家的孩子都还小，别让我多费工夫了」>
+pause
+cls
+call<$6137cc81, 0> ('white', 3)
+#res：……不知为何身体动不了，还在被继续刺着的我。>
+pause
+cls
+#res：不知道何时意识也变得模糊，渐渐的，感到身体变冷了。>
+pause
+cls
+#res：……似乎，我又…>
+pause
+#res：…死了的样子……>
+pause
+cls
+call<$9468cb12, 0>
+syscall<$15eedeaa> (2000)
+call<$a4eb1e4c, 0> ('b', 1500)
+call<$5f271e74, 0>
+exit (0)
