@@ -1,0 +1,6319 @@
+astver = 2.0
+astname = "ast"
+ast = {
+    block_00000 = {
+        {"savetitle", text="chapter 章节"},
+        {"user", mode="autosave", no=0},
+        {"eval", exp="g.chap01=1"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        {"bg", file="black", path=":bg/"},
+        {"savetitle", text="chapter 章节"},
+        {"ex", time=1000, func="wait"},
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        --------------上面是默认区域，不要随便删除，下面开始剧情文字行的第一行消息
+        {"bg", id=1, lv=5, file="BG_101_11-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        
+        {"text"},
+        text = {
+            ja = {{"穿过带有雨水味道的入口，我走向图书馆深处。",},},
+        },
+        linknext = "block_00001",
+        line = 96,
+    },
+    
+    block_00001 = {
+        {"text"},
+        text = {
+            ja = { {"我能感到每走一步，鞋底的水分都被地毯吸走。",},},
+        },
+        linkback = "block_00000",
+        linknext = "block_00002",
+        line = 98
+    },
+
+    block_00002 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"图书馆干燥的空气缠绕着我被打湿的身体。",},},
+        },
+        linkback = "block_00001",
+        linknext = "block_00003",
+        line = 100
+    },
+
+    block_00003 = {
+        {"text"},
+        text = {
+            ja = { {"这让我一直都很不舒服。",},},
+        },
+        linkback = "block_00002",
+        linknext = "block_00004",
+        line = 102
+    },
+
+    block_00004 = {
+        {"text"},
+        text = {
+            ja = { {" 可能和刚才分开的诗音那也有关系吧。",},},
+        },
+        linkback = "block_00003",
+        linknext = "block_00005",
+        line = 104
+    },
+
+    block_00005 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"胸膛深处很痛，就像咽下了什么沉重的东西一样。",},},
+        },
+        linkback = "block_00004",
+        linknext = "block_00006",
+        line = 106
+    },
+
+    block_00006 = {
+        {"text"},
+        text = {
+            ja = { {"诗音那的面孔无数次掠过脑海。",},},
+        },
+        linkback = "block_00005",
+        linknext = "block_00007",
+        line = 108
+    },
+
+    block_00007 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"全都是她带着悲伤的笑脸。",},},
+        },
+        linkback = "block_00006",
+        linknext = "block_00008",
+        line = 110
+    },
+
+    block_00008 = {
+        {"text"},
+        text = {
+            
+            ja = { {"为什么会变成这样呢。",},},
+        },
+        linkback = "block_00007",
+        linknext = "block_00009",
+        line = 112
+    },
+
+    block_00009 = {
+        {"text"},
+        text = {
+            ja = { {" 后悔的情绪一波又一波地袭来。",},},
+        },
+        linkback = "block_00008",
+        linknext = "block_00010",
+        line = 114
+    },
+
+    block_00010 = {
+        {"text"},
+        text = {
+            ja = { {" 可我却――",},},
+        },
+        linkback = "block_00009",
+        linknext = "block_00011",
+        line = 116
+    },
+
+    block_00011 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"不能停下脚步。",},},
+        },
+        linkback = "block_00010",
+        linknext = "block_00012",
+        line = 118
+    },
+
+    block_00012 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        -------------
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="BG_101_40-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -----------
+        {"text"},
+        text = {
+            ja = { {"――那个孩子就在这深处。",},},
+        },
+        linkback = "block_00011",
+        linknext = "block_00013",
+        line = 120
+    },
+
+    block_00013 = {
+        {"text"},
+        text = {
+            ja = { {"总是孤零零一个人的少女。",},},
+        },
+        linkback = "block_00012",
+        linknext = "block_00014",
+        line = 122
+    },
+
+    block_00014 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"总是蓝色的少女。",},},
+        },
+        linkback = "block_00013",
+        linknext = "block_00015",
+        line = 124
+    },
+
+    block_00015 = {
+        {"text"},
+        text = {
+            ja = { {"总是在流泪的少女。",},},
+        },
+        linkback = "block_00014",
+        linknext = "block_00016",
+        line = 126
+    },
+
+    block_00016 = {
+        {"text"},
+        text = {
+            ja = { {"我没办法放着那位少女一个人不管。",},},
+        },
+        linkback = "block_00015",
+        linknext = "block_00017",
+        line = 128
+    },
+
+    block_00017 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"所以，我才走在这条走廊上。",},},
+        },
+        linkback = "block_00016",
+        linknext = "block_00018",
+        line = 130
+    },
+
+    block_00018 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        -------------
+        ------------上面是默认区域，只需要改相关信息
+        {"bg", id=1, lv=5, file="BG_101_11-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            ja = { {"走廊的墙壁上贴着画。",},},
+        },
+        linkback = "block_00017",
+        linknext = "block_00019",
+        line = 132
+    },
+
+    block_00019 = {
+        {"text"},
+        text = {
+            ja = { {"那是提比每天都会画一张的画。",},},
+        },
+        linkback = "block_00018",
+        linknext = "block_00020",
+        line = 134
+    },
+
+    block_00020 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = { {"在最新的画纸上，画着一位孤零零的少女。",},},
+        },
+        linkback = "block_00019",
+        linknext = "block_00021",
+        line = 136
+    },
+
+    block_00021 = {
+        {"text"},
+        text = {
+            ja = {{"我马上就知道那位少女是谁了。",},},
+        },
+        linkback = "block_00020",
+        linknext = "block_00022",
+        line = 138
+    },
+
+    block_00022 = {
+        {"text"},
+        text = {
+            ja = {{"大大的纸上，画着一位小小的少女。",},},
+        },
+        linkback = "block_00021",
+        linknext = "block_00023",
+        line = 140
+    },
+
+    block_00023 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她的脸上挂着泪水。",},},
+        },
+        linkback = "block_00022",
+        linknext = "block_00024",
+        line = 142
+    },
+
+    block_00024 = {
+        {"text"},
+        text = {
+            ja = {{"最近的绘画，都是同样的构图。",},},
+        },
+        linkback = "block_00023",
+        linknext = "block_00025",
+        line = 144
+    },
+
+    block_00025 = {
+        {"text"},
+        text = {
+            ja = {{"都是孤零零的少女在哭泣的画。",},},
+        },
+        linkback = "block_00024",
+        linknext = "block_00026",
+        line = 146
+    },
+
+    block_00026 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"看到这些画，我心口痛得不行。",},},
+        },
+        linkback = "block_00025",
+        linknext = "block_00027",
+        line = 148
+    },
+
+    block_00027 = {
+        {"text"},
+        text = {
+            ja = {{"少女一直都是一个人。",},},
+        },
+        linkback = "block_00026",
+        linknext = "block_00028",
+        line = 150
+    },
+
+    block_00028 = {
+        {"text"},
+        text = {
+            ja = {{"我感觉自己能理解这种悲伤。",},},
+        },
+        linkback = "block_00027",
+        linknext = "block_00029",
+        line = 152
+    },
+
+    block_00029 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我想尽快为她拂去这份悲伤。",},},
+        },
+        linkback = "block_00028",
+        linknext = "block_00030",
+        line = 154
+    },
+
+    block_00030 = {
+        {"text"},
+        text = {
+            ja = {{"想告诉她，你不是一个人。",},},
+        },
+        linkback = "block_00029",
+        linknext = "block_00031",
+        line = 156
+    },
+
+    block_00031 = {
+        {"text"},
+        text = {
+            ja = {{"想对她说，我在你身边。",},},
+        },
+        linkback = "block_00030",
+        linknext = "block_00032",
+        line = 158
+    },
+
+    block_00032 = {
+        {"text"},
+        text = {
+           
+            ja = {{"就像是在拖着湿淋淋的鞋底一般，我走在长长的走廊上。",},},
+        },
+        linkback = "block_00031",
+        linknext = "block_00033",
+        line = 160
+    },
+
+    block_00033 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我一边看着贴在提比能够到的高度上的绘画，一边前进。",},},
+        },
+        linkback = "block_00032",
+        linknext = "block_00034",
+        line = 162
+    },
+
+    block_00034 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ----
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},    
+        {"text"},
+        
+        text = {
+            ja = {{"这时，忽然感到不对劲。",},},
+        },
+        linkback = "block_00033",
+        linknext = "block_00035",
+        line = 164
+    },
+
+    block_00035 = {
+        {"bg", id=1, lv=5, file="BG_101_40", x=0, y=-20, speed=10000, ease="none", time=1500, zoom=180, sync=0, path=":bg/", x2=0, y2=-120},
+		{"extrans", time=1500},
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"并不是绘画的内容。",},},
+        },
+        linkback = "block_00034",
+        linknext = "block_00036",
+        line = 166
+    },
+
+    block_00036 = {
+        {"text"},
+        text = {
+            ja = {{"并不是绘画的内容，而是绘画的张数。",},},
+        },
+        linkback = "block_00035",
+        linknext = "block_00037",
+        line = 168
+    },
+
+    block_00037 = {
+        {"text"},
+        text = {
+            ja = {{"提比怎么看都是还没多大的小女孩。",},},
+        },
+        linkback = "block_00036",
+        linknext = "block_00038",
+        line = 170
+    },
+
+    block_00038 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"就算她每天都在画画，说到底真的能画出这么多张来吗？",},},
+        },
+        linkback = "block_00037",
+        linknext = "block_00039",
+        line = 172
+    },
+
+    block_00039 = {
+        {"text"},
+        text = {
+            ja = {{"……说不定，有时候一天会画好几张。",},},
+        },
+        linkback = "block_00038",
+        linknext = "block_00040",
+        line = 174
+    },
+
+    block_00040 = {
+        {"text"},
+        text = {
+            ja = {{"就算是这样，这画的数量也令人难以置信。",},},
+        },
+        linkback = "block_00039",
+        linknext = "block_00041",
+        line = 176
+    },
+
+    block_00041 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"原来少女是如此的孤独吗。",},},
+        },
+        linkback = "block_00040",
+        linknext = "block_00042",
+        line = 178
+    },
+
+    block_00042 = {
+        {"text"},
+        text = {
+            ja = {{"除了画画没有其他事情可以做吗。",},},
+        },
+        linkback = "block_00041",
+        linknext = "block_00043",
+        line = 180
+    },
+
+    block_00043 = {
+        {"text"},
+        text = {
+            ja = {{"啊，我为什么会留下她一个人呢。",},},
+        },
+        linkback = "block_00042",
+        linknext = "block_00044",
+        line = 182
+    },
+
+    block_00044 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我这样做，让她流下了多少泪水呢。",},},
+        },
+        linkback = "block_00043",
+        linknext = "block_00045",
+        line = 184
+    },
+
+    block_00045 = {
+        {"text"},
+        text = {
+            ja = {{"画中的少女，泪水的量也在一天天增加着。",},},
+        },
+        linkback = "block_00044",
+        linknext = "block_00046",
+        line = 186
+    },
+
+    block_00046 = {
+        {"text"},
+        text = {
+            ja = {{"就像是在表示少女的悲伤也在与日俱增。",},},
+        },
+        linkback = "block_00045",
+        linknext = "block_00047",
+        line = 188
+    },
+
+    block_00047 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我加快了脚步。",},},
+        },
+        linkback = "block_00046",
+        linknext = "block_00048",
+        line = 190
+    },
+
+    block_00048 = {
+        {"text"},
+        text = {
+            ja = {{"前往前方，大概还在独自哭泣的少女身边。",},},
+        },
+        linkback = "block_00047",
+        linknext = "block_00049",
+        line = 192
+    },
+
+    block_00049 = {
+        {"text"},
+        text = {
+            ja = {{"为了治愈那份悲伤。",},},
+        },
+        linkback = "block_00048",
+        linknext = "block_00050",
+        line = 194
+    },
+
+    block_00050 = {
+        {"text"},
+        text = {
+            
+            ja = {{"为了拭去她的眼泪。",},},
+        },
+        linkback = "block_00049",
+        linknext = "block_00051",
+        line = 196
+    },
+
+    block_00051 = {
+        {"text"},
+        text = {
+            ja = {{"为了用这双手抱紧少女的身体。",},},
+        },
+        linkback = "block_00050",
+        linknext = "block_00052",
+        line = 198
+    },
+
+    block_00052 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我以几乎要喘不上气的步伐，走向图书馆最深处。",},},
+        },
+        linkback = "block_00051",
+        linknext = "block_00053",
+        line = 200
+    },
+
+    block_00053 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ----------
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            
+            ja = {{"――可是",},},
+        },
+        linkback = "block_00052",
+        linknext = "block_00054",
+        line = 202
+    },
+
+    block_00054 = {
+        {"text"},
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        text = {
+            ja = {{"那里却没有平时一直都在的少女的身姿。",},},
+        },
+        linkback = "block_00053",
+        linknext = "block_00055",
+        line = 204
+    },
+
+    block_00055 = {
+        {"text"},
+        text = {
+            ja = {{"二十四小时绝不离身的小熊布偶也不在那里。",},},
+        },
+        linkback = "block_00054",
+        linknext = "block_00056",
+        line = 206
+    },
+
+    block_00056 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在那里的，只有画到一半的画和蜡笔。",},},
+        },
+        linkback = "block_00055",
+        linknext = "block_00057",
+        line = 208
+    },
+
+    block_00057 = {
+        {"text"},
+        text = {
+            ja = {{"还没画完的画中，有一位独自哭泣的少女。",},},
+        },
+        linkback = "block_00056",
+        linknext = "block_00058",
+        line = 210
+    },
+
+    block_00058 = {
+        {"text"},
+        text = {
+            ja = {{"――提比跑到哪里去了？",},},
+        },
+        linkback = "block_00057",
+        linknext = "block_00059",
+        line = 212
+    },
+
+    block_00059 = {
+        {"bg", id=1, lv=5, file="BG_101_40-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我找了周围的书架",},},
+        },
+        linkback = "block_00058",
+        linknext = "block_00060",
+        line = 214
+    },
+
+    block_00060 = {
+        {"text"},
+        text = {
+            ja = {{"却没能找到她的身影。",},},
+        },
+        linkback = "block_00059",
+        linknext = "block_00061",
+        line = 216
+    },
+
+    block_00061 = {
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"是在这图书馆的某处吗？还是说，在图书馆外面？",},},
+        },
+        linkback = "block_00060",
+        linknext = "block_00062",
+        line = 218
+    },
+
+    block_00062 = {
+        {"text"},
+        text = {
+            
+            ja = {{"我不知道真相是什么。",},},
+        },
+        linkback = "block_00061",
+        linknext = "block_00063",
+        line = 220
+    },
+
+    block_00063 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"如果不试着去找的话，是无法知道提比在哪里的。",},},
+        },
+        linkback = "block_00062",
+        linknext = "block_00064",
+        line = 222
+    },
+
+    block_00064 = {
+        {"bg", id=1, lv=5, file="BG_101_40-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"我再次迈动步伐。",},},
+        },
+        linkback = "block_00063",
+        linknext = "block_00065",
+        line = 224
+    },
+
+    block_00065 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在书架间穿梭，寻找蓝色少女的身影。",},},
+        },
+        linkback = "block_00064",
+        linknext = "block_00066",
+        line = 226
+    },
+
+    block_00066 = {
+        {"text"},
+        text = {
+            ja = {{"宽广的图书馆，要找人并不容易。",},},
+        },
+        linkback = "block_00065",
+        linknext = "block_00067",
+        line = 228
+    },
+
+    block_00067 = {
+        {"text"},
+        text = {
+            ja = {{"再加上这份昏暗。",},},
+        },
+        linkback = "block_00066",
+        linknext = "block_00068",
+        line = 230
+    },
+
+    block_00068 = {
+        {"text"},
+        text = {
+            
+            ja = {{"仅从书架一端放眼看去，是没办法寻找的。",},},
+        },
+        linkback = "block_00067",
+        linknext = "block_00069",
+        line = 232
+    },
+
+    block_00069 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"看来得一步一步，用自己的双脚去确认了。",},},
+        },
+        linkback = "block_00068",
+        linknext = "block_00070",
+        line = 234
+    },
+
+    block_00070 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        ---------
+        {"text"},
+        text = {
+            ja = {{"从图书馆深处朝向入口处，我一点一点踏遍书架之间。",},},
+        },
+        linkback = "block_00069",
+        linknext = "block_00071",
+        line = 236
+    },
+
+    block_00071 = {
+        {"text"},
+        text = {
+            
+            ja = {{"不知何时，本来被打湿的衣服也开始干了。",},},
+        },
+        linkback = "block_00070",
+        linknext = "block_00072",
+        line = 238
+    },
+
+    block_00072 = {
+        {"text"},
+        text = {
+            ja = {{"然后，在头发也彻底干掉的时候。",},},
+        },
+        linkback = "block_00071",
+        linknext = "block_00073",
+        line = 240
+    },
+
+    block_00073 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我终于，发现了那位少女的身影。",},},
+        },
+        linkback = "block_00072",
+        linknext = "block_00074",
+        line = 242
+    },
+
+    block_00074 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ----------
+        {"bg", id=2, lv=5, file="黑幕", time=1000, path=":bg/", sync=0},
+        {"ex", time=1000, func="wait"},
+        ------
+        {"bg", id=1, lv=5, file="BG_101_40", x=0, y=-20, speed=10000, ease="none", time=1500, zoom=140, sync=0, path=":bg/", x2=0, y2=-120},
+		{"extrans", time=1500},
+        ------
+        {"text"},
+        --------
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        --------
+        text = {
+            pagebreak = true,
+            ja = {{"少女站在巨大的梯子上，摆放着书架上的书。",},},
+        },
+        linkback = "block_00073",
+        linknext = "block_00075",
+        line = 244
+    },
+    
+    block_00075 = {
+        {"text"},
+        text = {
+            ja = {{"她是这座图书馆的居民，也是这里的管理员。",},},
+        },
+        linkback = "block_00074",
+        linknext = "block_00076",
+        line = 246
+    },
+
+    block_00076 = {
+        {"text"},
+        text = {
+            ja = {{"应该是像这样把镇上大家还回来的书放到原本的位置上吧。",},},
+        },
+        linkback = "block_00075",
+        linknext = "block_00077",
+        line = 248
+    },
+
+    block_00077 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这对于这幼小的少女来说太过残酷了",},},
+        },
+        linkback = "block_00076",
+        linknext = "block_00078",
+        line = 250
+    },
+
+    block_00078 = {
+        {"text"},
+        text = {
+            ja = {{"这座图书馆里上千个书架连绵不绝，高度直顶天花板。",},},
+        },
+        linkback = "block_00077",
+        linknext = "block_00079",
+        line = 252
+    },
+
+    block_00079 = {
+        {"text"},
+        text = {
+            ja = {{"我甚至不敢去想这里所有的藏书数量。",},},
+        },
+        linkback = "block_00078",
+        linknext = "block_00080",
+        line = 254
+    },
+
+    block_00080 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她面对着如此海量的图书，每天就像这样管理着吧。",},},
+        },
+        linkback = "block_00079",
+        linknext = "block_00081",
+        line = 256
+    },
+
+    block_00081 = {
+        {"text"},
+        text = {
+            ja = {{"孤身一人，在图书馆里。",},},
+        },
+        linkback = "block_00080",
+        linknext = "block_00082",
+        line = 258
+    },
+
+    block_00082 = {
+        {"text"},
+        text = {
+            ja = {{"一想到这里，我心中揪紧的感觉便无法停止。",},},
+        },
+        linkback = "block_00081",
+        linknext = "block_00083",
+        line = 260
+    },
+
+    block_00083 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比站在梯子上，正踮着脚要把比自己脸还要大的书放回书架上。",},},
+        },
+        linkback = "block_00082",
+        linknext = "block_00084",
+        line = 262
+    },
+
+    block_00084 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        --------------------
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"完成这工作刚要喘口气的时候，她将脸转向了我这边。",},},
+        },
+        linkback = "block_00083",
+        linknext = "block_00085",
+        line = 264
+    },
+
+    block_00085 = {
+        {"bg",id=4,lv=5,file="CGM_TP010101_011a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600121"},},
+            ja = {{"「……黎！……哇、哇啊啊啊……」",},},
+        },
+        linkback = "block_00084",
+        linknext = "block_00086",
+        line = 266
+    },
+
+    block_00086 = {
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            
+            ja = {{" 发现了我的提比，在梯子上失去了平衡。",},},
+        },
+        linkback = "block_00085",
+        linknext = "block_00087",
+        line = 268
+    },
+
+    block_00087 = {
+
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5001"},},
+            ja = {{"「提比，小心！」",},},
+        },
+        linkback = "block_00086",
+        linknext = "block_00088",
+        line = 270
+    },
+
+    block_00088 = {
+        {"se", id=1, file="SE00003697", vol=100, loop=0, time=300},
+        {"quake", dir="user", move="wh", dir2="wh", time=600, count=4, power=30},
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"梯子倒了。",},},
+        },
+        linkback = "block_00087",
+        linknext = "block_00089",
+        line = 272
+    },
+
+    block_00089 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比伸出手来。",},},
+        },
+        linkback = "block_00088",
+        linknext = "block_00090",
+        line = 274
+    },
+
+    block_00090 = {
+        {"text"},
+        text = {
+            ja = {{"像是要回应她一般，我伸出了双手。",},},
+        },
+        linkback = "block_00089",
+        linknext = "block_00091",
+        line = 276
+    },
+
+    block_00091 = {
+        {"text"},
+        text = {
+            ja = {{"――冲击，从胸前穿透到背后。",},},
+        },
+        linkback = "block_00090",
+        linknext = "block_00092",
+        line = 278
+    },
+
+    block_00092 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"回过神来，我已将提比抱在怀中，躺倒在地板上。",},},
+        },
+        linkback = "block_00091",
+        linknext = "block_00093",
+        line = 280
+    },
+
+    block_00093 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        -----------
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        ------------
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bgm", stop=1, id=0, time=3000},
+        -------------
+        {"text"},
+        {"bg",id=4,lv=5,file="CGL_TP010101_011a_0000",time=300, zoom=80, path=":fg/",sync=0,x=220,y=20},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600135"},},
+            ja = {{"「黎……你来啦，黎……!!」",},},
+        },
+        linkback = "block_00092",
+        linknext = "block_00094",
+        line = 282
+    },
+
+    block_00094 = {
+
+        {"bgm", id=0, file="bgm05", loop=1, time=500, vol=60},
+        {"text"},
+        text = {
+            ja = {{"提比不停地将脸在我怀中蹭来蹭去。",},},
+        },
+        linkback = "block_00093",
+        linknext = "block_00095",
+        line = 284
+    },
+
+    block_00095 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我安心地抚摸着提比的脑袋。",},},
+        },
+        linkback = "block_00094",
+        linknext = "block_00096",
+        line = 286
+    },
+
+    block_00096 = {
+        {"text"},
+        text = {
+            ja = {{"柔软的发丝迎上我的手。",},},
+        },
+        linkback = "block_00095",
+        linknext = "block_00097",
+        line = 288
+    },
+
+    block_00097 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5002"},},
+            ja = {{"「提比，有没有哪里痛？受伤没？」",},},
+        },
+        linkback = "block_00096",
+        linknext = "block_00098",
+        line = 290
+    },
+
+    block_00098 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_011a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600142"},},
+            ja = {{"「嗯，没事的。黎有没有疼的地方？」",},},
+        },
+        linkback = "block_00097",
+        linknext = "block_00099",
+        line = 292
+    },
+
+    block_00099 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5003"},},
+            ja = {{"「我没事哦。谢谢你，这么担心我。」",},},
+        },
+        linkback = "block_00098",
+        linknext = "block_00100",
+        line = 294
+    },
+
+    block_00100 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_011a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600144"},},
+            ja = {{"「黎救了提比……我最喜欢黎了……」",},},
+        },
+        linkback = "block_00099",
+        linknext = "block_00101",
+        line = 296
+    },
+
+    block_00101 = {
+        {"text"},
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            pagebreak = true,
+            ja = {{"少女小小的手，攥紧我的衣服。",},},
+        },
+        linkback = "block_00100",
+        linknext = "block_00102",
+        line = 298
+    },
+
+    block_00102 = {
+        {"text"},
+        text = {
+            ja = {{"胸前感到少许湿润和温暖。",},},
+        },
+        linkback = "block_00101",
+        linknext = "block_00103",
+        line = 300
+    },
+
+    block_00103 = {
+        {"text"},
+        text = {
+            ja = {{"那是提比在流泪。",},},
+        },
+        linkback = "block_00102",
+        linknext = "block_00104",
+        line = 302
+    },
+
+    block_00104 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但看上去和平时的泪水不一样。",},},
+        },
+        linkback = "block_00103",
+        linknext = "block_00105",
+        line = 304
+    },
+
+    block_00105 = {
+        {"text"},
+        text = {
+            ja = {{"这肯定是安心的泪水。",},},
+        },
+        linkback = "block_00104",
+        linknext = "block_00106",
+        line = 306
+    },
+
+    block_00106 = {
+        {"text"},
+        text = {
+            ja = {{"一定是因为有我在，提比的内心变得轻快了一些。",},},
+        },
+        linkback = "block_00105",
+        linknext = "block_00107",
+        line = 308
+    },
+
+    block_00107 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这么一想，便欣喜不已。",},},
+        },
+        linkback = "block_00106",
+        linknext = "block_00108",
+        line = 310
+    },
+
+    block_00108 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ------
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        {"bg",id=4,lv=5,file="CGM_TP010101_011a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600156"},},
+            ja = {{"「提比呢，正在摆书哦。很棒吧？棒不棒？」",},},
+        },
+        linkback = "block_00107",
+        linknext = "block_00109",
+        line = 312
+    },
+
+    block_00109 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5004"},},
+            ja = {{"「嗯，真棒。真是个好孩子呢。」",},},
+        },
+        linkback = "block_00108",
+        linknext = "block_00110",
+        line = 314
+    },
+
+    block_00110 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600158"},},
+            ja = {{"「呐，摸摸头啦。提比是好孩子，摸摸头。」",},},
+        },
+        linkback = "block_00109",
+        linknext = "block_00111",
+        line = 316
+    },
+
+    block_00111 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5005"},},
+            ja = {{"「嗯……提比是好孩子，好孩子……」",},},
+        },
+        linkback = "block_00110",
+        linknext = "block_00112",
+        line = 318
+    },
+
+    block_00112 = {
+        {"text"},
+        text = {
+            ja = {{"我轻抚她如绢的发丝。",},},
+        },
+        linkback = "block_00111",
+        linknext = "block_00113",
+        line = 320
+    },
+
+    block_00113 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600163"},},
+            ja = {{"「太好啦……黎摸摸头喽。提比，好开心……」",},},
+        },
+        linkback = "block_00112",
+        linknext = "block_00114",
+        line = 322
+    },
+
+    block_00114 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5006"},},
+            ja = {{"「你总在摆书吗？」",},},
+        },
+        linkback = "block_00113",
+        linknext = "block_00115",
+        line = 324
+    },
+
+    block_00115 = {
+        {"bg",id=4,lv=5,file="CGM_TP010101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600165"},},
+            ja = {{"「嗯。我在整理书。我想让很多很多人，都来看书。」",},},
+        },
+        linkback = "block_00114",
+        linknext = "block_00116",
+        line = 326
+    },
+
+    block_00116 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我仰望书架。",},},
+        },
+        linkback = "block_00115",
+        linknext = "block_00117",
+        line = 328
+    },
+
+    block_00117 = {
+        {"text"},
+        text = {
+            ja = {{"的确，有不少书本都很破旧了。",},},
+        },
+        linkback = "block_00116",
+        linknext = "block_00118",
+        line = 330
+    },
+
+    block_00118 = {
+        {"text"},
+        text = {
+            ja = {{"有书脊磨损了的，也有变色了的。",},},
+        },
+        linkback = "block_00117",
+        linknext = "block_00119",
+        line = 332
+    },
+
+    block_00119 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比在修理这些吗……",},},
+        },
+        linkback = "block_00118",
+        linknext = "block_00120",
+        line = 334
+    },
+
+    block_00120 = {
+        {"text"},
+        text = {
+            ja = {{"我突然想起让书本被雨淋湿的事。",},},
+        },
+        linkback = "block_00119",
+        linknext = "block_00121",
+        line = 336
+    },
+
+    block_00121 = {
+        {"text"},
+        text = {
+            ja = {{"要是粗暴地对待书本，就会增加提比的工作了。",},},
+        },
+        linkback = "block_00120",
+        linknext = "block_00122",
+        line = 338
+    },
+
+    block_00122 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我在心中发誓，要珍惜书本。",},},
+        },
+        linkback = "block_00121",
+        linknext = "block_00123",
+        line = 340
+    },
+
+    block_00123 = {
+        {"text"},
+        text = {
+            ja = {{"我坐起身来，将后背靠在附近的书架上。",},},
+        },
+        linkback = "block_00122",
+        linknext = "block_00124",
+        line = 342
+    },
+
+    block_00124 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5007"},},
+            ja = {{"「抱歉这么晚才来。」",},},
+        },
+        linkback = "block_00123",
+        linknext = "block_00125",
+        line = 344
+    },
+    
+    block_00125 = {
+        {"bg",id=4,lv=5,file="CGM_TP010109_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600178"},},
+            ja = {{"「没事的……黎来了就好。」",},},
+        },
+        linkback = "block_00124",
+        linknext = "block_00126",
+        line = 346
+    },
+
+    -------test
+    block_00126 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5008"},},
+            ja = {{"「你一个人还好吧？」",},},
+        },
+        linkback = "block_00125",
+        linknext = "block_00127",
+        line = 348
+    },
+
+    block_00127 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600180"},},
+            ja = {{"「不……非常非常寂寞。」",},},
+        },
+        linkback = "block_00126",
+        linknext = "block_00128",
+        line = 350
+    },
+
+    block_00128 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5009"},},
+            ja = {{"「哭了？」",},},
+        },
+        linkback = "block_00127",
+        linknext = "block_00129",
+        line = 352
+    },
+
+    block_00129 = {
+        {"bg",id=4,lv=5,file="CGM_TP010104_011a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600182"},},
+            ja = {{"「唔……唔，嗯…」",},},
+        },
+        linkback = "block_00128",
+        linknext = "block_00130",
+        line = 354
+    },
+
+    block_00130 = {
+        {"text"},
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            ja = {{"提比的脸抵住我的胸膛。",},},
+        },
+        linkback = "block_00129",
+        linknext = "block_00131",
+        line = 356
+    },
+
+    block_00131 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"时不时，能听到她在抽泣。",},},
+        },
+        linkback = "block_00130",
+        linknext = "block_00132",
+        line = 358
+    },
+
+    block_00132 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5010"},},
+            ja = {{"「没事的，以后我们会一直在一起啦。」",},},
+        },
+        linkback = "block_00131",
+        linknext = "block_00133",
+        line = 360
+    },
+
+    block_00133 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600188"},},
+            ja = {{"「一直？黎，会和提比在一起吗？」",},},
+        },
+        linkback = "block_00132",
+        linknext = "block_00134",
+        line = 362
+    },
+
+    block_00134 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5011"},},
+            ja = {{"「嗯，会的。我会尽量多来图书馆的。」",},},
+        },
+        linkback = "block_00133",
+        linknext = "block_00135",
+        line = 364
+    },
+
+    block_00135 = {
+        {"bg",id=4,lv=5,file="CGM_TP010104_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600190"},},
+            ja = {{"「不一起住吗？」",},},
+        },
+        linkback = "block_00134",
+        linknext = "block_00136",
+        line = 366
+    },
+
+    block_00136 = {
+        {"text"},
+        text = {
+            ja = {{"提比抬起脸来。",},},
+        },
+        linkback = "block_00135",
+        linknext = "block_00137",
+        line = 368
+    },
+
+    block_00137 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"眼眸中还满溢着大颗泪珠。",},},
+        },
+        linkback = "block_00136",
+        linknext = "block_00138",
+        line = 370
+    },
+
+    block_00138 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5012"},},
+            ja = {{"「这有些困难啊。我现在是承蒙诗音那的照顾。」",},},
+        },
+        linkback = "block_00137",
+        linknext = "block_00139",
+        line = 372
+    },
+
+    block_00139 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600196"},},
+            ja = {{"「是吗……」",},},
+        },
+        linkback = "block_00138",
+        linknext = "block_00140",
+        line = 374
+    },
+
+    block_00140 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5013"},},
+            ja = {{"「可是，每天都会来哦。那样就不寂寞了吧？」",},},
+        },
+        linkback = "block_00139",
+        linknext = "block_00141",
+        line = 376
+    },
+
+    block_00141 = {
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600198"},},
+            ja = {{"「嗯……可是，晚上好寂寞的。」",},},
+        },
+        linkback = "block_00140",
+        linknext = "block_00142",
+        line = 378
+    },
+
+    block_00142 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5014"},},
+            ja = {{"「晚上吗……」",},},
+        },
+        linkback = "block_00141",
+        linknext = "block_00143",
+        line = 380
+    },
+
+    block_00143 = {
+        {"bg",id=4,lv=5,file="CGM_TP010104_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600200"},},
+            ja = {{"「又暗又寂静……提比曾经想过，世界上是不是只有提比一个人了。」",},},
+        },
+        linkback = "block_00142",
+        linknext = "block_00144",
+        line = 382
+    },
+
+    block_00144 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5015"},},
+            ja = {{"「没有那回事。没有那回事啦…」",},},
+        },
+        linkback = "block_00143",
+        linknext = "block_00145",
+        line = 384
+    },
+
+    block_00145 = {
+        {"text"},
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            ja = {{"我也只能，紧紧抱着提比。",},},
+        },
+        linkback = "block_00144",
+        linknext = "block_00146",
+        line = 386
+    },
+
+    block_00146 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"从提比身上能闻到甜甜的香味。",},},
+        },
+        linkback = "block_00145",
+        linknext = "block_00147",
+        line = 388
+    },
+
+    block_00147 = {
+        {"text"},
+        text = {
+            ja = {{"和诗音那不同的，甜甜的香味。",},},
+        },
+        linkback = "block_00146",
+        linknext = "block_00148",
+        line = 390
+    },
+
+    block_00148 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600207"},},
+            ja = {{"「嗯，提比懂的……只要黎能来，提比就很高兴。呐，黎。能拜托一件事吗？」",},},
+        },
+        linkback = "block_00147",
+        linknext = "block_00149",
+        line = 392
+    },
+
+    block_00149 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5016"},},
+            ja = {{"「嗯，是什么？提比。」",},},
+        },
+        linkback = "block_00148",
+        linknext = "block_00150",
+        line = 394
+    },
+
+    block_00150 = {
+        {"bg",id=4,lv=5,file="CGM_TP010101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600209"},},
+            ja = {{"「能帮提比忙吗？」",},},
+        },
+        linkback = "block_00149",
+        linknext = "block_00151",
+        line = 396
+    },
+
+    block_00151 = {
+        {"text"},
+        text = {
+            
+            vo = {{"vo", ch="li", file="Z5017"},},
+            ja = {{"「嗯……当然可以，小事一桩。」",},},
+        },
+        linkback = "block_00150",
+        linknext = "block_00152",
+        line = 398
+    },
+
+    block_00152 = {
+        {"text"},
+        text = {
+            
+            ja = {{"我站起来，牵着提比的手。",},},
+        },
+        linkback = "block_00151",
+        linknext = "block_00153",
+        line = 400
+    },
+
+    block_00153 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"推着已放入几本书的推车，在图书馆中来回走起来。",},},
+        },
+        linkback = "block_00152",
+        linknext = "block_00154",
+        line = 402
+    },
+
+    block_00154 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="black", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        ---------
+        ---------
+        {"bg", id=1, lv=5, file="BG_101_10-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5018"},},
+            ja = {{"「下一本是……唔，《心灵和身体的哲学》。」",},},
+        },
+        linkback = "block_00153",
+        linknext = "block_00155",
+        line = 404
+    },
+
+    block_00155 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            
+            vo = {{"vo", ch="tibi", file="Z000600217"},},
+            ja = {{"「那就是493从上往下数第三层，从右往左第十三本。」",},},
+        },
+        linkback = "block_00154",
+        linknext = "block_00156",
+        line = 406
+    },
+
+    block_00156 = {
+        {"text"},
+        text = {
+
+            ja = {{"一说出书名，提比瞬间便讲出书的所在。",},},
+        },
+        linkback = "block_00155",
+        linknext = "block_00157",
+        line = 408
+    },
+
+    block_00157 = {
+        {"text"},
+        text = {
+            ja = {{"看起来就像是她已经熟记了整座图书馆的书一样。",},},
+        },
+        linkback = "block_00156",
+        linknext = "block_00158",
+        line = 410
+    },
+
+    block_00158 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在她所说的位置，的确留有刚好能放一本书的缝隙。",},},
+        },
+        linkback = "block_00157",
+        linknext = "block_00159",
+        line = 412
+    },
+
+    block_00159 = {
+        {"text"},
+        text = {
+            ja = {{"把书往里插，果然严丝合缝的。",},},
+        },
+        linkback = "block_00158",
+        linknext = "block_00160",
+        line = 414
+    },
+
+    block_00160 = {
+        {"text"},
+        text = {
+            ja = {{"提比并不是在随意胡说。",},},
+        },
+        linkback = "block_00159",
+        linknext = "block_00161",
+        line = 416
+    },
+
+    block_00161 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她十分确定地指示着书的位置。",},},
+        },
+        linkback = "block_00160",
+        linknext = "block_00162",
+        line = 418
+    },
+
+    block_00162 = {
+        {"text"},
+        text = {
+            ja = {{"我产生了兴趣，决定问她个有些刁难人的问题。",},},
+        },
+        linkback = "block_00161",
+        linknext = "block_00163",
+        line = 420
+    },
+
+    block_00163 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5019"},},
+            ja = {{"「话说提比，能问一下吗？」",},},
+        },
+        linkback = "block_00162",
+        linknext = "block_00164",
+        line = 422
+    },
+
+    block_00164 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600229"},},
+            ja = {{"「什么，黎？」",},},
+        },
+        linkback = "block_00163",
+        linknext = "block_00165",
+        line = 424
+    },
+
+    block_00165 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5020"},},
+            ja = {{"「还记得这本小说开头的部分吗？」",},},
+        },
+        linkback = "block_00164",
+        linknext = "block_00166",
+        line = 426
+    },
+
+    block_00166 = {
+        {"text"},
+        text = {
+            ja = {{"我拿出来的，是相当古旧的一本小说,提比认真地看着书名，简直就像是在脑海中摊开了书本般朗诵起来。",},},
+        },
+        linkback = "block_00165",
+        linknext = "block_00167",
+        line = 428
+    },
+
+    block_00167 = {
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600234a"},},
+            ja = {{"「往下面看去，楼大概有5层高。校舍旁边铺着奶油色的砖瓦，铺成一条可以悠然散步的人行道」",},},
+        },
+        linkback = "block_00166",
+        linknext = "block_00168",
+        line = 430
+    },
+
+    block_00168 = {
+        {"text"},
+        text = {
+            ja = {{"一字一句，提比毫无差错地念了出来。",},},
+        },
+        linkback = "block_00167",
+        linknext = "block_00169",
+        line = 432
+    },
+
+    block_00169 = {
+        {"text"},
+        text = {
+            ja = {{"和小说中手写的文字丝毫不差。",},},
+        },
+        linkback = "block_00168",
+        linknext = "block_00170",
+        line = 434
+    },
+
+    block_00170 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5021"},},
+            ja = {{"「莫非，这里所有的书都记得？」",},},
+        },
+        linkback = "block_00169",
+        linknext = "block_00171",
+        line = 436
+    },
+
+    block_00171 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600240"},},
+            ja = {{"「唔……不知道。」",},},
+        },
+        linkback = "block_00170",
+        linknext = "block_00172",
+        line = 438
+    },
+
+    block_00172 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5022"},},
+            ja = {{"「那，这本呢？」",},},
+        },
+        linkback = "block_00171",
+        linknext = "block_00173",
+        line = 440
+    },
+
+    block_00173 = {
+        {"bg",id=4,lv=5,file="CGM_TP010109_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600245a"},},
+            ja = {{"「构成人体的骨骼约有206块，从头部开始有枕骨，额骨，颞骨，顶骨，蝶骨，筛骨，锤骨，砧骨，镫骨，下鼻甲，泪骨，鼻骨，犁骨，上颌骨，腭骨，颧骨，下颚骨，舌骨――」",},},
+        },
+        linkback = "block_00172",
+        linknext = "block_00174",
+        line = 442
+    },
+
+    block_00174 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5023"},},
+            ja = {{"「……那么这本呢？」",},},
+        },
+        linkback = "block_00173",
+        linknext = "block_00175",
+        line = 444
+    },
+
+    block_00175 = {
+        {"text"},
+        text = {
+            ja = {{"我拿出一本写着圆周率大全的书，同样是手写的。",},},
+        },
+        linkback = "block_00174",
+        linknext = "block_00176",
+        line = 446
+    },
+
+    block_00176 = {
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600251"},},
+            ja = {{"「3.1415926535……」",},},
+        },
+        linkback = "block_00175",
+        linknext = "block_00177",
+        line = 448
+    },
+
+    block_00177 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5024"},},
+            ja = {{"「那这本《无魂子理论》的开头呢？」",},},
+        },
+        linkback = "block_00176",
+        linknext = "block_00178",
+        line = 450
+    },
+
+    block_00178 = {
+        {"bg",id=4,lv=5,file="CGM_TP010101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600255"},},
+            ja = {{"「万物皆有限，魂亦不例外。魂枯竭后所诞下的孩子，便是无魂的容器。」",},},
+        },
+        linkback = "block_00177",
+        linknext = "block_00179",
+        line = 452
+    },
+
+    block_00179 = {
+        {"text"},
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            
+            ja = {{"我确信了。",},},
+        },
+        linkback = "block_00178",
+        linknext = "block_00180",
+        line = 454
+    },
+
+    block_00180 = {
+        {"text"},
+        text = {
+            ja = {{"提比把这里所有的书都背下来了。",},},
+        },
+        linkback = "block_00179",
+        linknext = "block_00181",
+        line = 456
+    },
+
+    block_00181 = {
+        {"text"},
+        text = {
+            ja = {{"可是，为什么呢？",},},
+        },
+        linkback = "block_00180",
+        linknext = "block_00182",
+        line = 458
+    },
+
+    block_00182 = {
+        {"text"},
+        text = {
+            
+            ja = {{"就算有无比惊人的记忆力，也要先把这些书都读一遍。",},},
+        },
+        linkback = "block_00181",
+        linknext = "block_00183",
+        line = 460
+    },
+
+    block_00183 = {
+        {"text"},
+        text = {
+            ja = {{" 就算每天一直都在读书，要把这书海全部读完，也是不可能的吧。",},},
+        },
+        linkback = "block_00182",
+        linknext = "block_00184",
+        line = 462
+    },
+
+    block_00184 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这到底是怎么回事……",},},
+        },
+        linkback = "block_00183",
+        linknext = "block_00185",
+        line = 464
+    },
+
+    block_00185 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            
+            vo = {{"vo", ch="tibi", file="Z000600264"},},
+            ja = {{"「黎，怎么了？」",},},
+        },
+        linkback = "block_00184",
+        linknext = "block_00186",
+        line = 466
+    },
+
+    block_00186 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5025"},},
+            ja = {{"「没，什么事都没有。来，收拾下一本书吧。」",},},
+        },
+        linkback = "block_00185",
+        linknext = "block_00187",
+        line = 468
+    },
+
+    block_00187 = {
+        {"text"},
+        text = {
+            ja = {{"去琢磨无法解答的事情也无济于事吧。",},},
+        },
+        linkback = "block_00186",
+        linknext = "block_00188",
+        line = 470
+    },
+
+    block_00188 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"现在还是专心帮助提比吧。",},},
+        },
+        linkback = "block_00187",
+        linknext = "block_00189",
+        line = 472
+    },
+
+    block_00189 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="black", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        ---------
+        {"text"},
+        
+        text = {
+            pagebreak = true,
+            ja = {{"把所有的书放回书架后，我们坐回老地方。",},},
+        },
+        linkback = "block_00188",
+        linknext = "block_00190",
+        line = 474
+    },
+
+    block_00190 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------显示图片（进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="cg_ts05_08", time=1000, path=":ev/", sync=0, set="ts08"},
+        {"ex", time=1500, func="wait"},
+        ------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600273"},},
+            ja = {{"「黎，谢谢你帮忙。」",},},
+        },
+        linkback = "block_00189",
+        linknext = "block_00191",
+        line = 476
+    },
+
+    block_00191 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比今天撒娇得更起劲了。",},},
+        },
+        linkback = "block_00190",
+        linknext = "block_00192",
+        line = 478
+    },
+
+    block_00192 = {
+        {"text"},
+        text = {
+            ja = {{"是因为一直都没能见面的反作用吗？",},},
+        },
+        linkback = "block_00191",
+        linknext = "block_00193",
+        line = 480
+    },
+
+    block_00193 = {
+        {"text"},
+        text = {
+            ja = {{"她向我凑过来的模样看起来又可爱又让人怜爱。",},},
+        },
+        linkback = "block_00192",
+        linknext = "block_00194",
+        line = 482
+    },
+
+    block_00194 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5026"},},
+            ja = {{"「不用谢，提比。你总是一个人在做这些工作吧？」",},},
+        },
+        linkback = "block_00193",
+        linknext = "block_00195",
+        line = 484
+    },
+
+    block_00195 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------显示图片（进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="cg_ts05", time=300, path=":ev/", sync=0, set="ts05"},
+        {"ex", time=1500, func="wait"},
+        ------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600280"},},
+            ja = {{"「嗯……一直一直都是一个人。好寂寞。」",},},
+        },
+        linkback = "block_00194",
+        linknext = "block_00196",
+        line = 486
+    },
+
+    block_00196 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5027"},},
+            ja = {{"「……从什么时候开始，变成一个人的？」",},},
+        },
+        linkback = "block_00195",
+        linknext = "block_00197",
+        line = 488
+    },
+
+    block_00197 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"也许，这是我不该问的问题。",},},
+        },
+        linkback = "block_00196",
+        linknext = "block_00198",
+        line = 490
+    },
+
+    block_00198 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比悲伤地仰头看着我。",},},
+        },
+        linkback = "block_00197",
+        linknext = "block_00199",
+        line = 492
+    },
+
+    block_00199 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------显示图片（进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="cg_ts05_07", time=300, path=":ev/", sync=0, set="ts05"},
+        {"ex", time=300, func="wait"},
+        ------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600286"},},
+            ja = {{"「从很久以前开始，提比就是一个人了。」",},},
+        },
+        linkback = "block_00198",
+        linknext = "block_00200",
+        line = 494
+    },
+
+    block_00200 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后，提比开始讲述,提比变成孤单一人的，悲伤的故事。",},},
+        },
+        linkback = "block_00199",
+        linknext = "block_00201",
+        line = 496
+    },
+    
+    block_00201 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        --------------------
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        {"bgm", stop=1, id=0, time=2000},
+        -------------
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -----------------
+        {"bgm", id=0, file="bgm13", time=500,vol=60},
+        ---------
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -----------------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600293"},},
+            ja = {{"「爸爸，妈妈。」",},},
+        },
+        linkback = "block_00200",
+        linknext = "block_00202",
+        line = 498
+    },
+
+    
+    block_00202 = {
+        {"text"},
+        text = {
+            ja = {{"那时候，提比的父母还在图书馆。",},},
+        },
+        linkback = "block_00201",
+        linknext = "block_00203",
+        line = 500
+    },
+
+    block_00203 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"少女很喜欢他们。",},},
+        },
+        linkback = "block_00202",
+        linknext = "block_00204",
+        line = 502
+    },
+
+    block_00204 = {
+        {"text"},
+        text = {
+            ja = {{"最喜欢慈爱的父亲与母亲了。",},},
+        },
+        linkback = "block_00203",
+        linknext = "block_00205",
+        line = 504
+    },
+
+    block_00205 = {
+        {"text"},
+        text = {
+            ja = {{"妈妈总是笑眯眯的，温柔地抱着提比。",},},
+        },
+        linkback = "block_00204",
+        linknext = "block_00206",
+        line = 506
+    },
+
+    block_00206 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"爸爸则是一边整理书本，一边温柔地望着两人。",},},
+        },
+        linkback = "block_00205",
+        linknext = "block_00207",
+        line = 508
+    },
+
+    block_00207 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-2", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        -----------------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600300"},},
+            ja = {{"「爸爸，再念书给我听。」",},},
+        },
+        linkback = "block_00206",
+        linknext = "block_00208",
+        line = 510
+    },
+
+    block_00208 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5028"},},
+            ja = {{"「提比真是爱撒娇呢。」",},},
+        },
+        linkback = "block_00207",
+        linknext = "block_00209",
+        line = 512
+    },
+
+    block_00209 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"爸爸从桌子里面取出书籍专用的电子终端机。",},},
+        },
+        linkback = "block_00208",
+        linknext = "block_00210",
+        line = 514
+    },
+
+    block_00210 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-3", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600305"},},
+            ja = {{"「不要那个。要读纸页的书。」",},},
+        },
+        linkback = "block_00209",
+        linknext = "block_00211",
+        line = 516
+    },
+
+    block_00211 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5029"},},
+            ja = {{"「喔，这样呀。提比喜欢纸页的书呀。」",},},
+        },
+        linkback = "block_00210",
+        linknext = "block_00212",
+        line = 518
+    },
+    
+    block_00212 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"爸爸苦笑着收起电子终端机，拿出纸制的‘书’。",},},
+        },
+        linkback = "block_00211",
+        linknext = "block_00213",
+        line = 520
+    },
+
+    block_00213 = {
+        {"text"},
+        text = {
+            ja = {{"一定已经读了无数次了吧，书的封面和书页边缘都磨损得很厉害，有着相当的年头了。",},},
+        },
+        linkback = "block_00212",
+        linknext = "block_00214",
+        line = 522
+    },
+
+    block_00214 = {
+        {"text"},
+        text = {
+            ja = {{"在印刷技术早已废弃的这个年代，算是贵重的文化遗产了。",},},
+        },
+        linkback = "block_00213",
+        linknext = "block_00215",
+        line = 524
+    },
+
+    block_00215 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5030"},},
+            ja = {{"「 小提比，过来。」",},},
+        },
+        linkback = "block_00214",
+        linknext = "block_00216",
+        line = 526
+    },
+
+    block_00216 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-1", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"听到妈妈的呼唤，提比开心地坐到妈妈腿上。",},},
+        },
+        linkback = "block_00215",
+        linknext = "block_00217",
+        line = 528
+    },
+
+    block_00217 = {
+        {"text"},
+        text = {
+            ja = {{"在提比腿上，是父母为她挑选的小熊布偶。",},},
+        },
+        linkback = "block_00216",
+        linknext = "block_00218",
+        line = 530
+    },
+
+    block_00218 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"那时候提比每一天都很开心。",},},
+        },
+        linkback = "block_00217",
+        linknext = "block_00219",
+        line = 532
+    },
+
+    block_00219 = {
+        {"text"},
+        text = {
+            ja = {{"和亲爱的爸爸妈妈度过的每一天都那么开心。",},},
+        },
+        linkback = "block_00218",
+        linknext = "block_00220",
+        line = 534
+    },
+
+    block_00220 = {
+        {"text"},
+        text = {
+            ja = {{"所以，提比每天都带着笑容。",},},
+        },
+        linkback = "block_00219",
+        linknext = "block_00221",
+        line = 536
+    },
+
+    block_00221 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"从没有过不开心的日子。",},},
+        },
+        linkback = "block_00220",
+        linknext = "block_00222",
+        line = 538
+    },
+
+    block_00222 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5031"},},
+            ja = {{"「小提比，画画真棒呢。」",},},
+        },
+        linkback = "block_00221",
+        linknext = "block_00223",
+        line = 540
+    },
+
+    block_00223 = {
+        {"text"},
+        text = {
+
+            ja = {{"妈妈总是夸奖提比画画得好。",},},
+        },
+        linkback = "block_00222",
+        linknext = "block_00224",
+        line = 542
+    },
+
+    block_00224 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5032"},},
+            ja = {{"「将来肯定能成为艺术家。爸爸真自豪。」",},},
+        },
+        linkback = "block_00223",
+        linknext = "block_00225",
+        line = 544
+    },
+
+    block_00225 = {
+        {"text"},
+        text = {
+            ja = {{"爸爸总是对提比的未来充满希望。",},},
+        },
+        linkback = "block_00224",
+        linknext = "block_00226",
+        line = 546
+    },
+
+    block_00226 = {
+        {"text"},
+        text = {
+            ja = {{"这样的日子一直持续下去就好了。",},},
+        },
+        linkback = "block_00225",
+        linknext = "block_00227",
+        line = 548
+    },
+
+    block_00227 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"像这样，一直三个人在一起。",},},
+        },
+        linkback = "block_00226",
+        linknext = "block_00228",
+        line = 550
+    },
+
+    block_00228 = {
+        {"text"},
+        text = {
+            ja = {{"提比总是那么想。",},},
+        },
+        linkback = "block_00227",
+        linknext = "block_00229",
+        line = 552
+    },
+
+    block_00229 = {
+        {"text"},
+        text = {
+            ja = {{" ――可是。",},},
+        },
+        linkback = "block_00228",
+        linknext = "block_00230",
+        line = 554
+    },
+
+    block_00230 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-4", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        text = {
+            pagebreak = true,
+            ja = {{"不知什么时候开始，父母双眉紧锁的日子越来越多了。",},},
+        },
+        linkback = "block_00229",
+        linknext = "block_00231",
+        line = 556
+    },
+
+    block_00231 = {
+        {"text"},
+        text = {
+            ja = {{"提比并不喜欢那个表情。",},},
+        },
+        linkback = "block_00230",
+        linknext = "block_00232",
+        line = 558
+    },
+
+    block_00232 = {
+        {"text"},
+        text = {
+            ja = {{"镇上也乱起来。",},},
+        },
+        linkback = "block_00231",
+        linknext = "block_00233",
+        line = 560
+    },
+
+    block_00233 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"大人们总是在谈论着什么。",},},
+        },
+        linkback = "block_00232",
+        linknext = "block_00234",
+        line = 562
+    },
+
+    block_00234 = {
+        {"text"},
+        text = {
+            ja = {{"可是，年幼的提比并不明白这其中意味。",},},
+        },
+        linkback = "block_00233",
+        linknext = "block_00235",
+        line = 564
+    },
+
+    block_00235 = {
+        {"text"},
+        text = {
+            ja = {{"只是心中滋生了不安，担心至今为止的生活会消失。",},},
+        },
+        linkback = "block_00234",
+        linknext = "block_00236",
+        line = 566
+    },
+
+    block_00236 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"那天，电话响起。",},},
+        },
+        linkback = "block_00235",
+        linknext = "block_00237",
+        line = 568
+    },
+
+    block_00237 = {
+        {"text"},
+        text = {
+            ja = {{" 在提比听来，那是无比哀伤的声音。",},},
+        },
+        linkback = "block_00236",
+        linknext = "block_00238",
+        line = 570
+    },
+
+    block_00238 = {
+        {"text"},
+        text = {
+            ja = {{"接电话的爸爸，眉毛紧紧拧在一起。",},},
+        },
+        linkback = "block_00237",
+        linknext = "block_00239",
+        line = 572
+    },
+
+    block_00239 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"那是提比不喜欢的表情。",},},
+        },
+        linkback = "block_00238",
+        linknext = "block_00240",
+        line = 574
+    },
+
+    block_00240 = {
+        {"text"},
+        text = {
+            ja = {{"爸爸放下电话，对妈妈说着什么。",},},
+        },
+        linkback = "block_00239",
+        linknext = "block_00241",
+        line = 576
+    },
+
+    block_00241 = {
+        {"text"},
+        text = {
+            ja = {{"过了一会儿，他们便争吵起来。",},},
+        },
+        linkback = "block_00240",
+        linknext = "block_00242",
+        line = 578
+    },
+
+    block_00242 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"好像在争执着什么。",},},
+        },
+        linkback = "block_00241",
+        linknext = "block_00243",
+        line = 580
+    },
+
+    block_00243 = {
+        {"text"},
+        text = {
+            ja = {{"提比不明白那是什么。",},},
+        },
+        linkback = "block_00242",
+        linknext = "block_00244",
+        line = 582
+    },
+
+    block_00244 = {
+        {"text"},
+        text = {
+            ja = {{"她只明白一件事，就是看到两个人争吵，她很伤心很伤心。",},},
+        },
+        linkback = "block_00243",
+        linknext = "block_00245",
+        line = 584
+    },
+
+    block_00245 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5033"},},
+            ja = {{"「小提比，听我说好吗？」",},},
+        },
+        linkback = "block_00244",
+        linknext = "block_00246",
+        line = 586
+    },
+    
+    block_00246 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-3", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"又过了一会儿，妈妈带着复杂的表情看着提比。",},},
+        },
+        linkback = "block_00245",
+        linknext = "block_00247",
+        line = 588
+    },
+
+    block_00247 = {
+        {"text"},
+        text = {
+            ja = {{"后面站着爸爸……还有已经整理好的行李。",},},
+        },
+        linkback = "block_00246",
+        linknext = "block_00248",
+        line = 590
+    },
+
+    block_00248 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比看着眼前的光景，有种不祥的预感。",},},
+        },
+        linkback = "block_00247",
+        linknext = "block_00249",
+        line = 592
+    },
+
+    block_00249 = {
+        {"text"},
+        text = {
+            ja = {{"提比的直觉告诉她，迄今为止的生活已经无法继续了。",},},
+        },
+        linkback = "block_00248",
+        linknext = "block_00250",
+        line = 594
+    },
+
+    block_00250 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5034"},},
+            ja = {{"「现在，世界上发生了很糟糕的事情。」",},},
+        },
+        linkback = "block_00249",
+        linknext = "block_00251",
+        line = 596
+    },
+
+    block_00251 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600361"},},
+            ja = {{"「糟糕的事情？什么事呢？」",},},
+        },
+        linkback = "block_00250",
+        linknext = "block_00252",
+        line = 598
+    },
+
+    block_00252 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5035"},},
+            ja = {{"「很多人过着惊恐、无法入睡的日子。小提比不喜欢那样吧？」",},},
+        },
+        linkback = "block_00251",
+        linknext = "block_00253",
+        line = 600
+    },
+
+    block_00253 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-5", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600363"},},
+            ja = {{"「嗯，讨厌。提比，讨厌可怕的东西。」",},},
+        },
+        linkback = "block_00252",
+        linknext = "block_00254",
+        line = 602
+    },
+
+    block_00254 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5036"},},
+            ja = {{"「世间还有很多小朋友也这样想。所以妈妈想尽可能地去帮助他们。」",},},
+        },
+        linkback = "block_00253",
+        linknext = "block_00255",
+        line = 604
+    },
+
+    block_00255 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-6", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600365"},},
+            ja = {{"「提比也这么想。好可怜嘛。」",},},
+        },
+        linkback = "block_00254",
+        linknext = "block_00256",
+        line = 606
+    },
+
+    block_00256 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5037"},},
+            ja = {{"「是呀……我也觉得小提比肯定会这么说的……所以呢小提比，接下来我要说件很重要的事情。就算不明白也要听话好吗？」",},},
+        },
+        linkback = "block_00255",
+        linknext = "block_00257",
+        line = 608
+    },
+
+    block_00257 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-3", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600367"},},
+            ja = {{"「……嗯。提比会努力的。」",},},
+        },
+        linkback = "block_00256",
+        linknext = "block_00258",
+        line = 610
+    },
+
+    block_00258 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5038"},},
+            ja = {{"「其实呢，爸爸妈妈，为了帮助那些小朋友，要去很远很远的地方。就算我们去了，事情说不定也不会有转变……可是呢，还是有可能性的。」",},},
+        },
+        linkback = "block_00257",
+        linknext = "block_00259",
+        line = 612
+    },
+
+    block_00259 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-7", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600369"},},
+            ja = {{"「很远……？有多远？像玛德先生的店那么远吗？」",},},
+        },
+        linkback = "block_00258",
+        linknext = "block_00260",
+        line = 614
+    },
+
+    block_00260 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5039"},},
+            ja = {{"「不是的。要更远。要去那里可能要花上好几天好几周。」",},},
+        },
+        linkback = "block_00259",
+        linknext = "block_00261",
+        line = 616
+    },
+
+    block_00261 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-8", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600371"},},
+            ja = {{"「唔……是吗。那，得准备好多东西呢。等一下，我去收拾东西。」",},},
+        },
+        linkback = "block_00260",
+        linknext = "block_00262",
+        line = 618
+    },
+
+    block_00262 = {
+        {"text"},
+        text = {
+            ja = {{"爸爸拦住了要回到自己房间的提比。",},},
+        },
+        linkback = "block_00261",
+        linknext = "block_00263",
+        line = 620
+    },
+
+    block_00263 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5040"},},
+            ja = {{"「提比不用做准备。」",},},
+        },
+        linkback = "block_00262",
+        linknext = "block_00264",
+        line = 622
+    },
+
+    block_00264 = {
+        {"text"},
+        ---显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-7", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600376"},},
+            ja = {{"「为什么？爸爸妈妈已经帮提比准备好了吗？」",},},
+        },
+        linkback = "block_00263",
+        linknext = "block_00265",
+        line = 624
+    },
+
+    block_00265 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5041"},},
+            ja = {{"「不是的……其实呢提比，只有爸爸和妈妈两个人要去那里。」",},},
+        },
+        linkback = "block_00264",
+        linknext = "block_00266",
+        line = 626
+    },
+
+    block_00266 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-9", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600378"},},
+            ja = {{"「你们两个人……？提比呢……？」",},},
+        },
+        linkback = "block_00265",
+        linknext = "block_00267",
+        line = 628
+    },
+
+    block_00267 = {
+        {"text"},
+        text = {
+            ja = {{"爸爸妈妈对视了一下。",},},
+        },
+        linkback = "block_00266",
+        linknext = "block_00268",
+        line = 630
+    },
+
+    block_00268 = {
+        {"text"},
+        text = {
+            ja = {{"看到他们悲伤的表情，提比明白了什么。",},},
+        },
+        linkback = "block_00267",
+        linknext = "block_00269",
+        line = 632
+    },
+
+    block_00269 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"突然，眼泪奔涌而出。",},},
+        },
+        linkback = "block_00268",
+        linknext = "block_00270",
+        line = 634
+    },
+
+    block_00270 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-7", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600384"},},
+            ja = {{"「不要……提比也要一起……去……」",},},
+        },
+        linkback = "block_00269",
+        linknext = "block_00271",
+        line = 636
+    },
+
+    block_00271 = {
+        {"text"},
+        text = {
+
+            vo = {{"vo", ch="li", file="Z5042"},},
+            ja = {{"「对不起小提比，那样不行的。」",},},
+        },
+        linkback = "block_00270",
+        linknext = "block_00272",
+        line = 638
+    },
+
+    block_00272 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-10", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600386"},},
+            ja = {{"「为什么……？为什么不行……？」",},},
+        },
+        linkback = "block_00271",
+        linknext = "block_00273",
+        line = 640
+    },
+
+    block_00273 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5043"},},
+            ja = {{"「爸爸妈妈要去的地方，非常非常危险。我们不想带小提比去那么危险的地方。因为小提比对爸爸和妈妈都非常重要。」",},},
+        },
+        linkback = "block_00272",
+        linknext = "block_00274",
+        line = 642
+    },
+
+    block_00274 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-11", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600388"},},
+            ja = {{"「不、要……不要不要不要……提比也要去……」",},},
+        },
+        linkback = "block_00273",
+        linknext = "block_00275",
+        line = 644
+    },
+
+    block_00275 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比哭出声来。",},},
+        },
+        linkback = "block_00274",
+        linknext = "block_00276",
+        line = 646
+    },
+
+    block_00276 = {
+        {"text"},
+        text = {
+            ja = {{"脸颊上滑落的大颗泪珠传达着内心的寂寥。",},},
+        },
+        linkback = "block_00275",
+        linknext = "block_00277",
+        line = 648
+    },
+
+    block_00277 = {
+        {"text"},
+        text = {
+            ja = {{"爸爸妈妈温柔地抱住了提比。",},},
+        },
+        linkback = "block_00276",
+        linknext = "block_00278",
+        line = 650
+    },
+
+    block_00278 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5044"},},
+            ja = {{"「对不起哦小提比……就算这样爸爸妈妈也非要去不可。」",},},
+        },
+        linkback = "block_00277",
+        linknext = "block_00279",
+        line = 652
+    },
+
+    block_00279 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5045"},},
+            ja = {{"「对不起提比……没事的，我们一定会马上回来的。」",},},
+        },
+        linkback = "block_00278",
+        linknext = "block_00280",
+        line = 654
+    },
+
+    block_00280 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-10", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600396"},},
+            ja = {{"「呜……呜呜……马上……？马上是多久？」",},},
+        },
+        linkback = "block_00279",
+        linknext = "block_00281",
+        line = 656
+    },
+
+    block_00281 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5046"},},
+            ja = {{"「马上就回来……为了不让提比一个人感到孤单，肯定马上就会回来……」",},},
+        },
+        linkback = "block_00280",
+        linknext = "block_00282",
+        line = 658
+    },
+
+    block_00282 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-12", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600398"},},
+            ja = {{"「不要，提比不明白啦……！」",},},
+        },
+        linkback = "block_00281",
+        linknext = "block_00283",
+        line = 660
+    },
+
+    block_00283 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5047"},},
+            ja = {{"「提比是好孩子，所以要看家。等我们回来，再给我们看提比的画。」",},},
+        },
+        linkback = "block_00282",
+        linknext = "block_00284",
+        line = 662
+    },
+
+    block_00284 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-13", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600400"},},
+            ja = {{"「提比的画……？」",},},
+        },
+        linkback = "block_00283",
+        linknext = "block_00285",
+        line = 664
+    },
+
+    block_00285 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5048"},},
+            ja = {{"「嗯，是啊。每天都要画一张。把提比看到的、听到的、学到的、感受到的都画下来。等我们回来再讲给我们听，好吗？」",},},
+        },
+        linkback = "block_00284",
+        linknext = "block_00286",
+        line = 666
+    },
+
+    block_00286 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-14", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600402"},},
+            ja = {{"「给……提比讲……？」",},},
+        },
+        linkback = "block_00285",
+        linknext = "block_00287",
+        line = 668
+    },
+
+    block_00287 = {
+        {"text"},
+        text = {
+            
+            vo = {{"vo", ch="li", file="Z5049"},},
+            ja = {{"「对呀。我也会把旅途中的各种见闻汇集成书。为了讲给提比听而赶回来。」",},},
+        },
+        linkback = "block_00286",
+        linknext = "block_00288",
+        line = 670
+    },
+
+    block_00288 = {
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-3", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600404"},},
+            ja = {{"「真的？说话算数？」",},},
+        },
+        linkback = "block_00287",
+        linknext = "block_00289",
+        line = 672
+    },
+
+    block_00289 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5050"},},
+            ja = {{"「哎，当然算数了。和你约定，所以呢……」",},},
+        },
+        linkback = "block_00288",
+        linknext = "block_00290",
+        line = 674
+    },
+
+    block_00290 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="ST-4", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            pagebreak = true,
+            ja = {{"一家三口抱在一起。",},},
+        },
+        linkback = "block_00289",
+        linknext = "block_00291",
+        line = 676
+    },
+
+    block_00291 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"为了治愈不知会持续到何时的离别之痛――",},},
+        },
+        linkback = "block_00290",
+        linknext = "block_00292",
+        line = 678
+    },
+
+    block_00292 = {
+        {"text"},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="CY-1", time=1000, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        ------
+        text = {
+            ja = {{"从那以后到底过了多久呢。",},},
+        },
+        linkback = "block_00291",
+        linknext = "block_00293",
+        line = 680
+    },
+
+    block_00293 = {
+        {"text"},
+        text = {
+            
+            ja = {{"提比依然听爸爸的话，一直画着。",},},
+        },
+        linkback = "block_00292",
+        linknext = "block_00294",
+        line = 682
+    },
+
+    block_00294 = {
+        {"text"},
+        text = {
+            ja = {{"每画一张，便贴到墙上。为了让爸爸妈妈回来的时候，一眼就能看到。",},},
+        },
+        linkback = "block_00293",
+        linknext = "block_00295",
+        line = 684
+    },
+
+    block_00295 = {
+        {"text"},
+        text = {
+            ja = {{"看到的……",},},
+        },
+        linkback = "block_00294",
+        linknext = "block_00296",
+        line = 686
+    },
+
+    block_00296 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"听到的……",},},
+        },
+        linkback = "block_00295",
+        linknext = "block_00297",
+        line = 688
+    },
+
+    block_00297 = {
+        {"text"},
+        text = {
+            ja = {{"学到的……",},},
+        },
+        linkback = "block_00296",
+        linknext = "block_00298",
+        line = 690
+    },
+
+    block_00298 = {
+        {"text"},
+        text = {
+            ja = {{"可是终究，还是思念父母的心情埋没了一切。",},},
+        },
+        linkback = "block_00297",
+        linknext = "block_00299",
+        line = 692
+    },
+
+    block_00299 = {
+        {"text"},
+        text = {
+            
+            ja = {{"想被拥抱，想被摸摸头，想听他们呼唤自己的名字，想……快点见面……",},},
+        },
+        linkback = "block_00298",
+        linknext = "block_00300",
+        line = 694
+    },
+
+    block_00300 = {
+        {"text"},
+        text = {
+            ja = {{"心变得越来越蓝。",},},
+        },
+        linkback = "block_00299",
+        linknext = "block_00301",
+        line = 696
+    },
+
+    block_00301 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"少女流着泪，继续画着……",},},
+        },
+        linkback = "block_00300",
+        linknext = "block_00302",
+        line = 698
+    },
+
+    block_00302 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        ---------显示图片（进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="cg_ts05_02", time=1000, path=":ev/", sync=0, set="ts05"},
+        {"ex", time=1500, func="wait"},
+        ------
+        {"text"},
+        text = {
+            
+            ja = {{"提比流淌着蓝色的悲伤泪滴，向我讲述着悲伤的过去。",},},
+        },
+        linkback = "block_00301",
+        linknext = "block_00303",
+        line = 700
+    },
+
+    block_00303 = {
+        {"text"},
+        text = {
+            ja = {{"她那小小的肩膀微微颤抖着，眼前的少女悲痛欲绝。",},},
+        },
+        linkback = "block_00302",
+        linknext = "block_00304",
+        line = 702
+    },
+
+    block_00304 = {
+        {"text"},
+        text = {
+            ja = {{"她的悲伤到底有多深，我根本想象不了。",},},
+        },
+        linkback = "block_00303",
+        linknext = "block_00305",
+        line = 704
+    },
+
+    block_00305 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"可能是因为我从来没有感受过这种程度的悲伤吧。",},},
+        },
+        linkback = "block_00304",
+        linknext = "block_00306",
+        line = 706
+    },
+
+    block_00306 = {
+        {"text"},
+        text = {
+            ja = {{"所以我没办法完全体会提比的心情。",},},
+        },
+        linkback = "block_00305",
+        linknext = "block_00307",
+        line = 708
+    },
+
+    block_00307 = {
+        {"text"},
+        text = {
+            ja = {{"―――可是。",},},
+        },
+        linkback = "block_00306",
+        linknext = "block_00308",
+        line = 710
+    },
+
+    block_00308 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"应该是可以治愈她的悲伤的。",},},
+        },
+        linkback = "block_00307",
+        linknext = "block_00309",
+        line = 712
+    },
+
+    block_00309 = {
+        {"text"},
+        text = {
+            ja = {{"通过抱紧她小小的身躯。",},},
+        },
+        linkback = "block_00308",
+        linknext = "block_00310",
+        line = 714
+    },
+
+    block_00310 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"肯定可以的。",},},
+        },
+        linkback = "block_00309",
+        linknext = "block_00311",
+        line = 716
+    },
+
+    block_00311 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        --------------------
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -----------------
+        {"text"},
+        text = {
+            
+            ja = {{"提比背靠着墙壁坐着。",},},
+        },
+        linkback = "block_00310",
+        linknext = "block_00312",
+        line = 718
+    },
+
+    block_00312 = {
+        {"text"},
+        text = {
+            ja = {{"我将手伸向那纤细的身躯。",},},
+        },
+        linkback = "block_00311",
+        linknext = "block_00313",
+        line = 720
+    },
+
+    block_00313 = {
+        {"text"},
+        text = {
+            ja = {{"一碰到提比的肩，她的身躯就微微震颤了一下。",},},
+        },
+        linkback = "block_00312",
+        linknext = "block_00314",
+        line = 722
+    },
+
+    block_00314 = {
+        {"text"},
+        text = {
+            
+            ja = {{"并不是在拒绝我。",},},
+        },
+        linkback = "block_00313",
+        linknext = "block_00315",
+        line = 724
+    },
+
+    block_00315 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"似乎只是被黑暗中突然的行动吓了一跳。",},},
+        },
+        linkback = "block_00314",
+        linknext = "block_00316",
+        line = 726
+    },
+
+    block_00316 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        --------------------
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -----------------
+        {"text"},
+        {"bg",id=4,lv=5,file="CGM_TP010104_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600443"},},
+            ja = {{"「黎……」",},},
+        },
+        linkback = "block_00315",
+        linknext = "block_00317",
+        line = 728
+    },
+
+    block_00317 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5051"},},
+            ja = {{"「没事的，提比，没事的。」",},},
+        },
+        linkback = "block_00316",
+        linknext = "block_00318",
+        line = 730
+    },
+
+    block_00318 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600445"},},
+            ja = {{"「呐，黎不会从提比眼前消失吧？」",},},
+        },
+        linkback = "block_00317",
+        linknext = "block_00319",
+        line = 732
+    },
+
+    block_00319 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5052"},},
+            ja = {{"「嗯，不会消失的。」",},},
+        },
+        linkback = "block_00318",
+        linknext = "block_00320",
+        line = 734
+    },
+
+    block_00320 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600447"},},
+            ja = {{"「不会留提比一个人？」",},},
+        },
+        linkback = "block_00319",
+        linknext = "block_00321",
+        line = 736
+    },
+
+    block_00321 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5053"},},
+            ja = {{"「嗯，不会留提比一个人。」",},},
+        },
+        linkback = "block_00320",
+        linknext = "block_00322",
+        line = 738
+    },
+
+    block_00322 = {
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600449"},},
+            ja = {{"「不会让提比寂寞？」",},},
+        },
+        linkback = "block_00321",
+        linknext = "block_00323",
+        line = 740
+    },
+
+    block_00323 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5054"},},
+            ja = {{"「嗯，不会让提比寂寞。」",},},
+        },
+        linkback = "block_00322",
+        linknext = "block_00324",
+        line = 742
+    },
+
+    block_00324 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600451"},},
+            ja = {{"「不会让提比伤心？」",},},
+        },
+        linkback = "block_00323",
+        linknext = "block_00325",
+        line = 744
+    },
+
+    block_00325 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5055"},},
+            ja = {{"「嗯，不会让提比伤心。」",},},
+        },
+        linkback = "block_00324",
+        linknext = "block_00326",
+        line = 746
+    },
+
+    block_00326 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600453"},},
+            ja = {{"「会疼爱提比吗？」",},},
+        },
+        linkback = "block_00325",
+        linknext = "block_00327",
+        line = 748
+    },
+
+    block_00327 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5056"},},
+            ja = {{"「嗯，会疼爱提比。」",},},
+        },
+        linkback = "block_00326",
+        linknext = "block_00328",
+        line = 750
+    },
+
+    block_00328 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600455"},},
+            ja = {{"「会抱紧提比吗？」",},},
+        },
+        linkback = "block_00327",
+        linknext = "block_00329",
+        line = 752
+    },
+
+    block_00329 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5057"},},
+            ja = {{"「嗯，会抱紧提比。」",},},
+        },
+        linkback = "block_00328",
+        linknext = "block_00330",
+        line = 754
+    },
+
+    block_00330 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600457"},},
+            ja = {{"「会给提比抱抱吗？」",},},
+        },
+        linkback = "block_00329",
+        linknext = "block_00331",
+        line = 756
+    },
+
+    block_00331 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5058"},},
+            ja = {{"「嗯，会给提比抱抱。」",},},
+        },
+        linkback = "block_00330",
+        linknext = "block_00332",
+        line = 758
+    },
+
+    block_00332 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600459"},},
+            ja = {{"「会摸提比的头吗？」",},},
+        },
+        linkback = "block_00331",
+        linknext = "block_00333",
+        line = 760
+    },
+
+    block_00333 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5059"},},
+            ja = {{"「嗯，会摸摸头。」",},},
+        },
+        linkback = "block_00332",
+        linknext = "block_00334",
+        line = 762
+    },
+
+    block_00334 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600461"},},
+            ja = {{"「会和提比牵手手吗？」",},},
+        },
+        linkback = "block_00333",
+        linknext = "block_00335",
+        line = 764
+    },
+
+    block_00335 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5060"},},
+            ja = {{"「嗯，会牵手手。」",},},
+        },
+        linkback = "block_00334",
+        linknext = "block_00336",
+        line = 766
+    },
+
+    block_00336 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600463"},},
+            ja = {{"「会一直陪在提比身边吗？」",},},
+        },
+        linkback = "block_00335",
+        linknext = "block_00337",
+        line = 768
+    },
+
+    block_00337 = {
+        {"text"},
+        text = {
+            ja = {{"黑暗中提比的眼眸闪过一丝光芒。",},},
+        },
+        linkback = "block_00336",
+        linknext = "block_00338",
+        line = 770
+    },
+
+    block_00338 = {
+        {"text"},
+        text = {
+            
+            ja = {{"触碰到的肩膀上带着过热的体温。",},},
+        },
+        linkback = "block_00337",
+        linknext = "block_00339",
+        line = 772
+    },
+
+    block_00339 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我将提比抱到怀里――",},},
+        },
+        linkback = "block_00338",
+        linknext = "block_00340",
+        line = 774
+    },
+    
+    block_00340 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        {"bgm", stop=1, id=0, time=2000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="black", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        ---------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600469"},},
+            ja = {{"「哎呀，感情真好呢。」",},},
+        },
+        linkback = "block_00339",
+        linknext = "block_00341",
+        line = 776
+    },
+
+    block_00341 = {
+        {"msgoff"},
+        -------------
+        {"bg", id=1, lv=5, file="CY-2", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        ---------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"黑暗中响起的声音，并不是来自我正想要为她治愈悲伤的少女。",},},
+        },
+        linkback = "block_00340",
+        linknext = "block_00342",
+        line = 778
+    },
+
+    block_00342 = {
+        {"text"},
+        text = {
+            ja = {{"而是来自理应已经在入口处分别了的诗音那。",},},
+        },
+        linkback = "block_00341",
+        linknext = "block_00343",
+        line = 780
+    },
+
+    block_00343 = {
+        {"text"},
+        text = {
+            ja = {{"回过神来发现诗音那站在旁边。",},},
+        },
+        linkback = "block_00342",
+        linknext = "block_00344",
+        line = 782
+    },
+
+    block_00344 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"带着在黑暗中依然可以辨识的笑容，诗音那径直向我们走来。",},},
+        },
+        linkback = "block_00343",
+        linknext = "block_00345",
+        line = 784
+    },
+
+    block_00345 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        ------------
+        {"text"},
+        --------诗音娜id5
+        {"bg",id=5,lv=5,file="CGM_SI020101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600476"},},
+            ja = {{"「可是呢，感情太好也有问题哦。毕竟都是妙龄的男女。」",},},
+        },
+        linkback = "block_00344",
+        linknext = "block_00346",
+        line = 786
+    },
+
+    block_00346 = {
+        {"text"},
+        text = {
+            ja = {{"诗音那拉住我伸向提比的手。",},},
+        },
+        linkback = "block_00345",
+        linknext = "block_00347",
+        line = 788
+    },
+
+    block_00347 = {
+        {"text"},
+        --------提比id5
+        {"bg",id=4,lv=5,file="CGM_TP010404_010a_0000",time=300,zoom=80,path=":fg/",sync=0,x=720,y=170},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600480"},},
+            ja = {{"「不……不要……」",},},
+        },
+        linkback = "block_00346",
+        linknext = "block_00348",
+        line = 790
+    },
+
+    block_00348 = {
+        {"text"},
+        text = {
+            ja = {{"渴求我双臂的提比，面孔悲伤地扭曲起来。",},},
+        },
+        linkback = "block_00347",
+        linknext = "block_00349",
+        line = 792
+    },
+
+    block_00349 = {
+        {"text"},
+        text = {
+            ja = {{"我不禁向诗音那吼起来。",},},
+        },
+        linkback = "block_00348",
+        linknext = "block_00350",
+        line = 794
+    },
+
+    block_00350 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5061"},},
+            ja = {{"「诗音那，你干什么！」",},},
+        },
+        linkback = "block_00349",
+        linknext = "block_00351",
+        line = 796
+    },
+
+    block_00351 = {
+        {"bg",id=5,lv=5,file="CGM_SI020102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600486"},},
+            ja = {{"「怎么了？那么激动。小孩子到了年纪就要好好考虑肢体接触的问题喽。」",},},
+        },
+        linkback = "block_00350",
+        linknext = "block_00352",
+        line = 798
+    },
+
+    block_00352 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5062"},},
+            ja = {{"「才不是那样。提比很难过……我正想尽可能地为她治愈这悲伤，哪怕只有一点也好。」",},},
+        },
+        linkback = "block_00351",
+        linknext = "block_00353",
+        line = 800
+    },
+
+    block_00353 = {
+        {"bg",id=5,lv=5,file="CGM_SI020109_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600488"},},
+            ja = {{"「悲伤？因为什么？」",},},
+        },
+        linkback = "block_00352",
+        linknext = "block_00354",
+        line = 802
+    },
+    
+    block_00354 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5063"},},
+            ja = {{"「因为爸爸妈妈还不回来！提比一直一个人孤零零的。一直很孤独！」",},},
+        },
+        linkback = "block_00353",
+        linknext = "block_00355",
+        line = 804
+    },
+
+    block_00355 = {
+
+        {"bg",id=5,lv=5,file="CGM_SI020114_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600490"},},
+            ja = {{"「这就是现实，没办法啦。」",},},
+        },
+        linkback = "block_00354",
+        linknext = "block_00356",
+        line = 806
+    },
+
+    block_00356 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5064"},},
+            ja = {{"「没办法？什么意思……」",},},
+        },
+        linkback = "block_00355",
+        linknext = "block_00357",
+        line = 808
+    },
+
+    block_00357 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        ------------
+        {"text"},
+        text = {
+            ja = {{"诗音那走近提比。",},},
+        },
+        linkback = "block_00356",
+        linknext = "block_00358",
+        line = 810
+    },
+
+    block_00358 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后看着沉浸在悲伤中的小小的提比。。",},},
+        },
+        linkback = "block_00357",
+        linknext = "block_00359",
+        line = 812
+    },
+
+    block_00359 = {
+        {"bg",id=5,lv=5,file="CGM_SI020101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600496"},},
+            ja = {{"「小提比――很遗憾，小提比会一直一个人孤零零的哦。」",},},
+        },
+        linkback = "block_00358",
+        linknext = "block_00360",
+        line = 814
+    },
+
+    block_00360 = {
+        {"bg",id=4,lv=5,file="CGM_TP010203_010a_0000",time=300,zoom=80,path=":fg/",sync=0,x=720,y=170},
+        -------------
+        {"text"},
+        text = {
+            ja = {{"诗音那面带笑容，用一贯的口吻说道。",},},
+        },
+        linkback = "block_00359",
+        linknext = "block_00361",
+        line = 816
+    },
+
+    block_00361 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5065"},},
+            ja = {{"「诗音那，你说什么呢……」",},},
+        },
+        linkback = "block_00360",
+        linknext = "block_00362",
+        line = 818
+    },
+
+    block_00362 = {
+        {"bg",id=5,lv=5,file="CGM_SI020113_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600501"},},
+            ja = {{"「小提比也明白的吧？你的爸爸妈妈，再也不会回来了哟。」",},},
+        },
+        linkback = "block_00361",
+        linknext = "block_00363",
+        line = 820
+    },
+    
+    block_00363 = {
+        ------特殊代码：（左：id5，右：id4）
+        --------
+        {"bg",id=5,lv=5,file="CGM_SI020113_010a_0000",time=300, path=":fg/",sync=0,x=20,y=0},
+        -------
+        {"bg",id=4,lv=5,file="CGM_TP010204_010a_0000",time=300, path=":fg/",sync=0,x=620,y=70},
+        -------
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5066"},},
+            ja = {{"「诗音那……别说了……怎么能说那么过分的话……」",},},
+        },
+        linkback = "block_00362",
+        linknext = "block_00364",
+        line = 822
+    },
+
+    block_00364 = {
+        {"bg",id=5,lv=5,file="CGM_SI020102_010a_0000",time=300, path=":fg/",sync=0,x=20,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600503"},},
+            ja = {{"「其实你也已经察觉到了吧？只是不想承认。」",},},
+        },
+        linkback = "block_00363",
+        linknext = "block_00365",
+        line = 824
+    },
+
+    block_00365 = {
+        {"bg",id=5,lv=5,file="CGM_TP010104_010a_0000",time=300, path=":fg/",sync=0,x=620,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600504"},},
+            ja = {{"「…不……不要……不要……」",},},
+        },
+        linkback = "block_00364",
+        linknext = "block_00366",
+        line = 826
+    },
+
+    block_00366 = {
+        {"bg",id=5,lv=5,file="CGM_SI020214_010a_0000",time=300, path=":fg/",sync=0,x=20,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600505"},},
+            ja = {{"「小提比的爸爸和妈妈都……」",},},
+        },
+        linkback = "block_00365",
+        linknext = "block_00367",
+        line = 828
+    },
+
+    block_00367 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5067"},},
+            ja = {{"「……诗音那……别说了……」",},},
+        },
+        linkback = "block_00366",
+        linknext = "block_00368",
+        line = 830
+    },
+
+    block_00368 = {
+        {"bg",id=5,lv=5,file="CGM_SI020201_010a_0000",time=300, path=":fg/",sync=0,x=20,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600507"},},
+            ja = {{"「已经死了――」",},},
+        },
+        linkback = "block_00367",
+        linknext = "block_00369",
+        line = 832
+    },
+
+    block_00369 = {
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        -----------
+        {"bg", id=1, lv=5, file="BG_101_40", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        {"text"},
+        {"bg", id=1, lv=5, file="black", time=300, path=":bg/", sync=0},
+        {"quake", dir="user", move="wh", dir2="wh", time=180, count=8, power=10},
+        -----
+        {"ex", time=300, func="wait"},
+        ------------
+        text = {
+            vo = {{"vo", ch="li", file="Z5068"},},
+            ja = {{"「你住口!!」",},},
+        },
+        linkback = "block_00368",
+        linknext = "block_00370",
+        line = 834
+    },
+
+    block_00370 = {
+        {"text"},
+        text = {
+            ja = {{"我的吼声响彻整座图书馆。",},},
+        },
+        linkback = "block_00369",
+        linknext = "block_00371",
+        line = 836
+    },
+
+    block_00371 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我的身体里变得很热。",},},
+        },
+        linkback = "block_00370",
+        linknext = "block_00372",
+        line = 838
+    },
+
+    block_00372 = {
+        ---显示图片（不进入cg收藏模式，默认效果由下向上平移，图片960-540）
+        {"bg", id=1, lv=5, file="BG_103_10-angry", x=0, y=-20, speed=6000, ease="none", time=1500, zoom=120, sync=0, path=":bg/", x2=0, y2=-80},
+		{"extrans", time=1500},
+        --------------------
+        {"text"},
+        text = {
+            ja = {{"气息变得急促，大脑深处甚至感到疼痛。",},},
+        },
+        linkback = "block_00371",
+        linknext = "block_00373",
+        line = 840
+    },
+
+    block_00373 = {
+        {"text"},
+        text = {
+            ja = {{" 牙齿紧咬在一起，发出咯吱声。",},},
+        },
+        linkback = "block_00372",
+        linknext = "block_00374",
+        line = 842
+    },
+
+    block_00374 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"眼冒金星，快要站不住了。",},},
+        },
+        linkback = "block_00373",
+        linknext = "block_00375",
+        line = 844
+    },
+
+    block_00375 = {
+        {"text"},
+        {"bg", id=1, lv=5, file="BG_103_10-angry-1", time=800, path=":bg/", sync=0},
+        {"ex", time=800, func="wait"},
+        text = {
+            ja = {{"同时，我确信了。",},},
+        },
+        linkback = "block_00374",
+        linknext = "block_00376",
+        line = 846
+    },
+
+    block_00376 = {
+        {"text"},
+        text = {
+            ja = {{"心中变成红色闪动着。这是玛德先生一直带着的感情。",},},
+        },
+        linkback = "block_00375",
+        linknext = "block_00377",
+        line = 848
+    },
+
+    block_00377 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这感情就是‘愤怒’。",},},
+        },
+        linkback = "block_00376",
+        linknext = "block_00378",
+        line = 850
+    },
+
+    block_00378 = {
+        {"text"},
+        text = {
+            ja = {{"对于眼前发生的这不讲理的事情，我感到愤怒。",},},
+        },
+        linkback = "block_00377",
+        linknext = "block_00379",
+        line = 852
+    },
+
+    block_00379 = {
+        {"text"},
+        text = {
+            ja = {{"现在，蓝色少女的希望破灭了。",},},
+        },
+        linkback = "block_00378",
+        linknext = "block_00380",
+        line = 854
+    },
+
+    block_00380 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"诗音那无情的一句话，伤害到了提比。",},},
+        },
+        linkback = "block_00379",
+        linknext = "block_00381",
+        line = 856
+    },
+
+    block_00381 = {
+        ------------
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        -----
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        ----显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -------
+        ---------
+        {"bgm", id=0, file="bgm11", loop=1, time=500, vol=60},
+        ---------
+        ---显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="BG_103_10-angry-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        {"bg",id=4,lv=5,file="CGM_TP010205_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600522"},},
+            ja = {{"「――――――――っ」",},},
+        },
+        linkback = "block_00380",
+        linknext = "block_00382",
+        line = 858
+    },
+
+    block_00382 = {
+        {"text"},
+        text = {
+            ja = {{"提比泣不成声。",},},
+        },
+        linkback = "block_00381",
+        linknext = "block_00383",
+        line = 860
+    },
+
+    block_00383 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"面孔拧在一起。",},},
+        },
+        linkback = "block_00382",
+        linknext = "block_00384",
+        line = 862
+    },
+
+    block_00384 = {
+        {"text"},
+        text = {
+            ja = {{"悲伤变成大颗泪珠，在脸上肆意流淌着。",},},
+        },
+        linkback = "block_00383",
+        linknext = "block_00385",
+        line = 864
+    },
+
+    block_00385 = {
+        {"text"},
+        text = {
+            ja = {{"她那幼小的身躯，拼命地阐述着无尽的悲伤。",},},
+        },
+        linkback = "block_00384",
+        linknext = "block_00386",
+        line = 866
+    },
+
+    block_00386 = {
+        {"text"},
+        text = {
+            
+            ja = {{"可是，可是，可是……",},},
+        },
+        linkback = "block_00385",
+        linknext = "block_00387",
+        line = 868
+    },
+
+    block_00387 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"诗音那依然不依不饶。",},},
+        },
+        linkback = "block_00386",
+        linknext = "block_00388",
+        line = 870
+    },
+
+    block_00388 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ----------------
+        ---显示图片（不进入cg收藏模式，默认效果淡入）
+        {"bg", id=1, lv=5, file="BG_101_40", time=300, path=":bg/", sync=0},
+        {"ex", time=300, func="wait"},
+        -----------
+        {"text"},
+        --------
+        {"bg",id=5,lv=5,file="CGM_SI020113_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        -------
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600531"},},
+            ja = {{"「可现实就是那样呢。你以为小提比的爸爸妈妈已经多久没回来了？」",},},
+        },
+        linkback = "block_00387",
+        linknext = "block_00389",
+        line = 872
+    },
+
+    block_00389 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5069"},},
+            ja = {{"「不要说了………」",},},
+        },
+        linkback = "block_00388",
+        linknext = "block_00390",
+        line = 874
+    },
+
+    block_00390 = {
+        {"bg",id=5,lv=5,file="CGM_SI020114_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600533"},},
+            ja = {{"「小提比，每天都在画画吧？已经是多少张了？」",},},
+        },
+        linkback = "block_00389",
+        linknext = "block_00391",
+        line = 876
+    },
+
+    block_00391 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5070"},},
+            ja = {{"「别说了………」",},},
+        },
+        linkback = "block_00390",
+        linknext = "block_00392",
+        line = 878
+    },
+
+    block_00392 = {
+        {"bg",id=5,lv=5,file="CGM_SI020101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600535"},},
+            ja = {{"「每天都画不会感到悲伤吗？还要再画多少张，爸爸妈妈才会回来呢。」",},},
+        },
+        linkback = "block_00391",
+        linknext = "block_00393",
+        line = 880
+    },
+
+    block_00393 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5071"},},
+            ja = {{"「别、说了……」",},},
+        },
+        linkback = "block_00392",
+        linknext = "block_00394",
+        line = 882
+    },
+
+    block_00394 = {
+        {"bg",id=5,lv=5,file="CGM_SI020113_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600537"},},
+            ja = {{"「你怎么哭都没用的。眼泪是为了安慰自己才流的。光是流泪，什么都改变不了的。」",},},
+        },
+        linkback = "block_00393",
+        linknext = "block_00395",
+        line = 884
+    },
+
+    block_00395 = {
+        {"bg",id=5,lv=5,file="CGM_SI020101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600539"},},
+            ja = {{"「你这样只是自我满足而已。只要流眼泪，就会有人温柔对你，才一直流泪的吧。这样做，只是在逃避现实。」",},},
+        },
+        linkback = "block_00394",
+        linknext = "block_00396",
+        line = 886
+    },
+
+    block_00396 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5074"},},
+            ja = {{"「………不要……再说了……」",},},
+        },
+        linkback = "block_00395",
+        linknext = "block_00397",
+        line = 888
+    },
+
+    block_00397 = {
+        {"bg",id=5,lv=5,file="CGM_SI020114_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600541"},},
+            ja = {{"「差不多也该察觉到了吧。你的爸爸妈妈回不来了。再也不会。小提比再也不会见到爸爸和妈妈了。」",},},
+        },
+        linkback = "block_00396",
+        linknext = "block_00398",
+        line = 890
+    },
+
+    block_00398 = {
+        {"bg",id=5,lv=5,file="CGM_SI020102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="siyinna", file="Z000600543a"},},
+            ja = {{"「有呢，我就直说了。黎也只是同情小提比才会在这里的。并没有像爸爸妈妈那样对小提比倾注爱情。黎仅仅是被哀怜束缚在这里的。小提比，你懂吧？你会一直一个人。」",},},
+        },
+        linkback = "block_00397",
+        linknext = "block_00399",
+        line = 892
+    },
+
+    block_00399 = {
+        {"text"},
+        {"quake", dir="user", move="wh", dir2="wh", time=300, count=4, power=10},
+        text = {
+            vo = {{"vo", ch="li", file="Z5075"},},
+            ja = {{"「闭嘴――」",},},
+        },
+        linkback = "block_00398",
+        linknext = "block_00400",
+        line = 894
+    },
+
+    block_00400 = {
+        {"text"},
+        text = {
+            ja = {{"我的怒吼响彻着。",},},
+        },
+        linkback = "block_00399",
+        linknext = "block_00401",
+        line = 896
+    },
+    --------------test
+    block_00401 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在墙壁上回响的声音停住后，仅剩下提比的抽泣声。",},},
+        },
+        linkback = "block_00400",
+        linknext = "block_00402",
+        line = 898
+    },
+
+    block_00402 = {
+        {"text"},
+        text = {
+            ja = {{"提比用空洞的眼神仰头望着诗音那。",},},
+        },
+        linkback = "block_00401",
+        linknext = "block_00403",
+        line = 900
+    },
+
+    block_00403 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我感到刚刚寄宿在她眼中的光芒，消失了。",},},
+        },
+        linkback = "block_00402",
+        linknext = "block_00404",
+        line = 902
+    },
+
+    block_00404 = {
+        {"bg",id=5,lv=5,file="CGM_SI020117_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            
+            vo = {{"vo", ch="siyinna", file="Z000600551"},},
+            ja = {{"「黎，溺爱和宽慰是两码事。」",},},
+        },
+        linkback = "block_00403",
+        linknext = "block_00405",
+        line = 904
+    },
+
+    block_00405 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5076"},},
+            ja = {{"「才没有那回事……才不是、那样的……」",},},
+        },
+        linkback = "block_00404",
+        linknext = "block_00406",
+        line = 906
+    },
+
+    block_00406 = {
+        {"bg",id=5,lv=5,file="CGM_SI020107_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600553"},},
+            ja = {{"「黎也面对现实吧。小提比的父母，已经不在这个世上了。」",},},
+        },
+        linkback = "block_00405",
+        linknext = "block_00407",
+        line = 908
+    },
+
+    block_00407 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5077"},},
+            ja = {{"「才不会……才没有那种事呢……」",},},
+        },
+        linkback = "block_00406",
+        linknext = "block_00408",
+        line = 910
+    },
+
+    block_00408 = {
+        {"bg",id=5,lv=5,file="CGM_SI020109_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600555"},},
+            ja = {{"「那为什么一点联络都没有呢？一封信都没有给那么宠爱疼爱的小提比寄过？」",},},
+        },
+        linkback = "block_00407",
+        linknext = "block_00409",
+        line = 912
+    },
+
+    block_00409 = {
+        {"bg",id=5,lv=5,file="CGM_SI020114_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600557"},},
+            ja = {{"「要是知道对方在担心的话，不会挤不出那么一点时间吧。如果是心爱的孩子就更是如此了。没有联系也就是说――」",},},
+        },
+        linkback = "block_00408",
+        linknext = "block_00410",
+        line = 914
+    },
+
+    block_00410 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5079"},},
+            ja = {{"「不要……你不要、说了………」",},},
+        },
+        linkback = "block_00409",
+        linknext = "block_00411",
+        line = 916
+    },
+
+    block_00411 = {
+        {"bg",id=5,lv=5,file="CGM_SI020102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600559"},},
+            ja = {{"「――小提比的爸爸和妈妈，都已经死了。」",},},
+        },
+        linkback = "block_00410",
+        linknext = "block_00412",
+        line = 918
+    },
+
+    block_00412 = {
+        {"text"},
+        text = {
+            ja = {{"我僵住了。",},},
+        },
+        linkback = "block_00411",
+        linknext = "block_00413",
+        line = 920
+    },
+
+    block_00413 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"诗音那的口吻和平常一样温和，而且还带着一如既往的微笑。",},},
+        },
+        linkback = "block_00412",
+        linknext = "block_00414",
+        line = 922
+    },
+
+    block_00414 = {
+        {"text"},
+        text = {
+            ja = {{"我宁愿她用冰冷没有温度的声音来说这些。",},},
+        },
+        linkback = "block_00413",
+        linknext = "block_00415",
+        line = 924
+    },
+
+    block_00415 = {
+        {"text"},
+        text = {
+            ja = {{"在这种异常的气氛下，我失去了言语。",},},
+        },
+        linkback = "block_00414",
+        linknext = "block_00416",
+        line = 926
+    },
+
+    block_00416 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"t诗音那再次面带笑容地转向提比。",},},
+        },
+        linkback = "block_00415",
+        linknext = "block_00417",
+        line = 928
+    },
+
+    block_00417 = {
+        {"bg",id=5,lv=5,file="CGM_SI020101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600567a"},},
+            ja = {{"「小提比，你的家人只有爸爸和妈妈。可他们两个都不会再回来了。所以不管你和谁在一起多久，都无法在真正意义上获得满足。」",},},
+        },
+        linkback = "block_00416",
+        linknext = "block_00418",
+        line = 930
+    },
+
+    block_00418 = {
+        {"text"},
+        {"bg",id=5,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=0},
+        text = {
+            ja = {{"诗音那转身向入口处走去。",},},
+        },
+        linkback = "block_00417",
+        linknext = "block_00419",
+        line = 932
+    },
+
+    block_00419 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"途中，她一度转向我。",},},
+        },
+        linkback = "block_00418",
+        linknext = "block_00420",
+        line = 934
+    },
+
+    block_00420 = {
+        {"text"},
+        text = {
+            ja = {{"只是，目光落在地面上。",},},
+        },
+        linkback = "block_00419",
+        linknext = "block_00421",
+        line = 936
+    },
+
+    block_00421 = {
+        {"bg",id=5,lv=5,file="CGM_SI010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=0},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="siyinna", file="Z000600572"},},
+            ja = {{"「黎……这全都是为了你。」",},},
+        },
+        linkback = "block_00420",
+        linknext = "block_00422",
+        line = 938
+    },
+
+    block_00422 = {
+        {"text"},
+        {"bg",id=5,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=0},
+        text = {
+            pagebreak = true,
+            ja = {{"诗音那说完这句话，离开了图书馆。",},},
+        },
+        linkback = "block_00421",
+        linknext = "block_00423",
+        line = 940
+    },
+
+    block_00423 = {
+        {"text"},
+        text = {
+            ja = {{"图书馆回归寂静。",},},
+        },
+        linkback = "block_00422",
+        linknext = "block_00424",
+        line = 942
+    },
+
+    block_00424 = {
+        {"text"},
+        text = {
+            ja = {{"现如今，连提比的抽泣声都没了。",},},
+        },
+        linkback = "block_00423",
+        linknext = "block_00425",
+        line = 944
+    },
+
+    block_00425 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我为诗音那的言行暴怒，然后感到脱力。。",},},
+        },
+        linkback = "block_00424",
+        linknext = "block_00426",
+        line = 946
+    },
+
+    block_00426 = {
+        {"text"},
+        text = {
+            ja = {{"连站都站不起来。",},},
+        },
+        linkback = "block_00425",
+        linknext = "block_00427",
+        line = 948
+    },
+
+    block_00427 = {
+        {"text"},
+        text = {
+            ja = {{"可是，我没办法就这样让少女孤零零一个人。",},},
+        },
+        linkback = "block_00426",
+        linknext = "block_00428",
+        line = 950
+    },
+
+    block_00428 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"少女正这么想吧。",},},
+        },
+        linkback = "block_00427",
+        linknext = "block_00429",
+        line = 952
+    },
+
+    block_00429 = {
+        {"text"},
+        text = {
+            ja = {{"自己在世界上是孤零零一个人。",},},
+        },
+        linkback = "block_00428",
+        linknext = "block_00430",
+        line = 954
+    },
+
+    block_00430 = {
+        {"text"},
+        text = {
+            ja = {{"只能在孤独中过活。",},},
+        },
+        linkback = "block_00429",
+        linknext = "block_00431",
+        line = 956
+    },
+
+    block_00431 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我不想让她这么想。",},},
+        },
+        linkback = "block_00430",
+        linknext = "block_00432",
+        line = 958
+    },
+
+    block_00432 = {
+        {"text"},
+        text = {
+            ja = {{"我想让她知道她并不是一个人。",},},
+        },
+        linkback = "block_00431",
+        linknext = "block_00433",
+        line = 960
+    },
+
+    block_00433 = {
+        {"text"},
+        text = {
+            ja = {{"我对提比的感情，并不是怜悯。",},},
+        },
+        linkback = "block_00432",
+        linknext = "block_00434",
+        line = 962
+    },
+
+    block_00434 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"绝不是什么怜悯。",},},
+        },
+        linkback = "block_00433",
+        linknext = "block_00435",
+        line = 964
+    },
+
+    block_00435 = {
+        {"text"},
+        text = {
+            ja = {{"我无数次复述着。",},},
+        },
+        linkback = "block_00434",
+        linknext = "block_00436",
+        line = 966
+    },
+
+    block_00436 = {
+        {"text"},
+        text = {
+            ja = {{"就像在说给自己听一般，无数次无数次。",},},
+        },
+        linkback = "block_00435",
+        linknext = "block_00437",
+        line = 968
+    },
+
+    block_00437 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我向提比的肩伸出手去。",},},
+        },
+        linkback = "block_00436",
+        linknext = "block_00438",
+        line = 970
+    },
+
+    block_00438 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="black", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        {"bg", id=1, lv=5, file="BG_101_11-1", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        {"bg",id=4,lv=5,file="CGM_TP010203_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            ja = {{"触碰到的地方确实能感到温暖。",},},
+        },
+        linkback = "block_00437",
+        linknext = "block_00439",
+        line = 972
+    },
+
+    block_00439 = {
+        {"text"},
+        text = {
+            ja = {{"我搂住她纤弱的双肩。",},},
+        },
+        linkback = "block_00438",
+        linknext = "block_00440",
+        line = 974
+    },
+
+    block_00440 = {
+        {"text"},
+        text = {
+            
+            ja = {{"刚开始提比像是有些吃惊般地抖动了一下身躯，然后便安静地倚在我胸前。",},},
+        },
+        linkback = "block_00439",
+        linknext = "block_00441",
+        line = 976
+    },
+
+    block_00441 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"将脸埋在我胸前，无声地流着泪。",},},
+        },
+        linkback = "block_00440",
+        linknext = "block_00442",
+        line = 978
+    },
+
+    block_00442 = {
+        {"text"},
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            ja = {{" 我无数次地抚摸着她震颤的肩。",},},
+        },
+        linkback = "block_00441",
+        linknext = "block_00443",
+        line = 980
+    },
+
+    block_00443 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"哪怕只有一点点也好，只要能挥去这个小小的身躯内所蕴含的悲伤的话……",},},
+        },
+        linkback = "block_00442",
+        linknext = "block_00444",
+        line = 982
+    },
+
+    block_00444 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="black", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"也不知道这样过了多久。",},},
+        },
+        linkback = "block_00443",
+        linknext = "block_00445",
+        line = 984
+    },
+
+    block_00445 = {
+        {"text"},
+        text = {
+            ja = {{"我们互相依靠着坐在地上。",},},
+        },
+        linkback = "block_00444",
+        linknext = "block_00446",
+        line = 986
+    },
+
+    block_00446 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"过了一会儿，对时间的感觉都变麻木了的时候――",},},
+        },
+        linkback = "block_00445",
+        linknext = "block_00447",
+        line = 988
+    },
+
+    block_00447 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"提比晃晃悠悠地站了起来，然后像是在找什么一般迈出了脚步。",},},
+        },
+        linkback = "block_00446",
+        linknext = "block_00448",
+        line = 990
+    },
+    
+    block_00448 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5080"},},
+            ja = {{"「提比，你在干什么？」",},},
+        },
+        linkback = "block_00447",
+        linknext = "block_00449",
+        line = 992
+    },
+
+    block_00449 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比没有应声。",},},
+        },
+        linkback = "block_00448",
+        linknext = "block_00450",
+        line = 994
+    },
+
+    block_00450 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            ja = {{"只是把从地板上捡起来的东西给我看。",},},
+        },
+        linkback = "block_00449",
+        linknext = "block_00451",
+        line = 996
+    },
+
+    block_00451 = {
+        {"text"},
+        text = {
+            ja = {{"是绘画本和蜡笔。",},},
+        },
+        linkback = "block_00450",
+        linknext = "block_00452",
+        line = 998
+    },
+
+    block_00452 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"拿着这两样东西，提比回到我身边。",},},
+        },
+        linkback = "block_00451",
+        linknext = "block_00453",
+        line = 1000
+    },
+
+    block_00453 = {
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            ja = {{"把背靠在我肚子上坐下。",},},
+        },
+        linkback = "block_00452",
+        linknext = "block_00454",
+        line = 1002
+    },
+
+    block_00454 = {
+        {"text"},
+        text = {
+
+            vo = {{"vo", ch="li", file="Z5081"},},
+            ja = {{"「要画画吗？」",},},
+        },
+        linkback = "block_00453",
+        linknext = "block_00455",
+        line = 1004
+    },
+
+    block_00455 = {
+        {"text"},
+        text = {
+            
+            ja = {{"提比还是不应声。",},},
+        },
+        linkback = "block_00454",
+        linknext = "block_00456",
+        line = 1006
+    },
+
+    block_00456 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只是把画纸翻开。",},},
+        },
+        linkback = "block_00455",
+        linknext = "block_00457",
+        line = 1008
+    },
+    
+    block_00457 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        {"bg", id=1, lv=5, file="BG_101_40-1", x=360, y=-20, speed=70000, ease="none", time=1500, zoom=150, sync=0, path=":bg/", x2=-360, y2=-20},
+		{"extrans", time=1500},
+        -----------------
+        {"text"},
+        text = {
+            ja = {{"把新的纸页当作画布，提比拿起蜡笔。",},},
+        },
+        linkback = "block_00456",
+        linknext = "block_00458",
+        line = 1010
+    },
+
+    block_00458 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后毫不犹豫地用蜡笔在画纸上描绘起来。",},},
+        },
+        linkback = "block_00457",
+        linknext = "block_00459",
+        line = 1012
+    },
+
+    block_00459 = {
+        {"text"},
+        text = {
+            ja = {{"她画出来的，是和年龄相符的可爱图画。",},},
+        },
+        linkback = "block_00458",
+        linknext = "block_00460",
+        line = 1014
+    },
+
+    block_00460 = {
+        {"text"},
+        text = {
+            ja = {{"最开始画出来的是蓝色的少女。",},},
+        },
+        linkback = "block_00459",
+        linknext = "block_00461",
+        line = 1016
+    },
+
+    block_00461 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"脸上挂着泪痕。",},},
+        },
+        linkback = "block_00460",
+        linknext = "block_00462",
+        line = 1018
+    },
+
+    block_00462 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        text = {
+            ja = {{"画完少女后，提比仰头看我。",},},
+        },
+        linkback = "block_00461",
+        linknext = "block_00463",
+        line = 1020
+    },
+
+    block_00463 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"眼眸泛红。",},},
+        },
+        linkback = "block_00462",
+        linknext = "block_00464",
+        line = 1022
+    },
+    
+    block_00464 = {
+        --------------------
+        {"bgm", stop=1, id=0, time=3000},
+        -------------
+        ---------
+        {"bgm", id=0, file="bgm05", loop=1, time=500, vol=60},
+        ---------
+        {"text"},
+        text = {
+            
+            ja = {{"我温柔地抚摸着提比的头。",},},
+        },
+        linkback = "block_00463",
+        linknext = "block_00465",
+        line = 1024
+    },
+
+    block_00465 = {
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            ja = {{"提比像猫一样眯起眼睛。",},},
+        },
+        linkback = "block_00464",
+        linknext = "block_00466",
+        line = 1026
+    },
+
+    block_00466 = {
+        {"bg",id=4,lv=5,file="nobody",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{" 她再次低下头，蜡笔在画纸上疾驰着。",},},
+        },
+        linkback = "block_00465",
+        linknext = "block_00467",
+        line = 1028
+    },
+
+    block_00467 = {
+        ---显示图片（不进入cg收藏模式，默认效果由右向左平移，图片960-540）
+        {"bg", id=1, lv=5, file="BG_101_40", x=360, y=-20, speed=70000, ease="none", time=1500, zoom=150, sync=0, path=":bg/", x2=-360, y2=-20},
+		{"extrans", time=1500},
+        {"text"},
+        text = {
+            ja = {{"看来接下去要画的好像是我。",},},
+        },
+        linkback = "block_00466",
+        linknext = "block_00468",
+        line = 1030
+    },
+
+    block_00468 = {
+        {"text"},
+        text = {
+            ja = {{"画中人的手正放在少女的头上。",},},
+        },
+        linkback = "block_00467",
+        linknext = "block_00469",
+        line = 1032
+    },
+
+    block_00469 = {
+        {"text"},
+        text = {
+            ja = {{"似乎是正在温柔抚摸头的场景。",},},
+        },
+        linkback = "block_00468",
+        linknext = "block_00470",
+        line = 1034
+    },
+    --------------------2025.6.20
+    block_00470 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后――",},},
+        },
+        linkback = "block_00469",
+        linknext = "block_00471",
+        line = 1036
+    },
+
+    block_00471 = {
+        {"text"},
+        text = {
+            ja = {{"画纸上又多了一个人。",},},
+        },
+        linkback = "block_00470",
+        linknext = "block_00472",
+        line = 1038
+    },
+
+    block_00472 = {
+        {"text"},
+        text = {
+            ja = {{"是诗音那。",},},
+        },
+        linkback = "block_00471",
+        linknext = "block_00473",
+        line = 1040
+    },
+
+    block_00473 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在稍远些的地方，用骇人的表情看着少女。",},},
+        },
+        linkback = "block_00472",
+        linknext = "block_00474",
+        line = 1042
+    },
+
+    block_00474 = {
+        {"text"},
+        text = {
+            ja = {{"这就是提比眼中的诗音那。",},},
+        },
+        linkback = "block_00473",
+        linknext = "block_00475",
+        line = 1044
+    },
+
+    block_00475 = {
+        {"text"},
+        text = {
+            ja = {{"在我看来，提比面前的诗音那也就像画的那样吧。",},},
+        },
+        linkback = "block_00474",
+        linknext = "block_00476",
+        line = 1046
+    },
+
+    block_00476 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"诗音那为什么做了那种事情呢。",},},
+        },
+        linkback = "block_00475",
+        linknext = "block_00477",
+        line = 1048
+    },
+
+    block_00477 = {
+        {"text"},
+        text = {
+            ja = {{"诗音那说了。",},},
+        },
+        linkback = "block_00476",
+        linknext = "block_00478",
+        line = 1050
+    },
+
+    block_00478 = {
+        {"text"},
+        text = {
+            ja = {{"全都是为了我。",},},
+        },
+        linkback = "block_00477",
+        linknext = "block_00479",
+        line = 1052
+    },
+
+    block_00479 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我不明白她话里的意思。",},},
+        },
+        linkback = "block_00478",
+        linknext = "block_00480",
+        line = 1054
+    },
+
+    block_00480 = {
+        {"text"},
+        text = {
+            ja = {{"不，我并不想去明白。",},},
+        },
+        linkback = "block_00479",
+        linknext = "block_00481",
+        line = 1056
+    },
+
+    block_00481 = {
+        {"text"},
+        text = {
+            ja = {{"把提比惹哭然后说是为了我，这什么意思我不明白。",},},
+        },
+        linkback = "block_00480",
+        linknext = "block_00482",
+        line = 1058
+    },
+
+    block_00482 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"让别人不幸，然后我才能变幸福吗。",},},
+        },
+        linkback = "block_00481",
+        linknext = "block_00483",
+        line = 1060
+    },
+
+    block_00483 = {
+        {"text"},
+        text = {
+            ja = {{"不，怎么可能会有这种事。",},},
+        },
+        linkback = "block_00482",
+        linknext = "block_00484",
+        line = 1062
+    },
+
+    block_00484 = {
+        {"text"},
+        text = {
+            ja = {{"我也不允许有这样的事。",},},
+        },
+        linkback = "block_00483",
+        linknext = "block_00485",
+        line = 1064
+    },
+
+    block_00485 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"就像是要挥去萦绕在耳边的诗音那的话语一般，我抱紧提比。",},},
+        },
+        linkback = "block_00484",
+        linknext = "block_00486",
+        line = 1066
+    },
+
+    block_00486 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="BG_101_40", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5082"},},
+            ja = {{"「提比画得真好。特别特别好。」",},},
+        },
+        linkback = "block_00485",
+        linknext = "block_00487",
+        line = 1068
+    },
+
+    block_00487 = {
+        {"bg",id=4,lv=5,file="CGM_TP010103_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600662"},},
+            ja = {{"「……谢谢你，黎。」",},},
+        },
+        linkback = "block_00486",
+        linknext = "block_00488",
+        line = 1070
+    },
+
+    block_00488 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她的声音微弱到近乎要消失。",},},
+        },
+        linkback = "block_00487",
+        linknext = "block_00489",
+        line = 1072
+    },
+
+    block_00489 = {
+        {"text"},
+        text = {
+            ja = {{"但能感到一丝丝喜悦在里面。",},},
+        },
+        linkback = "block_00488",
+        linknext = "block_00490",
+        line = 1074
+    },
+
+    block_00490 = {
+        {"bg",id=4,lv=5,file="CGM_TP010106_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            ja = {{"提比画完三个人以后，开始画周围的书架和地毯。",},},
+        },
+        linkback = "block_00489",
+        linknext = "block_00491",
+        line = 1076
+    },
+
+    block_00491 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"看着她的画我想到。",},},
+        },
+        linkback = "block_00490",
+        linknext = "block_00492",
+        line = 1078
+    },
+
+    block_00492 = {
+        {"text"},
+        text = {
+            ja = {{"莫非这就是提比自己回避悲伤的方法。",},},
+        },
+        linkback = "block_00491",
+        linknext = "block_00493",
+        line = 1080
+    },
+
+    block_00493 = {
+        {"text"},
+        text = {
+            ja = {{"就好像人在一天结束之后会做梦一样。",},},
+        },
+        linkback = "block_00492",
+        linknext = "block_00494",
+        line = 1082
+    },
+
+    block_00494 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"据说是为了整理那一天所发生事情的记忆。",},},
+        },
+        linkback = "block_00493",
+        linknext = "block_00495",
+        line = 1084
+    },
+
+    block_00495 = {
+        {"text"},
+        text = {
+            ja = {{"对于提比来说，也许就是这些画了。",},},
+        },
+        linkback = "block_00494",
+        linknext = "block_00496",
+        line = 1086
+    },
+
+    block_00496 = {
+        {"text"},
+        text = {
+            ja = {{"那一天发生的事情――",},},
+        },
+        linkback = "block_00495",
+        linknext = "block_00497",
+        line = 1088
+    },
+
+    block_00497 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不管是好事还是坏事，都画下来。",},},
+        },
+        linkback = "block_00496",
+        linknext = "block_00498",
+        line = 1090
+    },
+
+    block_00498 = {
+        {"text"},
+        text = {
+            ja = {{"也许就是像这样整理着记忆，让心情平静下来吧。",},},
+        },
+        linkback = "block_00497",
+        linknext = "block_00499",
+        line = 1092
+    },
+
+    block_00499 = {
+        {"text"},
+        text = {
+            ja = {{"现在提比的表情，变得柔和了几分。",},},
+        },
+        linkback = "block_00498",
+        linknext = "block_00500",
+        line = 1094
+    },
+
+    block_00500 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"随着画画的进程，悲伤也会缓和。",},},
+        },
+        linkback = "block_00499",
+        linknext = "block_00501",
+        line = 1096
+    },
+
+    block_00501 = {
+        {"text"},
+        text = {
+            ja = {{"就像是把悲伤传递给画一样。",},},
+        },
+        linkback = "block_00500",
+        linknext = "block_00502",
+        line = 1098
+    },
+
+    block_00502 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600685"},},
+            ja = {{"「………画好了。」",},},
+        },
+        linkback = "block_00501",
+        linknext = "block_00503",
+        line = 1100
+    },
+
+    block_00503 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比用双手举起完成的绘画，开心地看着。",},},
+        },
+        linkback = "block_00502",
+        linknext = "block_00504",
+        line = 1102
+    },
+
+    block_00504 = {
+        {"bg",id=4,lv=5,file="CGM_TP010101_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600689"},},
+            ja = {{"「黎，怎么样？」",},},
+        },
+        linkback = "block_00503",
+        linknext = "block_00505",
+        line = 1104
+    },
+
+    block_00505 = {
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5083"},},
+            ja = {{"「嗯，非常棒。」",},},
+        },
+        linkback = "block_00504",
+        linknext = "block_00506",
+        line = 1106
+    },
+
+    block_00506 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600691"},},
+            ja = {{"「黎，到这边来。」",},},
+        },
+        linkback = "block_00505",
+        linknext = "block_00507",
+        line = 1108
+    },
+
+    block_00507 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        {"bg", id=1, lv=5, file="black", time=500, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        {"text"},
+        text = {
+            ja = {{"提比站起来牵着我的手。",},},
+        },
+        linkback = "block_00506",
+        linknext = "block_00508",
+        line = 1110
+    },
+
+    block_00508 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她用小手牵着我，来到一面贴满画纸的墙壁前。",},},
+        },
+        linkback = "block_00507",
+        linknext = "block_00509",
+        line = 1112
+    },
+
+    block_00509 = {
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        ---------------------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------
+        -------------
+        ---显示图片（不进入cg收藏模式，默认效果由下向上平移，图片960-540）
+        {"bg", id=1, lv=5, file="BG_101_40", x=0, y=-20, speed=8000, ease="none", time=1500, zoom=150, sync=0, path=":bg/", x2=0, y2=80},
+		{"extrans", time=1500},
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"都是一天画一张的绘画。",},},
+        },
+        linkback = "block_00508",
+        linknext = "block_00510",
+        line = 1114
+    },
+
+    block_00510 = {
+        {"text"},
+        text = {
+            ja = {{"这绘画的数量，极其庞大。",},},
+        },
+        linkback = "block_00509",
+        linknext = "block_00511",
+        line = 1116
+    },
+
+    block_00511 = {
+        {"text"},
+        text = {
+            ja = {{"提比将今天画的画，贴到了最边上。",},},
+        },
+        linkback = "block_00510",
+        linknext = "block_00512",
+        line = 1118
+    },
+
+    block_00512 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比的画，又增加了一张。",},},
+        },
+        linkback = "block_00511",
+        linknext = "block_00513",
+        line = 1120
+    },
+
+    block_00513 = {
+        {"bg", id=1, lv=5, file="BG_101_40", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="li", file="Z5084"},},
+            ja = {{"「这么看的话好壮观呀……真厉害啊提比。」",},},
+        },
+        linkback = "block_00512",
+        linknext = "block_00514",
+        line = 1122
+    },
+
+    block_00514 = {
+        {"bg",id=4,lv=5,file="CGM_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600703"},},
+            ja = {{"「…………诶嘿嘿………」",},},
+        },
+        linkback = "block_00513",
+        linknext = "block_00515",
+        line = 1124
+    },
+
+    block_00515 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="Z5085"},},
+            ja = {{"「画得非常好呢。这全都是你自己画的吧？」",},},
+        },
+        linkback = "block_00514",
+        linknext = "block_00516",
+        line = 1126
+    },
+
+    block_00516 = {
+        {"bg",id=4,lv=5,file="CGM_TP010110_010a_0000",time=300, path=":fg/",sync=0,x=420,y=70},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600705"},},
+            ja = {{"「嗯，是呀。全都是提比画的。」",},},
+        },
+        linkback = "block_00515",
+        linknext = "block_00517",
+        line = 1128
+    },
+
+    block_00517 = {
+        {"text"},
+        text = {
+            ja = {{"满墙的画看起来就像日记一般，展示了少女的孤独。",},},
+        },
+        linkback = "block_00516",
+        linknext = "block_00518",
+        line = 1130
+    },
+
+    block_00518 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"提比一个人的时间，全都用在这故事上了吧。",},},
+        },
+        linkback = "block_00517",
+        linknext = "block_00519",
+        line = 1132
+    },
+
+    block_00519 = {
+        {"text"},
+        text = {
+            ja = {{"一直一个人，将这如此悲伤的故事……",},},
+        },
+        linkback = "block_00518",
+        linknext = "block_00520",
+        line = 1134
+    },
+
+    block_00520 = {
+        {"text"},
+        text = {
+            ja = {{"这样一想，胸膛深处便有什么翻涌起来。",},},
+        },
+        linkback = "block_00519",
+        linknext = "block_00521",
+        line = 1136
+    },
+
+    block_00521 = {
+        {"bg",id=4,lv=5,file="CGL_TP010101_010a_0000",time=300,path=":fg/",sync=0,x=220,y=50},
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="tibi", file="Z000600712"},},
+            ja = {{"「呐，黎！」",},},
+        },
+        linkback = "block_00520",
+        linknext = "block_00522",
+        line = 1138
+    },
+
+    block_00522 = {
+        {"text"},
+        text = {
+            ja = {{"提比像是要抱住我的腿一般，走近正在看绘图日记的我。",},},
+        },
+        linkback = "block_00521",
+        linknext = "block_00523",
+        line = 1140
+    },
+
+    block_00523 = {
+        {"bg",id=4,lv=5,file="CGL_TP010102_010a_0000",time=300, path=":fg/",sync=0,x=220,y=50},
+        {"text"},
+        text = {
+            vo = {{"vo", ch="tibi", file="Z000600713"},},
+            ja = {{"「能一直在一起吗？」",},},
+        },
+        linkback = "block_00522",
+        linknext = "block_00524",
+        line = 1142
+    },
+
+    block_00524 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"看着她充满哀愁的双眼，我不禁说不出话来。",},},
+        },
+        linkback = "block_00523",
+        linknext = "block_00525",
+        line = 1144
+    },
+
+    block_00525 = {
+        {"text"},
+        text = {
+            ja = {{"我抱住她代替回答。",},},
+        },
+        linkback = "block_00524",
+        linknext = "block_00526",
+        line = 1146
+    },
+
+    block_00526 = {
+        {"bg",id=4,lv=5,file="CGL_TP010109_010a_0000",time=300, path=":fg/",sync=0,x=220,y=50},
+        {"text"},
+        text = {
+            ja = {{"提比在我手臂中缓缓闭上双眼。",},},
+        },
+        linkback = "block_00525",
+        linknext = "block_00527",
+        line = 1148
+    },
+
+    block_00527 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"过了一会儿，听到她睡眠中安静的呼吸声。",},},
+        },
+        linkback = "block_00526",
+        linknext = "block_00528",
+        line = 1150
+    },
+
+    block_00528 = {
+        {"text"},
+        text = {
+            ja = {{"我来回看着怀中睡着的提比和墙上的绘画日记。",},},
+        },
+        linkback = "block_00527",
+        linknext = "block_00529",
+        line = 1152
+    },
+
+    block_00529 = {
+        {"text"},
+        text = {
+            ja = {{"莫非这些画纸，就是提比的内心吗。",},},
+        },
+        linkback = "block_00528",
+        linknext = "block_00530",
+        line = 1154
+    },
+
+    block_00530 = {
+        {"text"},
+        text = {
+            pagebreak = true,
+            --vo = {{"vo", ch="xxx", file="xxx"},},
+            ja = {{"我这样想着，也进入了梦乡。",},},
+        },
+        linkback = "block_00529",
+        linknext = "block_00531",
+        line = 1156,
+    },
+
+    block_00531 = {
+        {"msgoff"},
+        {"ex", time=1000, func="wait"},
+        -----声音全部关闭
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        ------------
+        {"bgm", stop=1, id=0, time=1000},
+        -------------
+        {"exreturn"},
+        {"text"},
+        linkback
+        linkback = "block_00530",
+        line = 1158,
+    },
+
+    label = {
+        z00 = { block="block_00000", label=2 },
+		z01 = { block="block_00000", label=46 },
+		top = { block="block_00000", label=1 },
+    },
+}
+
+
