@@ -45,16 +45,46 @@ def map_line(line: str) -> Optional[str]:
         m = re.search(r"\('([^']+)'", line)
         if m:
             return f'''
-        {{"bg", id=1, lv=5, file="{m.group(1)}", time=1500, path=":bg/", sync=0}},
-        {{"ex", time=1500, func="wait"}}'''
+        {{"bg", id=1, lv=5, file="{m.group(1)}", time=800, path=":bg/", sync=0}},
+        {{"ex", time=500, func="wait"}}'''
 
-    # 处理背景音乐（BGM）命令
+    #----------------------------新增的特殊处理指令
+    # 处理特殊旁白syscall<$90d5298a> ('n001')
+    if line.startswith("syscall<$90d5298a"):
+        m = re.search(r"\('([^']+)'", line)
+        if m:
+            return f'''
+        -----特殊旁白,默认通道1播放------  
+        {{"se",id=1,file="voice/{m.group(1)}",loop=0, time=500, vol=200}}'''
+
+
+    # 处理音频停止命令：call<$5f271e74, 0>
+    if line.startswith("call<$5f271e74"):
+        return '''
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------'''
+
+    # 处理bgm停止命令：syscall<$cf35f0e3> (800)
+    if line.startswith("syscall<$cf35f0e3"):
+        return '''
+        -------bgm停止区域------
+        {"bgm", stop=1, id=0, time=3000},
+        {"se", stop=1, id=5, time=1000},
+        -------------'''
+    
+    #----------------------------
+
+    # 处理背景音乐（BGM）通道5-持续播放命令
     if line.startswith("call<$d334ba75"):
         m = re.search(r"\('([^']+)'", line)
         if m:
             return f'''
-        -----BGM播放区域------
-        {{"SE",id=5,file="{m.group(1)}",loop=1, time=500, vol=200}}'''
+        -----BGM播放区域，默认通道5播放------
+        {{"se",id=5,file="{m.group(1)}",loop=1, time=500, vol=200}}'''
 
     # 处理音效（SE）命令
     if line.startswith("syscall<$f62e3ca7"):
