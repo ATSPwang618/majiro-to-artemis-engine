@@ -84,7 +84,7 @@ def map_line(line: str) -> Optional[str]:
         if m:
             return f'''
         -----BGM播放区域，默认通道5播放------
-        {{"se",id=5,file="{m.group(1)}",loop=1, time=500, vol=200}}'''
+        {{"bgm",id=0,file="{m.group(1)}",loop=1, time=500, vol=200}}'''
 
     # 处理音效（SE）命令
     if line.startswith("syscall<$f62e3ca7"):
@@ -145,7 +145,7 @@ def build_ast(blocks: Dict[str, List[str]]) -> str:
 astname = "ast"
 ast = {
     block_00000 = {
-        {"savetitle", text="chapter 章节"},
+        {"savetitle", text="chapter-水仙"},
         {"user", mode="autosave", no=0},
         {"eval", exp="g.chap01=1"},
         {"msgoff"},
