@@ -1,0 +1,1312 @@
+astver = 2.0
+astname = "ast"
+ast = {
+    block_00000 = {
+        {"savetitle", text="chapter-水仙"},
+        {"user", mode="autosave", no=0},
+        {"eval", exp="g.chap01=1"},
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -- 上面是默认区域，不要随便删除，下面开始剧情文字行的第一行消息,
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"■　后 记"},},
+        },
+        linknext = "block_00001",
+        line = 96
+    },
+    block_00001 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----BGM播放区域，默认通道5播放------
+        {"bgm",id=0,file="bgm122",loop=1, time=500, vol=200},
+        {"bg", id=1, lv=5, file="tes_umi", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「大家好，我是片冈智！」"},},
+        },
+        linkback = "block_00000",
+        linknext = "block_00002",
+        line = 98
+    },
+    block_00002 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「这次，大家能观看支持narcissuＺＥＲＯ，　非常感谢！」"},},
+        },
+        linkback = "block_00001",
+        linknext = "block_00003",
+        line = 100
+    },
+    block_00003 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「原本是之前ＰＳＰ版的时候写的故事，所以有时我也叫它narcissu４……」"},},
+        },
+        linkback = "block_00002",
+        linknext = "block_00004",
+        line = 102
+    },
+    block_00004 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「重要的是，我认为它起到了对narcissu总结的作用」"},},
+        },
+        linkback = "block_00003",
+        linknext = "block_00005",
+        line = 104
+    },
+    block_00005 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="narep_08", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"bg", id=1, lv=5, file="tes_umi", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「顺便一提，作为narcissu的舞台的７楼……也就是临终关怀院，在日本是１９７０年代开始的」"},},
+        },
+        linkback = "block_00004",
+        linknext = "block_00006",
+        line = 106
+    },
+    block_00006 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「这就像现在一样，在这项制度确立之前，经过了许多人的付出和努力」"},},
+        },
+        linkback = "block_00005",
+        linknext = "block_00007",
+        line = 108
+    },
+    block_00007 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「说起来，narcissu的舞台有原型吗？　经常会被问起这个问题……」"},},
+        },
+        linkback = "block_00006",
+        linknext = "block_00008",
+        line = 110
+    },
+    block_00008 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「这是以大阪的淀川基督教医院为原型的。　已经服务了很长时间了」"},},
+        },
+        linkback = "block_00007",
+        linknext = "block_00009",
+        line = 112
+    },
+    block_00009 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「关于这个故事也是，大约一半是非虚构的，事实上，登场人物也是有原型的……」"},},
+        },
+        linkback = "block_00008",
+        linknext = "block_00010",
+        line = 114
+    },
+    block_00010 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="ato_16", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「还有，在narcissu小说版里，会有莳绘的女儿，　追赶奔向淡路岛的濑津美他们的场景」"},},
+        },
+        linkback = "block_00009",
+        linknext = "block_00011",
+        line = 116
+    },
+    block_00011 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="ato_17", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「以后，濑津美的母亲，也和莳绘家的女儿关系很好」"},},
+        },
+        linkback = "block_00010",
+        linknext = "block_00012",
+        line = 118
+    },
+    block_00012 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="ato_15", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「而且，在濑津美去世之后，　会有莳绘先生去拜访她母亲的一个场景……」"},},
+        },
+        linkback = "block_00011",
+        linknext = "block_00013",
+        line = 120
+    },
+    block_00013 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"とも：「就把这个场景放在这里吧」"},},
+        },
+        linkback = "block_00012",
+        linknext = "block_00014",
+        line = 122
+    },
+    block_00014 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="black", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"bg", id=1, lv=5, file="243", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"―那是，那孩子去世之后第二年的事。"},},
+        },
+        linkback = "block_00013",
+        linknext = "block_00015",
+        line = 124
+    },
+    block_00015 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"突然，家门前有人打招呼。"},},
+        },
+        linkback = "block_00014",
+        linknext = "block_00016",
+        line = 126
+    },
+    block_00016 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_009"},},
+            ja = {{"４主人公：「是佐仓……濑津美小姐的家人吗？」"},},
+        },
+        linkback = "block_00015",
+        linknext = "block_00017",
+        line = 128
+    },
+    block_00017 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_068"},},
+            ja = {{"濑津美母亲：「嗯，是的……」"},},
+        },
+        linkback = "block_00016",
+        linknext = "block_00018",
+        line = 130
+    },
+    block_00018 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"回头一看，是一个年长的男性。并不是什么眼熟的人。"},},
+        },
+        linkback = "block_00017",
+        linknext = "block_00019",
+        line = 132
+    },
+    block_00019 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"……到底，有什么事呢？"},},
+        },
+        linkback = "block_00018",
+        linknext = "block_00020",
+        line = 134
+    },
+    block_00020 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"首先，已经几乎没有人来问那孩子的事了况且过了这么长时间了，心里也很难有头绪。"},},
+        },
+        linkback = "block_00019",
+        linknext = "block_00021",
+        line = 136
+    },
+    block_00021 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_010"},},
+            ja = {{"４主人公：「不好意思……我姓莳绘……」"},},
+        },
+        linkback = "block_00020",
+        linknext = "block_00022",
+        line = 138
+    },
+    block_00022 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_069"},},
+            ja = {{"濑津美母亲：「……莳绘先生？」"},},
+        },
+        linkback = "block_00021",
+        linknext = "block_00023",
+        line = 140
+    },
+    block_00023 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_011"},},
+            ja = {{"４主人公：「嗯，担任医院的医疗部长」"},},
+        },
+        linkback = "block_00022",
+        linknext = "block_00024",
+        line = 142
+    },
+    block_00024 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"听到这里，就和之前的事联系上了。"},},
+        },
+        linkback = "block_00023",
+        linknext = "block_00025",
+        line = 144
+    },
+    block_00025 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为莳绘这个独特的姓氏，只能联想到她。她的父亲，听说也是那个医院的工作人员。"},},
+        },
+        linkback = "block_00024",
+        linknext = "block_00026",
+        line = 146
+    },
+    block_00026 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"……大概这个人，是她的父亲，是为了她女儿来的吧。"},},
+        },
+        linkback = "block_00025",
+        linknext = "block_00027",
+        line = 148
+    },
+    block_00027 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"从那之后她几乎每天都来家里，如果是这个年纪的女儿的父亲，会担心也不难理解。"},},
+        },
+        linkback = "block_00026",
+        linknext = "block_00028",
+        line = 150
+    },
+    block_00028 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"正那么想着……"},},
+        },
+        linkback = "block_00027",
+        linknext = "block_00029",
+        line = 152
+    },
+    block_00029 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"非常意外地，这个人说的话却有点出乎意料。"},},
+        },
+        linkback = "block_00028",
+        linknext = "block_00030",
+        line = 154
+    },
+    block_00030 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_012"},},
+            ja = {{"４主人公：「实际上，我和您家的女儿有过约定……」"},},
+        },
+        linkback = "block_00029",
+        linknext = "block_00031",
+        line = 156
+    },
+    block_00031 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_070"},},
+            ja = {{"濑津美母亲：「……女儿……是说我们家那孩子，濑津美吗？」"},},
+        },
+        linkback = "block_00030",
+        linknext = "block_00032",
+        line = 158
+    },
+    block_00032 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_013"},},
+            ja = {{"４主人公：「嗯，稍微打扰一下可以吗？」"},},
+        },
+        linkback = "block_00031",
+        linknext = "block_00033",
+        line = 160
+    },
+    block_00033 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"……和我们家那孩子的约定？"},},
+        },
+        linkback = "block_00032",
+        linknext = "block_00034",
+        line = 162
+    },
+    block_00034 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"听说莳绘小姐自己，和濑津美应该是没有直接交流的……"},},
+        },
+        linkback = "block_00033",
+        linknext = "block_00035",
+        line = 164
+    },
+    block_00035 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"濑津美和这个做父亲的人，到底有着怎样的联系呢？"},},
+        },
+        linkback = "block_00034",
+        linknext = "block_00036",
+        line = 166
+    },
+    block_00036 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说起来，医疗部长在医院应该也是很重要的职位吧。"},},
+        },
+        linkback = "block_00035",
+        linknext = "block_00037",
+        line = 168
+    },
+    block_00037 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"虽然不太明白，我还是请他到那个孩子的房间里。"},},
+        },
+        linkback = "block_00036",
+        linknext = "block_00038",
+        line = 170
+    },
+    block_00038 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="ato_18", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"女儿的房间。自从那孩子去世，转眼已过去一年了。"},},
+        },
+        linkback = "block_00037",
+        linknext = "block_00039",
+        line = 172
+    },
+    block_00039 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_014"},},
+            ja = {{"４主人公：「这里一定还是女儿去世时候的样子吧」"},},
+        },
+        linkback = "block_00038",
+        linknext = "block_00040",
+        line = 174
+    },
+    block_00040 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_071"},},
+            ja = {{"濑津美母亲：「……是的。总觉得去收拾的话会很凄凉」"},},
+        },
+        linkback = "block_00039",
+        linknext = "block_00041",
+        line = 176
+    },
+    block_00041 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_015"},},
+            ja = {{"４主人公：「嗯，我明白您的心情」"},},
+        },
+        linkback = "block_00040",
+        linknext = "block_00042",
+        line = 178
+    },
+    block_00042 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后，他指着书架上的几本书说……"},},
+        },
+        linkback = "block_00041",
+        linknext = "block_00043",
+        line = 180
+    },
+    block_00043 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_016"},},
+            ja = {{"４主人公：「那么……请把这些交给我保管」"},},
+        },
+        linkback = "block_00042",
+        linknext = "block_00044",
+        line = 182
+    },
+    block_00044 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说着，把地图和图鉴装进包里。"},},
+        },
+        linkback = "block_00043",
+        linknext = "block_00045",
+        line = 184
+    },
+    block_00045 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_072"},},
+            ja = {{"濑津美母亲：「诶、等等……请不要随意拿走这些」"},},
+        },
+        linkback = "block_00044",
+        linknext = "block_00046",
+        line = 186
+    },
+    block_00046 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_017"},},
+            ja = {{"４主人公：「不，这就是我们的约定」"},},
+        },
+        linkback = "block_00045",
+        linknext = "block_00047",
+        line = 188
+    },
+    block_00047 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_073"},},
+            ja = {{"濑津美母亲：「……约定？　就是这个吗？」"},},
+        },
+        linkback = "block_00046",
+        linknext = "block_00048",
+        line = 190
+    },
+    block_00048 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_018"},},
+            ja = {{"４主人公：「是的，我们约定了总有一天我会来取」"},},
+        },
+        linkback = "block_00047",
+        linknext = "block_00049",
+        line = 192
+    },
+    block_00049 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"……对于我，不知道发生了什么。"},},
+        },
+        linkback = "block_00048",
+        linknext = "block_00050",
+        line = 194
+    },
+    block_00050 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这个人和女儿之间的事、他们谈了什么……也不知道两个人最初的交集。"},},
+        },
+        linkback = "block_00049",
+        linknext = "block_00051",
+        line = 196
+    },
+    block_00051 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当然，和那孩子约定了什么的话，其中一定有某种意义……"},},
+        },
+        linkback = "block_00050",
+        linknext = "block_00052",
+        line = 198
+    },
+    block_00052 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但是，尽管如此，突然要把那孩子一直很珍惜的东西拿走，还是难以接受。"},},
+        },
+        linkback = "block_00051",
+        linknext = "block_00053",
+        line = 200
+    },
+    block_00053 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为那对现在的我来说，是和女儿的存在联系在一起的重要的物品……"},},
+        },
+        linkback = "block_00052",
+        linknext = "block_00054",
+        line = 202
+    },
+    block_00054 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="ato_18", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_074"},},
+            ja = {{"濑津美母亲：「……莳绘先生，可以问您一个问题吗？」"},},
+        },
+        linkback = "block_00053",
+        linknext = "block_00055",
+        line = 204
+    },
+    block_00055 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_078"},},
+            ja = {{"４主人公：「好，请问？」"},},
+        },
+        linkback = "block_00054",
+        linknext = "block_00056",
+        line = 206
+    },
+    block_00056 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="momnp_075"},},
+            ja = {{"濑津美母亲：「这些书和花盆，是那孩子很珍惜的东西……这你知道吗？」"},},
+        },
+        linkback = "block_00055",
+        linknext = "block_00057",
+        line = 208
+    },
+    block_00057 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_019"},},
+            ja = {{"４主人公：「嗯，当然很清楚」"},},
+        },
+        linkback = "block_00056",
+        linknext = "block_00058",
+        line = 210
+    },
+    block_00058 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"简短却又坚定的语气。"},},
+        },
+        linkback = "block_00057",
+        linknext = "block_00059",
+        line = 212
+    },
+    block_00059 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不知道为什么要做这种事，也不知道把它们拿走之后要干什么。"},},
+        },
+        linkback = "block_00058",
+        linknext = "block_00060",
+        line = 214
+    },
+    block_00060 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"虽然不知道……"},},
+        },
+        linkback = "block_00059",
+        linknext = "block_00061",
+        line = 216
+    },
+    block_00061 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但如果是那孩子的约定，同意了的话……我也没什么可以说了。"},},
+        },
+        linkback = "block_00060",
+        linknext = "block_00062",
+        line = 218
+    },
+    block_00062 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"接着，莳绘先生把那孩子的书本和花盆全都装进了包里。"},},
+        },
+        linkback = "block_00061",
+        linknext = "block_00063",
+        line = 220
+    },
+    block_00063 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"开门出去，离别之际他又回过头来……"},},
+        },
+        linkback = "block_00062",
+        linknext = "block_00064",
+        line = 222
+    },
+    block_00064 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="4syuji_020"},},
+            ja = {{"４主人公：「佐仓女士……能够记在心里，就已经很好了」"},},
+        },
+        linkback = "block_00063",
+        linknext = "block_00065",
+        line = 224
+    },
+    block_00065 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说完这句话，就离去了。"},},
+        },
+        linkback = "block_00064",
+        linknext = "block_00066",
+        line = 226
+    },
+    block_00066 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="sora02", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"抬头望向天空，春天的气息。"},},
+        },
+        linkback = "block_00065",
+        linknext = "block_00067",
+        line = 228
+    },
+    block_00067 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"已不再是冬日白色的淡淡的天空，开始逐渐染上春天的色彩。"},},
+        },
+        linkback = "block_00066",
+        linknext = "block_00068",
+        line = 230
+    },
+    block_00068 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"那孩子已经去世一年了。而那个孩子，到现在也几乎每天都会过来。"},},
+        },
+        linkback = "block_00067",
+        linknext = "block_00069",
+        line = 232
+    },
+    block_00069 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"……说不定，也差不多是时候了。"},},
+        },
+        linkback = "block_00068",
+        linknext = "block_00070",
+        line = 234
+    },
+    block_00070 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"面对突然的来访者，以及目睹着女儿空荡荡的房间……"},},
+        },
+        linkback = "block_00069",
+        linknext = "block_00071",
+        line = 236
+    },
+    block_00071 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"忽然，我这么觉得……"},},
+        },
+        linkback = "block_00070",
+        linknext = "block_00072",
+        line = 238
+    },
+    block_00072 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="ato_19", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"msgoff"},
+        {"ex", time=1000, func="wait"},
+        -----声音全部关闭
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        ------------
+        {"bgm", stop=1, id=0, time=1000},
+        -------------
+        {"exreturn"},
+        {"text"},
+        linkback = "block_00071",
+        line = 240
+    },
+    label = {
+        z00 = { block="block_00000", label=2 },
+        z01 = { block="block_00000", label=46 },
+        top = { block="block_00000", label=1 },
+    },
+}

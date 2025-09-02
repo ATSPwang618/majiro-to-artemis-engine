@@ -1,0 +1,6564 @@
+astver = 2.0
+astname = "ast"
+ast = {
+    block_00000 = {
+        {"savetitle", text="chapter-水仙"},
+        {"user", mode="autosave", no=0},
+        {"eval", exp="g.chap01=1"},
+        {"msgoff"},
+        {"cgdel", id=-1},
+        {"fg", mode=-2},
+        {"bg", id=1, lv=5, file="black", time=1500, path=":bg/", sync=0},
+        {"ex", time=1500, func="wait"},
+        -- 上面是默认区域，不要随便删除，下面开始剧情文字行的第一行消息,
+        {"bg", id=1, lv=5, file="c0432", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----BGM播放区域，默认通道5播放------
+        {"bgm",id=0,file="bgm83",loop=1, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"几天过后，进入深冬时节的时候"},},
+        },
+        linknext = "block_00001",
+        line = 96
+    },
+    block_00001 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"学生们正在忙于准备即将来临的考试月，而我们今天也一如既往地看着电视节目。"},},
+        },
+        linkback = "block_00000",
+        linknext = "block_00002",
+        line = 98
+    },
+    block_00002 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="danwa", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「真无聊啊…」"},},
+        },
+        linkback = "block_00001",
+        linknext = "block_00003",
+        line = 100
+    },
+    block_00003 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_076"},},
+            ja = {{"「…是啊」"},},
+        },
+        linkback = "block_00002",
+        linknext = "block_00004",
+        line = 102
+    },
+    block_00004 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"偶尔也会这样下意识地交谈几句。"},},
+        },
+        linkback = "block_00003",
+        linknext = "block_00005",
+        line = 104
+    },
+    block_00005 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只是在互相地消磨着毫无意义的时间。"},},
+        },
+        linkback = "block_00004",
+        linknext = "block_00006",
+        line = 106
+    },
+    block_00006 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「对了…说起来你是什么时候？」"},},
+        },
+        linkback = "block_00005",
+        linknext = "block_00007",
+        line = 108
+    },
+    block_00007 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_077"},},
+            ja = {{"「…是今天」"},},
+        },
+        linkback = "block_00006",
+        linknext = "block_00008",
+        line = 110
+    },
+    block_00008 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「是吗，原来是今天啊…」"},},
+        },
+        linkback = "block_00007",
+        linknext = "block_00009",
+        line = 112
+    },
+    block_00009 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们所谈论的「今天」，是指她曾经提到过的暂时出院的事情。"},},
+        },
+        linkback = "block_00008",
+        linknext = "block_00010",
+        line = 114
+    },
+    block_00010 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_078"},},
+            ja = {{"「…或许，我们不会再见面了」"},},
+        },
+        linkback = "block_00009",
+        linknext = "block_00011",
+        line = 116
+    },
+    block_00011 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「嗯？  啊，也许吧…」"},},
+        },
+        linkback = "block_00010",
+        linknext = "block_00012",
+        line = 118
+    },
+    block_00012 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"即使她能够再次回到７楼这里，恐怕最多也只有１次机会了。"},},
+        },
+        linkback = "block_00011",
+        linknext = "block_00013",
+        line = 120
+    },
+    block_00013 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"而到了那时，我也一定会往返于这里和家中吧。"},},
+        },
+        linkback = "block_00012",
+        linknext = "block_00014",
+        line = 122
+    },
+    block_00014 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这样一来，很难想象我们会再有见面的机会了。"},},
+        },
+        linkback = "block_00013",
+        linknext = "block_00015",
+        line = 124
+    },
+    block_00015 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_079"},},
+            ja = {{"「…你决定好了吗？」"},},
+        },
+        linkback = "block_00014",
+        linknext = "block_00016",
+        line = 126
+    },
+    block_00016 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「是指选择在哪一边死吗？」"},},
+        },
+        linkback = "block_00015",
+        linknext = "block_00017",
+        line = 128
+    },
+    block_00017 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_080"},},
+            ja = {{"「嗯」"},},
+        },
+        linkback = "block_00016",
+        linknext = "block_00018",
+        line = 130
+    },
+    block_00018 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「不，还没决定呢…」"},},
+        },
+        linkback = "block_00017",
+        linknext = "block_00019",
+        line = 132
+    },
+    block_00019 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_081"},},
+            ja = {{"「…是吗…」"},},
+        },
+        linkback = "block_00018",
+        linknext = "block_00020",
+        line = 134
+    },
+    block_00020 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她有些孤寂地点头说道。恐怕只有经历过２次暂时出院的人，才能够理解她的心情吧。"},},
+        },
+        linkback = "block_00019",
+        linknext = "block_00021",
+        line = 136
+    },
+    block_00021 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我对此依然无法有任何现实感，医生也从没有向我提起过有关第１次暂时出院的事。"},},
+        },
+        linkback = "block_00020",
+        linknext = "block_00022",
+        line = 138
+    },
+    block_00022 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我忽然想到…"},},
+        },
+        linkback = "block_00021",
+        linknext = "block_00023",
+        line = 140
+    },
+    block_00023 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她到最后，又是否已经决定好了自己的归宿呢…"},},
+        },
+        linkback = "block_00022",
+        linknext = "block_00024",
+        line = 142
+    },
+    block_00024 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="hayaasi",loop=0, time=500, vol=200},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"嗒嗒嗒，"},},
+        },
+        linkback = "block_00023",
+        linknext = "block_00025",
+        line = 144
+    },
+    block_00025 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="mom_a012"},},
+            ja = {{"「濑津美，行李已经收拾好了哦」"},},
+        },
+        linkback = "block_00024",
+        linknext = "block_00026",
+        line = 146
+    },
+    block_00026 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"此时闻声走过来的，是一位不认识的阿姨。"},},
+        },
+        linkback = "block_00025",
+        linknext = "block_00027",
+        line = 148
+    },
+    block_00027 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"大概她就是濑津美的母亲吧。她也对坐在旁边的我轻轻地点了点头以示问候。"},},
+        },
+        linkback = "block_00026",
+        linknext = "block_00028",
+        line = 150
+    },
+    block_00028 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="mom_a022"},},
+            ja = {{"「那、我们走吧，准备好了吗？」"},},
+        },
+        linkback = "block_00027",
+        linknext = "block_00029",
+        line = 152
+    },
+    block_00029 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_082"},},
+            ja = {{"「…嗯。」"},},
+        },
+        linkback = "block_00028",
+        linknext = "block_00030",
+        line = 154
+    },
+    block_00030 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="mom_a032"},},
+            ja = {{"「那么，我们就告辞了。」"},},
+        },
+        linkback = "block_00029",
+        linknext = "block_00031",
+        line = 156
+    },
+    block_00031 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她的母亲再次向我点头表示告辞，转过身去准备离开这里。"},},
+        },
+        linkback = "block_00030",
+        linknext = "block_00032",
+        line = 158
+    },
+    block_00032 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但是，当她向女儿伸出手时…"},},
+        },
+        linkback = "block_00031",
+        linknext = "block_00033",
+        line = 160
+    },
+    block_00033 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_083"},},
+            ja = {{"「…………」"},},
+        },
+        linkback = "block_00032",
+        linknext = "block_00034",
+        line = 162
+    },
+    block_00034 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…她却依然纹丝不动。"},},
+        },
+        linkback = "block_00033",
+        linknext = "block_00035",
+        line = 164
+    },
+    block_00035 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管母亲拉住了她的手，但不知为何她却完全没有从折叠椅上站起来的意思。"},},
+        },
+        linkback = "block_00034",
+        linknext = "block_00036",
+        line = 166
+    },
+    block_00036 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="mom_a042"},},
+            ja = {{"「怎么了，濑津美？」"},},
+        },
+        linkback = "block_00035",
+        linknext = "block_00037",
+        line = 168
+    },
+    block_00037 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_084b"},},
+            ja = {{"「我有些…难受…」"},},
+        },
+        linkback = "block_00036",
+        linknext = "block_00038",
+        line = 170
+    },
+    block_00038 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="mom_a052"},},
+            ja = {{"「哎？是哪里难受？　是胸口？还是肚子？」"},},
+        },
+        linkback = "block_00037",
+        linknext = "block_00039",
+        line = 172
+    },
+    block_00039 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_085b"},},
+            ja = {{"「…胸口…」"},},
+        },
+        linkback = "block_00038",
+        linknext = "block_00040",
+        line = 174
+    },
+    block_00040 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="mom_a062"},},
+            ja = {{"「坚、坚持一下，我这就叫医生来」"},},
+        },
+        linkback = "block_00039",
+        linknext = "block_00041",
+        line = 176
+    },
+    block_00041 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="hayaasi",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"嗒嗒嗒，"},},
+        },
+        linkback = "block_00040",
+        linknext = "block_00042",
+        line = 178
+    },
+    block_00042 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这位母亲穿着来客用的拖鞋带着慌张脚步声，向护士站跑去。"},},
+        },
+        linkback = "block_00041",
+        linknext = "block_00043",
+        line = 180
+    },
+    block_00043 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="danwa", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在这里，只剩下我，和坐在折叠椅上低着头的她。"},},
+        },
+        linkback = "block_00042",
+        linknext = "block_00044",
+        line = 182
+    },
+    block_00044 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"对于她的病情，我完全不了解。"},},
+        },
+        linkback = "block_00043",
+        linknext = "block_00045",
+        line = 184
+    },
+    block_00045 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我所知道的只有，她的名字叫濑津美，血型是Ｏ。这些都是记载在白色手环上的内容。"},},
+        },
+        linkback = "block_00044",
+        linknext = "block_00046",
+        line = 186
+    },
+    block_00046 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但是，我们都是７楼的居民。而且，她的病情至少要比我更严重。"},},
+        },
+        linkback = "block_00045",
+        linknext = "block_00047",
+        line = 188
+    },
+    block_00047 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「呐，还是躺下等着医生过来吧？」"},},
+        },
+        linkback = "block_00046",
+        linknext = "block_00048",
+        line = 190
+    },
+    block_00048 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说着，我指了指放在房间一角的长椅。这是以前在这个房间角落里就有的东西。"},},
+        },
+        linkback = "block_00047",
+        linknext = "block_00049",
+        line = 192
+    },
+    block_00049 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「来吧，我扶着你」"},},
+        },
+        linkback = "block_00048",
+        linknext = "block_00050",
+        line = 194
+    },
+    block_00050 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_083"},},
+            ja = {{"「…………」"},},
+        },
+        linkback = "block_00049",
+        linknext = "block_00051",
+        line = 196
+    },
+    block_00051 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_087"},},
+            ja = {{"「不必了…已经没事了」"},},
+        },
+        linkback = "block_00050",
+        linknext = "block_00052",
+        line = 198
+    },
+    block_00052 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她只说了这些，然后自己猛地站了起来。"},},
+        },
+        linkback = "block_00051",
+        linknext = "block_00053",
+        line = 200
+    },
+    block_00053 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「喂，你别…」"},},
+        },
+        linkback = "block_00052",
+        linknext = "block_00054",
+        line = 202
+    },
+    block_00054 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"别硬撑啊。"},},
+        },
+        linkback = "block_00053",
+        linknext = "block_00055",
+        line = 204
+    },
+    block_00055 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"还没等我把话说完，她就已经朝走廊的方向离去。"},},
+        },
+        linkback = "block_00054",
+        linknext = "block_00056",
+        line = 206
+    },
+    block_00056 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"bg", id=1, lv=5, file="sora_yoru01", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"夜晚。熄灯时间过后。"},},
+        },
+        linkback = "block_00055",
+        linknext = "block_00057",
+        line = 208
+    },
+    block_00057 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我又像往常一样，看倦了漫画书，却又迟迟无法入睡，于是就在大楼里闲逛着。"},},
+        },
+        linkback = "block_00056",
+        linknext = "block_00058",
+        line = 210
+    },
+    block_00058 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不知不觉间，我走进了没有灯光，一片漆黑的谈话室。"},},
+        },
+        linkback = "block_00057",
+        linknext = "block_00059",
+        line = 212
+    },
+    block_00059 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在那里，我找到了她。"},},
+        },
+        linkback = "block_00058",
+        linknext = "block_00060",
+        line = 214
+    },
+    block_00060 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----BGM播放区域，默认通道5播放------
+        {"bgm",id=0,file="bgm130",loop=1, time=500, vol=200},
+        {"bg", id=1, lv=5, file="danwa_yoru", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「唷，又到这里来了吗…」"},},
+        },
+        linkback = "block_00059",
+        linknext = "block_00061",
+        line = 216
+    },
+    block_00061 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_086"},},
+            ja = {{"「…唔」"},},
+        },
+        linkback = "block_00060",
+        linknext = "block_00062",
+        line = 218
+    },
+    block_00062 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「怎么了？　身体又不舒服了吗？」"},},
+        },
+        linkback = "block_00061",
+        linknext = "block_00063",
+        line = 220
+    },
+    block_00063 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n068"},},
+            ja = {{"「…不是」"},},
+        },
+        linkback = "block_00062",
+        linknext = "block_00064",
+        line = 222
+    },
+    block_00064 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她凝视着窗外，简短地回答道。"},},
+        },
+        linkback = "block_00063",
+        linknext = "block_00065",
+        line = 224
+    },
+    block_00065 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"最终，她的暂时出院被取消了。"},},
+        },
+        linkback = "block_00064",
+        linknext = "block_00066",
+        line = 226
+    },
+    block_00066 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这样一来，不知何时才会迎来下一次机会。恐怕不是延迟几天就可以了结的事，而是要几周时间吧。"},},
+        },
+        linkback = "block_00065",
+        linknext = "block_00067",
+        line = 228
+    },
+    block_00067 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「呐，莫非…」"},},
+        },
+        linkback = "block_00066",
+        linknext = "block_00068",
+        line = 230
+    },
+    block_00068 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「今天早上…你是在装病吗？」"},},
+        },
+        linkback = "block_00067",
+        linknext = "block_00069",
+        line = 232
+    },
+    block_00069 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n055"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00068",
+        linknext = "block_00070",
+        line = 234
+    },
+    block_00070 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不过，说是装病也有些奇怪。我们早就不是健康的人了。"},},
+        },
+        linkback = "block_00069",
+        linknext = "block_00071",
+        line = 236
+    },
+    block_00071 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「就是说…你不想暂时出院回家吗？」"},},
+        },
+        linkback = "block_00070",
+        linknext = "block_00072",
+        line = 238
+    },
+    block_00072 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_089"},},
+            ja = {{"「…我不明白你在说什么」"},},
+        },
+        linkback = "block_00071",
+        linknext = "block_00073",
+        line = 240
+    },
+    block_00073 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「你不是，在这次之后就没有机会了吗…」"},},
+        },
+        linkback = "block_00072",
+        linknext = "block_00074",
+        line = 242
+    },
+    block_00074 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n143"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00073",
+        linknext = "block_00075",
+        line = 244
+    },
+    block_00075 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"面对我的疑问，沉默的她什么也没有回答。"},},
+        },
+        linkback = "block_00074",
+        linknext = "block_00076",
+        line = 246
+    },
+    block_00076 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"过去，她曾经问过我很多次，会选择在哪一边迎接死亡。"},},
+        },
+        linkback = "block_00075",
+        linknext = "block_00077",
+        line = 248
+    },
+    block_00077 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"对于她的这个疑问，我至今还未得出答案。而她也说过，既不愿选择在家里，也不愿选择在７楼。"},},
+        },
+        linkback = "block_00076",
+        linknext = "block_00078",
+        line = 250
+    },
+    block_00078 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「你果然…」"},},
+        },
+        linkback = "block_00077",
+        linknext = "block_00079",
+        line = 252
+    },
+    block_00079 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「是没有什么可以去的地方了吧…」"},},
+        },
+        linkback = "block_00078",
+        linknext = "block_00080",
+        line = 254
+    },
+    block_00080 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="new_090"},},
+            ja = {{"「…就算是这样…和你又有什么关系呢？」"},},
+        },
+        linkback = "block_00079",
+        linknext = "block_00081",
+        line = 256
+    },
+    block_00081 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「哦，我只是随便问问而已…」"},},
+        },
+        linkback = "block_00080",
+        linknext = "block_00082",
+        line = 258
+    },
+    block_00082 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"依旧一片漆黑的谈话室中。"},},
+        },
+        linkback = "block_00081",
+        linknext = "block_00083",
+        line = 260
+    },
+    block_00083 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她依然没有转头看我一眼，只是静静地注视着窗外。"},},
+        },
+        linkback = "block_00082",
+        linknext = "block_00084",
+        line = 262
+    },
+    block_00084 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"虽然时间只是刚过１１点，但在医院的区域里，几乎所有的灯光都已经被熄灭。"},},
+        },
+        linkback = "block_00083",
+        linknext = "block_00085",
+        line = 264
+    },
+    block_00085 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="sora_yoru01", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…这是「日常」世界与「异常」世界的边境。"},},
+        },
+        linkback = "block_00084",
+        linknext = "block_00086",
+        line = 266
+    },
+    block_00086 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"更何况我们是７楼的居民。我们已经没有在７楼和家之外进行选择的权利。"},},
+        },
+        linkback = "block_00085",
+        linknext = "block_00087",
+        line = 268
+    },
+    block_00087 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她从漆黑的７楼窗边，注视着外边的世界。那里，是「日常」的世界。"},},
+        },
+        linkback = "block_00086",
+        linknext = "block_00088",
+        line = 270
+    },
+    block_00088 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"高楼和民宅中依然亮着无数的灯光，大路上，匆匆赶路的行人向着自家的灯火前行。"},},
+        },
+        linkback = "block_00087",
+        linknext = "block_00089",
+        line = 272
+    },
+    block_00089 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管自身还没有什么切实感触…"},},
+        },
+        linkback = "block_00088",
+        linknext = "block_00090",
+        line = 274
+    },
+    block_00090 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但我已经成为了7楼的居民，「异常」世界的居民。"},},
+        },
+        linkback = "block_00089",
+        linknext = "block_00091",
+        line = 276
+    },
+    block_00091 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"已经再也无法回到对面的那个世界中了吧…"},},
+        },
+        linkback = "block_00090",
+        linknext = "block_00092",
+        line = 278
+    },
+    block_00092 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="w", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="rain_1",loop=0, time=500, vol=200},
+        {"bg", id=1, lv=5, file="sora_ame02", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"『…我的时间静止了…』"},},
+        },
+        linkback = "block_00091",
+        linknext = "block_00093",
+        line = 280
+    },
+    block_00093 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在这个只看得到自己的世界里…我送走了不知多少个季节…多少次下着梅雨的苍白天空…"},},
+        },
+        linkback = "block_00092",
+        linknext = "block_00094",
+        line = 282
+    },
+    block_00094 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"最初，我从窗口望着那些去学校的孩子们，以及快步赶路的行人们。"},},
+        },
+        linkback = "block_00093",
+        linknext = "block_00095",
+        line = 284
+    },
+    block_00095 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当我看倦了窗外景色时，总会打开电视机。没有其他事情可做，也没有其他事情能做。"},},
+        },
+        linkback = "block_00094",
+        linknext = "block_00096",
+        line = 286
+    },
+    block_00096 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"即使窗外飘着雪花，电视屏幕中也依然艳阳高照。"},},
+        },
+        linkback = "block_00095",
+        linknext = "block_00097",
+        line = 288
+    },
+    block_00097 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在眼前展开的，是一个没有寒冷，没有炎热，没有痛苦的梦幻世界。"},},
+        },
+        linkback = "block_00096",
+        linknext = "block_00098",
+        line = 290
+    },
+    block_00098 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…在空想中寻求着安乐…"},},
+        },
+        linkback = "block_00097",
+        linknext = "block_00099",
+        line = 292
+    },
+    block_00099 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只有庞大繁杂的知识在头脑中积攒…"},},
+        },
+        linkback = "block_00098",
+        linknext = "block_00100",
+        line = 294
+    },
+    block_00100 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"用它们不断地，构筑起毫无意义的价值观…"},},
+        },
+        linkback = "block_00099",
+        linknext = "block_00101",
+        line = 296
+    },
+    block_00101 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不知不觉中，电视中的影像失去了现实感。"},},
+        },
+        linkback = "block_00100",
+        linknext = "block_00102",
+        line = 298
+    },
+    block_00102 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"之后是书本中的内容，游戏中的情节，乃至于家族中的亲人…"},},
+        },
+        linkback = "block_00101",
+        linknext = "block_00103",
+        line = 300
+    },
+    block_00103 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"到最后，就连面对自己，我也只能用旁人的眼光去审视，再也无法体会到现实感了。"},},
+        },
+        linkback = "block_00102",
+        linknext = "block_00104",
+        line = 302
+    },
+    block_00104 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因此，来到7楼时，我并没有感到吃惊。"},},
+        },
+        linkback = "block_00103",
+        linknext = "block_00105",
+        line = 304
+    },
+    block_00105 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只要闭上双眼，身边的世界随时都可以消失。所以我不在乎，也不想让自己去在乎。"},},
+        },
+        linkback = "block_00104",
+        linknext = "block_00106",
+        line = 306
+    },
+    block_00106 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"很快，我即将迎来第2次出院。"},},
+        },
+        linkback = "block_00105",
+        linknext = "block_00107",
+        line = 308
+    },
+    block_00107 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"下次回到这里的时候，或许我将无法再下床行走了。"},},
+        },
+        linkback = "block_00106",
+        linknext = "block_00108",
+        line = 310
+    },
+    block_00108 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管心中很清楚，但我依然痛恨自己的无所作为。"},},
+        },
+        linkback = "block_00107",
+        linknext = "block_00109",
+        line = 312
+    },
+    block_00109 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…连归宿之地都无法选择的自己，是如此的滑稽。"},},
+        },
+        linkback = "block_00108",
+        linknext = "block_00110",
+        line = 314
+    },
+    block_00110 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="chara_k01", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n042"},},
+            ja = {{"「冰冻住时间，冰冻住内心，在心口留下巨大的伤痕…」"},},
+        },
+        linkback = "block_00109",
+        linknext = "block_00111",
+        line = 316
+    },
+    block_00111 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="chara_k01", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n043"},},
+            ja = {{"「但即使如此…我依然痛感到自己这２２年的人生是如此可悲…」"},},
+        },
+        linkback = "block_00110",
+        linknext = "block_00112",
+        line = 318
+    },
+    block_00112 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"bg", id=1, lv=5, file="c044", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"bg", id=1, lv=5, file="sora03", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"几天过后…"},},
+        },
+        linkback = "block_00111",
+        linknext = "block_00113",
+        line = 320
+    },
+    block_00113 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"一改前些日的乌云密布取而代之的是一片湛蓝的冬日天空。"},},
+        },
+        linkback = "block_00112",
+        linknext = "block_00114",
+        line = 322
+    },
+    block_00114 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="byoin7_rouka", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"父亲出乎意料地前来探望了我。他始终摆着一幅悲伤的表情。"},},
+        },
+        linkback = "block_00113",
+        linknext = "block_00115",
+        line = 324
+    },
+    block_00115 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不过，他还谈到了我的保险之类的事情。"},},
+        },
+        linkback = "block_00114",
+        linknext = "block_00116",
+        line = 326
+    },
+    block_00116 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"唯独提到这个话题的时候，悲伤会从他的脸上一扫而去。"},},
+        },
+        linkback = "block_00115",
+        linknext = "block_00117",
+        line = 328
+    },
+    block_00117 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「我有些事情要去和医生谈一下…」"},},
+        },
+        linkback = "block_00116",
+        linknext = "block_00118",
+        line = 330
+    },
+    block_00118 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说完，父亲起身向着走廊走去。"},},
+        },
+        linkback = "block_00117",
+        linknext = "block_00119",
+        line = 332
+    },
+    block_00119 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"似乎是走向了以前去过的那间昏暗的谈话室。"},},
+        },
+        linkback = "block_00118",
+        linknext = "block_00120",
+        line = 334
+    },
+    block_00120 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"病房里只剩下我一个人。"},},
+        },
+        linkback = "block_00119",
+        linknext = "block_00121",
+        line = 336
+    },
+    block_00121 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为无事可做，我将手伸向了父亲买来的杂志。"},},
+        },
+        linkback = "block_00120",
+        linknext = "block_00122",
+        line = 338
+    },
+    block_00122 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在杂志旁边，还堆积着一些探病用的水果和饮料。"},},
+        },
+        linkback = "block_00121",
+        linknext = "block_00123",
+        line = 340
+    },
+    block_00123 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在水果篮的旁边。"},},
+        },
+        linkback = "block_00122",
+        linknext = "block_00124",
+        line = 342
+    },
+    block_00124 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"正好在我讨厌的甜瓜前面…"},},
+        },
+        linkback = "block_00123",
+        linknext = "block_00125",
+        line = 344
+    },
+    block_00125 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="w", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="key2",loop=0, time=500, vol=200},
+        {"bg", id=1, lv=5, file="carkey", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"进入眼帘的…"},},
+        },
+        linkback = "block_00124",
+        linknext = "block_00126",
+        line = 346
+    },
+    block_00126 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"是一把车钥匙。"},},
+        },
+        linkback = "block_00125",
+        linknext = "block_00127",
+        line = 348
+    },
+    block_00127 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00126",
+        linknext = "block_00128",
+        line = 350
+    },
+    block_00128 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"闪着银光的钥匙。"},},
+        },
+        linkback = "block_00127",
+        linknext = "block_00129",
+        line = 352
+    },
+    block_00129 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"父亲引以为豪的爱车，是一辆进行过内部装修的酷派。"},},
+        },
+        linkback = "block_00128",
+        linknext = "block_00130",
+        line = 354
+    },
+    block_00130 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我曾经试着向父亲借用过它，但被扫兴地拒绝了。现在，它的钥匙就摆在我的面前。"},},
+        },
+        linkback = "block_00129",
+        linknext = "block_00131",
+        line = 356
+    },
+    block_00131 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"而胸前睡衣的口袋里，则放着那张崭新的驾照。"},},
+        },
+        linkback = "block_00130",
+        linknext = "block_00132",
+        line = 358
+    },
+    block_00132 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管自那天起就失去了作用，但我依然时刻将它带在身上…因为它是我曾经生活于日常世界的凭证。"},},
+        },
+        linkback = "block_00131",
+        linknext = "block_00133",
+        line = 360
+    },
+    block_00133 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="key2",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"喀嚓，"},},
+        },
+        linkback = "block_00132",
+        linknext = "block_00134",
+        line = 362
+    },
+    block_00134 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我默不作声地拿起了钥匙。"},},
+        },
+        linkback = "block_00133",
+        linknext = "block_00135",
+        line = 364
+    },
+    block_00135 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"没有经过任何考虑。自己也不明白为什么会这样做。"},},
+        },
+        linkback = "block_00134",
+        linknext = "block_00136",
+        line = 366
+    },
+    block_00136 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只是在不知不觉中就这样做了。就好像是在经历着电视中的情节一般。"},},
+        },
+        linkback = "block_00135",
+        linknext = "block_00137",
+        line = 368
+    },
+    block_00137 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后，我收拾了今后几天的药物。将它们装进了便利店的袋子…"},},
+        },
+        linkback = "block_00136",
+        linknext = "block_00138",
+        line = 370
+    },
+    block_00138 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后走出了病房。"},},
+        },
+        linkback = "block_00137",
+        linknext = "block_00139",
+        line = 372
+    },
+    block_00139 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----BGM播放区域，默认通道5播放------
+        {"bgm",id=0,file="bgm113",loop=1, time=500, vol=200},
+        {"bg", id=1, lv=5, file="w", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…悄悄地从护士站前溜过…"},},
+        },
+        linkback = "block_00138",
+        linknext = "block_00140",
+        line = 374
+    },
+    block_00140 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"快步走向电梯的方向。"},},
+        },
+        linkback = "block_00139",
+        linknext = "block_00141",
+        line = 376
+    },
+    block_00141 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"右手提着塑料袋，左手握着车钥匙。胸前的口袋中，藏着那张本应失去作用的驾照。"},},
+        },
+        linkback = "block_00140",
+        linknext = "block_00142",
+        line = 378
+    },
+    block_00142 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="danwa", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"走到谈话室。"},},
+        },
+        linkback = "block_00141",
+        linknext = "block_00143",
+        line = 380
+    },
+    block_00143 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"接着我找到了，和往常一样，正在看电视节目的她的身影。"},},
+        },
+        linkback = "block_00142",
+        linknext = "block_00144",
+        line = 382
+    },
+    block_00144 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她依然坐在折叠椅上，无聊地望着电视画面。"},},
+        },
+        linkback = "block_00143",
+        linknext = "block_00145",
+        line = 384
+    },
+    block_00145 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「我说…这节目有意思吗？」"},},
+        },
+        linkback = "block_00144",
+        linknext = "block_00146",
+        line = 386
+    },
+    block_00146 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n071"},},
+            ja = {{"「…你说呢？」"},},
+        },
+        linkback = "block_00145",
+        linknext = "block_00147",
+        line = 388
+    },
+    block_00147 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「不，无聊至极…」"},},
+        },
+        linkback = "block_00146",
+        linknext = "block_00148",
+        line = 390
+    },
+    block_00148 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"一成不变的交谈。"},},
+        },
+        linkback = "block_00147",
+        linknext = "block_00149",
+        line = 392
+    },
+    block_00149 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"与往日一样，似乎望着远方的虚无目光。"},},
+        },
+        linkback = "block_00148",
+        linknext = "block_00150",
+        line = 394
+    },
+    block_00150 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「那么…"},},
+        },
+        linkback = "block_00149",
+        linknext = "block_00151",
+        line = 396
+    },
+    block_00151 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们就一起走吧？」"},},
+        },
+        linkback = "block_00150",
+        linknext = "block_00152",
+        line = 398
+    },
+    block_00152 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="nv395"},},
+            ja = {{"「什么…」"},},
+        },
+        linkback = "block_00151",
+        linknext = "block_00153",
+        line = 400
+    },
+    block_00153 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"手里拿着车钥匙给她看，一边继续说。"},},
+        },
+        linkback = "block_00152",
+        linknext = "block_00154",
+        line = 402
+    },
+    block_00154 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「我也…不喜欢家」"},},
+        },
+        linkback = "block_00153",
+        linknext = "block_00155",
+        line = 404
+    },
+    block_00155 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n073"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00154",
+        linknext = "block_00156",
+        line = 406
+    },
+    block_00156 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n074"},},
+            ja = {{"「我也讨厌…７楼…」"},},
+        },
+        linkback = "block_00155",
+        linknext = "block_00157",
+        line = 408
+    },
+    block_00157 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「那么…"},},
+        },
+        linkback = "block_00156",
+        linknext = "block_00158",
+        line = 410
+    },
+    block_00158 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们就一起走吧？」"},},
+        },
+        linkback = "block_00157",
+        linknext = "block_00159",
+        line = 412
+    },
+    block_00159 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n044"},},
+            ja = {{"「…嗯」"},},
+        },
+        linkback = "block_00158",
+        linknext = "block_00160",
+        line = 414
+    },
+    block_00160 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="w", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说着，她从折叠椅上站起身来。"},},
+        },
+        linkback = "block_00159",
+        linknext = "block_00161",
+        line = 416
+    },
+    block_00161 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"扬起的长发掠过我的鼻尖。"},},
+        },
+        linkback = "block_00160",
+        linknext = "block_00162",
+        line = 418
+    },
+    block_00162 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"就这样，她也将几天的药物装进塑料袋后…"},},
+        },
+        linkback = "block_00161",
+        linknext = "block_00163",
+        line = 420
+    },
+    block_00163 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们一起离开了７楼。"},},
+        },
+        linkback = "block_00162",
+        linknext = "block_00164",
+        line = 422
+    },
+    block_00164 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我关掉了无聊的电视。主持人那尖锐的笑声就此沉默了。"},},
+        },
+        linkback = "block_00163",
+        linknext = "block_00165",
+        line = 424
+    },
+    block_00165 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们就这样穿着睡衣走进了电梯。从最高层来到１楼。"},},
+        },
+        linkback = "block_00164",
+        linknext = "block_00166",
+        line = 426
+    },
+    block_00166 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"到达１楼后，我们没有走向住院部和急诊室的入口，而是故意穿过门诊部大门，走向了停车场。"},},
+        },
+        linkback = "block_00165",
+        linknext = "block_00167",
+        line = 428
+    },
+    block_00167 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="sora03", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="kaze3",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"沙沙──，"},},
+        },
+        linkback = "block_00166",
+        linknext = "block_00168",
+        line = 430
+    },
+    block_00168 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"刚到屋外，寒风拍打在脸上。"},},
+        },
+        linkback = "block_00167",
+        linknext = "block_00169",
+        line = 432
+    },
+    block_00169 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在这种没有障碍物的停车场，寒风越发强烈。"},},
+        },
+        linkback = "block_00168",
+        linknext = "block_00170",
+        line = 434
+    },
+    block_00170 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们俩小心注意着周围的目光，在宽广的停车场中穿行。"},},
+        },
+        linkback = "block_00169",
+        linknext = "block_00171",
+        line = 436
+    },
+    block_00171 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"就这样…经过一番探寻，我们终于找到了父亲的车。"},},
+        },
+        linkback = "block_00170",
+        linknext = "block_00172",
+        line = 438
+    },
+    block_00172 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="byoin_chusyajo", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"银色的酷派。"},},
+        },
+        linkback = "block_00171",
+        linknext = "block_00173",
+        line = 440
+    },
+    block_00173 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这是父亲进行过内部装修的爱车。"},},
+        },
+        linkback = "block_00172",
+        linknext = "block_00174",
+        line = 442
+    },
+    block_00174 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我立刻拿出钥匙打开了车门。"},},
+        },
+        linkback = "block_00173",
+        linknext = "block_00175",
+        line = 444
+    },
+    block_00175 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="kati",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"喀嚓，"},},
+        },
+        linkback = "block_00174",
+        linknext = "block_00176",
+        line = 446
+    },
+    block_00176 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「来，快坐进去吧」"},},
+        },
+        linkback = "block_00175",
+        linknext = "block_00177",
+        line = 448
+    },
+    block_00177 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n076"},},
+            ja = {{"「嗯，这就进来…」"},},
+        },
+        linkback = "block_00176",
+        linknext = "block_00178",
+        line = 450
+    },
+    block_00178 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="close",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"啪噔，"},},
+        },
+        linkback = "block_00177",
+        linknext = "block_00179",
+        line = 452
+    },
+    block_00179 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我在驾驶席上重重的坐了下来。"},},
+        },
+        linkback = "block_00178",
+        linknext = "block_00180",
+        line = 454
+    },
+    block_00180 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"坐在了助手席上的她。因为身材娇小，坐下后甚至难以看清前方的景色。"},},
+        },
+        linkback = "block_00179",
+        linknext = "block_00181",
+        line = 456
+    },
+    block_00181 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"接着，我将手中的钥匙插入了点火器。转动，然后轻轻地踩下了油门。"},},
+        },
+        linkback = "block_00180",
+        linknext = "block_00182",
+        line = 458
+    },
+    block_00182 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"一切都是在驾校中学过的步骤。"},},
+        },
+        linkback = "block_00181",
+        linknext = "block_00183",
+        line = 460
+    },
+    block_00183 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="engine_start",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"轰轰，隆隆……"},},
+        },
+        linkback = "block_00182",
+        linknext = "block_00184",
+        line = 462
+    },
+    block_00184 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"刹那间，车内响起了轻微的发动机声。"},},
+        },
+        linkback = "block_00183",
+        linknext = "block_00185",
+        line = 464
+    },
+    block_00185 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"接下来，只要拉开手刹车，松开离合器就可以了。"},},
+        },
+        linkback = "block_00184",
+        linknext = "block_00186",
+        line = 466
+    },
+    block_00186 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…现在，我们能够到任何地方去。理应能到任何想去的地方。"},},
+        },
+        linkback = "block_00185",
+        linknext = "block_00187",
+        line = 468
+    },
+    block_00187 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「那么，我们出发吧…」"},},
+        },
+        linkback = "block_00186",
+        linknext = "block_00188",
+        line = 470
+    },
+    block_00188 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n077"},},
+            ja = {{"「…嗯」"},},
+        },
+        linkback = "block_00187",
+        linknext = "block_00189",
+        line = 472
+    },
+    block_00189 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她轻轻地点了点头。于是我将挡位换到了二档。"},},
+        },
+        linkback = "block_00188",
+        linknext = "block_00190",
+        line = 474
+    },
+    block_00190 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后，静静地发动了车子。"},},
+        },
+        linkback = "block_00189",
+        linknext = "block_00191",
+        line = 476
+    },
+    block_00191 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="car_start2",loop=0, time=500, vol=200},
+        {"bg", id=1, lv=5, file="naname_machi2", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为不太熟悉这台车子的离合器，车体咣咣当当地摇晃着，但还是向前驶了出去。"},},
+        },
+        linkback = "block_00190",
+        linknext = "block_00192",
+        line = 478
+    },
+    block_00192 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n078"},},
+            ja = {{"「…晃得很厉害呢」"},},
+        },
+        linkback = "block_00191",
+        linknext = "block_00193",
+        line = 480
+    },
+    block_00193 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「哦，因为是头一次开这辆车嘛…」"},},
+        },
+        linkback = "block_00192",
+        linknext = "block_00194",
+        line = 482
+    },
+    block_00194 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「顺便一提，这是我取得驾照后头一次开车」"},},
+        },
+        linkback = "block_00193",
+        linknext = "block_00195",
+        line = 484
+    },
+    block_00195 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n079"},},
+            ja = {{"「是吗…」"},},
+        },
+        linkback = "block_00194",
+        linknext = "block_00196",
+        line = 486
+    },
+    block_00196 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"很快，我们来到了停车场的出口。对面是一条宽敞的马路。"},},
+        },
+        linkback = "block_00195",
+        linknext = "block_00197",
+        line = 488
+    },
+    block_00197 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我开车穿过了一处没有交通信号灯的十字路口。"},},
+        },
+        linkback = "block_00196",
+        linknext = "block_00198",
+        line = 490
+    },
+    block_00198 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="shanai_inaka", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="c-1",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"啪─，啪─，"},},
+        },
+        linkback = "block_00197",
+        linknext = "block_00199",
+        line = 492
+    },
+    block_00199 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"从后边传来了其他车辆的喇叭声。大概是因为我们突然冲入了道路，他们对此表示不满吧。"},},
+        },
+        linkback = "block_00198",
+        linknext = "block_00200",
+        line = 494
+    },
+    block_00200 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为不熟悉离合器的感觉，每变换一次挡位，奔跑中的银色酷派都会带着响声晃动几次。"},},
+        },
+        linkback = "block_00199",
+        linknext = "block_00201",
+        line = 496
+    },
+    block_00201 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="c-2",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"或许这也给后边那辆车的车主火上浇油了吧，看来喇叭声暂时是停不下来了。"},},
+        },
+        linkback = "block_00200",
+        linknext = "block_00202",
+        line = 498
+    },
+    block_00202 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但行驶中的我并没有把它放在心上。因为对我来说，那声音并没能带来多少真实感。"},},
+        },
+        linkback = "block_00201",
+        linknext = "block_00203",
+        line = 500
+    },
+    block_00203 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「我说…」"},},
+        },
+        linkback = "block_00202",
+        linknext = "block_00204",
+        line = 502
+    },
+    block_00204 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n081"},},
+            ja = {{"「…什么？」"},},
+        },
+        linkback = "block_00203",
+        linknext = "block_00205",
+        line = 504
+    },
+    block_00205 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -------bgm停止区域------
+        {"bgm", stop=1, id=0, time=3000},
+        {"se", stop=1, id=5, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「…你害怕吗？」"},},
+        },
+        linkback = "block_00204",
+        linknext = "block_00206",
+        line = 506
+    },
+    block_00206 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n082"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00205",
+        linknext = "block_00207",
+        line = 508
+    },
+    block_00207 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -------bgm停止区域------
+        {"bgm", stop=1, id=0, time=3000},
+        {"se", stop=1, id=5, time=1000},
+        -------------,
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n084_1"},},
+            ja = {{"「…你希望我，"},},
+        },
+        linkback = "block_00206",
+        linknext = "block_00208",
+        line = 510
+    },
+    block_00208 = {
+        {"ex", time=400, func="wait"},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n084_2"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00207",
+        linknext = "block_00209",
+        line = 512
+    },
+    block_00209 = {
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「害怕吗？」"},},
+        },
+        linkback = "block_00208",
+        linknext = "block_00210",
+        line = 514
+    },
+    block_00210 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -------bgm停止区域------
+        {"bgm", stop=1, id=0, time=3000},
+        {"se", stop=1, id=5, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「不…没事了…」"},},
+        },
+        linkback = "block_00209",
+        linknext = "block_00211",
+        line = 516
+    },
+    block_00211 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="sora03", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"午前时分，万里无云。"},},
+        },
+        linkback = "block_00210",
+        linknext = "block_00212",
+        line = 518
+    },
+    block_00212 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"透过挡风玻璃，看到的是一月的霜空。不知为何，我从那片湛蓝中感到了一丝忧伤。"},},
+        },
+        linkback = "block_00211",
+        linknext = "block_00213",
+        line = 520
+    },
+    block_00213 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…我们并没有明确的目的地。"},},
+        },
+        linkback = "block_00212",
+        linknext = "block_00214",
+        line = 522
+    },
+    block_00214 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"那一天，在寒冷的冬日下"},},
+        },
+        linkback = "block_00213",
+        linknext = "block_00215",
+        line = 524
+    },
+    block_00215 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"车身随着难以习惯的离合器不断颤抖。"},},
+        },
+        linkback = "block_00214",
+        linknext = "block_00216",
+        line = 526
+    },
+    block_00216 = {
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…那一天，我们身穿睡衣，驱车向国道驶去。"},},
+        },
+        linkback = "block_00215",
+        linknext = "block_00217",
+        line = 528
+    },
+    block_00217 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…那一天，一切都融入了冬日的气息中…"},},
+        },
+        linkback = "block_00216",
+        linknext = "block_00218",
+        line = 530
+    },
+    block_00218 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"bg", id=1, lv=5, file="c0442", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当那高挂的太阳，化作橙色的时候。"},},
+        },
+        linkback = "block_00217",
+        linknext = "block_00219",
+        line = 532
+    },
+    block_00219 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="sora_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----BGM播放区域，默认通道5播放------
+        {"bgm",id=0,file="bgm85",loop=1, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"依然在驱车奔驰着的我们。只是在毫无目的地奔驰着。"},},
+        },
+        linkback = "block_00218",
+        linknext = "block_00220",
+        line = 534
+    },
+    block_00220 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当周围的景色变得陌生的时候…"},},
+        },
+        linkback = "block_00219",
+        linknext = "block_00221",
+        line = 536
+    },
+    block_00221 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「…我把车停一下」"},},
+        },
+        linkback = "block_00220",
+        linknext = "block_00222",
+        line = 538
+    },
+    block_00222 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n180"},},
+            ja = {{"「…嗯」"},},
+        },
+        linkback = "block_00221",
+        linknext = "block_00223",
+        line = 540
+    },
+    block_00223 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="chusha_michi2_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"车终于停了下来。"},},
+        },
+        linkback = "block_00222",
+        linknext = "block_00224",
+        line = 542
+    },
+    block_00224 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这里是一条郊外的道路。几乎看不到过往的车辆和行人，显得非常冷清。"},},
+        },
+        linkback = "block_00223",
+        linknext = "block_00225",
+        line = 544
+    },
+    block_00225 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"就这样将车停在这不知名的路边，然后开始了清点车内的物品。"},},
+        },
+        linkback = "block_00224",
+        linknext = "block_00226",
+        line = 546
+    },
+    block_00226 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…希望能找到些派得上用场的东西…"},},
+        },
+        linkback = "block_00225",
+        linknext = "block_00227",
+        line = 548
+    },
+    block_00227 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当初是毫无准备就逃了出来。但显然，我们马上就会遇到许许多多的麻烦。"},},
+        },
+        linkback = "block_00226",
+        linknext = "block_00228",
+        line = 550
+    },
+    block_00228 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我一边思索，一边从面前的仪表盘附近开始寻找。"},},
+        },
+        linkback = "block_00227",
+        linknext = "block_00229",
+        line = 552
+    },
+    block_00229 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…………"},},
+        },
+        linkback = "block_00228",
+        linknext = "block_00230",
+        line = 554
+    },
+    block_00230 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「真的是什么也没有啊…」"},},
+        },
+        linkback = "block_00229",
+        linknext = "block_00231",
+        line = 556
+    },
+    block_00231 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只找到了高速路找零的几百日元的硬币。此外还有几本漫画书，和一部一次性相机。"},},
+        },
+        linkback = "block_00230",
+        linknext = "block_00232",
+        line = 558
+    },
+    block_00232 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管我们并没有什么明确的目的地，但车内配备的导航系统似乎也早就坏了。"},},
+        },
+        linkback = "block_00231",
+        linknext = "block_00233",
+        line = 560
+    },
+    block_00233 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说起来，我现在手里只有８０００日元左右。"},},
+        },
+        linkback = "block_00232",
+        linknext = "block_00234",
+        line = 562
+    },
+    block_00234 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这是出门时匆匆塞进口袋里的全部财产。"},},
+        },
+        linkback = "block_00233",
+        linknext = "block_00235",
+        line = 564
+    },
+    block_00235 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"即使加上眼前的这些零钱，最多也只有９０００日元左右。"},},
+        },
+        linkback = "block_00234",
+        linknext = "block_00236",
+        line = 566
+    },
+    block_00236 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当然我从一开始就没期待过，车里会有什么派得上用场的东西。"},},
+        },
+        linkback = "block_00235",
+        linknext = "block_00237",
+        line = 568
+    },
+    block_00237 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…但是，只靠手头的这些钱，我们很快就会遇上困难了吧。至少，住旅馆什么的就不用想了。"},},
+        },
+        linkback = "block_00236",
+        linknext = "block_00238",
+        line = 570
+    },
+    block_00238 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"话说回来，这家伙身上也根本不会有什么钱吧…"},},
+        },
+        linkback = "block_00237",
+        linknext = "block_00239",
+        line = 572
+    },
+    block_00239 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n248"},},
+            ja = {{"「…怎么了？」"},},
+        },
+        linkback = "block_00238",
+        linknext = "block_00240",
+        line = 574
+    },
+    block_00240 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「哦，没什么…」"},},
+        },
+        linkback = "block_00239",
+        linknext = "block_00241",
+        line = 576
+    },
+    block_00241 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…不去想它了。一开始就该知道会是这样了。"},},
+        },
+        linkback = "block_00240",
+        linknext = "block_00242",
+        line = 578
+    },
+    block_00242 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"从一开始，就不是什么经过精心准备后才实行的计划。"},},
+        },
+        linkback = "block_00241",
+        linknext = "block_00243",
+        line = 580
+    },
+    block_00243 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"比起这些琐碎问题来，我现在更想前进，而不想停留在原地。"},},
+        },
+        linkback = "block_00242",
+        linknext = "block_00244",
+        line = 582
+    },
+    block_00244 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="naname_inaka_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在黄昏的天空下，银色的酷派再次开动了。"},},
+        },
+        linkback = "block_00243",
+        linknext = "block_00245",
+        line = 584
+    },
+    block_00245 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「对了，你肚子不饿吗？」"},},
+        },
+        linkback = "block_00244",
+        linknext = "block_00246",
+        line = 586
+    },
+    block_00246 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我一边驾驶，一边向她问道。现在想来，从早上开始还什么也没吃过。"},},
+        },
+        linkback = "block_00245",
+        linknext = "block_00247",
+        line = 588
+    },
+    block_00247 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「找家便利店去买点什么吧？」"},},
+        },
+        linkback = "block_00246",
+        linknext = "block_00248",
+        line = 590
+    },
+    block_00248 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n152"},},
+            ja = {{"「…不要」"},},
+        },
+        linkback = "block_00247",
+        linknext = "block_00249",
+        line = 592
+    },
+    block_00249 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「喂，别那么挑剔啊。　再说，那至少也比７楼的饭食强得多吧」"},},
+        },
+        linkback = "block_00248",
+        linknext = "block_00250",
+        line = 594
+    },
+    block_00250 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n015"},},
+            ja = {{"「………………」"},},
+        },
+        linkback = "block_00249",
+        linknext = "block_00251",
+        line = 596
+    },
+    block_00251 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但她什么也没有回答。"},},
+        },
+        linkback = "block_00250",
+        linknext = "block_00252",
+        line = 598
+    },
+    block_00252 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"只是默不作声地低着头，看着自己那身粉红色的睡衣。"},},
+        },
+        linkback = "block_00251",
+        linknext = "block_00253",
+        line = 600
+    },
+    block_00253 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「啊，我都给忘了…」"},},
+        },
+        linkback = "block_00252",
+        linknext = "block_00254",
+        line = 602
+    },
+    block_00254 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说着我也盯着自己的衣服。"},},
+        },
+        linkback = "block_00253",
+        linknext = "block_00255",
+        line = 604
+    },
+    block_00255 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"的确，如果就这样穿着睡衣的话，无论去哪里都会引人注目的。"},},
+        },
+        linkback = "block_00254",
+        linknext = "block_00256",
+        line = 606
+    },
+    block_00256 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管现在是在车内，但还是先尽快想办法解决一下服装的问题为妙。"},},
+        },
+        linkback = "block_00255",
+        linknext = "block_00257",
+        line = 608
+    },
+    block_00257 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"想到这里，我扭转方向盘离开干道，驾车向街区驶去。"},},
+        },
+        linkback = "block_00256",
+        linknext = "block_00258",
+        line = 610
+    },
+    block_00258 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="shanai_michi03_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"行驶了一段时间后。我们来到了一处不知名的街道。"},},
+        },
+        linkback = "block_00257",
+        linknext = "block_00259",
+        line = 612
+    },
+    block_00259 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"附近一定是有列车站吧。周围过往的行人也比较多。"},},
+        },
+        linkback = "block_00258",
+        linknext = "block_00260",
+        line = 614
+    },
+    block_00260 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「这附近的话应该会有吧…」"},},
+        },
+        linkback = "block_00259",
+        linknext = "block_00261",
+        line = 616
+    },
+    block_00261 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我一边向街道两旁巡视，一边驱车缓慢地前行着。开车的同时从驾驶座上稍微往前探了探身。"},},
+        },
+        linkback = "block_00260",
+        linknext = "block_00262",
+        line = 618
+    },
+    block_00262 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「啊…找到了…」"},},
+        },
+        linkback = "block_00261",
+        linknext = "block_00263",
+        line = 620
+    },
+    block_00263 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"很快就找到了一间自助式洗衣房。"},},
+        },
+        linkback = "block_00262",
+        linknext = "block_00264",
+        line = 622
+    },
+    block_00264 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"它位于一间小型公寓的１层、看上去显得十分破旧。"},},
+        },
+        linkback = "block_00263",
+        linknext = "block_00265",
+        line = 624
+    },
+    block_00265 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…这里或许正适合下手。"},},
+        },
+        linkback = "block_00264",
+        linknext = "block_00266",
+        line = 626
+    },
+    block_00266 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我将车停靠在距离入口稍远的位置"},},
+        },
+        linkback = "block_00265",
+        linknext = "block_00267",
+        line = 628
+    },
+    block_00267 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「你留在这里等我一下…」"},},
+        },
+        linkback = "block_00266",
+        linknext = "block_00268",
+        line = 630
+    },
+    block_00268 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n088"},},
+            ja = {{"「…？」"},},
+        },
+        linkback = "block_00267",
+        linknext = "block_00269",
+        line = 632
+    },
+    block_00269 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="close",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"啪噔，"},},
+        },
+        linkback = "block_00268",
+        linknext = "block_00270",
+        line = 634
+    },
+    block_00270 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我把满脸的不解的她留在了车里，然后径直走向了自助洗衣房。"},},
+        },
+        linkback = "block_00269",
+        linknext = "block_00271",
+        line = 636
+    },
+    block_00271 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="autodoor",loop=0, time=500, vol=200},
+        {"bg", id=1, lv=5, file="coin_tennai", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"踏进自动门，我立刻闻到了一股强烈的漂白粉和洗涤剂的气味。"},},
+        },
+        linkback = "block_00270",
+        linknext = "block_00272",
+        line = 638
+    },
+    block_00272 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这家洗衣房不光外观破旧，设置于其中的洗衣机和烘干机也十分老旧。"},},
+        },
+        linkback = "block_00271",
+        linknext = "block_00273",
+        line = 640
+    },
+    block_00273 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「…没有人在呢」"},},
+        },
+        linkback = "block_00272",
+        linknext = "block_00274",
+        line = 642
+    },
+    block_00274 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"低语声在空无一人的店内响起。"},},
+        },
+        linkback = "block_00273",
+        linknext = "block_00275",
+        line = 644
+    },
+    block_00275 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="coin2",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"咕隆咕隆………"},},
+        },
+        linkback = "block_00274",
+        linknext = "block_00276",
+        line = 646
+    },
+    block_00276 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"那里只有一台烘干机正低声运作着。"},},
+        },
+        linkback = "block_00275",
+        linknext = "block_00277",
+        line = 648
+    },
+    block_00277 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我立刻走近那台机器，确认了一下计时器。"},},
+        },
+        linkback = "block_00276",
+        linknext = "block_00278",
+        line = 650
+    },
+    block_00278 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…………"},},
+        },
+        linkback = "block_00277",
+        linknext = "block_00279",
+        line = 652
+    },
+    block_00279 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"看来投入了200元，运转时间被设定成了３０分钟。而且，现在仅仅过去了５分钟。"},},
+        },
+        linkback = "block_00278",
+        linknext = "block_00280",
+        line = 654
+    },
+    block_00280 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…衣物的主人一定是去外边消磨时间了吧。"},},
+        },
+        linkback = "block_00279",
+        linknext = "block_00281",
+        line = 656
+    },
+    block_00281 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"想到这里，我再次张望了一下门口，确认没有那样子的人。"},},
+        },
+        linkback = "block_00280",
+        linknext = "block_00282",
+        line = 658
+    },
+    block_00282 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"确认附近没有人影后，我将手伸向烘干机…"},},
+        },
+        linkback = "block_00281",
+        linknext = "block_00283",
+        line = 660
+    },
+    block_00283 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"一下子拉开了舱盖。"},},
+        },
+        linkback = "block_00282",
+        linknext = "block_00284",
+        line = 662
+    },
+    block_00284 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="coin",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"喀嚓，"},},
+        },
+        linkback = "block_00283",
+        linknext = "block_00285",
+        line = 664
+    },
+    block_00285 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为舱盖被拉开，烘干机停止了工作。"},},
+        },
+        linkback = "block_00284",
+        linknext = "block_00286",
+        line = 666
+    },
+    block_00286 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"无视掉这混杂着海潮气息的闷热空气，将半湿的衣物从里边拽了出来。"},},
+        },
+        linkback = "block_00285",
+        linknext = "block_00287",
+        line = 668
+    },
+    block_00287 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"之后，将它们抱在怀里，仔细张望了一圈后跑出了洗衣房。"},},
+        },
+        linkback = "block_00286",
+        linknext = "block_00288",
+        line = 670
+    },
+    block_00288 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="close",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"喀嚓，啪噔"},},
+        },
+        linkback = "block_00287",
+        linknext = "block_00289",
+        line = 672
+    },
+    block_00289 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="shanai_michi03_yu", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n307"},},
+            ja = {{"「啊……」"},},
+        },
+        linkback = "block_00288",
+        linknext = "block_00290",
+        line = 674
+    },
+    block_00290 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"看到我怀中的衣物，她有些惊讶地叫出了声来。"},},
+        },
+        linkback = "block_00289",
+        linknext = "block_00291",
+        line = 676
+    },
+    block_00291 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但我没管她，将衣物扔到了后座上。"},},
+        },
+        linkback = "block_00290",
+        linknext = "block_00292",
+        line = 678
+    },
+    block_00292 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「好了，我们走吧…」"},},
+        },
+        linkback = "block_00291",
+        linknext = "block_00293",
+        line = 680
+    },
+    block_00293 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n073"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00292",
+        linknext = "block_00294",
+        line = 682
+    },
+    block_00294 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="car_start",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"哐哐，嗡嗡……"},},
+        },
+        linkback = "block_00293",
+        linknext = "block_00295",
+        line = 684
+    },
+    block_00295 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="soukou_yoru", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我单手握住方向盘，看了看刚刚弄到手的堆积如山的衣物。"},},
+        },
+        linkback = "block_00294",
+        linknext = "block_00296",
+        line = 686
+    },
+    block_00296 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"粗略看去，多半都是一些花哨的牛仔服和汗衫，尺寸也都相当大。"},},
+        },
+        linkback = "block_00295",
+        linknext = "block_00297",
+        line = 688
+    },
+    block_00297 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"虽然还是湿的，但凭借车内空调的热气，很快就会被烘干了吧。"},},
+        },
+        linkback = "block_00296",
+        linknext = "block_00298",
+        line = 690
+    },
+    block_00298 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="shanai_michi02_yoru", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「待会选一些喜欢的换上吧…」"},},
+        },
+        linkback = "block_00297",
+        linknext = "block_00299",
+        line = 692
+    },
+    block_00299 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n090"},},
+            ja = {{"「…………」"},},
+        },
+        linkback = "block_00298",
+        linknext = "block_00300",
+        line = 694
+    },
+    block_00300 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她并没有回应我。只是看了看身后那堆衣物。"},},
+        },
+        linkback = "block_00299",
+        linknext = "block_00301",
+        line = 696
+    },
+    block_00301 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「这也是没办法的事嘛…」"},},
+        },
+        linkback = "block_00300",
+        linknext = "block_00302",
+        line = 698
+    },
+    block_00302 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n091"},},
+            ja = {{"「…我知道」"},},
+        },
+        linkback = "block_00301",
+        linknext = "block_00303",
+        line = 700
+    },
+    block_00303 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"本来我也不是很愿意去做这种事的。"},},
+        },
+        linkback = "block_00302",
+        linknext = "block_00304",
+        line = 702
+    },
+    block_00304 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不过，尽管手头的钱并没有什么明确的使用目的…"},},
+        },
+        linkback = "block_00303",
+        linknext = "block_00305",
+        line = 704
+    },
+    block_00305 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但只靠这个金额的话，也很难买到什么衣物。"},},
+        },
+        linkback = "block_00304",
+        linknext = "block_00306",
+        line = 706
+    },
+    block_00306 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="sora07", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当月亮探出头来的时候，已经走了好一段路…"},},
+        },
+        linkback = "block_00305",
+        linknext = "block_00307",
+        line = 708
+    },
+    block_00307 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我将车停靠在了一座公园的旁边。"},},
+        },
+        linkback = "block_00306",
+        linknext = "block_00308",
+        line = 710
+    },
+    block_00308 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"它正好位于住宅区之中，多半是一所儿童公园吧。"},},
+        },
+        linkback = "block_00307",
+        linknext = "block_00309",
+        line = 712
+    },
+    block_00309 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"然后，我开始挑选起刚才偷来的衣物。"},},
+        },
+        linkback = "block_00308",
+        linknext = "block_00310",
+        line = 714
+    },
+    block_00310 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo_yoru", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在车内空调的作用下，它们已经干透了。"},},
+        },
+        linkback = "block_00309",
+        linknext = "block_00311",
+        line = 716
+    },
+    block_00311 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「果然全都是些男装啊…」"},},
+        },
+        linkback = "block_00310",
+        linknext = "block_00312",
+        line = 718
+    },
+    block_00312 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"正如刚才看到的那样，全都是一些花哨的汗衫和牛仔服。"},},
+        },
+        linkback = "block_00311",
+        linknext = "block_00313",
+        line = 720
+    },
+    block_00313 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"大概它的主人也是我这个年纪的人吧。服装的尺寸与我很相近。"},},
+        },
+        linkback = "block_00312",
+        linknext = "block_00314",
+        line = 722
+    },
+    block_00314 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"之后，我随便挑出一件运动衫和一条牛仔裤，坐在驾驶席上换了起来。"},},
+        },
+        linkback = "block_00313",
+        linknext = "block_00315",
+        line = 724
+    },
+    block_00315 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「呐，你也快挑一件合适的换上吧」"},},
+        },
+        linkback = "block_00314",
+        linknext = "block_00316",
+        line = 726
+    },
+    block_00316 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n092"},},
+            ja = {{"「…………」"},},
+        },
+        linkback = "block_00315",
+        linknext = "block_00317",
+        line = 728
+    },
+    block_00317 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n093"},},
+            ja = {{"「全都太大了…」"},},
+        },
+        linkback = "block_00316",
+        linknext = "block_00318",
+        line = 730
+    },
+    block_00318 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「那么，你是想一直穿着睡衣吗？」"},},
+        },
+        linkback = "block_00317",
+        linknext = "block_00319",
+        line = 732
+    },
+    block_00319 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n094"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00318",
+        linknext = "block_00320",
+        line = 734
+    },
+    block_00320 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n095"},},
+            ja = {{"「明白了…」"},},
+        },
+        linkback = "block_00319",
+        linknext = "block_00321",
+        line = 736
+    },
+    block_00321 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她极不情愿地回答后，拿起了一条牛仔裤和一件上衣，打开了车门。"},},
+        },
+        linkback = "block_00320",
+        linknext = "block_00322",
+        line = 738
+    },
+    block_00322 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="open",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「喂，你到哪里去？」"},},
+        },
+        linkback = "block_00321",
+        linknext = "block_00323",
+        line = 740
+    },
+    block_00323 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n096"},},
+            ja = {{"「…换衣服去」"},},
+        },
+        linkback = "block_00322",
+        linknext = "block_00324",
+        line = 742
+    },
+    block_00324 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="close",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说完，她转身向眼前公园的洗手间走去。"},},
+        },
+        linkback = "block_00323",
+        linknext = "block_00325",
+        line = 744
+    },
+    block_00325 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…………"},},
+        },
+        linkback = "block_00324",
+        linknext = "block_00326",
+        line = 746
+    },
+    block_00326 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"喀嚓，"},},
+        },
+        linkback = "block_00325",
+        linknext = "block_00327",
+        line = 748
+    },
+    block_00327 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="close",loop=0, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「哦，好快啊」"},},
+        },
+        linkback = "block_00326",
+        linknext = "block_00328",
+        line = 750
+    },
+    block_00328 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo_yoru", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"过了一会儿，她就回来了。"},},
+        },
+        linkback = "block_00327",
+        linknext = "block_00329",
+        line = 752
+    },
+    block_00329 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"手中拿着刚才穿过的粉红色睡衣，换上了一条牛仔裤和一件白色运动衫。"},},
+        },
+        linkback = "block_00328",
+        linknext = "block_00330",
+        line = 754
+    },
+    block_00330 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「嗯，能穿上就好」"},},
+        },
+        linkback = "block_00329",
+        linknext = "block_00331",
+        line = 756
+    },
+    block_00331 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n097"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00330",
+        linknext = "block_00332",
+        line = 758
+    },
+    block_00332 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她没有回答。正如我所料，服装的尺寸对她来说有些太大了，显得有些臃肿。"},},
+        },
+        linkback = "block_00331",
+        linknext = "block_00333",
+        line = 760
+    },
+    block_00333 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"因为牛仔裤过长，她将裤腿向上卷起了几层。运动衫的袖子也同样被卷了起来。"},},
+        },
+        linkback = "block_00332",
+        linknext = "block_00334",
+        line = 762
+    },
+    block_00334 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n098"},},
+            ja = {{"「…还是穿睡衣算了」"},},
+        },
+        linkback = "block_00333",
+        linknext = "block_00335",
+        line = 764
+    },
+    block_00335 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「别这么说嘛，　还是这身衣服比较暖和哦」"},},
+        },
+        linkback = "block_00334",
+        linknext = "block_00336",
+        line = 766
+    },
+    block_00336 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n097"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00335",
+        linknext = "block_00337",
+        line = 768
+    },
+    block_00337 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"听到我的话，她显得似乎有些不满。"},},
+        },
+        linkback = "block_00336",
+        linknext = "block_00338",
+        line = 770
+    },
+    block_00338 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「还是说，你想要女孩子一点的衣服？」"},},
+        },
+        linkback = "block_00337",
+        linknext = "block_00339",
+        line = 772
+    },
+    block_00339 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n083"},},
+            ja = {{"「没什么…」"},},
+        },
+        linkback = "block_00338",
+        linknext = "block_00340",
+        line = 774
+    },
+    block_00340 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她的回答与平时一样。"},},
+        },
+        linkback = "block_00339",
+        linknext = "block_00341",
+        line = 776
+    },
+    block_00341 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管对宽大的运动衫感到不满，但马上又变成了以前面无表情的样子。"},},
+        },
+        linkback = "block_00340",
+        linknext = "block_00342",
+        line = 778
+    },
+    block_00342 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----SE播放区域,默认通道1播放------  
+        {"se",id=1,file="rain01",loop=0, time=500, vol=200},
+        {"bg", id=1, lv=5, file="amazora03", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"哗───"},},
+        },
+        linkback = "block_00341",
+        linknext = "block_00343",
+        line = 780
+    },
+    block_00343 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"不知何时下起了雨来。"},},
+        },
+        linkback = "block_00342",
+        linknext = "block_00344",
+        line = 782
+    },
+    block_00344 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="chusha_michi_ame_yoru", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        -----BGM播放区域，默认通道5播放------
+        {"bgm",id=0,file="bgm99",loop=1, time=500, vol=200},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"雨水忘乎所以地，从一月的寒冷天空中落下。"},},
+        },
+        linkback = "block_00343",
+        linknext = "block_00345",
+        line = 784
+    },
+    block_00345 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"从车内可以看到，挡风玻璃上附着的无数雨滴。"},},
+        },
+        linkback = "block_00344",
+        linknext = "block_00346",
+        line = 786
+    },
+    block_00346 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当那些雨滴汇聚成突破表面张力的水珠时，便会像溪流般地集聚起来流下。"},},
+        },
+        linkback = "block_00345",
+        linknext = "block_00347",
+        line = 788
+    },
+    block_00347 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在流动过程中，它们又会卷走位于下游的雨滴，使水流的声势更加威猛。"},},
+        },
+        linkback = "block_00346",
+        linknext = "block_00348",
+        line = 790
+    },
+    block_00348 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我坐在车内，呆呆的凝视着它们。"},},
+        },
+        linkback = "block_00347",
+        linknext = "block_00349",
+        line = 792
+    },
+    block_00349 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo_yoru_ame", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"这里是位于某座山中的停车场，一个寂静的地方。"},},
+        },
+        linkback = "block_00348",
+        linknext = "block_00350",
+        line = 794
+    },
+    block_00350 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在便利店买完东西的我们，准备在这里过夜。"},},
+        },
+        linkback = "block_00349",
+        linknext = "block_00351",
+        line = 796
+    },
+    block_00351 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我们的晚饭是每人２个饭团，５００ｍｌ的运动饮料，以及半个马铃薯。"},},
+        },
+        linkback = "block_00350",
+        linknext = "block_00352",
+        line = 798
+    },
+    block_00352 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「很久没吃过这样的东西了呢…」"},},
+        },
+        linkback = "block_00351",
+        linknext = "block_00353",
+        line = 800
+    },
+    block_00353 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n177"},},
+            ja = {{"「…嗯」"},},
+        },
+        linkback = "block_00352",
+        linknext = "block_00354",
+        line = 802
+    },
+    block_00354 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"她一只手握着便利店的饭团低声回答道。"},},
+        },
+        linkback = "block_00353",
+        linknext = "block_00355",
+        line = 804
+    },
+    block_00355 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在一般人看来，这实在算不上什么好东西。但与７楼的饭食相比，这已经算得上是美味佳肴了。"},},
+        },
+        linkback = "block_00354",
+        linknext = "block_00356",
+        line = 806
+    },
+    block_00356 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"当我们同时将手伸向马铃薯的时候，她的手忽然停住了。"},},
+        },
+        linkback = "block_00355",
+        linknext = "block_00357",
+        line = 808
+    },
+    block_00357 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「…怎么了？」"},},
+        },
+        linkback = "block_00356",
+        linknext = "block_00358",
+        line = 810
+    },
+    block_00358 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n100"},},
+            ja = {{"「没什么…」"},},
+        },
+        linkback = "block_00357",
+        linknext = "block_00359",
+        line = 812
+    },
+    block_00359 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"在她视线的前方，被雨烟笼罩的挡风玻璃前方…"},},
+        },
+        linkback = "block_00358",
+        linknext = "block_00360",
+        line = 814
+    },
+    block_00360 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"几朵雪白的花朵绽放在路边。"},},
+        },
+        linkback = "block_00359",
+        linknext = "block_00361",
+        line = 816
+    },
+    block_00361 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="narcissu_yoru_ame", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"被雨水浸湿的白色花朵。"},},
+        },
+        linkback = "block_00360",
+        linknext = "block_00362",
+        line = 818
+    },
+    block_00362 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"虽然不知道是谁种的，还是野生的，但是我曾经见过这种花。"},},
+        },
+        linkback = "block_00361",
+        linknext = "block_00363",
+        line = 820
+    },
+    block_00363 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「记得这种花是叫Nar…Narssus吧？」"},},
+        },
+        linkback = "block_00362",
+        linknext = "block_00364",
+        line = 822
+    },
+    block_00364 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n101"},},
+            ja = {{"「Narcissus…也就是水仙」"},},
+        },
+        linkback = "block_00363",
+        linknext = "block_00365",
+        line = 824
+    },
+    block_00365 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「啊，原来就是水仙啊…」"},},
+        },
+        linkback = "block_00364",
+        linknext = "block_00366",
+        line = 826
+    },
+    block_00366 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"尽管我对花草并不熟悉，但是水仙的名字我还是有所耳闻的。"},},
+        },
+        linkback = "block_00365",
+        linknext = "block_00367",
+        line = 828
+    },
+    block_00367 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"并且，我想起尽管她平时很少说话，但在谈论这个话题的时候却曾经回应过我。"},},
+        },
+        linkback = "block_00366",
+        linknext = "block_00368",
+        line = 830
+    },
+    block_00368 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"于是，我试着将话题继续下去。"},},
+        },
+        linkback = "block_00367",
+        linknext = "block_00369",
+        line = 832
+    },
+    block_00369 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="car_byoin_chusyajo_yoru_ame", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「那么，这里的…也与电视里那种不同吗？」"},},
+        },
+        linkback = "block_00368",
+        linknext = "block_00370",
+        line = 834
+    },
+    block_00370 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n102"},},
+            ja = {{"「…嗯，严格说起来不是同一种」"},},
+        },
+        linkback = "block_00369",
+        linknext = "block_00371",
+        line = 836
+    },
+    block_00371 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「是吗？这么说来它还真是种少见的花啊…」"},},
+        },
+        linkback = "block_00370",
+        linknext = "block_00372",
+        line = 838
+    },
+    block_00372 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n103"},},
+            ja = {{"「不…在哪里都有可能找到的」"},},
+        },
+        linkback = "block_00371",
+        linknext = "block_00373",
+        line = 840
+    },
+    block_00373 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「那么在哪里才能找到啊？」"},},
+        },
+        linkback = "block_00372",
+        linknext = "block_00374",
+        line = 842
+    },
+    block_00374 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n104"},},
+            ja = {{"「……………」"},},
+        },
+        linkback = "block_00373",
+        linknext = "block_00375",
+        line = 844
+    },
+    block_00375 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"我对于这个话题并没有太深的兴趣。只是顺着话题随口问了一句。"},},
+        },
+        linkback = "block_00374",
+        linknext = "block_00376",
+        line = 846
+    },
+    block_00376 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但是，她却低头思索了一下…"},},
+        },
+        linkback = "block_00375",
+        linknext = "block_00377",
+        line = 848
+    },
+    block_00377 = {
+        {"ex", time=400, func="wait"},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"之后缓慢地开口说道。"},},
+        },
+        linkback = "block_00376",
+        linknext = "block_00378",
+        line = 850
+    },
+    block_00378 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n105"},},
+            ja = {{"「…西边……」"},},
+        },
+        linkback = "block_00377",
+        linknext = "block_00379",
+        line = 852
+    },
+    block_00379 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「…西边？」"},},
+        },
+        linkback = "block_00378",
+        linknext = "block_00380",
+        line = 854
+    },
+    block_00380 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n106"},},
+            ja = {{"「淡路岛…是以它闻名的…」"},},
+        },
+        linkback = "block_00379",
+        linknext = "block_00381",
+        line = 856
+    },
+    block_00381 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「喂，你以为淡路岛…」"},},
+        },
+        linkback = "block_00380",
+        linknext = "block_00382",
+        line = 858
+    },
+    block_00382 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…你以为离这里有多远？"},},
+        },
+        linkback = "block_00381",
+        linknext = "block_00383",
+        line = 860
+    },
+    block_00383 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"才刚刚上手驾车的我，头脑中只是有大致的地理概念。"},},
+        },
+        linkback = "block_00382",
+        linknext = "block_00384",
+        line = 862
+    },
+    block_00384 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但是，淡路岛距离这里恐怕至少也有７００ｋｍ以上的路程，即使是利用高速公路，也很难想象需要花费多少时间。"},},
+        },
+        linkback = "block_00383",
+        linknext = "block_00385",
+        line = 864
+    },
+    block_00385 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…再说，靠我们手里这点钱，根本就不够交公路费的。"},},
+        },
+        linkback = "block_00384",
+        linknext = "block_00386",
+        line = 866
+    },
+    block_00386 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"而且，即便是在普通公路上行驶，油费也岌岌可危。"},},
+        },
+        linkback = "block_00385",
+        linknext = "block_00387",
+        line = 868
+    },
+    block_00387 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「我说，你别异想天开了…　那种地方怎么可能去得了啊？」"},},
+        },
+        linkback = "block_00386",
+        linknext = "block_00388",
+        line = 870
+    },
+    block_00388 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n107"},},
+            ja = {{"「…………」"},},
+        },
+        linkback = "block_00387",
+        linknext = "block_00389",
+        line = 872
+    },
+    block_00389 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n108"},},
+            ja = {{"「…谁说想去那里了？」"},},
+        },
+        linkback = "block_00388",
+        linknext = "block_00390",
+        line = 874
+    },
+    block_00390 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"「唉…」"},},
+        },
+        linkback = "block_00389",
+        linknext = "block_00391",
+        line = 876
+    },
+    block_00391 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            vo = {{"vo", ch="li", file="n109"},},
+            ja = {{"「我只是在回答你的问题而已…」"},},
+        },
+        linkback = "block_00390",
+        linknext = "block_00392",
+        line = 878
+    },
+    block_00392 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"说完，她再次将目光停在了玻璃前那雪白的花朵上。"},},
+        },
+        linkback = "block_00391",
+        linknext = "block_00393",
+        line = 880
+    },
+    block_00393 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"冰冷的雨水使车窗内部凝起了一层白色雾水。但她依然透过雾气凝视着前方。"},},
+        },
+        linkback = "block_00392",
+        linknext = "block_00394",
+        line = 882
+    },
+    block_00394 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"…我没什么兴趣到那个地方去。"},},
+        },
+        linkback = "block_00393",
+        linknext = "block_00395",
+        line = 884
+    },
+    block_00395 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        --------没有语音区域对话-----------
+        {"text"},
+        text = {
+            pagebreak = true,
+            ja = {{"但是，我同样也没有其他任何想去的地方…"},},
+        },
+        linkback = "block_00394",
+        linknext = "block_00396",
+        line = 886
+    },
+    block_00396 = {
+        {"ex", time=400, func="wait"},
+        --{"msgoff"}, 
+        --{"cgdel",id=-1},
+        --{"fg", mode=-2},
+        {"bg", id=1, lv=5, file="b", time=800, path=":bg/", sync=0},
+        {"ex", time=500, func="wait"},
+        -----se停止区域------
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        -------------,
+        {"msgoff"},
+        {"ex", time=1000, func="wait"},
+        -----声音全部关闭
+        {"se", stop=1, id=1, time=1000},
+        {"se", stop=1, id=2, time=1000},
+        {"se", stop=1, id=3, time=1000},
+        {"se", stop=1, id=4, time=1000},
+        ------------
+        {"bgm", stop=1, id=0, time=1000},
+        -------------
+        {"exreturn"},
+        {"text"},
+        linkback = "block_00395",
+        line = 888
+    },
+    label = {
+        z00 = { block="block_00000", label=2 },
+        z01 = { block="block_00000", label=46 },
+        top = { block="block_00000", label=1 },
+    },
+}
